@@ -1,0 +1,224 @@
+
+.netsec {
+    color: lime;
+}
+
+.nk {
+    color: red;
+}
+
+.agent {
+    color: orange;
+}
+
+.w3c {
+    color: magenta;
+}
+
+.paragon {
+    color: cyan;
+}
+
+[data-md-color-scheme="custom"] {
+  --md-primary-fg-color:               black;
+  --md-primary-fg-color--light:        black;
+  --md-primary-fg-color--dark:         black;
+  --md-primary-bg-color:               white;
+  --md-primary-bg-color--light:        white;
+
+  --md-accent-fg-color:                white;
+  --md-accent-fg-color--transparent:   black;
+  --md-accent-bg-color:                black;
+  --md-accent-bg-color--light:         black;
+
+  --md-default-fg-color:               white;
+  --md-default-fg-color--light:        white;
+  --md-default-fg-color--lighter:      white;
+  --md-default-fg-color--lightest:     black;
+  --md-default-bg-color:               black;
+  --md-default-bg-color--light:        black;
+  --md-default-bg-color--lighter:      black;
+  --md-default-bg-color--lightest:     black;
+
+  --md-code-fg-color:                  white;
+  --md-code-bg-color:                  black;
+
+  --md-typeset-color:                  white;
+  --md-typeset-a-color:                white;
+
+  --md-footer-fg-color:                white;
+  --md-footer-fg-color--light:         white;
+  --md-footer-fg-color--lighter:       white;
+  --md-footer-bg-color:                black;
+  --md-footer-bg-color--dark:          black;
+}
+
+[data-md-color-scheme="netsec"] {
+  --md-primary-fg-color:               black;
+  --md-primary-fg-color--light:        black;
+  --md-primary-fg-color--dark:         black;
+  --md-primary-bg-color:               lime;
+  --md-primary-bg-color--light:        lime;
+
+  --md-accent-fg-color:                lime;
+  --md-accent-fg-color--transparent:   black;
+  --md-accent-bg-color:                black;
+  --md-accent-bg-color--light:         black;
+
+  --md-default-fg-color:               lime;
+  --md-default-fg-color--light:        lime;
+  --md-default-fg-color--lighter:      lime;
+  --md-default-fg-color--lightest:     black;
+  --md-default-bg-color:               black;
+  --md-default-bg-color--light:        black;
+  --md-default-bg-color--lighter:      black;
+  --md-default-bg-color--lightest:     black;
+
+  --md-code-fg-color:                  lime;
+  --md-code-bg-color:                  black;
+
+  --md-typeset-color:                  lime;
+  --md-typeset-a-color:                lime;
+
+  --md-footer-fg-color:                lime;
+  --md-footer-fg-color--light:         lime;
+  --md-footer-fg-color--lighter:       lime;
+  --md-footer-bg-color:                black;
+  --md-footer-bg-color--dark:          black;
+}
+
+[data-md-color-scheme="nk"] {
+  --md-primary-fg-color:               black;
+  --md-primary-fg-color--light:        black;
+  --md-primary-fg-color--dark:         black;
+  --md-primary-bg-color:               red;
+  --md-primary-bg-color--light:        red;
+
+  --md-accent-fg-color:                red;
+  --md-accent-fg-color--transparent:   black;
+  --md-accent-bg-color:                black;
+  --md-accent-bg-color--light:         black;
+
+  --md-default-fg-color:               red;
+  --md-default-fg-color--light:        red;
+  --md-default-fg-color--lighter:      red;
+  --md-default-fg-color--lightest:     black;
+  --md-default-bg-color:               black;
+  --md-default-bg-color--light:        black;
+  --md-default-bg-color--lighter:      black;
+  --md-default-bg-color--lightest:     black;
+
+  --md-code-fg-color:                  red;
+  --md-code-bg-color:                  black;
+
+  --md-typeset-color:                  red;
+  --md-typeset-a-color:                red;
+
+  --md-footer-fg-color:                red;
+  --md-footer-fg-color--light:         red;
+  --md-footer-fg-color--lighter:       red;
+  --md-footer-bg-color:                black;
+  --md-footer-bg-color--dark:          black;
+}
+
+[data-md-color-scheme="agent"] {
+  --md-primary-fg-color:               black;
+  --md-primary-fg-color--light:        black;
+  --md-primary-fg-color--dark:         black;
+  --md-primary-bg-color:               orange;
+  --md-primary-bg-color--light:        orange;
+
+  --md-accent-fg-color:                orange;
+  --md-accent-fg-color--transparent:   black;
+  --md-accent-bg-color:                black;
+  --md-accent-bg-color--light:         black;
+
+  --md-default-fg-color:               orange;
+  --md-default-fg-color--light:        orange;
+  --md-default-fg-color--lighter:      orange;
+  --md-default-fg-color--lightest:     black;
+  --md-default-bg-color:               black;
+  --md-default-bg-color--light:        black;
+  --md-default-bg-color--lighter:      black;
+  --md-default-bg-color--lightest:     black;
+
+  --md-code-fg-color:                  orange;
+  --md-code-bg-color:                  black;
+
+  --md-typeset-color:                  orange;
+  --md-typeset-a-color:                orange;
+
+  --md-footer-fg-color:                orange;
+  --md-footer-fg-color--light:         orange;
+  --md-footer-fg-color--lighter:       orange;
+  --md-footer-bg-color:                black;
+  --md-footer-bg-color--dark:          black;
+}
+
+[data-md-color-scheme="w3c"] {
+  --md-primary-fg-color:               black;
+  --md-primary-fg-color--light:        black;
+  --md-primary-fg-color--dark:         black;
+  --md-primary-bg-color:               magenta;
+  --md-primary-bg-color--light:        magenta;
+
+  --md-accent-fg-color:                magenta;
+  --md-accent-fg-color--transparent:   black;
+  --md-accent-bg-color:                black;
+  --md-accent-bg-color--light:         black;
+
+  --md-default-fg-color:               magenta;
+  --md-default-fg-color--light:        magenta;
+  --md-default-fg-color--lighter:      magenta;
+  --md-default-fg-color--lightest:     black;
+  --md-default-bg-color:               black;
+  --md-default-bg-color--light:        black;
+  --md-default-bg-color--lighter:      black;
+  --md-default-bg-color--lightest:     black;
+
+  --md-code-fg-color:                  magenta;
+  --md-code-bg-color:                  black;
+
+  --md-typeset-color:                  magenta;
+  --md-typeset-a-color:                magenta;
+
+  --md-footer-fg-color:                magenta;
+  --md-footer-fg-color--light:         magenta;
+  --md-footer-fg-color--lighter:       magenta;
+  --md-footer-bg-color:                black;
+  --md-footer-bg-color--dark:          black;
+}
+
+[data-md-color-scheme="paragon"] {
+  --md-primary-fg-color:               black;
+  --md-primary-fg-color--light:        black;
+  --md-primary-fg-color--dark:         black;
+  --md-primary-bg-color:               cyan;
+  --md-primary-bg-color--light:        cyan;
+
+  --md-accent-fg-color:                cyan;
+  --md-accent-fg-color--transparent:   black;
+  --md-accent-bg-color:                black;
+  --md-accent-bg-color--light:         black;
+
+  --md-default-fg-color:               cyan;
+  --md-default-fg-color--light:        cyan;
+  --md-default-fg-color--lighter:      cyan;
+  --md-default-fg-color--lightest:     black;
+  --md-default-bg-color:               black;
+  --md-default-bg-color--light:        black;
+  --md-default-bg-color--lighter:      black;
+  --md-default-bg-color--lightest:     black;
+
+  --md-code-fg-color:                  cyan;
+  --md-code-bg-color:                  black;
+
+  --md-typeset-color:                  cyan;
+  --md-typeset-a-color:                cyan;
+
+  --md-footer-fg-color:                cyan;
+  --md-footer-fg-color--light:         cyan;
+  --md-footer-fg-color--lighter:       cyan;
+  --md-footer-bg-color:                black;
+  --md-footer-bg-color--dark:          black;
+}

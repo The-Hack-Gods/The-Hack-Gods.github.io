@@ -1,0 +1,45 @@
+
+- Any faction can have wiretap, alter logs, ISP, rollback, wipe, encrypt logs, frame, arrest, murder, 0-day, and more. No matter how “against” or “for” Netsec an ability is, the ability can be in any role. Be creative!
+- You can use disorganized murder, desperate measures, and any time gated ability from the first day.
+- Plea deal does NOT exist mechanically from Agents. Moles can spawn from day 1.
+- Almost every role has the ability to unskilled attack and/or hack, including field ops roles.
+- Hacking changes significantly, instead of winning on hack, Netsec or Agents can gain intel upon hacking specific nodes and/or layers. This will allow for both factions to dictate how they want to play, hack heavy or less hacking. Hacking target node grants intel instead of winning the game for Netsec
+- Download intel and other sources of intel can include:
+    - Subclass
+    - Faction
+    - 3 roles, 1 in play, 2 not in play
+    - Remaining number of a faction (e.g. number of Netsec remaining)
+    - An action that was done last day
+    - An action that was done last night
+    - The next layer that has intel
+    - A node that has intel
+    - Who hacked a node/layer
+    - Target node
+- Cameras on any role do NOT get seen by other roles with cameras.
+- Escort and Fake Escort can only select the same target every other day.
+- Cover Your Tracks leaves a notification that the target was unarrestable.
+- ISP/Jam Network can be used to block DDOS, rollbacks, and other abilities.
+- DDOS is globally announced again.
+- Review Connection Logs also makes you immune to Jam Network for tomorrow.
+- Impersonate allows you to rename your operative to allow for a 50% chance to target either operative. Troll Operative allows you to change another operative’s name.
+- Ask the Right Question gives the operative’s hack chance too.
+- Doxx works similarly to default Untrusted.
+- Every player is immune to every third general occupational ability (Midnight Meet, escort, interrogate, ISP/Jam, etc).
+- Review Specialization checks subclass.
+- Speech Analysis checks if operatives can win together.
+- For the Cause hunts moles.
+- Wiretap checks for vote power and whether a player is forced to vote another player.
+- Review TCP determines if you hacked or not.
+- Frame, cover, and ability pool can be selected by the player rather than forced randomly.
+- Voting can be silent, shown, or forced.
+- There are abilities that can use Broadcast that aren’t Operation Leader.
+- There are abilities to manually upload intel for others to download.
+- Frame will control the investigative results AND whether the operative can be killed or arrested. E.g. an Agent frame will make the operative be immune to arrests, and a Sociopath frame will make the operative have the Rent free passive.
+- Agents can be arrested when framed. Yep.
+- Only Journalist will know who tried to arrest them.
+- Root does not instantly lose or win the game. All roles may choose to become the faction specific Operation Leader or stay the same role with broadcast.
+- The Operation Leader may not be Netsec aligned. The Operation Leader slot may not spawn.
+- The Agent Leader is now an offensive subclass role. The Agent Leader slot may not spawn.
+- There are many other changes, but these are the critical ones.
+
+<br>
