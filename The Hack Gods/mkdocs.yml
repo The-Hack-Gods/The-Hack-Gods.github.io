@@ -24,13 +24,13 @@ nav:
     - Home: index.md
     - General Rules: rules/tips.md
     - Game Modes:
-      - Hack God: rules/hackgods.md
+      - Hack God: rules/hackgod.md
       - Hack God Leaders:
-        - Operation Leader: rules/hackgods/OperationLeader.md
+        - Operation Leader: rules/hackgod/OperationLeader.md
       - Interlooper: rules/interlooper.md
-      - Fed: rules/feds.md
+      - Fed: rules/fed.md
       - Fed Leaders:
-        - Blackmailed Leader: rules/feds/BlackmailedLeader.md
+        - Blackmailed Leader: rules/fed/BlackmailedLeader.md
     - Role List: rules/rolelist.md
     - Roles:
       - Hacker:
