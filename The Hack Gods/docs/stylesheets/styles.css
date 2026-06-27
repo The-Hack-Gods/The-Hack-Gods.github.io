@@ -1,5 +1,5 @@
 
-.netsec {
+.hackers {
     color: lime;
 }
 
@@ -7,7 +7,7 @@
     color: red;
 }
 
-.agent {
+.feds {
     color: orange;
 }
 
@@ -53,7 +53,7 @@
   --md-footer-bg-color--dark:          black;
 }
 
-[data-md-color-scheme="netsec"] {
+[data-md-color-scheme="hackers"] {
   --md-primary-fg-color:               black;
   --md-primary-fg-color--light:        black;
   --md-primary-fg-color--dark:         black;
@@ -121,7 +121,7 @@
   --md-footer-bg-color--dark:          black;
 }
 
-[data-md-color-scheme="agent"] {
+[data-md-color-scheme="feds"] {
   --md-primary-fg-color:               black;
   --md-primary-fg-color--light:        black;
   --md-primary-fg-color--dark:         black;

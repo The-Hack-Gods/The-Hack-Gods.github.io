@@ -1,0 +1,3857 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../tips/">
+      
+      
+        <link rel="next" href="../../rolelist/interlooper/nk/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.6">
+    
+    
+      
+        <title>Role List - Opsec C</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.484c7ddc.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Courier+New:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Courier New";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/styles.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="custom" data-md-color-primary="custom" data-md-color-accent="custom">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Opsec C" class="md-header__button md-logo" aria-label="Opsec C" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Opsec C
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Role List
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+    
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Opsec C" class="md-nav__button md-logo" aria-label="Opsec C" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Opsec C
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../tips/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    General Rules
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Game Modes
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Game Modes
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../hackgods.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Hack God
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_2" id="__nav_3_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Hack God Leaders
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Hack God Leaders
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../hackgods/OperationLeader.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Operation Leader
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../interlooper.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Interlooper
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../feds.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Fed
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_5" id="__nav_3_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Fed Leaders
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Fed Leaders
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../feds/BlackmailedLeader.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Blackmailed Leader
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Role List
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Roles
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Roles
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_1" id="__nav_5_1_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Hacker
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_1">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Hacker
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/hacker/Hacker.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Hacker
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_1_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_1_2" id="__nav_5_1_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Hacker Field Operations
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_5_1_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_1_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Hacker Field Operations
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/hacker/HackerFieldOps/Enforcer.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Enforcer
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/hacker/HackerFieldOps/CCTVSpecialist.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    CCTV Specialist
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/hacker/HackerFieldOps/RookieHacker.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Rookie Hacker
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/hacker/HackerFieldOps/ImprovisedHacker.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Improvised Hacker
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/hacker/HackerFieldOps/InsideManSecurityGuard.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Inside Man (Security Guard)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_1_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_1_3" id="__nav_5_1_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Hacker Investigative
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_5_1_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_1_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Hacker Investigative
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/hacker/HackerInvest/Analyst.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Analyst
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/hacker/HackerInvest/SocialEngineer.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Social Engineer
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/hacker/HackerInvest/ComputerTechnician.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Computer Technician
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/hacker/HackerInvest/InsideManDetective.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Inside Man (Detective)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/hacker/HackerInvest/DarkWebContact.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Dark Web Contact
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/hacker/HackerInvest/NaturalLinguist.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Natural Linguist
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_1_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_1_4" id="__nav_5_1_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Hacker Offensive
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_5_1_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_1_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Hacker Offensive
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/hacker/HackerOffensive/NetworkSpecialist.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Network Specialist
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/hacker/HackerOffensive/Blackhat.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Blackhat
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/hacker/HackerOffensive/Prodigy.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Prodigy
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/hacker/HackerOffensive/NetworkArchitect.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Network Architect
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/hacker/HackerOffensive/InsideManSoftwareEngineer.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Inside Man (Software Engineer)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_1_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_1_5" id="__nav_5_1_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Hacker Utility
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_5_1_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_1_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Hacker Utility
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/hacker/HackerUtility/InsideManAssistant.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Inside Man (Assistant)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/hacker/HackerUtility/Spearphisher.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Spearphisher
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/hacker/HackerUtility/HackingInstructor.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Hacking Instructor
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/hacker/HackerUtility/LoanShark.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Loan Shark
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_1_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_1_6" id="__nav_5_1_6_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Hacker Social
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_5_1_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_1_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Hacker Social
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/hacker/HackerSocial/DisgracedLoyalist.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Disgraced Loyalist
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/hacker/HackerSocial/DoubleAgent.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Double Agent
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/hacker/HackerSocial/HackingAdvocate.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Hacking Advocate
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_2" id="__nav_5_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Interlooper
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Interlooper
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_2_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_2_1" id="__nav_5_2_1_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Interlooper
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_5_2_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_2_1">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Interlooper
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/interlooper/Interlooper.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Interlooper
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/interlooper/nk/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Interlooper Killing
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_2_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_2_2" id="__nav_5_2_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Interlooper Special
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_5_2_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_2_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Interlooper Special
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/interlooper/InterlooperSpecial/Sociopath.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Sociopath
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/interlooper/InterlooperSpecial/ResentfulCriminal.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Resentful Criminal
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_2_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_2_3" id="__nav_5_2_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Interlooper Field Operations
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_5_2_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_2_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Interlooper Field Operations
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/interlooper/InterlooperFieldOps/LooseCannon.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Loose Cannon
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/interlooper/InterlooperFieldOps/BountyHunter.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Bounty Hunter
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/interlooper/InterlooperFieldOps/CriminalFreelancer.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Criminal Freelancer
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_2_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_2_4" id="__nav_5_2_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Interlooper Investigative
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_5_2_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_2_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Interlooper Investigative
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/interlooper/InterlooperInvest/Journalist.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Journalist
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/interlooper/InterlooperInvest/DoubleCrosser.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Double Crosser
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/interlooper/InterlooperInvest/ShamedJournalist.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Shamed Journalist
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_2_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_2_5" id="__nav_5_2_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Interlooper Offensive
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_5_2_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_2_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Interlooper Offensive
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/interlooper/InterlooperOffensive/ScriptKiddie.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Script Kiddie
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/interlooper/InterlooperOffensive/PanickedBlabbermouth.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Panicked Blabbermouth
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/interlooper/InterlooperOffensive/RivalHacker.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Rival Hacker
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/interlooper/InterlooperOffensive/HacknetHacker.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Hacknet Hacker
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_2_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_2_6" id="__nav_5_2_6_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Interlooper Utility
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_5_2_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_2_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Interlooper Utility
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/interlooper/InterlooperUtility/WPPMember.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    W.P.P. Member
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/interlooper/InterlooperUtility/PoliticalCampaigner.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Political Campaigner
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_2_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_2_7" id="__nav_5_2_7_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Interlooper Social
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_5_2_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_2_7">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Interlooper Social
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/interlooper/InterlooperSocial/CorruptDetective.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Corrupt Detective
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/interlooper/InterlooperSocial/CorruptLawyer.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Corrupt Lawyer
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_2_8" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_2_8" id="__nav_5_2_8_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Interlooper Killing
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_5_2_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_2_8">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Interlooper Killing
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/interlooper/InterlooperKilling/RogueMastermind.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Rogue Mastermind
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/interlooper/InterlooperKilling/Psychopath.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Psychopath
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/interlooper/InterlooperKilling/Bombadier.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Bombardier
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/interlooper/InterlooperKilling/RogueAssassin.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Rogue Assassin
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_3" id="__nav_5_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Fed
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Fed
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/fed/Fed.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Fed
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_3_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_3_2" id="__nav_5_3_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Core Fed Special
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_5_3_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_3_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Core Fed Special
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/fed/CoreFedSpecial/RunawaySnitch.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Runaway Snitch
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_3_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_3_3" id="__nav_5_3_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Core Fed Field Operations
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_5_3_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_3_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Core Fed Field Operations
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/fed/CoreFedFieldOps/FieldFed.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Field Agent
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/fed/CoreFedFieldOps/DeterminedDeputy.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Determined Deputy
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_3_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_3_4" id="__nav_5_3_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Core Fed Investigative
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_5_3_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_3_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Core Fed Investigative
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/fed/CoreFedInvest/ForensicSpecialist.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Forensic Specialist
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/fed/CoreFedInvest/RookieInformant.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Rookie Informant
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_3_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_3_5" id="__nav_5_3_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Core Fed Offensive
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_5_3_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_3_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Core Fed Offensive
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/fed/CoreFedOffensive/AgentLeader.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Agent Leader
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/fed/CoreFedOffensive/CipherLord.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cipher Lord
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/fed/CoreFedOffensive/ExpertWhitehat.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Expert Whitehat
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_3_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_3_6" id="__nav_5_3_6_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Core Fed Utility
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_5_3_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_3_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Core Fed Utility
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/fed/CoreFedUtility/CommissaryOfficer.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Commissary Officer
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_3_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_3_7" id="__nav_5_3_7_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Core Fed Social
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_5_3_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_3_7">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Core Fed Social
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rolelist/fed/CoreFedSocial/DistrictAttorney.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    District Attorney
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+  <h1>Role List</h1>
+
+<ul>
+<li><span class="netsec">Netsec:<ul>
+<li><a href="../../rolelist/netsec/netsec"><span class="netsec">Netsec</a></li>
+<li><span class="netsec">Netsec Special:<ul>
+<li><a href="../../rolelist/netsec/NetsecSpecial/OperationLeader"><span class="netsec">Operation Leader</a></li>
+<li><a href="../../rolelist/netsec/NetsecSpecial/FormerAgentLeader"><span class="netsec">Former Agent Leader</a></li>
+<li><a href="../../rolelist/netsec/NetsecSpecial/HackGod"><span class="netsec">Hack God</a></li>
+<li><a href="../../rolelist/netsec/NetsecSpecial/InfamousCybercriminal"><span class="netsec">Infamous Cybercriminal</a></li>
+<li><a href="../../rolelist/netsec/NetsecSpecial/MajorityShareholder"><span class="netsec">Majority Shareholder</a></li>
+<li><a href="../../rolelist/netsec/NetsecSpecial/OldFriend"><span class="netsec">Old Friend</a></li>
+<li><a href="../../rolelist/netsec/NetsecSpecial/TechLead"><span class="netsec">Tech Lead</a></li>
+</ul>
+</li>
+<li><span class="netsec">Netsec Field Operations:<ul>
+<li><a href="../../rolelist/netsec/NetsecFieldOps/Enforcer"><span class="netsec">Enforcer</a></li>
+<li><a href="../../rolelist/netsec/NetsecFieldOps/CCTVSpecialist"><span class="netsec">CCTV Specialist</a></li>
+<li><a href="../../rolelist/netsec/NetsecFieldOps/RookieHacker"><span class="netsec">Rookie Hacker</a></li>
+<li><a href="../../rolelist/netsec/NetsecFieldOps/ImprovisedHacker"><span class="netsec">Improvised Hacker</a></li>
+<li><a href="../../rolelist/netsec/NetsecFieldOps/InsideManSecurityGuard"><span class="netsec">Inside Man (Security Guard)</a></li>
+<li><a href="../../rolelist/netsec/NetsecFieldOps/NightclubGuard"><span class="netsec">Nightclub Guard</a></li>
+<li><a href="../../rolelist/netsec/NetsecFieldOps/HardwareHacker"><span class="netsec">Hardware Hacker</a></li>
+<li><a href="../../rolelist/netsec/NetsecFieldOps/Entertainer"><span class="netsec">Entertainer</a></li>
+<li><a href="../../rolelist/netsec/NetsecFieldOps/GetawayDriver"><span class="netsec">Getaway Driver</a></li>
+<li><a href="../../rolelist/netsec/NetsecFieldOps/ArmsDealer"><span class="netsec">Arms Dealer</a></li>
+<li><a href="../../rolelist/netsec/NetsecFieldOps/DungeonMaster"><span class="netsec">Dungeon Master</a></li>
+</ul>
+</li>
+<li><span class="netsec">Netsec Investigative:<ul>
+<li><a href="../../rolelist/netsec/NetsecInvest/Analyst"><span class="netsec">Analyst</a></li>
+<li><a href="../../rolelist/netsec/NetsecInvest/SocialEngineer"><span class="netsec">Social Engineer</a></li>
+<li><a href="../../rolelist/netsec/NetsecInvest/ComputerTechnician"><span class="netsec">Computer Technician</a></li>
+<li><a href="../../rolelist/netsec/NetsecInvest/InsideManDetective"><span class="netsec">Inside Man (Detective)</a></li>
+<li><a href="../../rolelist/netsec/NetsecInvest/DarkWebContact"><span class="netsec">Dark Web Contact</a></li>
+<li><a href="../../rolelist/netsec/NetsecInvest/NaturalLinguist"><span class="netsec">Natural Linguist</a></li>
+<li><a href="../../rolelist/netsec/NetsecInvest/ComputerVisionEngineer"><span class="netsec">Computer Vision Engineer</a></li>
+<li><a href="../../rolelist/netsec/NetsecInvest/TechnicalProjectManager"><span class="netsec">Technical Project Manager</a></li>
+<li><a href="../../rolelist/netsec/NetsecInvest/SearchEngineOptimizer"><span class="netsec">Search Engine Optimizer</a></li>
+<li><a href="../../rolelist/netsec/NetsecInvest/AIGeneralist"><span class="netsec">AI Generalist</a></li>
+</ul>
+</li>
+<li><span class="netsec">Netsec Offensive:<ul>
+<li><a href="../../rolelist/netsec/NetsecOffensive/NetworkSpecialist"><span class="netsec">Network Specialist</a></li>
+<li><a href="../../rolelist/netsec/NetsecOffensive/Blackhat"><span class="netsec">Blackhat</a></li>
+<li><a href="../../rolelist/netsec/NetsecOffensive/Prodigy"><span class="netsec">Prodigy</a></li>
+<li><a href="../../rolelist/netsec/NetsecOffensive/LaptopSpecialist"><span class="netsec">Laptop Specialist</a></li>
+<li><a href="../../rolelist/netsec/NetsecOffensive/ServerSpecialist"><span class="netsec">Server Specialist</a></li>
+<li><a href="../../rolelist/netsec/NetsecOffensive/SteadfastStudent"><span class="netsec">Steadfast Student</a></li>
+<li><a href="../../rolelist/netsec/NetsecOffensive/NetworkArchitect"><span class="netsec">Network Architect</a></li>
+<li><a href="../../rolelist/netsec/NetsecOffensive/InsideManSoftwareEngineer"><span class="netsec">Inside Man (Software Engineer)</a></li>
+<li><a href="../../rolelist/netsec/NetsecOffensive/GraphTheorist"><span class="netsec">Graph Theorist</a></li>
+<li><a href="../../rolelist/netsec/NetsecOffensive/ReverseCryptographer"><span class="netsec">Reverse Cryptographer</a></li>
+</ul>
+</li>
+<li><span class="netsec">Netsec Utility:<ul>
+<li><a href="../../rolelist/netsec/NetsecUtility/InsideManAssistant"><span class="netsec">Inside Man (Assistant)</a></li>
+<li><a href="../../rolelist/netsec/NetsecUtility/Spearphisher"><span class="netsec">Spearphisher</a></li>
+<li><a href="../../rolelist/netsec/NetsecUtility/HackingInstructor"><span class="netsec">Hacking Instructor</a></li>
+<li><a href="../../rolelist/netsec/NetsecUtility/LoanShark"><span class="netsec">Loan Shark</a></li>
+<li><a href="../../rolelist/netsec/NetsecUtility/Propagandist"><span class="netsec">Propagandist</a></li>
+<li><a href="../../rolelist/netsec/NetsecUtility/MaintenanceMan"><span class="netsec">Maintenance Man</a></li>
+<li><a href="../../rolelist/netsec/NetsecUtility/MalwareProgrammer"><span class="netsec">Malware Programmer</a></li>
+<li><a href="../../rolelist/netsec/NetsecUtility/SympatheticReporter"><span class="netsec">Sympathetic Reporter</a></li>
+<li><a href="../../rolelist/netsec/NetsecUtility/DrugDealer"><span class="netsec">Drug Dealer</a></li>
+<li><a href="../../rolelist/netsec/NetsecUtility/CriminalCoroner"><span class="netsec">Criminal Coroner</a></li>
+</ul>
+</li>
+<li><span class="netsec">Netsec Social:<ul>
+<li><a href="../../rolelist/netsec/NetsecSocial/DisgracedLoyalist"><span class="netsec">Disgraced Loyalist</a></li>
+<li><a href="../../rolelist/netsec/NetsecSocial/DoubleAgent"><span class="netsec">Double Agent</a></li>
+<li><a href="../../rolelist/netsec/NetsecSocial/HackingAdvocate"><span class="netsec">Hacking Advocate</a></li>
+<li><a href="../../rolelist/netsec/NetsecSocial/TechnicalRecruiter"><span class="netsec">Technical Recruiter</a></li>
+<li><a href="../../rolelist/netsec/NetsecSocial/SilencedInvestigator"><span class="netsec">Silenced Investigator</a></li>
+<li><a href="../../rolelist/netsec/NetsecSocial/RadioOperator"><span class="netsec">Radio Operator</a></li>
+<li><a href="../../rolelist/netsec/NetsecSocial/RookieAssassin"><span class="netsec">Rookie Assassin</a></li>
+<li><a href="../../rolelist/netsec/NetsecSocial/SocialMediaManager"><span class="netsec">Social Media Manager</a></li>
+<li><a href="../../rolelist/netsec/NetsecSocial/NFTScammer"><span class="netsec">NFT Scammer</a></li>
+<li><a href="../../rolelist/netsec/NetsecSocial/VibeCoder"><span class="netsec">Vibe Coder</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Neutral:<ul>
+<li>Neutral:<ul>
+<li><a href="../../rolelist/neutral/neutral">Neutral</a></li>
+<li><a href="../../rolelist/neutral/nk">Neutral Killing</a></li>
+</ul>
+</li>
+<li>Neutral Special:<ul>
+<li><a href="../../rolelist/neutral/NeutralSpecial/NeutralLeader">Neutral Leader</a></li>
+<li><a href="../../rolelist/neutral/NeutralSpecial/GamblingLeader">Gambling Leader</a></li>
+<li><a href="../../rolelist/neutral/NeutralSpecial/CheeseburgerTechnician">Cheeseburger Technician</a></li>
+<li><a href="../../rolelist/neutral/NeutralSpecial/Sociopath">Sociopath</a></li>
+<li><a href="../../rolelist/neutral/NeutralSpecial/ResentfulCriminal">Resentful Criminal</a></li>
+<li><a href="../../rolelist/neutral/NeutralSpecial/TheEmployer">The Employer</a></li>
+</ul>
+</li>
+<li>Neutral Field Operations:<ul>
+<li><a href="../../rolelist/neutral/NeutralFieldOps/LooseCannon">Loose Cannon</a></li>
+<li><a href="../../rolelist/neutral/NeutralFieldOps/BountyHunter">Bounty Hunter</a></li>
+<li><a href="../../rolelist/neutral/NeutralFieldOps/CriminalFreelancer">Criminal Freelancer</a></li>
+<li><a href="../../rolelist/neutral/NeutralFieldOps/InsaneOfficer">Insane Officer</a></li>
+<li><a href="../../rolelist/neutral/NeutralFieldOps/FormerBodyguard">Former Bodyguard</a></li>
+<li><a href="../../rolelist/neutral/NeutralFieldOps/ContractedHeadhunter">Contracted Headhunter</a></li>
+</ul>
+</li>
+<li>Neutral Investigative:<ul>
+<li><a href="../../rolelist/neutral/NeutralInvest/Journalist">Journalist</a></li>
+<li><a href="../../rolelist/neutral/NeutralInvest/DoubleCrosser">Double Crosser</a></li>
+<li><a href="../../rolelist/neutral/NeutralInvest/ShamedJournalist">Shamed Journalist</a></li>
+<li><a href="../../rolelist/neutral/NeutralInvest/AmateurInvestigator">Amateur Investigator</a></li>
+<li><a href="../../rolelist/neutral/NeutralInvest/PrivateInvestigator">Private Investigator</a></li>
+<li><a href="../../rolelist/neutral/NeutralInvest/VengefulAssassin">Vengeful Assassin</a></li>
+</ul>
+</li>
+<li>Neutral Offensive:<ul>
+<li><a href="../../rolelist/neutral/NeutralOffensive/ScriptKiddie">Script Kiddie</a></li>
+<li><a href="../../rolelist/neutral/NeutralOffensive/PanickedBlabbermouth">Panicked Blabbermouth</a></li>
+<li><a href="../../rolelist/neutral/NeutralOffensive/RivalHacker">Rival Hacker</a></li>
+<li><a href="../../rolelist/neutral/NeutralOffensive/HacknetHacker">Hacknet Hacker</a></li>
+<li><a href="../../rolelist/neutral/NeutralOffensive/ConnectionSpecialist">Connection Specialist</a></li>
+<li><a href="../../rolelist/neutral/NeutralOffensive/DiscordManager">Discord Manager</a></li>
+<li><a href="../../rolelist/neutral/NeutralOffensive/NetworkShutdowner">Network Shutdowner</a></li>
+</ul>
+</li>
+<li>Neutral Utility:<ul>
+<li><a href="../../rolelist/neutral/NeutralUtility/WPPMember">W.P.P. Member</a></li>
+<li><a href="../../rolelist/neutral/NeutralUtility/InsaneDrugDealer">Insane Drug Dealer</a></li>
+<li><a href="../../rolelist/neutral/NeutralUtility/RetiredHacker">Retired Hacker</a></li>
+<li><a href="../../rolelist/neutral/NeutralUtility/DisconnectedParagonOperative">Disconnected Paragon Operative</a></li>
+<li><a href="../../rolelist/neutral/NeutralUtility/AbandonedAgent">Abandoned Agent</a></li>
+<li><a href="../../rolelist/neutral/NeutralUtility/PoliticalCampaigner">Political Campaigner</a></li>
+</ul>
+</li>
+<li>Neutral Social:<ul>
+<li><a href="../../rolelist/neutral/NeutralSocial/CorruptDetective">Corrupt Detective</a></li>
+<li><a href="../../rolelist/neutral/NeutralSocial/WaxmartManager">Waxmart Manager</a></li>
+<li><a href="../../rolelist/neutral/NeutralSocial/CorruptLawyer">Corrupt Lawyer</a></li>
+<li><a href="../../rolelist/neutral/NeutralSocial/ReminiscingAmnesiac">Reminiscing Amnesiac</a></li>
+<li><a href="../../rolelist/neutral/NeutralSocial/KingOfTrolls">King of Trolls</a></li>
+<li><a href="../../rolelist/neutral/NeutralSocial/Wildcard">Wildcard</a></li>
+<li><a href="../../rolelist/neutral/NeutralSocial/DrunkenAgent">Drunken Agent</a></li>
+</ul>
+</li>
+<li><span class="nk">Neutral Killing:<ul>
+<li><a href="../../rolelist/neutral/NeutralKilling/SociopathLeader"><span class="nk">Sociopath Leader</a></li>
+<li><a href="../../rolelist/neutral/NeutralKilling/RogueMastermind"><span class="nk">Rogue Mastermind</a></li>
+<li><a href="../../rolelist/neutral/NeutralKilling/FA18SuperHornetPilot"><span class="nk">F/A-18 Super Hornet Pilot</a></li>
+<li><a href="../../rolelist/neutral/NeutralKilling/Psychopath"><span class="nk">Psychopath</a></li>
+<li><a href="../../rolelist/neutral/NeutralKilling/Bombadier"><span class="nk">Bombardier</a></li>
+<li><a href="../../rolelist/neutral/NeutralKilling/RogueAssassin"><span class="nk">Rogue Assassin</a></li>
+<li><a href="../../rolelist/neutral/NeutralKilling/UndergroundRingFighter"><span class="nk">Underground Ring Fighter</a></li>
+<li><a href="../../rolelist/neutral/NeutralKilling/ItalianMafia"><span class="nk">Italian Mafia</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><span class="agent">Agent:<ul>
+<li><a href="../../rolelist/agent/agent"><span class="agent">Agent</a></li>
+<li><span class="agent">Core Agent Special:<ul>
+<li><a href="../../rolelist/agent/CoreAgentSpecial/BlackmailedLeader"><span class="agent">Blackmailed Leader</a></li>
+<li><a href="../../rolelist/agent/CoreAgentSpecial/RunawaySnitch"><span class="agent">Runaway Snitch</a></li>
+<li><a href="../../rolelist/agent/CoreAgentSpecial/FounderOfAgent"><span class="agent">Founder of Agent</a></li>
+</ul>
+</li>
+<li><span class="agent">Core Agent Field Operations:<ul>
+<li><a href="../../rolelist/agent/CoreAgentFieldOps/FieldAgent"><span class="agent">Field Agent</a></li>
+<li><a href="../../rolelist/agent/CoreAgentFieldOps/DeterminedDeputy"><span class="agent">Determined Deputy</a></li>
+<li><a href="../../rolelist/agent/CoreAgentFieldOps/PoliceChief"><span class="agent">Police Chief</a></li>
+<li><a href="../../rolelist/agent/CoreAgentFieldOps/K9Unit"><span class="agent">K-9 Unit</a></li>
+<li><a href="../../rolelist/agent/CoreAgentFieldOps/PoliceCarDriver"><span class="agent">Police Car Driver</a></li>
+<li><a href="../../rolelist/agent/CoreAgentFieldOps/IndependentContractor"><span class="agent">Independent Contractor</a></li>
+</ul>
+</li>
+<li><span class="agent">Core Agent Investigative:<ul>
+<li><a href="../../rolelist/agent/CoreAgentInvest/ForensicSpecialist"><span class="agent">Forensic Specialist</a></li>
+<li><a href="../../rolelist/agent/CoreAgentInvest/CybercrimeInvestigator"><span class="agent">Cybercrime Investigator</a></li>
+<li><a href="../../rolelist/agent/CoreAgentInvest/RookieInformant"><span class="agent">Rookie Informant</a></li>
+<li><a href="../../rolelist/agent/CoreAgentInvest/HelicopterOperator"><span class="agent">Helicopter Operator</a></li>
+<li><a href="../../rolelist/agent/CoreAgentInvest/NarcoticsOfficer"><span class="agent">Narcotics Officer</a></li>
+</ul>
+</li>
+<li><span class="agent">Core Agent Offensive:<ul>
+<li><a href="../../rolelist/agent/CoreAgentOffensive/AgentLeader"><span class="agent">Agent Leader</a></li>
+<li><a href="../../rolelist/agent/CoreAgentOffensive/CipherLord"><span class="agent">Cipher Lord</a></li>
+<li><a href="../../rolelist/agent/CoreAgentOffensive/DroneOperator"><span class="agent">Drone Operator</a></li>
+<li><a href="../../rolelist/agent/CoreAgentOffensive/Robocop"><span class="agent">Robocop</a></li>
+<li><a href="../../rolelist/agent/CoreAgentOffensive/ExpertWhitehat"><span class="agent">Expert Whitehat</a></li>
+</ul>
+</li>
+<li><span class="agent">Core Agent Utility:<ul>
+<li><a href="../../rolelist/agent/CoreAgentUtility/CriminalPsychologist"><span class="agent">Criminal Psychologist</a></li>
+<li><a href="../../rolelist/agent/CoreAgentUtility/CommissaryOfficer"><span class="agent">Commissary Officer</a></li>
+<li><a href="../../rolelist/agent/CoreAgentUtility/MasterManipulator"><span class="agent">Master Manipulator</a></li>
+<li><a href="../../rolelist/agent/CoreAgentUtility/JailWarden"><span class="agent">Jail Warden</a></li>
+<li><a href="../../rolelist/agent/CoreAgentUtility/AnimalTamer"><span class="agent">Animal Tamer</a></li>
+</ul>
+</li>
+<li><span class="agent">Core Agent Social:<ul>
+<li><a href="../../rolelist/agent/CoreAgentSocial/DistrictAttorney"><span class="agent">District Attorney</a></li>
+<li><a href="../../rolelist/agent/CoreAgentSocial/VigilanteDecipherer"><span class="agent">Vigilante Decipherer</a></li>
+<li><a href="../../rolelist/agent/CoreAgentSocial/ElusiveFramer"><span class="agent">Elusive Framer</a></li>
+<li><a href="../../rolelist/agent/CoreAgentSocial/PersuadedNewsReporter"><span class="agent">Persuaded News Reporter</a></li>
+</ul>
+</li>
+<li><span class="agent">Mole Agent Field Operations:<ul>
+<li><a href="../../rolelist/agent/MoleAgentFieldOps/AgentEnforcer"><span class="agent">Agent Enforcer</a></li>
+<li><a href="../../rolelist/agent/MoleAgentFieldOps/AgentCCTVSpecialist"><span class="agent">Agent CCTV Specialist</a></li>
+<li><a href="../../rolelist/agent/MoleAgentFieldOps/AgentHardwareHacker"><span class="agent">Agent Hardware Hacker</a></li>
+<li><a href="../../rolelist/agent/MoleAgentFieldOps/Specialist"><span class="agent">Specialist</a></li>
+</ul>
+</li>
+<li><span class="agent">Mole Agent Investigative:<ul>
+<li><a href="../../rolelist/agent/MoleAgentInvest/AgentDataScientist"><span class="agent">Agent Data Scientist</a></li>
+<li><a href="../../rolelist/agent/MoleAgentInvest/AgentSocialEngineer"><span class="agent">Agent Social Engineer</a></li>
+<li><a href="../../rolelist/agent/MoleAgentInvest/AgentEthicalHacker"><span class="agent">Agent Ethical Hacker</a></li>
+<li><a href="../../rolelist/agent/MoleAgentInvest/Initiator"><span class="agent">Initiator</a></li>
+</ul>
+</li>
+<li><span class="agent">Mole Agent Offensive:<ul>
+<li><a href="../../rolelist/agent/MoleAgentOffensive/AgentWhitehat"><span class="agent">Agent Whitehat</a></li>
+<li><a href="../../rolelist/agent/MoleAgentOffensive/AgentNetworkSpecialist"><span class="agent">Agent Network Specialist</a></li>
+<li><a href="../../rolelist/agent/MoleAgentOffensive/AgentNetworkArchitect"><span class="agent">Agent Network Architect</a></li>
+<li><a href="../../rolelist/agent/MoleAgentOffensive/AgentGraphTheorist"><span class="agent">Agent Graph Theorist</a></li>
+<li><a href="../../rolelist/agent/MoleAgentOffensive/Operator"><span class="agent">Operator</a></li>
+</ul>
+</li>
+<li><span class="agent">Mole Agent Utility:<ul>
+<li><a href="../../rolelist/agent/MoleAgentUtility/AgentCompanyMan"><span class="agent">Agent Company Man</a></li>
+<li><a href="../../rolelist/agent/MoleAgentUtility/AgentDatabaseManager"><span class="agent">Agent Database Manager</a></li>
+<li><a href="../../rolelist/agent/MoleAgentUtility/AgentPropagandist"><span class="agent">Agent Propagandist</a></li>
+</ul>
+</li>
+<li><span class="agent">Mole Agent Social:<ul>
+<li><a href="../../rolelist/agent/MoleAgentSocial/AgentAmateurInvestigator"><span class="agent">Agent Amateur Investigator</a></li>
+<li><a href="../../rolelist/agent/MoleAgentSocial/AgentTechnicalRecruiter"><span class="agent">Agent Technical Recruiter</a></li>
+<li><a href="../../rolelist/agent/MoleAgentSocial/AgentRepressedRefugee"><span class="agent">Agent Repressed Refugee</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><span class="w3c">W3C:<ul>
+<li><a href="../../rolelist/w3c/w3c"><span class="w3c">W3C</a></li>
+<li><span class="w3c">W3C Special:<ul>
+<li><a href="../../rolelist/w3c/W3CSpecial/W3COperationLeader"><span class="w3c">W3C Operation Leader</a></li>
+<li><a href="../../rolelist/w3c/W3CSpecial/W3CLeader"><span class="w3c">W3C Leader</a></li>
+</ul>
+</li>
+<li><span class="w3c">W3C Field Operations:<ul>
+<li><a href="../../rolelist/w3c/W3CFieldOps/W3CEnforcer"><span class="w3c">W3C Enforcer</a></li>
+<li><a href="../../rolelist/w3c/W3CFieldOps/W3CBlackmailer"><span class="w3c">W3C Blackmailer</a></li>
+</ul>
+</li>
+<li><span class="w3c">W3C Investigative:<ul>
+<li><a href="../../rolelist/w3c/W3CInvest/W3CStalker"><span class="w3c">W3C Stalker</a></li>
+<li><a href="../../rolelist/w3c/W3CInvest/W3CForger"><span class="w3c">W3C Forger</a></li>
+<li><a href="../../rolelist/w3c/W3CInvest/W3CAmbusher"><span class="w3c">W3C Ambusher</a></li>
+</ul>
+</li>
+<li><span class="w3c">W3C Offensive:<ul>
+<li><a href="../../rolelist/w3c/W3COffensive/W3CBlackhat"><span class="w3c">W3C Blackhat</a></li>
+<li><a href="../../rolelist/w3c/W3COffensive/W3CDisruptor"><span class="w3c">W3C Disruptor</a></li>
+<li><a href="../../rolelist/w3c/W3COffensive/W3CGraphTheorist"><span class="w3c">W3C Graph Theorist</a></li>
+</ul>
+</li>
+<li><span class="w3c">W3C Utility:<ul>
+<li><a href="../../rolelist/w3c/W3CUtility/W3CLabTechnician"><span class="w3c">W3C Lab Technician</a></li>
+<li><a href="../../rolelist/w3c/W3CUtility/W3CInsider"><span class="w3c">W3C Insider</a></li>
+<li><a href="../../rolelist/w3c/W3CUtility/W3CJanitor"><span class="w3c">W3C Janitor</a></li>
+</ul>
+</li>
+<li><span class="w3c">W3C Social:<ul>
+<li><a href="../../rolelist/w3c/W3CSocial/W3CTechnicalRecruiter"><span class="w3c">W3C Technical Recruiter</a></li>
+<li><a href="../../rolelist/w3c/W3CSocial/W3CAssassin"><span class="w3c">W3C Assassin</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><span class="paragon">Paragon:<ul>
+<li><a href="../../rolelist/paragon/paragon"><span class="paragon">Paragon</a></li>
+<li><span class="paragon">Paragon Special:<ul>
+<li><a href="../../rolelist/paragon/ParagonSpecial/ParagonOperationLeader"><span class="paragon">Paragon Operation Leader</a></li>
+<li><a href="../../rolelist/paragon/ParagonSpecial/ParagonLeader"><span class="paragon">Paragon Leader</a></li>
+</ul>
+</li>
+<li><span class="paragon">Paragon Field Operations:<ul>
+<li><a href="../../rolelist/paragon/ParagonFieldOps/ParagonExMercenary"><span class="paragon">Paragon Ex-Mercenary</a></li>
+<li><a href="../../rolelist/paragon/ParagonFieldOps/ParagonInfluencer"><span class="paragon">Paragon Influencer</a></li>
+</ul>
+</li>
+<li><span class="paragon">Paragon Investigative:<ul>
+<li><a href="../../rolelist/paragon/ParagonInvest/ParagonJournalist"><span class="paragon">Paragon Journalist</a></li>
+<li><a href="../../rolelist/paragon/ParagonInvest/ParagonInformant"><span class="paragon">Paragon Informant</a></li>
+<li><a href="../../rolelist/paragon/ParagonInvest/ParagonSearchEngineOptimizer"><span class="paragon">Paragon Search Engine Optimizer</a></li>
+</ul>
+</li>
+<li><span class="paragon">Paragon Offensive:<ul>
+<li><a href="../../rolelist/paragon/ParagonOffensive/ParagonProdigy"><span class="paragon">Paragon Prodigy</a></li>
+<li><a href="../../rolelist/paragon/ParagonOffensive/ParagonCryptographer"><span class="paragon">Paragon Cryptographer</a></li>
+</ul>
+</li>
+<li><span class="paragon">Paragon Utility:<ul>
+<li><a href="../../rolelist/paragon/ParagonUtility/ParagonSecuritySpecialist"><span class="paragon">Paragon Security Specialist</a></li>
+<li><a href="../../rolelist/paragon/ParagonUtility/ParagonScout"><span class="paragon">Paragon Scout</a></li>
+</ul>
+</li>
+<li><span class="paragon">Paragon Social:<ul>
+<li><a href="../../rolelist/paragon/ParagonSocial/ParagonHeadOfPersonnel"><span class="paragon">Paragon Head of Personnel</a></li>
+<li><a href="../../rolelist/paragon/ParagonSocial/ParagonExMole"><span class="paragon">Paragon Ex-Mole</a></li>
+<li><a href="../../rolelist/paragon/ParagonSocial/ParagonAssassin"><span class="paragon">Paragon Assassin</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": [], "search": "../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+        <script src="../../scripts/theme_changer.js"></script>
+      
+    
+  </body>
+</html>
