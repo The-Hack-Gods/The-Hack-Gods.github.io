@@ -107,9 +107,9 @@ nav:
           # - Interlooper Leader: rolelist/interlooper/InterlooperSpecial/InterlooperLeader.md
           # - Gambling Leader: rolelist/interlooper/InterlooperSpecial/GamblingLeader.md
           # - Cheeseburger Technician: rolelist/interlooper/InterlooperSpecial/CheeseburgerTechnician.md
+          # - The Employer: rolelist/interlooper/InterlooperSpecial/TheEmployer.md
           - Sociopath: rolelist/interlooper/InterlooperSpecial/Sociopath.md
           - Resentful Criminal: rolelist/interlooper/InterlooperSpecial/ResentfulCriminal.md
-          # - The Employer: rolelist/interlooper/InterlooperSpecial/TheEmployer.md
         - Interlooper Field Operations:
           - Loose Cannon: rolelist/interlooper/InterlooperFieldOps/LooseCannon.md
           - Bounty Hunter: rolelist/interlooper/InterlooperFieldOps/BountyHunter.md
@@ -148,11 +148,11 @@ nav:
           # - Wildcard: rolelist/interlooper/InterlooperSocial/Wildcard.md
           # - Drunken Agent: rolelist/interlooper/InterlooperSocial/DrunkenAgent.md
         - Interlooper Killing:
-          # - Sociopath Leader: rolelist/interlooper/InterlooperKilling/SociopathLeader.md
           - Rogue Mastermind: rolelist/interlooper/InterlooperKilling/RogueMastermind.md
           - Psychopath: rolelist/interlooper/InterlooperKilling/Psychopath.md
           - Bombardier: rolelist/interlooper/InterlooperKilling/Bombadier.md
           - Rogue Assassin: rolelist/interlooper/InterlooperKilling/RogueAssassin.md
+          # - Sociopath Leader: rolelist/interlooper/InterlooperKilling/SociopathLeader.md
           # - F/A-18 Super Hornet Pilot: rolelist/interlooper/InterlooperKilling/FA18SuperHornetPilot.md
           # - Underground Ring Fighter: rolelist/interlooper/InterlooperKilling/UndergroundRingFighter.md
           # - Italian Mafia: rolelist/interlooper/InterlooperKilling/ItalianMafia.md
@@ -160,8 +160,8 @@ nav:
         - Fed: rolelist/fed/fed.md
         - Fed Special:
           # - Blackmailed Leader: rolelist/fed/FedSpecial/BlackmailedLeader.md
-          - Runaway Snitch: rolelist/fed/FedSpecial/RunawaySnitch.md
           # - Founder of Agent: rolelist/fed/FedSpecial/FounderOfAgent.md
+          - Runaway Snitch: rolelist/fed/FedSpecial/RunawaySnitch.md
         - Fed Field Operations:
           - Field Agent: rolelist/fed/FedFieldOps/FieldFed.md
           - Determined Deputy: rolelist/fed/FedFieldOps/DeterminedDeputy.md
