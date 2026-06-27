@@ -24,9 +24,9 @@ nav:
     - Home: index.md
     - General Rules: rules/tips.md
     - Game Modes:
-      - Hack God: rules/hackgod.md
+      - Hack God: rules/hacker.md
       - Hack God Leaders:
-        - Operation Leader: rules/hackgod/OperationLeader.md
+        - Operation Leader: rules/hacker/OperationLeader.md
       - Interlooper: rules/interlooper.md
       - Fed: rules/fed.md
       - Fed Leaders:

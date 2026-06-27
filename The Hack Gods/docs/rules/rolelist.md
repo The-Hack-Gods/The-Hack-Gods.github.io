@@ -1,7 +1,7 @@
 - <span class="hacker">Hacker:
     - [<span class="hacker">Hacker](../../rolelist/hacker/Hacker)
     - <span class="hacker">Hacker Special:
-        <!--
+        {#
         - [<span class="hacker">Operation Leader](../../rolelist/hacker/HackerSpecial/OperationLeader)
         - [<span class="hacker">Former Agent Leader](../../rolelist/hacker/HackerSpecial/FormerAgentLeader)
         - [<span class="hacker">Hack God](../../rolelist/hacker/HackerSpecial/HackGod)
@@ -9,7 +9,7 @@
         - [<span class="hacker">Majority Shareholder](../../rolelist/hacker/HackerSpecial/MajorityShareholder)
         - [<span class="hacker">Old Friend](../../rolelist/hacker/HackerSpecial/OldFriend)
         - [<span class="hacker">Tech Lead](../../rolelist/hacker/HackerSpecial/TechLead)
-        -->
+        #}
     - <span class="hacker">Hacker Field Operations:
         - [<span class="hacker">Enforcer](../../rolelist/hacker/HackerFieldOps/Enforcer)
         - [<span class="hacker">CCTV Specialist](../../rolelist/hacker/HackerFieldOps/CCTVSpecialist)
