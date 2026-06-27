@@ -37,7 +37,7 @@ nav:
         - Hacker: rolelist/hacker/hacker.md
         # - Hacker Special:
         #   - Operation Leader: rolelist/hacker/HackerSpecial/OperationLeader.md
-        #   - Former Fed Leader: rolelist/hacker/HackerSpecial/FormerFedLeader.md
+        #   - Former Agent Leader: rolelist/hacker/HackerSpecial/FormerAgentLeader.md
         #   - Hack God: rolelist/hacker/HackerSpecial/HackGod.md
         #   - Infamous Cybercriminal: rolelist/hacker/HackerSpecial/InfamousCybercriminal.md
         #   - Majority Shareholder: rolelist/hacker/HackerSpecial/MajorityShareholder.md
@@ -121,7 +121,7 @@ nav:
           - Journalist: rolelist/interlooper/InterlooperInvest/Journalist.md
           - Double Crosser: rolelist/interlooper/InterlooperInvest/DoubleCrosser.md
           - Shamed Journalist: rolelist/interlooper/InterlooperInvest/ShamedJournalist.md
-          # - Amateur Investigator: rolelist/interlooper/InterlooperInvest/AmateurInvestigator.md
+          - Amateur Investigator: rolelist/interlooper/InterlooperInvest/AmateurInvestigator.md
           # - Private Investigator: rolelist/interlooper/InterlooperInvest/PrivateInvestigator.md
           # - Vengeful Assassin: rolelist/interlooper/InterlooperInvest/VengefulAssassin.md
         - Interlooper Offensive:
