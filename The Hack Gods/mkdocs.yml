@@ -34,7 +34,7 @@ nav:
     - Role List: rules/rolelist.md
     - Roles:
       - Hacker:
-        - Hacker: rolelist/hacker/Hacker.md
+        - Hacker: rolelist/hacker/hacker.md
         # - Hacker Special:
         #   - Operation Leader: rolelist/hacker/HackerSpecial/OperationLeader.md
         #   - Former Fed Leader: rolelist/hacker/HackerSpecial/FormerFedLeader.md
@@ -101,7 +101,7 @@ nav:
           # - Vibe Coder: rolelist/hacker/HackerSocial/VibeCoder.md
       - Interlooper:
         - Interlooper:
-          - Interlooper: rolelist/interlooper/Interlooper.md
+          - Interlooper: rolelist/interlooper/interlooper.md
           - Interlooper Killing: rolelist/interlooper/nk.md
         - Interlooper Special:
           # - Interlooper Leader: rolelist/interlooper/InterlooperSpecial/InterlooperLeader.md
@@ -157,41 +157,41 @@ nav:
           # - Underground Ring Fighter: rolelist/interlooper/InterlooperKilling/UndergroundRingFighter.md
           # - Italian Mafia: rolelist/interlooper/InterlooperKilling/ItalianMafia.md
       - Fed:
-        - Fed: rolelist/fed/Fed.md
-        - Core Fed Special:
-          # - Blackmailed Leader: rolelist/fed/CoreFedSpecial/BlackmailedLeader.md
-          - Runaway Snitch: rolelist/fed/CoreFedSpecial/RunawaySnitch.md
-          # - Founder of Agent: rolelist/fed/CoreFedSpecial/FounderOfAgent.md
-        - Core Fed Field Operations:
-          - Field Agent: rolelist/fed/CoreFedFieldOps/FieldFed.md
-          - Determined Deputy: rolelist/fed/CoreFedFieldOps/DeterminedDeputy.md
-          # - Police Chief: rolelist/fed/CoreFedFieldOps/PoliceChief.md
-          # - K-9 Unit: rolelist/fed/CoreFedFieldOps/K9Unit.md
-          # - Police Car Driver: rolelist/fed/CoreFedFieldOps/PoliceCarDriver.md
-          # - Independent Contractor: rolelist/fed/CoreFedFieldOps/IndependentContractor.md
-        - Core Fed Investigative:
-          - Forensic Specialist: rolelist/fed/CoreFedInvest/ForensicSpecialist.md
-          - Rookie Informant: rolelist/fed/CoreFedInvest/RookieInformant.md
-          # - Cybercrime Investigator: rolelist/fed/CoreFedInvest/CybercrimeInvestigator.md
-          # - Helicopter Operator: rolelist/fed/CoreFedInvest/HelicopterOperator.md
-          # - Narcotics Officer: rolelist/fed/CoreFedInvest/NarcoticsOfficer.md
-        - Core Fed Offensive:
-          - Agent Leader: rolelist/fed/CoreFedOffensive/AgentLeader.md
-          - Cipher Lord: rolelist/fed/CoreFedOffensive/CipherLord.md
-          - Expert Whitehat: rolelist/fed/CoreFedOffensive/ExpertWhitehat.md
-          # - Drone Operator: rolelist/fed/CoreFedOffensive/DroneOperator.md
-          # - Robocop: rolelist/fed/CoreFedOffensive/Robocop.md
-        - Core Fed Utility:
-          - Commissary Officer: rolelist/fed/CoreFedUtility/CommissaryOfficer.md
-        #   - Criminal Psychologist: rolelist/fed/CoreFedUtility/CriminalPsychologist.md
-        #   - Master Manipulator: rolelist/fed/CoreFedUtility/MasterManipulator.md
-        #   - Jail Warden: rolelist/fed/CoreFedUtility/JailWarden.md
-        #   - Animal Tamer: rolelist/fed/CoreFedUtility/AnimalTamer.md
-        - Core Fed Social:
-          - District Attorney: rolelist/fed/CoreFedSocial/DistrictAttorney.md
-          # - Vigilante Decipherer: rolelist/fed/CoreFedSocial/VigilanteDecipherer.md
-          # - Elusive Framer: rolelist/fed/CoreFedSocial/ElusiveFramer.md
-          # - Persuaded News Reporter: rolelist/fed/CoreFedSocial/PersuadedNewsReporter.md
+        - Fed: rolelist/fed/fed.md
+        - Fed Special:
+          # - Blackmailed Leader: rolelist/fed/FedSpecial/BlackmailedLeader.md
+          - Runaway Snitch: rolelist/fed/FedSpecial/RunawaySnitch.md
+          # - Founder of Agent: rolelist/fed/FedSpecial/FounderOfAgent.md
+        - Fed Field Operations:
+          - Field Agent: rolelist/fed/FedFieldOps/FieldFed.md
+          - Determined Deputy: rolelist/fed/FedFieldOps/DeterminedDeputy.md
+          # - Police Chief: rolelist/fed/FedFieldOps/PoliceChief.md
+          # - K-9 Unit: rolelist/fed/FedFieldOps/K9Unit.md
+          # - Police Car Driver: rolelist/fed/FedFieldOps/PoliceCarDriver.md
+          # - Independent Contractor: rolelist/fed/FedFieldOps/IndependentContractor.md
+        - Fed Investigative:
+          - Forensic Specialist: rolelist/fed/FedInvest/ForensicSpecialist.md
+          - Rookie Informant: rolelist/fed/FedInvest/RookieInformant.md
+          # - Cybercrime Investigator: rolelist/fed/FedInvest/CybercrimeInvestigator.md
+          # - Helicopter Operator: rolelist/fed/FedInvest/HelicopterOperator.md
+          # - Narcotics Officer: rolelist/fed/FedInvest/NarcoticsOfficer.md
+        - Fed Offensive:
+          - Agent Leader: rolelist/fed/FedOffensive/AgentLeader.md
+          - Cipher Lord: rolelist/fed/FedOffensive/CipherLord.md
+          - Expert Whitehat: rolelist/fed/FedOffensive/ExpertWhitehat.md
+          # - Drone Operator: rolelist/fed/FedOffensive/DroneOperator.md
+          # - Robocop: rolelist/fed/FedOffensive/Robocop.md
+        - Fed Utility:
+          - Commissary Officer: rolelist/fed/FedUtility/CommissaryOfficer.md
+        #   - Criminal Psychologist: rolelist/fed/FedUtility/CriminalPsychologist.md
+        #   - Master Manipulator: rolelist/fed/FedUtility/MasterManipulator.md
+        #   - Jail Warden: rolelist/fed/FedUtility/JailWarden.md
+        #   - Animal Tamer: rolelist/fed/FedUtility/AnimalTamer.md
+        - Fed Social:
+          - District Attorney: rolelist/fed/FedSocial/DistrictAttorney.md
+          # - Vigilante Decipherer: rolelist/fed/FedSocial/VigilanteDecipherer.md
+          # - Elusive Framer: rolelist/fed/FedSocial/ElusiveFramer.md
+          # - Persuaded News Reporter: rolelist/fed/FedSocial/PersuadedNewsReporter.md
         # - Mole Fed Field Operations:
         #   - Fed Enforcer: rolelist/fed/MoleFedFieldOps/FedEnforcer.md
         #   - Fed CCTV Specialist: rolelist/fed/MoleFedFieldOps/FedCCTVSpecialist.md
