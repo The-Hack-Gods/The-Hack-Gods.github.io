@@ -1,5 +1,5 @@
 
-.hackers {
+.hacker {
     color: lime;
 }
 
@@ -7,7 +7,7 @@
     color: red;
 }
 
-.feds {
+.fed {
     color: orange;
 }
 
@@ -53,7 +53,7 @@
   --md-footer-bg-color--dark:          black;
 }
 
-[data-md-color-scheme="hackers"] {
+[data-md-color-scheme="hacker"] {
   --md-primary-fg-color:               black;
   --md-primary-fg-color--light:        black;
   --md-primary-fg-color--dark:         black;
@@ -121,7 +121,7 @@
   --md-footer-bg-color--dark:          black;
 }
 
-[data-md-color-scheme="feds"] {
+[data-md-color-scheme="fed"] {
   --md-primary-fg-color:               black;
   --md-primary-fg-color--light:        black;
   --md-primary-fg-color--dark:         black;
