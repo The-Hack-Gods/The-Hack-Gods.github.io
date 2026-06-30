@@ -24,37 +24,42 @@ nav:
     - Home: index.md
     - General Rules: rules/tips.md
     - Game Modes:
-      - Hack God: rules/hacker.md
-      - Hack God Leaders:
-        - Operation Leader: rules/hacker/OperationLeader.md
-      - Interlooper: rules/interlooper.md
-      - Fed: rules/fed.md
+      - Hacker: rules/gamemodes/hacker.md
+      - Hacker Leaders:
+        - Operation Leader: rules/gamemodes/hacker/OperationLeader.md
+      - Interlooper: rules/gamemodes/interlooper.md
+      - Fed: rules/gamemodes/fed.md
       - Fed Leaders:
-        - Blackmailed Leader: rules/fed/BlackmailedLeader.md
-    - Role List: rules/rolelist.md
+        - Blackmailed Leader: rules/gamemodes/fed/BlackmailedLeader.md
+    - Role Lists:
+      - Simplified Role List: rules/rolelists/simplifiedrolelist.md
+      - Core Role List: rules/rolelists/corerolelist.md
+      - Full Role List: rules/rolelists/full3factrolelist.md
+      # - Full 3 Faction Role List: rules/rolelists/full3factrolelist.md
+      # - Full Role List: rules/rolelists/fullrolelist.md
     - Roles:
       - Hacker:
         - Hacker: rolelist/hacker/hacker.md
-        # - Hacker Special:
-        #   - Operation Leader: rolelist/hacker/HackerSpecial/OperationLeader.md
-        #   - Former Agent Leader: rolelist/hacker/HackerSpecial/FormerAgentLeader.md
-        #   - Hack God: rolelist/hacker/HackerSpecial/HackGod.md
-        #   - Infamous Cybercriminal: rolelist/hacker/HackerSpecial/InfamousCybercriminal.md
-        #   - Majority Shareholder: rolelist/hacker/HackerSpecial/MajorityShareholder.md
-        #   - Old Friend: rolelist/hacker/HackerSpecial/OldFriend.md
-        #   - Tech Lead: rolelist/hacker/HackerSpecial/TechLead.md
+        - Hacker Special:
+          - Operation Leader: rolelist/hacker/HackerSpecial/OperationLeader.md
+          - Former Agent Leader: rolelist/hacker/HackerSpecial/FormerAgentLeader.md
+          - Hack God: rolelist/hacker/HackerSpecial/HackGod.md
+          - Infamous Cybercriminal: rolelist/hacker/HackerSpecial/InfamousCybercriminal.md
+          - Majority Shareholder: rolelist/hacker/HackerSpecial/MajorityShareholder.md
+          - Old Friend: rolelist/hacker/HackerSpecial/OldFriend.md
+          - Tech Lead: rolelist/hacker/HackerSpecial/TechLead.md
         - Hacker Field Operations:
           - Enforcer: rolelist/hacker/HackerFieldOps/Enforcer.md
           - CCTV Specialist: rolelist/hacker/HackerFieldOps/CCTVSpecialist.md
           - Rookie Hacker: rolelist/hacker/HackerFieldOps/RookieHacker.md
           - Improvised Hacker: rolelist/hacker/HackerFieldOps/ImprovisedHacker.md
           - Inside Man (Security Guard): rolelist/hacker/HackerFieldOps/InsideManSecurityGuard.md
-          # - Nightclub Guard: rolelist/hacker/HackerFieldOps/NightclubGuard.md
-          # - Hardware Hacker: rolelist/hacker/HackerFieldOps/HardwareHacker.md
-          # - Entertainer: rolelist/hacker/HackerFieldOps/Entertainer.md
-          # - Getaway Driver: rolelist/hacker/HackerFieldOps/GetawayDriver.md
-          # - Arms Dealer: rolelist/hacker/HackerFieldOps/ArmsDealer.md
-          # - Dungeon Master: rolelist/hacker/HackerFieldOps/DungeonMaster.md
+          - Nightclub Guard: rolelist/hacker/HackerFieldOps/NightclubGuard.md
+          - Hardware Hacker: rolelist/hacker/HackerFieldOps/HardwareHacker.md
+          - Entertainer: rolelist/hacker/HackerFieldOps/Entertainer.md
+          - Getaway Driver: rolelist/hacker/HackerFieldOps/GetawayDriver.md
+          - Arms Dealer: rolelist/hacker/HackerFieldOps/ArmsDealer.md
+          - Dungeon Master: rolelist/hacker/HackerFieldOps/DungeonMaster.md
         - Hacker Investigative:
           - Analyst: rolelist/hacker/HackerInvest/Analyst.md
           - Social Engineer: rolelist/hacker/HackerInvest/SocialEngineer.md
@@ -62,160 +67,160 @@ nav:
           - Inside Man (Detective): rolelist/hacker/HackerInvest/InsideManDetective.md
           - Dark Web Contact: rolelist/hacker/HackerInvest/DarkWebContact.md
           - Natural Linguist: rolelist/hacker/HackerInvest/NaturalLinguist.md
-          # - Computer Vision Engineer: rolelist/hacker/HackerInvest/ComputerVisionEngineer.md
-          # - Technical Project Manager: rolelist/hacker/HackerInvest/TechnicalProjectManager.md
-          # - Search Engine Optimizer: rolelist/hacker/HackerInvest/SearchEngineOptimizer.md
-          # - AI Generalist: rolelist/hacker/HackerInvest/AIGeneralist.md
+          - Computer Vision Engineer: rolelist/hacker/HackerInvest/ComputerVisionEngineer.md
+          - Technical Project Manager: rolelist/hacker/HackerInvest/TechnicalProjectManager.md
+          - Search Engine Optimizer: rolelist/hacker/HackerInvest/SearchEngineOptimizer.md
+          - AI Generalist: rolelist/hacker/HackerInvest/AIGeneralist.md
         - Hacker Offensive:
           - Network Specialist: rolelist/hacker/HackerOffensive/NetworkSpecialist.md
           - Blackhat: rolelist/hacker/HackerOffensive/Blackhat.md
           - Prodigy: rolelist/hacker/HackerOffensive/Prodigy.md
           - Network Architect: rolelist/hacker/HackerOffensive/NetworkArchitect.md
           - Inside Man (Software Engineer): rolelist/hacker/HackerOffensive/InsideManSoftwareEngineer.md
-          # - Laptop Specialist: rolelist/hacker/HackerOffensive/LaptopSpecialist.md
-          # - Server Specialist: rolelist/hacker/HackerOffensive/ServerSpecialist.md
-          # - Steadfast Student: rolelist/hacker/HackerOffensive/SteadfastStudent.md
-          # - Graph Theorist: rolelist/hacker/HackerOffensive/GraphTheorist.md
-          # - Reverse Cryptographer: rolelist/hacker/HackerOffensive/ReverseCryptographer.md
+          - Laptop Specialist: rolelist/hacker/HackerOffensive/LaptopSpecialist.md
+          - Server Specialist: rolelist/hacker/HackerOffensive/ServerSpecialist.md
+          - Steadfast Student: rolelist/hacker/HackerOffensive/SteadfastStudent.md
+          - Graph Theorist: rolelist/hacker/HackerOffensive/GraphTheorist.md
+          - Reverse Cryptographer: rolelist/hacker/HackerOffensive/ReverseCryptographer.md
         - Hacker Utility:
           - Inside Man (Assistant): rolelist/hacker/HackerUtility/InsideManAssistant.md
           - Spearphisher: rolelist/hacker/HackerUtility/Spearphisher.md
           - Hacking Instructor: rolelist/hacker/HackerUtility/HackingInstructor.md
           - Loan Shark: rolelist/hacker/HackerUtility/LoanShark.md
-          # - Propagandist: rolelist/hacker/HackerUtility/Propagandist.md
-          # - Maintenance Man: rolelist/hacker/HackerUtility/MaintenanceMan.md
-          # - Malware Programmer: rolelist/hacker/HackerUtility/MalwareProgrammer.md
-          # - Sympathetic Reporter: rolelist/hacker/HackerUtility/SympatheticReporter.md
-          # - Drug Dealer: rolelist/hacker/HackerUtility/DrugDealer.md
-          # - Criminal Coroner: rolelist/hacker/HackerUtility/CriminalCoroner.md
+          - Propagandist: rolelist/hacker/HackerUtility/Propagandist.md
+          - Maintenance Man: rolelist/hacker/HackerUtility/MaintenanceMan.md
+          - Malware Programmer: rolelist/hacker/HackerUtility/MalwareProgrammer.md
+          - Sympathetic Reporter: rolelist/hacker/HackerUtility/SympatheticReporter.md
+          - Drug Dealer: rolelist/hacker/HackerUtility/DrugDealer.md
+          - Criminal Coroner: rolelist/hacker/HackerUtility/CriminalCoroner.md
         - Hacker Social:
           - Disgraced Loyalist: rolelist/hacker/HackerSocial/DisgracedLoyalist.md
           - Double Agent: rolelist/hacker/HackerSocial/DoubleAgent.md
           - Hacking Advocate: rolelist/hacker/HackerSocial/HackingAdvocate.md
-          # - Technical Recruiter: rolelist/hacker/HackerSocial/TechnicalRecruiter.md
-          # - Silenced Investigator: rolelist/hacker/HackerSocial/SilencedInvestigator.md
-          # - Radio Operator: rolelist/hacker/HackerSocial/RadioOperator.md
-          # - Rookie Assassin: rolelist/hacker/HackerSocial/RookieAssassin.md
-          # - Social Media Manager: rolelist/hacker/HackerSocial/SocialMediaManager.md
-          # - NFT Scammer: rolelist/hacker/HackerSocial/NFTScammer.md
-          # - Vibe Coder: rolelist/hacker/HackerSocial/VibeCoder.md
+          - Technical Recruiter: rolelist/hacker/HackerSocial/TechnicalRecruiter.md
+          - Silenced Investigator: rolelist/hacker/HackerSocial/SilencedInvestigator.md
+          - Radio Operator: rolelist/hacker/HackerSocial/RadioOperator.md
+          - Rookie Assassin: rolelist/hacker/HackerSocial/RookieAssassin.md
+          - Social Media Manager: rolelist/hacker/HackerSocial/SocialMediaManager.md
+          - NFT Scammer: rolelist/hacker/HackerSocial/NFTScammer.md
+          - Vibe Coder: rolelist/hacker/HackerSocial/VibeCoder.md
       - Interlooper:
         - Interlooper:
           - Interlooper: rolelist/interlooper/interlooper.md
           - Interlooper Killing: rolelist/interlooper/nk.md
         - Interlooper Special:
-          # - Interlooper Leader: rolelist/interlooper/InterlooperSpecial/InterlooperLeader.md
-          # - Gambling Leader: rolelist/interlooper/InterlooperSpecial/GamblingLeader.md
-          # - Cheeseburger Technician: rolelist/interlooper/InterlooperSpecial/CheeseburgerTechnician.md
-          # - The Employer: rolelist/interlooper/InterlooperSpecial/TheEmployer.md
+          - Interlooper Leader: rolelist/interlooper/InterlooperSpecial/InterlooperLeader.md
+          - Gambling Leader: rolelist/interlooper/InterlooperSpecial/GamblingLeader.md
+          - Cheeseburger Technician: rolelist/interlooper/InterlooperSpecial/CheeseburgerTechnician.md
+          - The Employer: rolelist/interlooper/InterlooperSpecial/TheEmployer.md
           - Sociopath: rolelist/interlooper/InterlooperSpecial/Sociopath.md
           - Resentful Criminal: rolelist/interlooper/InterlooperSpecial/ResentfulCriminal.md
         - Interlooper Field Operations:
           - Loose Cannon: rolelist/interlooper/InterlooperFieldOps/LooseCannon.md
           - Bounty Hunter: rolelist/interlooper/InterlooperFieldOps/BountyHunter.md
           - Criminal Freelancer: rolelist/interlooper/InterlooperFieldOps/CriminalFreelancer.md
-          # - Insane Officer: rolelist/interlooper/InterlooperFieldOps/InsaneOfficer.md
-          # - Former Bodyguard: rolelist/interlooper/InterlooperFieldOps/FormerBodyguard.md
-          # - Contracted Headhunter: rolelist/interlooper/InterlooperFieldOps/ContractedHeadhunter.md
+          - Insane Officer: rolelist/interlooper/InterlooperFieldOps/InsaneOfficer.md
+          - Former Bodyguard: rolelist/interlooper/InterlooperFieldOps/FormerBodyguard.md
+          - Contracted Headhunter: rolelist/interlooper/InterlooperFieldOps/ContractedHeadhunter.md
         - Interlooper Investigative:
           - Journalist: rolelist/interlooper/InterlooperInvest/Journalist.md
           - Double Crosser: rolelist/interlooper/InterlooperInvest/DoubleCrosser.md
           - Shamed Journalist: rolelist/interlooper/InterlooperInvest/ShamedJournalist.md
           - Amateur Investigator: rolelist/interlooper/InterlooperInvest/AmateurInvestigator.md
-          # - Private Investigator: rolelist/interlooper/InterlooperInvest/PrivateInvestigator.md
-          # - Vengeful Assassin: rolelist/interlooper/InterlooperInvest/VengefulAssassin.md
+          - Private Investigator: rolelist/interlooper/InterlooperInvest/PrivateInvestigator.md
+          - Vengeful Assassin: rolelist/interlooper/InterlooperInvest/VengefulAssassin.md
         - Interlooper Offensive:
           - Script Kiddie: rolelist/interlooper/InterlooperOffensive/ScriptKiddie.md
           - Panicked Blabbermouth: rolelist/interlooper/InterlooperOffensive/PanickedBlabbermouth.md
           - Rival Hacker: rolelist/interlooper/InterlooperOffensive/RivalHacker.md
           - Hacknet Hacker: rolelist/interlooper/InterlooperOffensive/HacknetHacker.md
-          # - Connection Specialist: rolelist/interlooper/InterlooperOffensive/ConnectionSpecialist.md
-          # - Discord Manager: rolelist/interlooper/InterlooperOffensive/DiscordManager.md
-          # - Network Shutdowner: rolelist/interlooper/InterlooperOffensive/NetworkShutdowner.md
+          - Connection Specialist: rolelist/interlooper/InterlooperOffensive/ConnectionSpecialist.md
+          - Discord Manager: rolelist/interlooper/InterlooperOffensive/DiscordManager.md
+          - Network Shutdowner: rolelist/interlooper/InterlooperOffensive/NetworkShutdowner.md
         - Interlooper Utility:
           - W.P.P. Member: rolelist/interlooper/InterlooperUtility/WPPMember.md
           - Political Campaigner: rolelist/interlooper/InterlooperUtility/PoliticalCampaigner.md
-          # - Abandoned Agent: rolelist/interlooper/InterlooperUtility/AbandonedAgent.md
-          # - Retired Hacker: rolelist/interlooper/InterlooperUtility/RetiredHacker.md
-          # - Insane Drug Dealer: rolelist/interlooper/InterlooperUtility/InsaneDrugDealer.md
-          # - Disconnected Paragon Operative: rolelist/interlooper/InterlooperUtility/DisconnectedParagonOperative.md
+          - Abandoned Agent: rolelist/interlooper/InterlooperUtility/AbandonedAgent.md
+          - Retired Hacker: rolelist/interlooper/InterlooperUtility/RetiredHacker.md
+          - Insane Drug Dealer: rolelist/interlooper/InterlooperUtility/InsaneDrugDealer.md
+          - Disconnected Paragon Operative: rolelist/interlooper/InterlooperUtility/DisconnectedParagonOperative.md
         - Interlooper Social:
           - Corrupt Detective: rolelist/interlooper/InterlooperSocial/CorruptDetective.md
           - Corrupt Lawyer: rolelist/interlooper/InterlooperSocial/CorruptLawyer.md
-          # - Waxmart Manager: rolelist/interlooper/InterlooperSocial/WaxmartManager.md
-          # - Reminiscing Amnesiac: rolelist/interlooper/InterlooperSocial/ReminiscingAmnesiac.md
-          # - King of Trolls: rolelist/interlooper/InterlooperSocial/KingOfTrolls.md
-          # - Wildcard: rolelist/interlooper/InterlooperSocial/Wildcard.md
-          # - Drunken Agent: rolelist/interlooper/InterlooperSocial/DrunkenAgent.md
+          - Waxmart Manager: rolelist/interlooper/InterlooperSocial/WaxmartManager.md
+          - Reminiscing Amnesiac: rolelist/interlooper/InterlooperSocial/ReminiscingAmnesiac.md
+          - King of Trolls: rolelist/interlooper/InterlooperSocial/KingOfTrolls.md
+          - Wildcard: rolelist/interlooper/InterlooperSocial/Wildcard.md
+          - Drunken Agent: rolelist/interlooper/InterlooperSocial/DrunkenAgent.md
         - Interlooper Killing:
+          - Sociopath Leader: rolelist/interlooper/InterlooperKilling/SociopathLeader.md
           - Rogue Mastermind: rolelist/interlooper/InterlooperKilling/RogueMastermind.md
           - Psychopath: rolelist/interlooper/InterlooperKilling/Psychopath.md
           - Bombardier: rolelist/interlooper/InterlooperKilling/Bombadier.md
           - Rogue Assassin: rolelist/interlooper/InterlooperKilling/RogueAssassin.md
-          # - Sociopath Leader: rolelist/interlooper/InterlooperKilling/SociopathLeader.md
-          # - F/A-18 Super Hornet Pilot: rolelist/interlooper/InterlooperKilling/FA18SuperHornetPilot.md
-          # - Underground Ring Fighter: rolelist/interlooper/InterlooperKilling/UndergroundRingFighter.md
-          # - Italian Mafia: rolelist/interlooper/InterlooperKilling/ItalianMafia.md
+          - F/A-18 Super Hornet Pilot: rolelist/interlooper/InterlooperKilling/FA18SuperHornetPilot.md
+          - Underground Ring Fighter: rolelist/interlooper/InterlooperKilling/UndergroundRingFighter.md
+          - Italian Mafia: rolelist/interlooper/InterlooperKilling/ItalianMafia.md
       - Fed:
         - Fed: rolelist/fed/fed.md
         - Fed Special:
-          # - Blackmailed Leader: rolelist/fed/FedSpecial/BlackmailedLeader.md
-          # - Founder of Agent: rolelist/fed/FedSpecial/FounderOfAgent.md
           - Runaway Snitch: rolelist/fed/FedSpecial/RunawaySnitch.md
+          - Blackmailed Leader: rolelist/fed/FedSpecial/BlackmailedLeader.md
+          - Founder of Agent: rolelist/fed/FedSpecial/FounderOfAgent.md
         - Fed Field Operations:
           - Field Agent: rolelist/fed/FedFieldOps/FieldFed.md
           - Determined Deputy: rolelist/fed/FedFieldOps/DeterminedDeputy.md
-          # - Police Chief: rolelist/fed/FedFieldOps/PoliceChief.md
-          # - K-9 Unit: rolelist/fed/FedFieldOps/K9Unit.md
-          # - Police Car Driver: rolelist/fed/FedFieldOps/PoliceCarDriver.md
-          # - Independent Contractor: rolelist/fed/FedFieldOps/IndependentContractor.md
+          - Police Chief: rolelist/fed/FedFieldOps/PoliceChief.md
+          - K-9 Unit: rolelist/fed/FedFieldOps/K9Unit.md
+          - Police Car Driver: rolelist/fed/FedFieldOps/PoliceCarDriver.md
+          - Independent Contractor: rolelist/fed/FedFieldOps/IndependentContractor.md
         - Fed Investigative:
           - Forensic Specialist: rolelist/fed/FedInvest/ForensicSpecialist.md
           - Rookie Informant: rolelist/fed/FedInvest/RookieInformant.md
-          # - Cybercrime Investigator: rolelist/fed/FedInvest/CybercrimeInvestigator.md
-          # - Helicopter Operator: rolelist/fed/FedInvest/HelicopterOperator.md
-          # - Narcotics Officer: rolelist/fed/FedInvest/NarcoticsOfficer.md
+          - Cybercrime Investigator: rolelist/fed/FedInvest/CybercrimeInvestigator.md
+          - Helicopter Operator: rolelist/fed/FedInvest/HelicopterOperator.md
+          - Narcotics Officer: rolelist/fed/FedInvest/NarcoticsOfficer.md
         - Fed Offensive:
           - Agent Leader: rolelist/fed/FedOffensive/AgentLeader.md
           - Cipher Lord: rolelist/fed/FedOffensive/CipherLord.md
           - Expert Whitehat: rolelist/fed/FedOffensive/ExpertWhitehat.md
-          # - Drone Operator: rolelist/fed/FedOffensive/DroneOperator.md
-          # - Robocop: rolelist/fed/FedOffensive/Robocop.md
+          - Drone Operator: rolelist/fed/FedOffensive/DroneOperator.md
+          - Robocop: rolelist/fed/FedOffensive/Robocop.md
         - Fed Utility:
           - Commissary Officer: rolelist/fed/FedUtility/CommissaryOfficer.md
-        #   - Criminal Psychologist: rolelist/fed/FedUtility/CriminalPsychologist.md
-        #   - Master Manipulator: rolelist/fed/FedUtility/MasterManipulator.md
-        #   - Jail Warden: rolelist/fed/FedUtility/JailWarden.md
-        #   - Animal Tamer: rolelist/fed/FedUtility/AnimalTamer.md
+          - Criminal Psychologist: rolelist/fed/FedUtility/CriminalPsychologist.md
+          - Master Manipulator: rolelist/fed/FedUtility/MasterManipulator.md
+          - Jail Warden: rolelist/fed/FedUtility/JailWarden.md
+          - Animal Tamer: rolelist/fed/FedUtility/AnimalTamer.md
         - Fed Social:
           - District Attorney: rolelist/fed/FedSocial/DistrictAttorney.md
-          # - Vigilante Decipherer: rolelist/fed/FedSocial/VigilanteDecipherer.md
-          # - Elusive Framer: rolelist/fed/FedSocial/ElusiveFramer.md
-          # - Persuaded News Reporter: rolelist/fed/FedSocial/PersuadedNewsReporter.md
-        # - Mole Fed Field Operations:
-        #   - Fed Enforcer: rolelist/fed/MoleFedFieldOps/FedEnforcer.md
-        #   - Fed CCTV Specialist: rolelist/fed/MoleFedFieldOps/FedCCTVSpecialist.md
-        #   - Fed Hardware Hacker: rolelist/fed/MoleFedFieldOps/FedHardwareHacker.md
-        #   - Specialist: rolelist/fed/MoleFedFieldOps/Specialist.md
-        # - Mole Fed Investigative:
-        #   - Fed Data Scientist: rolelist/fed/MoleFedInvest/FedDataScientist.md
-        #   - Fed Social Engineer: rolelist/fed/MoleFedInvest/FedSocialEngineer.md
-        #   - Fed Ethical Hacker: rolelist/fed/MoleFedInvest/FedEthicalHacker.md
-        #   - Initiator: rolelist/fed/MoleFedInvest/Initiator.md
-        # - Mole Fed Offensive:
-        #   - Fed Whitehat: rolelist/fed/MoleFedOffensive/FedWhitehat.md
-        #   - Fed Network Specialist: rolelist/fed/MoleFedOffensive/FedNetworkSpecialist.md
-        #   - Fed Network Architect: rolelist/fed/MoleFedOffensive/FedNetworkArchitect.md
-        #   - Fed Graph Theorist: rolelist/fed/MoleFedOffensive/FedGraphTheorist.md
-        #   - Operator: rolelist/fed/MoleFedOffensive/Operator.md
-        # - Mole Fed Utility:
-        #   - Fed Company Man: rolelist/fed/MoleFedUtility/FedCompanyMan.md
-        #   - Fed Database Manager: rolelist/fed/MoleFedUtility/FedDatabaseManager.md
-        #   - Fed Propagandist: rolelist/fed/MoleFedUtility/FedPropagandist.md
-        # - Mole Fed Social:
-        #   - Fed Amateur Investigator: rolelist/fed/MoleFedSocial/FedAmateurInvestigator.md
-        #   - Fed Technical Recruiter: rolelist/fed/MoleFedSocial/FedTechnicalRecruiter.md
-        #   - Fed Repressed Refugee: rolelist/fed/MoleFedSocial/FedRepressedRefugee.md
+          - Vigilante Decipherer: rolelist/fed/FedSocial/VigilanteDecipherer.md
+          - Elusive Framer: rolelist/fed/FedSocial/ElusiveFramer.md
+          - Persuaded News Reporter: rolelist/fed/FedSocial/PersuadedNewsReporter.md
+        - Mole Fed Field Operations:
+          - Fed Enforcer: rolelist/fed/MoleFedFieldOps/FedEnforcer.md
+          - Fed CCTV Specialist: rolelist/fed/MoleFedFieldOps/FedCCTVSpecialist.md
+          - Fed Hardware Hacker: rolelist/fed/MoleFedFieldOps/FedHardwareHacker.md
+          - Specialist: rolelist/fed/MoleFedFieldOps/Specialist.md
+        - Mole Fed Investigative:
+          - Fed Data Scientist: rolelist/fed/MoleFedInvest/FedDataScientist.md
+          - Fed Social Engineer: rolelist/fed/MoleFedInvest/FedSocialEngineer.md
+          - Fed Ethical Hacker: rolelist/fed/MoleFedInvest/FedEthicalHacker.md
+          - Initiator: rolelist/fed/MoleFedInvest/Initiator.md
+        - Mole Fed Offensive:
+          - Fed Whitehat: rolelist/fed/MoleFedOffensive/FedWhitehat.md
+          - Fed Network Specialist: rolelist/fed/MoleFedOffensive/FedNetworkSpecialist.md
+          - Fed Network Architect: rolelist/fed/MoleFedOffensive/FedNetworkArchitect.md
+          - Fed Graph Theorist: rolelist/fed/MoleFedOffensive/FedGraphTheorist.md
+          - Operator: rolelist/fed/MoleFedOffensive/Operator.md
+        - Mole Fed Utility:
+          - Fed Company Man: rolelist/fed/MoleFedUtility/FedCompanyMan.md
+          - Fed Database Manager: rolelist/fed/MoleFedUtility/FedDatabaseManager.md
+          - Fed Propagandist: rolelist/fed/MoleFedUtility/FedPropagandist.md
+        - Mole Fed Social:
+          - Fed Amateur Investigator: rolelist/fed/MoleFedSocial/FedAmateurInvestigator.md
+          - Fed Technical Recruiter: rolelist/fed/MoleFedSocial/FedTechnicalRecruiter.md
+          - Fed Repressed Refugee: rolelist/fed/MoleFedSocial/FedRepressedRefugee.md
       # - W3C:
       #   - W3C: rolelist/w3c/w3c.md
       #   - W3C Special:
