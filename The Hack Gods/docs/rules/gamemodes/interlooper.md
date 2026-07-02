@@ -6,6 +6,8 @@
 <br>
 - Interloopers do not know everyone's claim, and not the whole node topology. They only know node health.
 <br>
+- Interloopers must figure out each operative's role using their action space.
+<br>
 - Interloopers don't care about the status of the Hackers or Feds unless that is part of their win condition. They simply must finish their objective and extract. Extraction allows to have one operative leave per night. As long as one operative is extracted after win condition is complete, you've won.
 <br>
 - For every action that can leak information, your operatives will slowly be leaked per hostile action. If too many hostile actions are done, an operative will be killed. This operative can be chosen. If all operatives die before your objective is finished, you lose.

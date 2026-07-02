@@ -4,7 +4,7 @@
 <br>
 - Each Hack God has a set of actions they can do.
 <br>
-- Hack Gods can also choose to execute one operative per night. If they execute wrongly enough times, they will be arrested.
+- Hack Gods can also choose to execute one operative per night.
 <br>
 - Hack Gods know everyone's claim and hack health, but not the whole node topology.
 <br>

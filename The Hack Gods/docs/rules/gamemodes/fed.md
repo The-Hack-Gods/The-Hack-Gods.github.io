@@ -4,5 +4,7 @@
 <br>
 - Feds do not know everyone's claim. However, they know node health and node topology.
 <br>
+- Feds must figure out each operative's role using their action space.
+<br>
 - For every action that can leak information, your operatives will slowly be leaked per hostile action. If too many hostile actions are done, an operative will be killed. This operative can be chosen. If all operatives die before your objective is finished, you lose.
 <br>

@@ -28,6 +28,9 @@ nav:
       - Hacker Leaders:
         - Operation Leader: rules/gamemodes/hacker/OperationLeader.md
       - Interlooper: rules/gamemodes/interlooper.md
+      - Interlooper Win Conditions:
+        - Journalist: rules/gamemodes/interlooper/Journalist.md
+        - Bounty Hunter: rules/gamemodes/interlooper/BountyHunter.md
       - Fed: rules/gamemodes/fed.md
       - Fed Leaders:
         - Blackmailed Leader: rules/gamemodes/fed/BlackmailedLeader.md
