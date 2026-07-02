@@ -1,11 +1,6 @@
 - <span class="hacker">Hacker:
     - [<span class="hacker">Hacker](../../rolelist/hacker/Hacker)
     - <span class="hacker">Hacker Special:
-        - [<span class="hacker">Operation Leader](../../rolelist/hacker/HackerSpecial/OperationLeader)
-        - [<span class="hacker">Former Agent Leader](../../rolelist/hacker/HackerSpecial/FormerAgentLeader)
-        - [<span class="hacker">Hack God](../../rolelist/hacker/HackerSpecial/HackGod)
-        - [<span class="hacker">Infamous Cybercriminal](../../rolelist/hacker/HackerSpecial/InfamousCybercriminal)
-        - [<span class="hacker">Majority Shareholder](../../rolelist/hacker/HackerSpecial/MajorityShareholder)
         - [<span class="hacker">Old Friend](../../rolelist/hacker/HackerSpecial/OldFriend)
         - [<span class="hacker">Tech Lead](../../rolelist/hacker/HackerSpecial/TechLead)
     - <span class="hacker">Hacker Field Operations:
@@ -67,11 +62,9 @@
 - Interlooper:
     - Interlooper:
         - [Interlooper](../../rolelist/interlooper/Interlooper)
-        - [Interlooper Killing](../../rolelist/interlooper/nk)
     - Interlooper Special:
         - [Sociopath](../../rolelist/interlooper/InterlooperSpecial/Sociopath)
         - [Resentful Criminal](../../rolelist/interlooper/InterlooperSpecial/ResentfulCriminal)
-        - [Interlooper Leader](../../rolelist/interlooper/InterlooperSpecial/InterlooperLeader)
         - [Gambling Leader](../../rolelist/interlooper/InterlooperSpecial/GamblingLeader)
         - [Cheeseburger Technician](../../rolelist/interlooper/InterlooperSpecial/CheeseburgerTechnician)
         - [The Employer](../../rolelist/interlooper/InterlooperSpecial/TheEmployer)
@@ -113,7 +106,6 @@
         - [Wildcard](../../rolelist/interlooper/InterlooperChaos/Wildcard)
         - [Drunken Agent](../../rolelist/interlooper/InterlooperChaos/DrunkenAgent)
     - <span class="nk">Interlooper Killing:
-        - [<span class="nk">Sociopath Leader](../../rolelist/interlooper/InterlooperKilling/SociopathLeader)
         - [<span class="nk">Rogue Mastermind](../../rolelist/interlooper/InterlooperKilling/RogueMastermind)
         - [<span class="nk">Psychopath](../../rolelist/interlooper/InterlooperKilling/Psychopath)
         - [<span class="nk">Bombardier](../../rolelist/interlooper/InterlooperKilling/Bombadier)
@@ -125,8 +117,6 @@
     - [<span class="fed">Fed](../../rolelist/fed/Fed)
     - <span class="fed">Fed Special:
         - [<span class="fed">Runaway Snitch](../../rolelist/fed/CoreFedSpecial/RunawaySnitch)
-        - [<span class="fed">Blackmailed Leader](../../rolelist/fed/CoreFedSpecial/BlackmailedLeader)
-        - [<span class="fed">Founder of Agent](../../rolelist/fed/CoreFedSpecial/FounderOfAgent)
     - <span class="fed">Fed Field Operations:
         - [<span class="fed">Field Agent](../../rolelist/fed/CoreFedFieldOps/FieldAgent)
         - [<span class="fed">Determined Deputy](../../rolelist/fed/CoreFedFieldOps/DeterminedDeputy)
@@ -184,8 +174,6 @@
 - <span class="w3c">W3C:
     - [<span class="w3c">W3C](../../rolelist/w3c/w3c)
         - <span class="w3c">W3C Special:
-            - [<span class="w3c">W3C Operation Leader](../../rolelist/w3c/W3CSpecial/W3COperationLeader)
-            - [<span class="w3c">W3C Leader](../../rolelist/w3c/W3CSpecial/W3CLeader)
         - <span class="w3c">W3C Field Operations:
             - [<span class="w3c">W3C Enforcer](../../rolelist/w3c/W3CFieldOps/W3CEnforcer)
             - [<span class="w3c">W3C Blackmailer](../../rolelist/w3c/W3CFieldOps/W3CBlackmailer)
@@ -207,8 +195,6 @@
 - <span class="paragon">Paragon:
     - [<span class="paragon">Paragon](../../rolelist/paragon/paragon)
         - <span class="paragon">Paragon Special:
-            - [<span class="paragon">Paragon Operation Leader](../../rolelist/paragon/ParagonSpecial/ParagonOperationLeader)
-            - [<span class="paragon">Paragon Leader](../../rolelist/paragon/ParagonSpecial/ParagonLeader)
         - <span class="paragon">Paragon Field Operations:
             - [<span class="paragon">Paragon Ex-Mercenary](../../rolelist/paragon/ParagonFieldOps/ParagonExMercenary)
             - [<span class="paragon">Paragon Influencer](../../rolelist/paragon/ParagonFieldOps/ParagonInfluencer)

@@ -27,13 +27,26 @@ nav:
       - Hacker: rules/gamemodes/hacker.md
       - Hacker Leaders:
         - Operation Leader: rules/gamemodes/hacker/OperationLeader.md
+        # - Former Agent Leader: rules/gamemodes/hacker/FormerAgentLeader.md
+        # - Hack God: rules/gamemodes/hacker/HackGod.md
+        # - Infamous Cybercriminal: rules/gamemodes/hacker/InfamousCybercriminal.md
+        # - Majority Shareholder: rules/gamemodes/hacker/MajorityShareholder.md
       - Interlooper: rules/gamemodes/interlooper.md
       - Interlooper Win Conditions:
-        - Journalist: rules/gamemodes/interlooper/Journalist.md
-        - Bounty Hunter: rules/gamemodes/interlooper/BountyHunter.md
+        # - Journalist: rules/gamemodes/interlooper/Journalist.md
+        - Investigator: rules/gamemodes/interlooper/Investigator.md
+        # - Assassin: rules/gamemodes/interlooper/Assassin.md
+        # - Serial Killer: rules/gamemodes/interlooper/SerialKiller.md
       - Fed: rules/gamemodes/fed.md
       - Fed Leaders:
         - Blackmailed Leader: rules/gamemodes/fed/BlackmailedLeader.md
+        # - Founder of Agent: rules/gamemodes/fed/FounderOfAgent.md
+      # - W3C: rules/gamemodes/w3c.md
+      # - W3C Leaders:
+      #   - W3C Leader: rules/gamemodes/fed/W3CLeader.md
+      # - Paragon: rules/gamemodes/paragon.md
+      # - Paragon Leaders:
+      #   - Paragon Leader: rules/gamemodes/fed/ParagonLeader.md
     - Role Lists:
       - Simplified Role List: rules/rolelists/simplifiedrolelist.md
       - Core Role List: rules/rolelists/corerolelist.md
@@ -44,11 +57,6 @@ nav:
       - Hacker:
         - Hacker: rolelist/hacker/hacker.md
         - Hacker Special:
-          - Operation Leader: rolelist/hacker/HackerSpecial/OperationLeader.md
-          - Former Agent Leader: rolelist/hacker/HackerSpecial/FormerAgentLeader.md
-          - Hack God: rolelist/hacker/HackerSpecial/HackGod.md
-          - Infamous Cybercriminal: rolelist/hacker/HackerSpecial/InfamousCybercriminal.md
-          - Majority Shareholder: rolelist/hacker/HackerSpecial/MajorityShareholder.md
           - Old Friend: rolelist/hacker/HackerSpecial/OldFriend.md
           - Tech Lead: rolelist/hacker/HackerSpecial/TechLead.md
         - Hacker Field Operations:
@@ -110,9 +118,7 @@ nav:
       - Interlooper:
         - Interlooper:
           - Interlooper: rolelist/interlooper/interlooper.md
-          - Interlooper Killing: rolelist/interlooper/nk.md
         - Interlooper Special:
-          - Interlooper Leader: rolelist/interlooper/InterlooperSpecial/InterlooperLeader.md
           - Gambling Leader: rolelist/interlooper/InterlooperSpecial/GamblingLeader.md
           - Cheeseburger Technician: rolelist/interlooper/InterlooperSpecial/CheeseburgerTechnician.md
           - The Employer: rolelist/interlooper/InterlooperSpecial/TheEmployer.md
@@ -156,7 +162,6 @@ nav:
           - Wildcard: rolelist/interlooper/InterlooperChaos/Wildcard.md
           - Drunken Agent: rolelist/interlooper/InterlooperChaos/DrunkenAgent.md
         - Interlooper Killing:
-          - Sociopath Leader: rolelist/interlooper/InterlooperKilling/SociopathLeader.md
           - Rogue Mastermind: rolelist/interlooper/InterlooperKilling/RogueMastermind.md
           - Psychopath: rolelist/interlooper/InterlooperKilling/Psychopath.md
           - Bombardier: rolelist/interlooper/InterlooperKilling/Bombadier.md
@@ -168,8 +173,6 @@ nav:
         - Fed: rolelist/fed/fed.md
         - Fed Special:
           - Runaway Snitch: rolelist/fed/FedSpecial/RunawaySnitch.md
-          - Blackmailed Leader: rolelist/fed/FedSpecial/BlackmailedLeader.md
-          - Founder of Agent: rolelist/fed/FedSpecial/FounderOfAgent.md
         - Fed Field Operations:
           - Field Agent: rolelist/fed/FedFieldOps/FieldFed.md
           - Determined Deputy: rolelist/fed/FedFieldOps/DeterminedDeputy.md
@@ -227,8 +230,6 @@ nav:
       # - W3C:
       #   - W3C: rolelist/w3c/w3c.md
       #   - W3C Special:
-      #     - W3C Operation Leader: rolelist/w3c/W3CSpecial/W3COperationLeader.md
-      #     - W3C Leader: rolelist/w3c/W3CSpecial/W3CLeader.md
       #   - W3C Field Operations:
       #     - W3C Enforcer: rolelist/w3c/W3CFieldOps/W3CEnforcer.md
       #     - W3C Blackmailer: rolelist/w3c/W3CFieldOps/W3CBlackmailer.md
@@ -250,8 +251,6 @@ nav:
       # - Paragon:
       #   - Paragon: rolelist/paragon/paragon.md
       #   - Paragon Special:
-      #     - Paragon Operation Leader: rolelist/paragon/ParagonSpecial/ParagonOperationLeader.md
-      #     - Paragon Leader: rolelist/paragon/ParagonSpecial/ParagonLeader.md
       #   - Paragon Field Operations:
       #     - Paragon Ex-Mercenary: rolelist/paragon/ParagonFieldOps/ParagonExMercenary.md
       #     - Paragon Influencer: rolelist/paragon/ParagonFieldOps/ParagonInfluencer.md

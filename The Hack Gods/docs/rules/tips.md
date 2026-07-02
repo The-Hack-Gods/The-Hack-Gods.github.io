@@ -28,3 +28,5 @@
 <br>
 - In order to hack a node, each operative must damage the node until it is hacked. Nodes have a health bar that must be hacked.
 <br>
+- Laptops have 5 HP, Servers have 10 HP, and Server Farms have 20 HP. Very Low deals 1 HP damage, Low deals 2 HP, Moderate deals 3 HP, High deals 4 HP, and Very High deals 5 HP.
+<br>

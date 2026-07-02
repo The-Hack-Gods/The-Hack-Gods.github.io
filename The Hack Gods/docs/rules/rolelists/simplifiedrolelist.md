@@ -28,7 +28,6 @@ There are no conversion actions possible in Simplified Role List.
 - Interlooper:
     - Interlooper:
         - [Interlooper](../../rolelist/interlooper/Interlooper)
-        - [Interlooper Killing](../../rolelist/interlooper/nk)
     - Interlooper Special:
         - [Sociopath](../../rolelist/interlooper/InterlooperSpecial/Sociopath)
         - [Resentful Criminal](../../rolelist/interlooper/InterlooperSpecial/ResentfulCriminal)

@@ -40,11 +40,9 @@
 - Interlooper:
     - Interlooper:
         - [Interlooper](../../rolelist/interlooper/Interlooper)
-        - [Interlooper Killing](../../rolelist/interlooper/nk)
     - Interlooper Special:
         - [Sociopath](../../rolelist/interlooper/InterlooperSpecial/Sociopath)
         - [Resentful Criminal](../../rolelist/interlooper/InterlooperSpecial/ResentfulCriminal)
-        - [Interlooper Leader](../../rolelist/interlooper/InterlooperSpecial/InterlooperLeader)
         - [The Employer](../../rolelist/interlooper/InterlooperSpecial/TheEmployer)
     - Interlooper Field Operations:
         - [Loose Cannon](../../rolelist/interlooper/InterlooperFieldOps/LooseCannon)
@@ -70,7 +68,6 @@
         - [Corrupt Lawyer](../../rolelist/interlooper/InterlooperChaos/CorruptLawyer)
         - [Reminiscing Amnesiac](../../rolelist/interlooper/InterlooperChaos/ReminiscingAmnesiac)
     - <span class="nk">Interlooper Killing:
-        - [<span class="nk">Sociopath Leader](../../rolelist/interlooper/InterlooperKilling/SociopathLeader)
         - [<span class="nk">Rogue Mastermind](../../rolelist/interlooper/InterlooperKilling/RogueMastermind)
         - [<span class="nk">Psychopath](../../rolelist/interlooper/InterlooperKilling/Psychopath)
         - [<span class="nk">Bombardier](../../rolelist/interlooper/InterlooperKilling/Bombadier)
@@ -79,8 +76,6 @@
     - [<span class="fed">Fed](../../rolelist/fed/Fed)
     - <span class="fed">Fed Special:
         - [<span class="fed">Runaway Snitch](../../rolelist/fed/CoreFedSpecial/RunawaySnitch)
-        - [<span class="fed">Blackmailed Leader](../../rolelist/fed/CoreFedSpecial/BlackmailedLeader)
-        - [<span class="fed">Founder of Agent](../../rolelist/fed/CoreFedSpecial/FounderOfAgent)
     - <span class="fed">Fed Field Operations:
         - [<span class="fed">Field Agent](../../rolelist/fed/CoreFedFieldOps/FieldAgent)
         - [<span class="fed">Determined Deputy](../../rolelist/fed/CoreFedFieldOps/DeterminedDeputy)
