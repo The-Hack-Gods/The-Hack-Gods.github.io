@@ -53,17 +53,17 @@
         - [<span class="hacker">Sympathetic Reporter](../../rolelist/hacker/HackerUtility/SympatheticReporter)
         - [<span class="hacker">Drug Dealer](../../rolelist/hacker/HackerUtility/DrugDealer)
         - [<span class="hacker">Criminal Coroner](../../rolelist/hacker/HackerUtility/CriminalCoroner)
-    - <span class="hacker">Hacker Social:
-        - [<span class="hacker">Disgraced Loyalist](../../rolelist/hacker/HackerSocial/DisgracedLoyalist)
-        - [<span class="hacker">Double Agent](../../rolelist/hacker/HackerSocial/DoubleAgent)
-        - [<span class="hacker">Hacking Advocate](../../rolelist/hacker/HackerSocial/HackingAdvocate)
-        - [<span class="hacker">Technical Recruiter](../../rolelist/hacker/HackerSocial/TechnicalRecruiter)
-        - [<span class="hacker">Silenced Investigator](../../rolelist/hacker/HackerSocial/SilencedInvestigator)
-        - [<span class="hacker">Radio Operator](../../rolelist/hacker/HackerSocial/RadioOperator)
-        - [<span class="hacker">Rookie Assassin](../../rolelist/hacker/HackerSocial/RookieAssassin)
-        - [<span class="hacker">Social Media Manager](../../rolelist/hacker/HackerSocial/SocialMediaManager)
-        - [<span class="hacker">NFT Scammer](../../rolelist/hacker/HackerSocial/NFTScammer)
-        - [<span class="hacker">Vibe Coder](../../rolelist/hacker/HackerSocial/VibeCoder)
+    - <span class="hacker">Hacker Chaos:
+        - [<span class="hacker">Disgraced Loyalist](../../rolelist/hacker/HackerChaos/DisgracedLoyalist)
+        - [<span class="hacker">Double Agent](../../rolelist/hacker/HackerChaos/DoubleAgent)
+        - [<span class="hacker">Hacking Advocate](../../rolelist/hacker/HackerChaos/HackingAdvocate)
+        - [<span class="hacker">Technical Recruiter](../../rolelist/hacker/HackerChaos/TechnicalRecruiter)
+        - [<span class="hacker">Silenced Investigator](../../rolelist/hacker/HackerChaos/SilencedInvestigator)
+        - [<span class="hacker">Radio Operator](../../rolelist/hacker/HackerChaos/RadioOperator)
+        - [<span class="hacker">Rookie Assassin](../../rolelist/hacker/HackerChaos/RookieAssassin)
+        - [<span class="hacker">Social Media Manager](../../rolelist/hacker/HackerChaos/SocialMediaManager)
+        - [<span class="hacker">NFT Scammer](../../rolelist/hacker/HackerChaos/NFTScammer)
+        - [<span class="hacker">Vibe Coder](../../rolelist/hacker/HackerChaos/VibeCoder)
 - Interlooper:
     - Interlooper:
         - [Interlooper](../../rolelist/interlooper/Interlooper)
@@ -104,14 +104,14 @@
         - [Retired Hacker](../../rolelist/interlooper/InterlooperUtility/RetiredHacker)
         - [Insane Drug Dealer](../../rolelist/interlooper/InterlooperUtility/InsaneDrugDealer)
         - [Disconnected Paragon Operative](../../rolelist/interlooper/InterlooperUtility/DisconnectedParagonOperative)
-    - Interlooper Social:
-        - [Corrupt Detective](../../rolelist/interlooper/InterlooperSocial/CorruptDetective)
-        - [Corrupt Lawyer](../../rolelist/interlooper/InterlooperSocial/CorruptLawyer)
-        - [Waxmart Manager](../../rolelist/interlooper/InterlooperSocial/WaxmartManager)
-        - [Reminiscing Amnesiac](../../rolelist/interlooper/InterlooperSocial/ReminiscingAmnesiac)
-        - [King of Trolls](../../rolelist/interlooper/InterlooperSocial/KingOfTrolls)
-        - [Wildcard](../../rolelist/interlooper/InterlooperSocial/Wildcard)
-        - [Drunken Agent](../../rolelist/interlooper/InterlooperSocial/DrunkenAgent)
+    - Interlooper Chaos:
+        - [Corrupt Detective](../../rolelist/interlooper/InterlooperChaos/CorruptDetective)
+        - [Corrupt Lawyer](../../rolelist/interlooper/InterlooperChaos/CorruptLawyer)
+        - [Waxmart Manager](../../rolelist/interlooper/InterlooperChaos/WaxmartManager)
+        - [Reminiscing Amnesiac](../../rolelist/interlooper/InterlooperChaos/ReminiscingAmnesiac)
+        - [King of Trolls](../../rolelist/interlooper/InterlooperChaos/KingOfTrolls)
+        - [Wildcard](../../rolelist/interlooper/InterlooperChaos/Wildcard)
+        - [Drunken Agent](../../rolelist/interlooper/InterlooperChaos/DrunkenAgent)
     - <span class="nk">Interlooper Killing:
         - [<span class="nk">Sociopath Leader](../../rolelist/interlooper/InterlooperKilling/SociopathLeader)
         - [<span class="nk">Rogue Mastermind](../../rolelist/interlooper/InterlooperKilling/RogueMastermind)
@@ -152,11 +152,11 @@
         - [<span class="fed">Master Manipulator](../../rolelist/fed/CoreFedUtility/MasterManipulator)
         - [<span class="fed">Jail Warden](../../rolelist/fed/CoreFedUtility/JailWarden)
         - [<span class="fed">Animal Tamer](../../rolelist/fed/CoreFedUtility/AnimalTamer)
-    - <span class="fed">Fed Social:
-        - [<span class="fed">District Attorney](../../rolelist/fed/CoreFedSocial/DistrictAttorney)
-        - [<span class="fed">Vigilante Decipherer](../../rolelist/fed/CoreFedSocial/VigilanteDecipherer)
-        - [<span class="fed">Elusive Framer](../../rolelist/fed/CoreFedSocial/ElusiveFramer)
-        - [<span class="fed">Persuaded News Reporter](../../rolelist/fed/CoreFedSocial/PersuadedNewsReporter)
+    - <span class="fed">Fed Chaos:
+        - [<span class="fed">District Attorney](../../rolelist/fed/CoreFedChaos/DistrictAttorney)
+        - [<span class="fed">Vigilante Decipherer](../../rolelist/fed/CoreFedChaos/VigilanteDecipherer)
+        - [<span class="fed">Elusive Framer](../../rolelist/fed/CoreFedChaos/ElusiveFramer)
+        - [<span class="fed">Persuaded News Reporter](../../rolelist/fed/CoreFedChaos/PersuadedNewsReporter)
     - <span class="fed">Mole Fed Field Operations:
         - [<span class="fed">Fed Enforcer](../../rolelist/fed/MoleFedFieldOps/FedEnforcer)
         - [<span class="fed">Fed CCTV Specialist](../../rolelist/fed/MoleFedFieldOps/FedCCTVSpecialist)
@@ -177,10 +177,10 @@
         - [<span class="fed">Fed Company Man](../../rolelist/fed/MoleFedUtility/FedCompanyMan)
         - [<span class="fed">Fed Database Manager](../../rolelist/fed/MoleFedUtility/FedDatabaseManager)
         - [<span class="fed">Fed Propagandist](../../rolelist/fed/MoleFedUtility/FedPropagandist)
-    - <span class="fed">Mole Fed Social:
-        - [<span class="fed">Fed Amateur Investigator](../../rolelist/fed/MoleFedSocial/FedAmateurInvestigator)
-        - [<span class="fed">Fed Technical Recruiter](../../rolelist/fed/MoleFedSocial/FedTechnicalRecruiter)
-        - [<span class="fed">Fed Repressed Refugee](../../rolelist/fed/MoleFedSocial/FedRepressedRefugee)
+    - <span class="fed">Mole Fed Chaos:
+        - [<span class="fed">Fed Amateur Investigator](../../rolelist/fed/MoleFedChaos/FedAmateurInvestigator)
+        - [<span class="fed">Fed Technical Recruiter](../../rolelist/fed/MoleFedChaos/FedTechnicalRecruiter)
+        - [<span class="fed">Fed Repressed Refugee](../../rolelist/fed/MoleFedChaos/FedRepressedRefugee)
 - <span class="w3c">W3C:
     - [<span class="w3c">W3C](../../rolelist/w3c/w3c)
         - <span class="w3c">W3C Special:
@@ -201,9 +201,9 @@
             - [<span class="w3c">W3C Lab Technician](../../rolelist/w3c/W3CUtility/W3CLabTechnician)
             - [<span class="w3c">W3C Insider](../../rolelist/w3c/W3CUtility/W3CInsider)
             - [<span class="w3c">W3C Janitor](../../rolelist/w3c/W3CUtility/W3CJanitor)
-        - <span class="w3c">W3C Social:
-            - [<span class="w3c">W3C Technical Recruiter](../../rolelist/w3c/W3CSocial/W3CTechnicalRecruiter)
-            - [<span class="w3c">W3C Assassin](../../rolelist/w3c/W3CSocial/W3CAssassin)
+        - <span class="w3c">W3C Chaos:
+            - [<span class="w3c">W3C Technical Recruiter](../../rolelist/w3c/W3CChaos/W3CTechnicalRecruiter)
+            - [<span class="w3c">W3C Assassin](../../rolelist/w3c/W3CChaos/W3CAssassin)
 - <span class="paragon">Paragon:
     - [<span class="paragon">Paragon](../../rolelist/paragon/paragon)
         - <span class="paragon">Paragon Special:
@@ -222,7 +222,7 @@
         - <span class="paragon">Paragon Utility:
             - [<span class="paragon">Paragon Security Specialist](../../rolelist/paragon/ParagonUtility/ParagonSecuritySpecialist)
             - [<span class="paragon">Paragon Scout](../../rolelist/paragon/ParagonUtility/ParagonScout)
-        - <span class="paragon">Paragon Social:
-            - [<span class="paragon">Paragon Head of Personnel](../../rolelist/paragon/ParagonSocial/ParagonHeadOfPersonnel)
-            - [<span class="paragon">Paragon Ex-Mole](../../rolelist/paragon/ParagonSocial/ParagonExMole)
-            - [<span class="paragon">Paragon Assassin](../../rolelist/paragon/ParagonSocial/ParagonAssassin)
+        - <span class="paragon">Paragon Chaos:
+            - [<span class="paragon">Paragon Head of Personnel](../../rolelist/paragon/ParagonChaos/ParagonHeadOfPersonnel)
+            - [<span class="paragon">Paragon Ex-Mole](../../rolelist/paragon/ParagonChaos/ParagonExMole)
+            - [<span class="paragon">Paragon Assassin](../../rolelist/paragon/ParagonChaos/ParagonAssassin)

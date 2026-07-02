@@ -1,3 +1,5 @@
+There are no conversion actions possible in Simplified Role List.
+
 - <span class="hacker">Hacker:
     - [<span class="hacker">Hacker](../../rolelist/hacker/Hacker)
     - <span class="hacker">Hacker Special:
@@ -19,10 +21,10 @@
         - [<span class="hacker">Inside Man (Assistant)](../../rolelist/hacker/HackerUtility/InsideManAssistant)
         - [<span class="hacker">Spearphisher](../../rolelist/hacker/HackerUtility/Spearphisher)
         - [<span class="hacker">Hacking Instructor](../../rolelist/hacker/HackerUtility/HackingInstructor)
-    - <span class="hacker">Hacker Social:
-        - [<span class="hacker">Double Agent](../../rolelist/hacker/HackerSocial/DoubleAgent)
-        - [<span class="hacker">Hacking Advocate](../../rolelist/hacker/HackerSocial/HackingAdvocate)
-        - [<span class="hacker">Technical Recruiter](../../rolelist/hacker/HackerSocial/TechnicalRecruiter)
+    - <span class="hacker">Hacker Chaos:
+        - [<span class="hacker">Double Agent](../../rolelist/hacker/HackerChaos/DoubleAgent)
+        - [<span class="hacker">Hacking Advocate](../../rolelist/hacker/HackerChaos/HackingAdvocate)
+        - [<span class="hacker">Technical Recruiter](../../rolelist/hacker/HackerChaos/TechnicalRecruiter)
 - Interlooper:
     - Interlooper:
         - [Interlooper](../../rolelist/interlooper/Interlooper)
@@ -43,9 +45,9 @@
     - Interlooper Utility:
         - [W.P.P. Member](../../rolelist/interlooper/InterlooperUtility/WPPMember)
         - [Political Campaigner](../../rolelist/interlooper/InterlooperUtility/PoliticalCampaigner)
-    - Interlooper Social:
-        - [Corrupt Detective](../../rolelist/interlooper/InterlooperSocial/CorruptDetective)
-        - [Corrupt Lawyer](../../rolelist/interlooper/InterlooperSocial/CorruptLawyer)
+    - Interlooper Chaos:
+        - [Corrupt Detective](../../rolelist/interlooper/InterlooperChaos/CorruptDetective)
+        - [Corrupt Lawyer](../../rolelist/interlooper/InterlooperChaos/CorruptLawyer)
     - <span class="nk">Interlooper Killing:
         - [<span class="nk">Sociopath Leader](../../rolelist/interlooper/InterlooperKilling/SociopathLeader)
         - [<span class="nk">Bombardier](../../rolelist/interlooper/InterlooperKilling/Bombadier)
@@ -66,5 +68,5 @@
         - [<span class="fed">Expert Whitehat](../../rolelist/fed/CoreFedOffensive/ExpertWhitehat)
     - <span class="fed">Fed Utility:
         - [<span class="fed">Commissary Officer](../../rolelist/fed/CoreFedUtility/CommissaryOfficer)
-    - <span class="fed">Fed Social:
-        - [<span class="fed">District Attorney](../../rolelist/fed/CoreFedSocial/DistrictAttorney)
+    - <span class="fed">Fed Chaos:
+        - [<span class="fed">District Attorney](../../rolelist/fed/CoreFedChaos/DistrictAttorney)

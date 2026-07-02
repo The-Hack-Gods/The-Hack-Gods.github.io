@@ -30,13 +30,13 @@
         - [<span class="hacker">Maintenance Man](../../rolelist/hacker/HackerUtility/MaintenanceMan)
         - [<span class="hacker">Malware Programmer](../../rolelist/hacker/HackerUtility/MalwareProgrammer)
         - [<span class="hacker">Sympathetic Reporter](../../rolelist/hacker/HackerUtility/SympatheticReporter)
-    - <span class="hacker">Hacker Social:
-        - [<span class="hacker">Disgraced Loyalist](../../rolelist/hacker/HackerSocial/DisgracedLoyalist)
-        - [<span class="hacker">Double Agent](../../rolelist/hacker/HackerSocial/DoubleAgent)
-        - [<span class="hacker">Hacking Advocate](../../rolelist/hacker/HackerSocial/HackingAdvocate)
-        - [<span class="hacker">Technical Recruiter](../../rolelist/hacker/HackerSocial/TechnicalRecruiter)
-        - [<span class="hacker">Silenced Investigator](../../rolelist/hacker/HackerSocial/SilencedInvestigator)
-        - [<span class="hacker">Radio Operator](../../rolelist/hacker/HackerSocial/RadioOperator)
+    - <span class="hacker">Hacker Chaos:
+        - [<span class="hacker">Disgraced Loyalist](../../rolelist/hacker/HackerChaos/DisgracedLoyalist)
+        - [<span class="hacker">Double Agent](../../rolelist/hacker/HackerChaos/DoubleAgent)
+        - [<span class="hacker">Hacking Advocate](../../rolelist/hacker/HackerChaos/HackingAdvocate)
+        - [<span class="hacker">Technical Recruiter](../../rolelist/hacker/HackerChaos/TechnicalRecruiter)
+        - [<span class="hacker">Silenced Investigator](../../rolelist/hacker/HackerChaos/SilencedInvestigator)
+        - [<span class="hacker">Radio Operator](../../rolelist/hacker/HackerChaos/RadioOperator)
 - Interlooper:
     - Interlooper:
         - [Interlooper](../../rolelist/interlooper/Interlooper)
@@ -65,10 +65,10 @@
         - [W.P.P. Member](../../rolelist/interlooper/InterlooperUtility/WPPMember)
         - [Political Campaigner](../../rolelist/interlooper/InterlooperUtility/PoliticalCampaigner)
         - [Retired Hacker](../../rolelist/interlooper/InterlooperUtility/RetiredHacker)
-    - Interlooper Social:
-        - [Corrupt Detective](../../rolelist/interlooper/InterlooperSocial/CorruptDetective)
-        - [Corrupt Lawyer](../../rolelist/interlooper/InterlooperSocial/CorruptLawyer)
-        - [Reminiscing Amnesiac](../../rolelist/interlooper/InterlooperSocial/ReminiscingAmnesiac)
+    - Interlooper Chaos:
+        - [Corrupt Detective](../../rolelist/interlooper/InterlooperChaos/CorruptDetective)
+        - [Corrupt Lawyer](../../rolelist/interlooper/InterlooperChaos/CorruptLawyer)
+        - [Reminiscing Amnesiac](../../rolelist/interlooper/InterlooperChaos/ReminiscingAmnesiac)
     - <span class="nk">Interlooper Killing:
         - [<span class="nk">Sociopath Leader](../../rolelist/interlooper/InterlooperKilling/SociopathLeader)
         - [<span class="nk">Rogue Mastermind](../../rolelist/interlooper/InterlooperKilling/RogueMastermind)
@@ -98,10 +98,10 @@
         - [<span class="fed">Commissary Officer](../../rolelist/fed/CoreFedUtility/CommissaryOfficer)
         - [<span class="fed">Master Manipulator](../../rolelist/fed/CoreFedUtility/MasterManipulator)
         - [<span class="fed">Jail Warden](../../rolelist/fed/CoreFedUtility/JailWarden)
-    - <span class="fed">Fed Social:
-        - [<span class="fed">District Attorney](../../rolelist/fed/CoreFedSocial/DistrictAttorney)
-        - [<span class="fed">Vigilante Decipherer](../../rolelist/fed/CoreFedSocial/VigilanteDecipherer)
-        - [<span class="fed">Persuaded News Reporter](../../rolelist/fed/CoreFedSocial/PersuadedNewsReporter)
+    - <span class="fed">Fed Chaos:
+        - [<span class="fed">District Attorney](../../rolelist/fed/CoreFedChaos/DistrictAttorney)
+        - [<span class="fed">Vigilante Decipherer](../../rolelist/fed/CoreFedChaos/VigilanteDecipherer)
+        - [<span class="fed">Persuaded News Reporter](../../rolelist/fed/CoreFedChaos/PersuadedNewsReporter)
     - <span class="fed">Mole Fed Field Operations:
         - [<span class="fed">Fed Enforcer](../../rolelist/fed/MoleFedFieldOps/FedEnforcer)
         - [<span class="fed">Fed CCTV Specialist](../../rolelist/fed/MoleFedFieldOps/FedCCTVSpecialist)
@@ -119,7 +119,7 @@
         - [<span class="fed">Fed Company Man](../../rolelist/fed/MoleFedUtility/FedCompanyMan)
         - [<span class="fed">Fed Database Manager](../../rolelist/fed/MoleFedUtility/FedDatabaseManager)
         - [<span class="fed">Fed Propagandist](../../rolelist/fed/MoleFedUtility/FedPropagandist)
-    - <span class="fed">Mole Fed Social:
-        - [<span class="fed">Fed Amateur Investigator](../../rolelist/fed/MoleFedSocial/FedAmateurInvestigator)
-        - [<span class="fed">Fed Technical Recruiter](../../rolelist/fed/MoleFedSocial/FedTechnicalRecruiter)
-        - [<span class="fed">Fed Repressed Refugee](../../rolelist/fed/MoleFedSocial/FedRepressedRefugee)
+    - <span class="fed">Mole Fed Chaos:
+        - [<span class="fed">Fed Amateur Investigator](../../rolelist/fed/MoleFedChaos/FedAmateurInvestigator)
+        - [<span class="fed">Fed Technical Recruiter](../../rolelist/fed/MoleFedChaos/FedTechnicalRecruiter)
+        - [<span class="fed">Fed Repressed Refugee](../../rolelist/fed/MoleFedChaos/FedRepressedRefugee)

@@ -93,17 +93,17 @@ nav:
           - Sympathetic Reporter: rolelist/hacker/HackerUtility/SympatheticReporter.md
           - Drug Dealer: rolelist/hacker/HackerUtility/DrugDealer.md
           - Criminal Coroner: rolelist/hacker/HackerUtility/CriminalCoroner.md
-        - Hacker Social:
-          - Disgraced Loyalist: rolelist/hacker/HackerSocial/DisgracedLoyalist.md
-          - Double Agent: rolelist/hacker/HackerSocial/DoubleAgent.md
-          - Hacking Advocate: rolelist/hacker/HackerSocial/HackingAdvocate.md
-          - Technical Recruiter: rolelist/hacker/HackerSocial/TechnicalRecruiter.md
-          - Silenced Investigator: rolelist/hacker/HackerSocial/SilencedInvestigator.md
-          - Radio Operator: rolelist/hacker/HackerSocial/RadioOperator.md
-          - Rookie Assassin: rolelist/hacker/HackerSocial/RookieAssassin.md
-          - Social Media Manager: rolelist/hacker/HackerSocial/SocialMediaManager.md
-          - NFT Scammer: rolelist/hacker/HackerSocial/NFTScammer.md
-          - Vibe Coder: rolelist/hacker/HackerSocial/VibeCoder.md
+        - Hacker Chaos:
+          - Disgraced Loyalist: rolelist/hacker/HackerChaos/DisgracedLoyalist.md
+          - Double Agent: rolelist/hacker/HackerChaos/DoubleAgent.md
+          - Hacking Advocate: rolelist/hacker/HackerChaos/HackingAdvocate.md
+          - Technical Recruiter: rolelist/hacker/HackerChaos/TechnicalRecruiter.md
+          - Silenced Investigator: rolelist/hacker/HackerChaos/SilencedInvestigator.md
+          - Radio Operator: rolelist/hacker/HackerChaos/RadioOperator.md
+          - Rookie Assassin: rolelist/hacker/HackerChaos/RookieAssassin.md
+          - Social Media Manager: rolelist/hacker/HackerChaos/SocialMediaManager.md
+          - NFT Scammer: rolelist/hacker/HackerChaos/NFTScammer.md
+          - Vibe Coder: rolelist/hacker/HackerChaos/VibeCoder.md
       - Interlooper:
         - Interlooper:
           - Interlooper: rolelist/interlooper/interlooper.md
@@ -144,14 +144,14 @@ nav:
           - Retired Hacker: rolelist/interlooper/InterlooperUtility/RetiredHacker.md
           - Insane Drug Dealer: rolelist/interlooper/InterlooperUtility/InsaneDrugDealer.md
           - Disconnected Paragon Operative: rolelist/interlooper/InterlooperUtility/DisconnectedParagonOperative.md
-        - Interlooper Social:
-          - Corrupt Detective: rolelist/interlooper/InterlooperSocial/CorruptDetective.md
-          - Corrupt Lawyer: rolelist/interlooper/InterlooperSocial/CorruptLawyer.md
-          - Waxmart Manager: rolelist/interlooper/InterlooperSocial/WaxmartManager.md
-          - Reminiscing Amnesiac: rolelist/interlooper/InterlooperSocial/ReminiscingAmnesiac.md
-          - King of Trolls: rolelist/interlooper/InterlooperSocial/KingOfTrolls.md
-          - Wildcard: rolelist/interlooper/InterlooperSocial/Wildcard.md
-          - Drunken Agent: rolelist/interlooper/InterlooperSocial/DrunkenAgent.md
+        - Interlooper Chaos:
+          - Corrupt Detective: rolelist/interlooper/InterlooperChaos/CorruptDetective.md
+          - Corrupt Lawyer: rolelist/interlooper/InterlooperChaos/CorruptLawyer.md
+          - Waxmart Manager: rolelist/interlooper/InterlooperChaos/WaxmartManager.md
+          - Reminiscing Amnesiac: rolelist/interlooper/InterlooperChaos/ReminiscingAmnesiac.md
+          - King of Trolls: rolelist/interlooper/InterlooperChaos/KingOfTrolls.md
+          - Wildcard: rolelist/interlooper/InterlooperChaos/Wildcard.md
+          - Drunken Agent: rolelist/interlooper/InterlooperChaos/DrunkenAgent.md
         - Interlooper Killing:
           - Sociopath Leader: rolelist/interlooper/InterlooperKilling/SociopathLeader.md
           - Rogue Mastermind: rolelist/interlooper/InterlooperKilling/RogueMastermind.md
@@ -192,11 +192,11 @@ nav:
           - Master Manipulator: rolelist/fed/FedUtility/MasterManipulator.md
           - Jail Warden: rolelist/fed/FedUtility/JailWarden.md
           - Animal Tamer: rolelist/fed/FedUtility/AnimalTamer.md
-        - Fed Social:
-          - District Attorney: rolelist/fed/FedSocial/DistrictAttorney.md
-          - Vigilante Decipherer: rolelist/fed/FedSocial/VigilanteDecipherer.md
-          - Elusive Framer: rolelist/fed/FedSocial/ElusiveFramer.md
-          - Persuaded News Reporter: rolelist/fed/FedSocial/PersuadedNewsReporter.md
+        - Fed Chaos:
+          - District Attorney: rolelist/fed/FedChaos/DistrictAttorney.md
+          - Vigilante Decipherer: rolelist/fed/FedChaos/VigilanteDecipherer.md
+          - Elusive Framer: rolelist/fed/FedChaos/ElusiveFramer.md
+          - Persuaded News Reporter: rolelist/fed/FedChaos/PersuadedNewsReporter.md
         - Mole Fed Field Operations:
           - Fed Enforcer: rolelist/fed/MoleFedFieldOps/FedEnforcer.md
           - Fed CCTV Specialist: rolelist/fed/MoleFedFieldOps/FedCCTVSpecialist.md
@@ -217,10 +217,10 @@ nav:
           - Fed Company Man: rolelist/fed/MoleFedUtility/FedCompanyMan.md
           - Fed Database Manager: rolelist/fed/MoleFedUtility/FedDatabaseManager.md
           - Fed Propagandist: rolelist/fed/MoleFedUtility/FedPropagandist.md
-        - Mole Fed Social:
-          - Fed Amateur Investigator: rolelist/fed/MoleFedSocial/FedAmateurInvestigator.md
-          - Fed Technical Recruiter: rolelist/fed/MoleFedSocial/FedTechnicalRecruiter.md
-          - Fed Repressed Refugee: rolelist/fed/MoleFedSocial/FedRepressedRefugee.md
+        - Mole Fed Chaos:
+          - Fed Amateur Investigator: rolelist/fed/MoleFedChaos/FedAmateurInvestigator.md
+          - Fed Technical Recruiter: rolelist/fed/MoleFedChaos/FedTechnicalRecruiter.md
+          - Fed Repressed Refugee: rolelist/fed/MoleFedChaos/FedRepressedRefugee.md
       # - W3C:
       #   - W3C: rolelist/w3c/w3c.md
       #   - W3C Special:
@@ -241,9 +241,9 @@ nav:
       #     - W3C Lab Technician: rolelist/w3c/W3CUtility/W3CLabTechnician.md
       #     - W3C Insider: rolelist/w3c/W3CUtility/W3CInsider.md
       #     - W3C Janitor: rolelist/w3c/W3CUtility/W3CJanitor.md
-      #   - W3C Social:
-      #     - W3C Technical Recruiter: rolelist/w3c/W3CSocial/W3CTechnicalRecruiter.md
-      #     - W3C Assassin: rolelist/w3c/W3CSocial/W3CAssassin.md
+      #   - W3C Chaos:
+      #     - W3C Technical Recruiter: rolelist/w3c/W3CChaos/W3CTechnicalRecruiter.md
+      #     - W3C Assassin: rolelist/w3c/W3CChaos/W3CAssassin.md
       # - Paragon:
       #   - Paragon: rolelist/paragon/paragon.md
       #   - Paragon Special:
@@ -262,7 +262,7 @@ nav:
       #   - Paragon Utility:
       #     - Paragon Security Specialist: rolelist/paragon/ParagonUtility/ParagonSecuritySpecialist.md
       #     - Paragon Scout: rolelist/paragon/ParagonUtility/ParagonScout.md
-      #   - Paragon Social:
-      #     - Paragon Head of Personnel: rolelist/paragon/ParagonSocial/ParagonHeadOfPersonnel.md
-      #     - Paragon Ex-Mole: rolelist/paragon/ParagonSocial/ParagonExMole.md
-      #     - Paragon Assassin: rolelist/paragon/ParagonSocial/ParagonAssassin.md
+      #   - Paragon Chaos:
+      #     - Paragon Head of Personnel: rolelist/paragon/ParagonChaos/ParagonHeadOfPersonnel.md
+      #     - Paragon Ex-Mole: rolelist/paragon/ParagonChaos/ParagonExMole.md
+      #     - Paragon Assassin: rolelist/paragon/ParagonChaos/ParagonAssassin.md
