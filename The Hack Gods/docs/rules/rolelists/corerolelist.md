@@ -1,5 +1,5 @@
 - <span class="hacker">Hacker:
-    - [<span class="hacker">Hacker](../../../rolelist/hacker/Hacker)
+    - [<span class="hacker">Hacker](../../../rolelist/hacker/hacker)
     - <span class="hacker">Hacker Special:
         - [<span class="hacker">Old Friend](../../../rolelist/hacker/HackerSpecial/OldFriend)
         - [<span class="hacker">Tech Lead](../../../rolelist/hacker/HackerSpecial/TechLead)
@@ -39,7 +39,7 @@
         - [<span class="hacker">Radio Operator](../../../rolelist/hacker/HackerChaos/RadioOperator)
 - Interlooper:
     - Interlooper:
-        - [Interlooper](../../../rolelist/interlooper/Interlooper)
+        - [Interlooper](../../../rolelist/interlooper/interlooper)
     - Interlooper Special:
         - [Sociopath](../../../rolelist/interlooper/InterlooperSpecial/Sociopath)
         - [Resentful Criminal](../../../rolelist/interlooper/InterlooperSpecial/ResentfulCriminal)
@@ -73,7 +73,7 @@
         - [<span class="nk">Bombardier](../../../rolelist/interlooper/InterlooperKilling/Bombadier)
         - [<span class="nk">Rogue Assassin](../../../rolelist/interlooper/InterlooperKilling/RogueAssassin)
 - <span class="fed">Fed:
-    - [<span class="fed">Fed](../../../rolelist/fed/Fed)
+    - [<span class="fed">Fed](../../../rolelist/fed/fed)
     - <span class="fed">Fed Special:
         - [<span class="fed">Runaway Snitch](../../../rolelist/fed/CoreFedSpecial/RunawaySnitch)
     - <span class="fed">Fed Field Operations:

@@ -1,7 +1,7 @@
 There are no conversion actions possible in Simplified Role List.
 
 - <span class="hacker">Hacker:
-    - [<span class="hacker">Hacker](../../../rolelist/hacker/Hacker)
+    - [<span class="hacker">Hacker](../../../rolelist/hacker/hacker)
     - <span class="hacker">Hacker Special:
     - <span class="hacker">Hacker Field Operations:
         - [<span class="hacker">Enforcer](../../../rolelist/hacker/HackerFieldOps/Enforcer)
@@ -27,7 +27,7 @@ There are no conversion actions possible in Simplified Role List.
         - [<span class="hacker">Technical Recruiter](../../../rolelist/hacker/HackerChaos/TechnicalRecruiter)
 - Interlooper:
     - Interlooper:
-        - [Interlooper](../../../rolelist/interlooper/Interlooper)
+        - [Interlooper](../../../rolelist/interlooper/interlooper)
     - Interlooper Special:
         - [Sociopath](../../../rolelist/interlooper/InterlooperSpecial/Sociopath)
         - [Resentful Criminal](../../../rolelist/interlooper/InterlooperSpecial/ResentfulCriminal)
@@ -50,7 +50,7 @@ There are no conversion actions possible in Simplified Role List.
         - [<span class="nk">Bombardier](../../../rolelist/interlooper/InterlooperKilling/Bombadier)
         - [<span class="nk">Rogue Assassin](../../../rolelist/interlooper/InterlooperKilling/RogueAssassin)
 - <span class="fed">Fed:
-    - [<span class="fed">Fed](../../../rolelist/fed/Fed)
+    - [<span class="fed">Fed](../../../rolelist/fed/fed)
     - <span class="fed">Fed Special:
         - [<span class="fed">Runaway Snitch](../../../rolelist/fed/CoreFedSpecial/RunawaySnitch)
     - <span class="fed">Fed Field Operations:
