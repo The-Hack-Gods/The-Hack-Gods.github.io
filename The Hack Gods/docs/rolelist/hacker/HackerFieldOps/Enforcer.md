@@ -1,24 +1,12 @@
-![enforcer.png](Images/enforcer.png)
-
-### **Netsec Field Operations**
-
-“You don’t mind being arrested again as long as you can keep your friends safe, Enforcer.”
-
-Win Condition: Eliminate ALL hostile units.
-
-### **Day:**
-
-Unskilled Attack - Select a node, green or white. Leaves a log.
+### **Actives:**
 
 Desperate Measures (1 charge) - Turn into an Improvised Hacker.
 
-### **Night:**
+Escort - Escort a target operative, protecting the operative from arrests and murders. Arrest attempts will arrest this operative instead, and anyone attempting to murder the protected operative will be killed. Visit and occupy them.
 
-Escort - Escort a target operative, protecting the operative from arrests and murders. Arrest attempts will arrest this operative instead, and anyone attempting to murder the protected operative will be killed. Visit and occupy them. Must select a different target the next night.
+Interrogate (1 night cooldown) - Select a target operative and find what the operative did last night. Visit and occupy them.
 
-Interrogate (3 charges) - Select a target operative and occupy them. The host will ask them for their logs, giving you what they send.
-
-Disorganized Murder - Select an operative and attempt to murder them. Visit the target.
+Disorganized Murder - Select an operative and murder them. Visit the target.
 
 ### **Passives:**
 

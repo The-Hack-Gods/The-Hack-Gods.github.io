@@ -20,7 +20,7 @@
 <br>
 - Operatives have a role and faction, randomly generated based on rolelist. They also get a unique identifier (color).
 <br>
-- Many Interlooper roles and Fed roles will lie. These roles will lie based on their role to try to mimic their claim.
+- Many roles will lie. These roles will lie based on their role to try to mimic their claim. Investigative abilities do go through their lie, but there are abilities that may affect those investigative results.
 <br>
 - Depending on the faction ruleset, you may have more or less information. Read the specific ruleset per faction.
 <br>
@@ -30,3 +30,21 @@
 <br>
 - Laptops have 5 HP, Servers have 10 HP, and Server Farms have 20 HP. Very Low deals 1 HP damage, Low deals 2 HP, Moderate deals 3 HP, High deals 4 HP, and Very High deals 5 HP.
 <br>
+- Download intel and other sources of intel can include:
+    <br>
+    - Subclass of an operative
+    <br>
+    - Faction of an operative
+    <br>
+    - Role in play
+    <br>
+    - Remaining number of a faction (e.g. number of Hackers remaining)
+    <br>
+    - An action that was done last night
+    <br>
+    - A node that has intel
+    <br>
+    - Who dealt the most damage to a node
+    <br>
+    - Target node
+    <br>

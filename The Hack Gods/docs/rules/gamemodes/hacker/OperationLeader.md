@@ -1,5 +1,3 @@
-Operation Leader
-
 ### **Actives:**
 
 Give Root Access (2 charges) - Give root access to an operative. If they are a Hacker, they will gain immunity to occupation, kills, arrests, and anything that blocks hacking.

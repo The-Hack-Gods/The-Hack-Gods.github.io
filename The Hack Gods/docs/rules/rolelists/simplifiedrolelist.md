@@ -32,7 +32,6 @@ There are no conversion actions possible in Simplified Role List.
         - [Sociopath](../../rolelist/interlooper/InterlooperSpecial/Sociopath)
         - [Resentful Criminal](../../rolelist/interlooper/InterlooperSpecial/ResentfulCriminal)
     - Interlooper Field Operations:
-        - [Loose Cannon](../../rolelist/interlooper/InterlooperFieldOps/LooseCannon)
         - [Bounty Hunter](../../rolelist/interlooper/InterlooperFieldOps/BountyHunter)
     - Interlooper Investigative:
         - [Journalist](../../rolelist/interlooper/InterlooperInvest/Journalist)
@@ -48,7 +47,6 @@ There are no conversion actions possible in Simplified Role List.
         - [Corrupt Detective](../../rolelist/interlooper/InterlooperChaos/CorruptDetective)
         - [Corrupt Lawyer](../../rolelist/interlooper/InterlooperChaos/CorruptLawyer)
     - <span class="nk">Interlooper Killing:
-        - [<span class="nk">Sociopath Leader](../../rolelist/interlooper/InterlooperKilling/SociopathLeader)
         - [<span class="nk">Bombardier](../../rolelist/interlooper/InterlooperKilling/Bombadier)
         - [<span class="nk">Rogue Assassin](../../rolelist/interlooper/InterlooperKilling/RogueAssassin)
 - <span class="fed">Fed:

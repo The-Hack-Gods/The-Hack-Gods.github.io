@@ -1,5 +1,3 @@
-Investigator
-
 Win Condition: You are given 3 roles to find. Find all 3 roles and match them to the operative.
 
 ### **Actives:**
