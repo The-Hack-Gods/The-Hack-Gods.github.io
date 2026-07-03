@@ -41,7 +41,6 @@ There are no conversion actions possible in Simplified Role List.
         - [Rival Hacker](../../../rolelist/interlooper/InterlooperOffensive/RivalHacker)
         - [Hacknet Hacker](../../../rolelist/interlooper/InterlooperOffensive/HacknetHacker)
     - Interlooper Utility:
-        - [W.P.P. Member](../../../rolelist/interlooper/InterlooperUtility/WPPMember)
         - [Political Campaigner](../../../rolelist/interlooper/InterlooperUtility/PoliticalCampaigner)
     - Interlooper Chaos:
         - [Corrupt Detective](../../../rolelist/interlooper/InterlooperChaos/CorruptDetective)
@@ -52,18 +51,18 @@ There are no conversion actions possible in Simplified Role List.
 - <span class="fed">Fed:
     - [<span class="fed">Fed](../../../rolelist/fed/fed)
     - <span class="fed">Fed Special:
-        - [<span class="fed">Runaway Snitch](../../../rolelist/fed/CoreFedSpecial/RunawaySnitch)
+        - [<span class="fed">Runaway Snitch](../../../rolelist/fed/FedSpecial/RunawaySnitch)
     - <span class="fed">Fed Field Operations:
-        - [<span class="fed">Field Agent](../../../rolelist/fed/CoreFedFieldOps/FieldAgent)
-        - [<span class="fed">Determined Deputy](../../../rolelist/fed/CoreFedFieldOps/DeterminedDeputy)
+        - [<span class="fed">Field Agent](../../../rolelist/fed/FedFieldOps/FieldAgent)
+        - [<span class="fed">Determined Deputy](../../../rolelist/fed/FedFieldOps/DeterminedDeputy)
     - <span class="fed">Fed Investigative:
-        - [<span class="fed">Forensic Specialist](../../../rolelist/fed/CoreFedInvest/ForensicSpecialist)
-        - [<span class="fed">Rookie Informant](../../../rolelist/fed/CoreFedInvest/RookieInformant)
+        - [<span class="fed">Forensic Specialist](../../../rolelist/fed/FedInvest/ForensicSpecialist)
+        - [<span class="fed">Rookie Informant](../../../rolelist/fed/FedInvest/RookieInformant)
     - <span class="fed">Fed Offensive:
-        - [<span class="fed">Agent Leader](../../../rolelist/fed/CoreFedOffensive/FedLeader)
-        - [<span class="fed">Cipher Lord](../../../rolelist/fed/CoreFedOffensive/CipherLord)
-        - [<span class="fed">Expert Whitehat](../../../rolelist/fed/CoreFedOffensive/ExpertWhitehat)
+        - [<span class="fed">Agent Leader](../../../rolelist/fed/FedOffensive/FedLeader)
+        - [<span class="fed">Cipher Lord](../../../rolelist/fed/FedOffensive/CipherLord)
+        - [<span class="fed">Expert Whitehat](../../../rolelist/fed/FedOffensive/ExpertWhitehat)
     - <span class="fed">Fed Utility:
-        - [<span class="fed">Commissary Officer](../../../rolelist/fed/CoreFedUtility/CommissaryOfficer)
+        - [<span class="fed">Commissary Officer](../../../rolelist/fed/FedUtility/CommissaryOfficer)
     - <span class="fed">Fed Chaos:
-        - [<span class="fed">District Attorney](../../../rolelist/fed/CoreFedChaos/DistrictAttorney)
+        - [<span class="fed">District Attorney](../../../rolelist/fed/FedChaos/DistrictAttorney)
