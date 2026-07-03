@@ -1,69 +1,69 @@
 There are no conversion actions possible in Simplified Role List.
 
 - <span class="hacker">Hacker:
-    - [<span class="hacker">Hacker](../../rolelist/hacker/Hacker)
+    - [<span class="hacker">Hacker](../../../rolelist/hacker/Hacker)
     - <span class="hacker">Hacker Special:
     - <span class="hacker">Hacker Field Operations:
-        - [<span class="hacker">Enforcer](../../rolelist/hacker/HackerFieldOps/Enforcer)
-        - [<span class="hacker">CCTV Specialist](../../rolelist/hacker/HackerFieldOps/CCTVSpecialist)
-        - [<span class="hacker">Rookie Hacker](../../rolelist/hacker/HackerFieldOps/RookieHacker)
-        - [<span class="hacker">Improvised Hacker](../../rolelist/hacker/HackerFieldOps/ImprovisedHacker)
+        - [<span class="hacker">Enforcer](../../../rolelist/hacker/HackerFieldOps/Enforcer)
+        - [<span class="hacker">CCTV Specialist](../../../rolelist/hacker/HackerFieldOps/CCTVSpecialist)
+        - [<span class="hacker">Rookie Hacker](../../../rolelist/hacker/HackerFieldOps/RookieHacker)
+        - [<span class="hacker">Improvised Hacker](../../../rolelist/hacker/HackerFieldOps/ImprovisedHacker)
     - <span class="hacker">Hacker Investigative:
-        - [<span class="hacker">Analyst](../../rolelist/hacker/HackerInvest/Analyst)
-        - [<span class="hacker">Social Engineer](../../rolelist/hacker/HackerInvest/SocialEngineer)
-        - [<span class="hacker">Computer Technician](../../rolelist/hacker/HackerInvest/ComputerTechnician)
-        - [<span class="hacker">Natural Linguist](../../rolelist/hacker/HackerInvest/NaturalLinguist)
+        - [<span class="hacker">Analyst](../../../rolelist/hacker/HackerInvest/Analyst)
+        - [<span class="hacker">Social Engineer](../../../rolelist/hacker/HackerInvest/SocialEngineer)
+        - [<span class="hacker">Computer Technician](../../../rolelist/hacker/HackerInvest/ComputerTechnician)
+        - [<span class="hacker">Natural Linguist](../../../rolelist/hacker/HackerInvest/NaturalLinguist)
     - <span class="hacker">Hacker Offensive:
-        - [<span class="hacker">Network Specialist](../../rolelist/hacker/HackerOffensive/NetworkSpecialist)
-        - [<span class="hacker">Blackhat](../../rolelist/hacker/HackerOffensive/Blackhat)
-        - [<span class="hacker">Prodigy](../../rolelist/hacker/HackerOffensive/Prodigy)
+        - [<span class="hacker">Network Specialist](../../../rolelist/hacker/HackerOffensive/NetworkSpecialist)
+        - [<span class="hacker">Blackhat](../../../rolelist/hacker/HackerOffensive/Blackhat)
+        - [<span class="hacker">Prodigy](../../../rolelist/hacker/HackerOffensive/Prodigy)
     - <span class="hacker">Hacker Utility:
-        - [<span class="hacker">Inside Man (Assistant)](../../rolelist/hacker/HackerUtility/InsideManAssistant)
-        - [<span class="hacker">Spearphisher](../../rolelist/hacker/HackerUtility/Spearphisher)
-        - [<span class="hacker">Hacking Instructor](../../rolelist/hacker/HackerUtility/HackingInstructor)
+        - [<span class="hacker">Inside Man (Assistant)](../../../rolelist/hacker/HackerUtility/InsideManAssistant)
+        - [<span class="hacker">Spearphisher](../../../rolelist/hacker/HackerUtility/Spearphisher)
+        - [<span class="hacker">Hacking Instructor](../../../rolelist/hacker/HackerUtility/HackingInstructor)
     - <span class="hacker">Hacker Chaos:
-        - [<span class="hacker">Double Agent](../../rolelist/hacker/HackerChaos/DoubleAgent)
-        - [<span class="hacker">Hacking Advocate](../../rolelist/hacker/HackerChaos/HackingAdvocate)
-        - [<span class="hacker">Technical Recruiter](../../rolelist/hacker/HackerChaos/TechnicalRecruiter)
+        - [<span class="hacker">Double Agent](../../../rolelist/hacker/HackerChaos/DoubleAgent)
+        - [<span class="hacker">Hacking Advocate](../../../rolelist/hacker/HackerChaos/HackingAdvocate)
+        - [<span class="hacker">Technical Recruiter](../../../rolelist/hacker/HackerChaos/TechnicalRecruiter)
 - Interlooper:
     - Interlooper:
-        - [Interlooper](../../rolelist/interlooper/Interlooper)
+        - [Interlooper](../../../rolelist/interlooper/Interlooper)
     - Interlooper Special:
-        - [Sociopath](../../rolelist/interlooper/InterlooperSpecial/Sociopath)
-        - [Resentful Criminal](../../rolelist/interlooper/InterlooperSpecial/ResentfulCriminal)
+        - [Sociopath](../../../rolelist/interlooper/InterlooperSpecial/Sociopath)
+        - [Resentful Criminal](../../../rolelist/interlooper/InterlooperSpecial/ResentfulCriminal)
     - Interlooper Field Operations:
-        - [Bounty Hunter](../../rolelist/interlooper/InterlooperFieldOps/BountyHunter)
+        - [Bounty Hunter](../../../rolelist/interlooper/InterlooperFieldOps/BountyHunter)
     - Interlooper Investigative:
-        - [Journalist](../../rolelist/interlooper/InterlooperInvest/Journalist)
-        - [Amateur Investigator](../../rolelist/interlooper/InterlooperInvest/AmateurInvestigator)
+        - [Journalist](../../../rolelist/interlooper/InterlooperInvest/Journalist)
+        - [Amateur Investigator](../../../rolelist/interlooper/InterlooperInvest/AmateurInvestigator)
     - Interlooper Offensive:
-        - [Script Kiddie](../../rolelist/interlooper/InterlooperOffensive/ScriptKiddie)
-        - [Rival Hacker](../../rolelist/interlooper/InterlooperOffensive/RivalHacker)
-        - [Hacknet Hacker](../../rolelist/interlooper/InterlooperOffensive/HacknetHacker)
+        - [Script Kiddie](../../../rolelist/interlooper/InterlooperOffensive/ScriptKiddie)
+        - [Rival Hacker](../../../rolelist/interlooper/InterlooperOffensive/RivalHacker)
+        - [Hacknet Hacker](../../../rolelist/interlooper/InterlooperOffensive/HacknetHacker)
     - Interlooper Utility:
-        - [W.P.P. Member](../../rolelist/interlooper/InterlooperUtility/WPPMember)
-        - [Political Campaigner](../../rolelist/interlooper/InterlooperUtility/PoliticalCampaigner)
+        - [W.P.P. Member](../../../rolelist/interlooper/InterlooperUtility/WPPMember)
+        - [Political Campaigner](../../../rolelist/interlooper/InterlooperUtility/PoliticalCampaigner)
     - Interlooper Chaos:
-        - [Corrupt Detective](../../rolelist/interlooper/InterlooperChaos/CorruptDetective)
-        - [Corrupt Lawyer](../../rolelist/interlooper/InterlooperChaos/CorruptLawyer)
+        - [Corrupt Detective](../../../rolelist/interlooper/InterlooperChaos/CorruptDetective)
+        - [Corrupt Lawyer](../../../rolelist/interlooper/InterlooperChaos/CorruptLawyer)
     - <span class="nk">Interlooper Killing:
-        - [<span class="nk">Bombardier](../../rolelist/interlooper/InterlooperKilling/Bombadier)
-        - [<span class="nk">Rogue Assassin](../../rolelist/interlooper/InterlooperKilling/RogueAssassin)
+        - [<span class="nk">Bombardier](../../../rolelist/interlooper/InterlooperKilling/Bombadier)
+        - [<span class="nk">Rogue Assassin](../../../rolelist/interlooper/InterlooperKilling/RogueAssassin)
 - <span class="fed">Fed:
-    - [<span class="fed">Fed](../../rolelist/fed/Fed)
+    - [<span class="fed">Fed](../../../rolelist/fed/Fed)
     - <span class="fed">Fed Special:
-        - [<span class="fed">Runaway Snitch](../../rolelist/fed/CoreFedSpecial/RunawaySnitch)
+        - [<span class="fed">Runaway Snitch](../../../rolelist/fed/CoreFedSpecial/RunawaySnitch)
     - <span class="fed">Fed Field Operations:
-        - [<span class="fed">Field Agent](../../rolelist/fed/CoreFedFieldOps/FieldAgent)
-        - [<span class="fed">Determined Deputy](../../rolelist/fed/CoreFedFieldOps/DeterminedDeputy)
+        - [<span class="fed">Field Agent](../../../rolelist/fed/CoreFedFieldOps/FieldAgent)
+        - [<span class="fed">Determined Deputy](../../../rolelist/fed/CoreFedFieldOps/DeterminedDeputy)
     - <span class="fed">Fed Investigative:
-        - [<span class="fed">Forensic Specialist](../../rolelist/fed/CoreFedInvest/ForensicSpecialist)
-        - [<span class="fed">Rookie Informant](../../rolelist/fed/CoreFedInvest/RookieInformant)
+        - [<span class="fed">Forensic Specialist](../../../rolelist/fed/CoreFedInvest/ForensicSpecialist)
+        - [<span class="fed">Rookie Informant](../../../rolelist/fed/CoreFedInvest/RookieInformant)
     - <span class="fed">Fed Offensive:
-        - [<span class="fed">Agent Leader](../../rolelist/fed/CoreFedOffensive/FedLeader)
-        - [<span class="fed">Cipher Lord](../../rolelist/fed/CoreFedOffensive/CipherLord)
-        - [<span class="fed">Expert Whitehat](../../rolelist/fed/CoreFedOffensive/ExpertWhitehat)
+        - [<span class="fed">Agent Leader](../../../rolelist/fed/CoreFedOffensive/FedLeader)
+        - [<span class="fed">Cipher Lord](../../../rolelist/fed/CoreFedOffensive/CipherLord)
+        - [<span class="fed">Expert Whitehat](../../../rolelist/fed/CoreFedOffensive/ExpertWhitehat)
     - <span class="fed">Fed Utility:
-        - [<span class="fed">Commissary Officer](../../rolelist/fed/CoreFedUtility/CommissaryOfficer)
+        - [<span class="fed">Commissary Officer](../../../rolelist/fed/CoreFedUtility/CommissaryOfficer)
     - <span class="fed">Fed Chaos:
-        - [<span class="fed">District Attorney](../../rolelist/fed/CoreFedChaos/DistrictAttorney)
+        - [<span class="fed">District Attorney](../../../rolelist/fed/CoreFedChaos/DistrictAttorney)
