@@ -1,4 +1,4 @@
-There are no conversion actions possible in Simplified Role List.
+There is no converting possible in Simplified Role List.
 
 - <span class="hacker">Hacker:
     - [<span class="hacker">Hacker](../../../rolelist/hacker/hacker)
@@ -38,6 +38,7 @@ There are no conversion actions possible in Simplified Role List.
         - [Amateur Investigator](../../../rolelist/interlooper/InterlooperInvest/AmateurInvestigator)
     - Interlooper Offensive:
         - [Script Kiddie](../../../rolelist/interlooper/InterlooperOffensive/ScriptKiddie)
+        - [Panicked Blabbermouth](../../../rolelist/interlooper/InterlooperOffensive/PanickedBlabbermouth)
         - [Rival Hacker](../../../rolelist/interlooper/InterlooperOffensive/RivalHacker)
         - [Hacknet Hacker](../../../rolelist/interlooper/InterlooperOffensive/HacknetHacker)
     - Interlooper Utility:

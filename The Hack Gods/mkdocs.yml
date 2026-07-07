@@ -22,37 +22,38 @@ theme:
     accent: custom
 nav:
     - Home: index.md
-    - General Rules: rules/tips.md
+    - General Info:
+      - Rules: rules/generalinfo/rules.md
+      - Shared Abilities: rules/generalinfo/sharedabilities.md
     - Game Modes:
       - Hacker: rules/gamemodes/hacker.md
       - Hacker Leaders:
         - Operation Leader: rules/gamemodes/hacker/OperationLeader.md
-        # - Former Agent Leader: rules/gamemodes/hacker/FormerAgentLeader.md
-        # - Hack God: rules/gamemodes/hacker/HackGod.md
-        # - Infamous Cybercriminal: rules/gamemodes/hacker/InfamousCybercriminal.md
-        # - Majority Shareholder: rules/gamemodes/hacker/MajorityShareholder.md
+        - Former Agent Leader: rules/gamemodes/hacker/FormerAgentLeader.md
+        - Hack God: rules/gamemodes/hacker/HackGod.md
+        - Infamous Cybercriminal: rules/gamemodes/hacker/InfamousCybercriminal.md
+        - Majority Shareholder: rules/gamemodes/hacker/MajorityShareholder.md
       - Interlooper: rules/gamemodes/interlooper.md
       - Interlooper Win Conditions:
-        # - Journalist: rules/gamemodes/interlooper/Journalist.md
+        - Journalist: rules/gamemodes/interlooper/Journalist.md
         - Investigator: rules/gamemodes/interlooper/Investigator.md
-        # - Assassin: rules/gamemodes/interlooper/Assassin.md
-        # - Serial Killer: rules/gamemodes/interlooper/SerialKiller.md
+        - Assassin: rules/gamemodes/interlooper/Assassin.md
+        - Serial Killer: rules/gamemodes/interlooper/SerialKiller.md
       - Fed: rules/gamemodes/fed.md
       - Fed Leaders:
         - Blackmailed Leader: rules/gamemodes/fed/BlackmailedLeader.md
-        # - Founder of Agent: rules/gamemodes/fed/FounderOfAgent.md
-      # - W3C: rules/gamemodes/w3c.md
-      # - W3C Leaders:
-      #   - W3C Leader: rules/gamemodes/fed/W3CLeader.md
-      # - Paragon: rules/gamemodes/paragon.md
-      # - Paragon Leaders:
-      #   - Paragon Leader: rules/gamemodes/fed/ParagonLeader.md
+        - Founder of Agent: rules/gamemodes/fed/FounderOfAgent.md
+      - W3C: rules/gamemodes/w3c.md
+      - W3C Leaders:
+        - W3C Leader: rules/gamemodes/fed/W3CLeader.md
+      - Paragon: rules/gamemodes/paragon.md
+      - Paragon Leaders:
+        - Paragon Leader: rules/gamemodes/fed/ParagonLeader.md
     - Role Lists:
       - Simplified Role List: rules/rolelists/simplifiedrolelist.md
       - Core Role List: rules/rolelists/corerolelist.md
-      - Full Role List: rules/rolelists/full3factrolelist.md
-      # - Full 3 Faction Role List: rules/rolelists/full3factrolelist.md
-      # - Full Role List: rules/rolelists/fullrolelist.md
+      - Full 3 Faction Role List: rules/rolelists/full3factrolelist.md
+      - Full Role List: rules/rolelists/fullrolelist.md
     - Roles:
       - Hacker:
         - Hacker: rolelist/hacker/hacker.md
@@ -226,44 +227,42 @@ nav:
           - Fed Amateur Investigator: rolelist/fed/MoleFedChaos/FedAmateurInvestigator.md
           - Fed Technical Recruiter: rolelist/fed/MoleFedChaos/FedTechnicalRecruiter.md
           - Fed Repressed Refugee: rolelist/fed/MoleFedChaos/FedRepressedRefugee.md
-      # - W3C:
-      #   - W3C: rolelist/w3c/w3c.md
-      #   - W3C Special:
-      #   - W3C Field Operations:
-      #     - W3C Enforcer: rolelist/w3c/W3CFieldOps/W3CEnforcer.md
-      #     - W3C Blackmailer: rolelist/w3c/W3CFieldOps/W3CBlackmailer.md
-      #   - W3C Investigative:
-      #     - W3C Stalker: rolelist/w3c/W3CInvest/W3CStalker.md
-      #     - W3C Forger: rolelist/w3c/W3CInvest/W3CForger.md
-      #     - W3C Ambusher: rolelist/w3c/W3CInvest/W3CAmbusher.md
-      #   - W3C Offensive:
-      #     - W3C Blackhat: rolelist/w3c/W3COffensive/W3CBlackhat.md
-      #     - W3C Disruptor: rolelist/w3c/W3COffensive/W3CDisruptor.md
-      #     - W3C Graph Theorist: rolelist/w3c/W3COffensive/W3CGraphTheorist.md
-      #   - W3C Utility:
-      #     - W3C Lab Technician: rolelist/w3c/W3CUtility/W3CLabTechnician.md
-      #     - W3C Insider: rolelist/w3c/W3CUtility/W3CInsider.md
-      #     - W3C Janitor: rolelist/w3c/W3CUtility/W3CJanitor.md
-      #   - W3C Chaos:
-      #     - W3C Technical Recruiter: rolelist/w3c/W3CChaos/W3CTechnicalRecruiter.md
-      #     - W3C Assassin: rolelist/w3c/W3CChaos/W3CAssassin.md
-      # - Paragon:
-      #   - Paragon: rolelist/paragon/paragon.md
-      #   - Paragon Special:
-      #   - Paragon Field Operations:
-      #     - Paragon Ex-Mercenary: rolelist/paragon/ParagonFieldOps/ParagonExMercenary.md
-      #     - Paragon Influencer: rolelist/paragon/ParagonFieldOps/ParagonInfluencer.md
-      #   - Paragon Investigative:
-      #     - Paragon Journalist: rolelist/paragon/ParagonInvest/ParagonJournalist.md
-      #     - Paragon Informant: rolelist/paragon/ParagonInvest/ParagonInformant.md
-      #     - Paragon Search Engine Optimizer: rolelist/paragon/ParagonInvest/ParagonSearchEngineOptimizer.md
-      #   - Paragon Offensive:
-      #     - Paragon Prodigy: rolelist/paragon/ParagonOffensive/ParagonProdigy.md
-      #     - Paragon Cryptographer: rolelist/paragon/ParagonOffensive/ParagonCryptographer.md
-      #   - Paragon Utility:
-      #     - Paragon Security Specialist: rolelist/paragon/ParagonUtility/ParagonSecuritySpecialist.md
-      #     - Paragon Scout: rolelist/paragon/ParagonUtility/ParagonScout.md
-      #   - Paragon Chaos:
-      #     - Paragon Head of Personnel: rolelist/paragon/ParagonChaos/ParagonHeadOfPersonnel.md
-      #     - Paragon Ex-Mole: rolelist/paragon/ParagonChaos/ParagonExMole.md
-      #     - Paragon Assassin: rolelist/paragon/ParagonChaos/ParagonAssassin.md
+      - W3C:
+        - W3C: rolelist/w3c/w3c.md
+        - W3C Field Operations:
+          - W3C Enforcer: rolelist/w3c/W3CFieldOps/W3CEnforcer.md
+          - W3C Blackmailer: rolelist/w3c/W3CFieldOps/W3CBlackmailer.md
+        - W3C Investigative:
+          - W3C Stalker: rolelist/w3c/W3CInvest/W3CStalker.md
+          - W3C Forger: rolelist/w3c/W3CInvest/W3CForger.md
+          - W3C Ambusher: rolelist/w3c/W3CInvest/W3CAmbusher.md
+        - W3C Offensive:
+          - W3C Blackhat: rolelist/w3c/W3COffensive/W3CBlackhat.md
+          - W3C Disruptor: rolelist/w3c/W3COffensive/W3CDisruptor.md
+          - W3C Graph Theorist: rolelist/w3c/W3COffensive/W3CGraphTheorist.md
+        - W3C Utility:
+          - W3C Lab Technician: rolelist/w3c/W3CUtility/W3CLabTechnician.md
+          - W3C Insider: rolelist/w3c/W3CUtility/W3CInsider.md
+          - W3C Janitor: rolelist/w3c/W3CUtility/W3CJanitor.md
+        - W3C Chaos:
+          - W3C Technical Recruiter: rolelist/w3c/W3CChaos/W3CTechnicalRecruiter.md
+          - W3C Assassin: rolelist/w3c/W3CChaos/W3CAssassin.md
+      - Paragon:
+        - Paragon: rolelist/paragon/paragon.md
+        - Paragon Field Operations:
+          - Paragon Ex-Mercenary: rolelist/paragon/ParagonFieldOps/ParagonExMercenary.md
+          - Paragon Influencer: rolelist/paragon/ParagonFieldOps/ParagonInfluencer.md
+        - Paragon Investigative:
+          - Paragon Journalist: rolelist/paragon/ParagonInvest/ParagonJournalist.md
+          - Paragon Informant: rolelist/paragon/ParagonInvest/ParagonInformant.md
+          - Paragon Search Engine Optimizer: rolelist/paragon/ParagonInvest/ParagonSearchEngineOptimizer.md
+        - Paragon Offensive:
+          - Paragon Prodigy: rolelist/paragon/ParagonOffensive/ParagonProdigy.md
+          - Paragon Cryptographer: rolelist/paragon/ParagonOffensive/ParagonCryptographer.md
+        - Paragon Utility:
+          - Paragon Security Specialist: rolelist/paragon/ParagonUtility/ParagonSecuritySpecialist.md
+          - Paragon Scout: rolelist/paragon/ParagonUtility/ParagonScout.md
+        - Paragon Chaos:
+          - Paragon Head of Personnel: rolelist/paragon/ParagonChaos/ParagonHeadOfPersonnel.md
+          - Paragon Ex-Mole: rolelist/paragon/ParagonChaos/ParagonExMole.md
+          - Paragon Assassin: rolelist/paragon/ParagonChaos/ParagonAssassin.md

@@ -4,7 +4,7 @@
 <br>
 - Interloopers get access to a set of operatives. The Interlooper can control those operatives.
 <br>
-- Interloopers do not know everyone's claim, and not the whole node topology. They only know node health.
+- Interloopers do not know the whole node topology. They only know node health.
 <br>
 - Interloopers must figure out each operative's role using their action space.
 <br>

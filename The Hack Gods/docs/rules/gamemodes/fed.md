@@ -2,7 +2,7 @@
 <br>
 - Feds get access to a set of operatives. The Fed Leader can control those operatives.
 <br>
-- Feds do not know everyone's claim. However, they know node health and node topology.
+- Feds know node health and node topology.
 <br>
 - Feds must figure out each operative's role using their action space.
 <br>

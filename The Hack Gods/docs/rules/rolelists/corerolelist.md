@@ -56,6 +56,7 @@
         - [Private Investigator](../../../rolelist/interlooper/InterlooperInvest/PrivateInvestigator)
     - Interlooper Offensive:
         - [Script Kiddie](../../../rolelist/interlooper/InterlooperOffensive/ScriptKiddie)
+        - [Panicked Blabbermouth](../../../rolelist/interlooper/InterlooperOffensive/PanickedBlabbermouth)
         - [Rival Hacker](../../../rolelist/interlooper/InterlooperOffensive/RivalHacker)
         - [Hacknet Hacker](../../../rolelist/interlooper/InterlooperOffensive/HacknetHacker)
         - [Connection Specialist](../../../rolelist/interlooper/InterlooperOffensive/ConnectionSpecialist)
