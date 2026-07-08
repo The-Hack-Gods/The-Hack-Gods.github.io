@@ -48,3 +48,5 @@
     <br>
     - Target node
     <br>
+- Whenever an operative is arrested or killed, the operative will reveal their actionspace on what they have done up to now. This can be a lie depending on their role (specifically Feds dying, etc)
+<br>
