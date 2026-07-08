@@ -2,11 +2,9 @@
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
-Impartial Sabotage (1 charge) - Select a green node, return the node to a white node, un-hacking the node. Connections to nodes ahead fail. Leaves a set of random connection logs, one of which is you.
+Rollback (1 charges) - Select a green node, return the node to a white node, un-hacking the node. Connections to nodes ahead fail. Leaves a set of random connection logs, one of which is a random Fed.
 
-Background Search - Check a target operative's background. You'll be given a random skill that they have.
-
-Get Scoop (1 night cooldown) - Select a target operative. Visit and occupy them, talking about the hack. Learn if the operative is neutral.
+Get Scoop (1 night cooldown) - Select a target operative. Visit and occupy them, talking about the hack. Learn if the operative is an interlooper.
 
 Expose Fed (1 charge) - Select a target operative. If they are a Fed, reveal the Fed globally. Visit and occupy them.
 

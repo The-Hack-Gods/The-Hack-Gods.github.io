@@ -1,12 +1,12 @@
 ### **Actives:**
 
-Act as Prosecution or Defense - Select a target operative. If they are arrested tonight, unframe and uncover them.
+Act as Defense - Select a target operative. If they are arrested tonight, delay their arrest by 1 night.
 
 Grant Immunity (1 charge) - Select a target operative. They are immune to arrests this round.
 
-Desperate Measures (1 charge) - Turn into an Improvised Hacker.
+Bail Out (1 charge) - Select an arrested target operative. Get them out of being arrested, ressurecting them.
 
-Throw Under the Bus (2 charges) - Select a target operative. All skills used on you will be used on the target operative.
+Desperate Measures (1 charge) - Turn into an Improvised Hacker.
 
 ### **Passives:**
 

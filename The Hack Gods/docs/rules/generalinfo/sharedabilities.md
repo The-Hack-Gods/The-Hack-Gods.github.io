@@ -2,23 +2,27 @@
 
 ### **Hacking Offensive:**
 
-REWORD THIS -> Show HP
-Hack Target (Very Low) - Select a white node and attempt to hack it. Leaves logs.
+Hack Target (Very Low) - Select a white node and hack it, dealing 1 HP. Leaves a log.
 
-Script Kiddie Attack - Select a node, green or white. If the node is white, it has a very low chance to hack the node. Leaves a log.
+Script Kiddie Attack - Select a node, green or white. If the node is white, attempt to hack it, dealing 1 HP. Leaves a log.
 
 0-day Exploit (1 charges) - Select a white node and instantly hack it. Leaves a log.
 
-REWORK THIS -> Maybe a Very Low Hack without leaving a log? 
-Dumpster Dive - Increases your hacking ability by 1 stage next hack.
+Dumpster Dive - Select a white node and hack it, dealing 1 HP. Does not leave a log.
 
-Study (1 night cooldown) - Increases your hacking stage by one the following day.
+Study - Increases your hacking stage by one the following day.
 
 Hit the Books (2 charges) - Increases your hacking stage by one, permanently.
 
 Pair Programming (1 charges) - Select a target operative, their hacking chance permanently increases by one stage. Visit them.
 
-Advisor (1 night cooldown) - Select a target operative, their hacking chance temporarily increases by one stage. Visit them.
+Advisor - Select a target operative, their hacking chance temporarily increases by one stage. Visit them.
+
+Probe Node (1 charge) - Select a white node and double all damage done to the node.
+
+Exploit Vulnerability (2 charges) - Select a white node and deal 1 damage more for all hacks to the node.
+
+Ask for Assistance (2 charges) - Select a target operative and disable all day actions related to the topology. Steal their hack chance if it is higher than yours. Works like Jam Network. Visit them.
 
 ### **Hacking Intel:**
 
@@ -28,19 +32,15 @@ Spearphisher Execution - Select a white node, finds out if there is intel on thi
 
 Download Intel - Select a green node and attempt to download from it. If there is intel, and you download and remove it first, you will get intel (see tips for list of intel). Leaves a log.
 
-Upload Intel (0 charges) - Select a green node and upload intel that is downloadable by others. Whoever downloading will get intel (see tips for list of intel). Leaves a log.
-
-REMOVE THIS
-Steal Intel (1 charge) - Steal intel and gain one charge of upload intel.
-
-Cryptocurrency Trading - Trade currency for some intel. Instead of downloading, you can try to get intel through buying and selling crypto on the market. Download Intel without leaving a connection log.
+Upload Intel (1 charges) - Select a green node and upload intel that is downloadable by others. Whoever downloading will get intel (see tips for list of intel). Leaves a log.
 
 Upload Fake Intel (1 charges) - Select a white or green node and upload intel that is downloadable by others. Leaves lying intel. Leaves a log.
 
+Cryptocurrency Trading - Trade currency for some intel. Instead of downloading, you can try to get intel through buying and selling crypto on the market. Download Intel without leaving a connection log.
+
 ### **Hacking Defensive:**
 
-ADD A HARDEN AMOUNT? VERY LOW, LOW, etc
-Harden Node - Select a white node, heal the node by 5 HP.
+Harden Node (Very Low) - Select a white node, heal the node by 1 HP. Leaves a log.
 
 Jam Network (2 charges) - Select a target operative and disable all day actions related to the topology done by them.
 
@@ -58,17 +58,17 @@ Alter Logs (1 night cooldown) - Select a white or green node and either leave a 
 
 Log Analysis - Select a green node and clear any fake logs from Alter Logs or Rollback. Leaves a log.
 
-Review Connection Logs (2 charges) - Selects a target operative. Check if their connection was altered through ISP Isolation or Jam Network the previous night. Visit them.
+Review Connection Logs (2 charges) - Selects a target operative. Check if their connection was altered through Jam Network the previous night. Visit them.
 
 Wireshark (2 charges) - Tells you the name of any operative that did a Denial of Service.
 
-Plant and Retrieve Keylogger (1 night cooldown) - Select a white node, finding out if a non-hacking ability was used on this node yesterday.
+Plant and Retrieve Keylogger - Select a white node, finding out if a non-hacking ability was used on this node yesterday.
 
 Wipe (1 charge) - Select a white node. Remove all connection logs and intel to the node.
 
 ### **Operative Investigative:**
 
-Ask the Right Question (2 charges) - Select a target operative, find their current hacking chance. Visit them.
+Ask the Right Question (2 charges) - Select a target operative, find their current hacking or hardening chance. Visit them.
 
 Doxx and Stalk (2 charges) - Select a target operative. Learn this operative's faction alignment and visit them.
 
@@ -78,14 +78,11 @@ Follow (2 charges) - Select a target operative and follow them, visiting them an
 
 Install CCTV Surveillance (2 charges) - Selects a target operative and places a camera on their hideout. The camera is destroyed upon moving hideout or getting escorted. Visit the target.
 
-REWORK THIS -> Remove occupy, reveal a claim?
-Interrogate (1 night cooldown) - Select a target operative and find what the operative did last night. Visit and occupy them.
+Interrogate (2 charges) - Select a target operative and find out what they claim to be. Visit them.
 
 Speech Analysis - Start with a random operative. Select a target operative and compare their speech, checking if they can win together. Visit them.
 
 LSTM Speech Recognition - Select a target operative and check if any talking happened in that operative's hideout. Learn whether they were occupied. Visit them.
-
-Hiring Check (1 night cooldown) - Check how an operative was hired. You'll be given a random skill that they have.
 
 Wiretap - Select a target operative. Check the operative's outgoing and ingoing communications to check if they were framed. Visit them.
 
@@ -93,13 +90,15 @@ Onboarding Process - Select a target operative. If the operative's name is renam
 
 Background Search - Check a target operative's background. You'll be given a random skill that they have.
 
-Get Scoop (1 night cooldown) - Select a target operative. Visit and occupy them, talking about the hack. Learn if the operative is neutral.
+Get Scoop (1 night cooldown) - Select a target operative. Visit and occupy them, talking about the hack. Learn if the operative is an interlooper.
 
 Expose Fed (1 charge) - Select a target operative. If they are a Fed, reveal the Fed globally. Visit and occupy them.
 
 Mock Interview (1 night cooldown) - Check whether an operative has their hack chance increased or decreased tonight, letting you know specifically if it was increased or decreased. Visit them.
 
 Review TCP Packets (2 charges) - Select a target operative and check if they used a hack today.
+
+Looking for an Old Friend - Select a target operative, if they are a special subclass, you will know. Goes through cover or frames. Visit them.
 
 Informant (2 charges) - Select a target operative. Reveal their faction and subclass to you.
 
@@ -111,17 +110,23 @@ Escort - Escort a target operative, protecting the operative from arrests and mu
 
 Emergency Extraction (3 charges) - Select an operative to escort, does not occupy them and makes them immune to everything unless otherwise stated.
 
-Act as Prosecution or Defense - Select a target operative. If they are arrested tonight, unframe and uncover them.
+Act as Prosecution - Select a target operative. If they are targeted by an arrest, occupy them.
+
+Act as Defense - Select a target operative. If they are arrested tonight, delay their arrest by 1 night.
 
 Grant Immunity (1 charge) - Select a target operative. They are immune to arrests this round.
 
-Objection! - Select a target operative. If they try to murder or arrest you, dodge the attack and notify you that they attempted to murder or arrest you.
+Bail Out (1 charge) - Select an arrested target operative. Get them out of being arrested, ressurecting them.
+
+Objection! (1 charge) - Select a target operative. Remove No Dirt on Me from them.
 
 Midnight Meet (1 night cooldown) - Select a target operative. Visit and occupy them, talking about the hack. 
 
 Setup (2 charges) - Select two operatives. The first operative will visit and occupy the second operative, occupying both operatives. You may be the first target. Visits the first operative.
 
 Disorganized Murder - Select an operative and murder them. Visit the target.
+
+Murder (1 charge) - Select an operative and murder them. Occupies and visits the target.
 
 Citizen's Arrest (2 charges) - Select a target operative and arrest them. Visit them.
 
@@ -139,7 +144,6 @@ Frame (2 charges) - Select a target operative. Change their role to be a random 
 
 Blowout Arrest (2 charges) - Select a target operative. Bypass all defensive skills, including Throw under the Bus and Misdirection. Can only be stopped if occupied. Visit, occupy, and arrest them.
 
-REORGANIZE THIS
 ### **Agent Stuff:**
 
 Rallying Cry (2 charges) - All agents will be unable to be occupied.
@@ -148,7 +152,7 @@ Bouncer (2 charges) - Select a target operative. You will visit and occupy them 
 
 Commissar's Orders (2 charges) - If a Fed is killed tonight, delay their death till the next night.
 
-Rallying Cry (1 night cooldown, 2 charges) - All Feds will be unable to be occupied.
+Rallying Cry (2 charges) - All Feds will be unable to be occupied.
 
 Motivation - Select a Fed operative. For tonight, they are immune to occupation. Visit them.
 
@@ -188,7 +192,9 @@ All in (1 charge) - Turn into a Field Agent. Can only be done if there are no Fe
 
 Give Root Access (1 charges) - Give root access to an operative. If they are a Hacker, they will gain immunity to occupation, kills, arrests, and anything that blocks hacking.
 
-Prepare Sprint (1 charge) - The next day you can do two different day actions.
+Hack Root Access - Select a green node. If there is a rooted operative, you can hack into root access and gain ROOT access for 2 nights. Leaves a log.
+
+Prepare Sprint (1 charge) - The next day you can do two different actions.
 
 Deep Learn (2 charges) - The next action will go through any kind of frame.
 
@@ -203,6 +209,10 @@ Old Friends (3 charges) - Select a target operative. If they are a Hacker member
 Contact W.P.P. (2 charges) - If any operative visits you tonight, they will be arrested. Dodge any attempts to arrest you.
 
 ### **Passives:**
+
+Liar, Liar - You use a fake claim and lie about what you do.
+
+Rent Free - Avoid the first arrest attempt and murder attempt on you.
 
 Not Hacker - Your true faction is Interlooper.
 
@@ -222,7 +232,9 @@ Target Knowledge - You can see which node is the final target.
 
 True Sight - All investigative abilities go through frames.
 
-People Person - You know how to navigate the sausage fest of a Hacking group. You know when someone is lying to you, so you learn real results.
+People Person - You know how to navigate the sausage fest of a Hacking group. If you are occupied, continue to do your action.
+
+Unstable Mind - Any successful arrest grants an extra charge of the arresting ability to the arrester.
 
 Old Guard - If asked the right question, they will receive a Very High hacking chance result.
 
@@ -236,10 +248,14 @@ Runaway Operative (1 charge) - After 3 nights, if no Feds were killed, automatic
 
 Blackmailed Informant - Any time a Fed uses Deductive Reasoning or Informant, you will get information that the Feds get.
 
-W3C Origin - If W3C spawned, you'll know about it.
+W3C Knowledge - If W3C spawned, you'll know about it.
+
+Paragon Knowledge - If Paragon spawned, you'll know about it.
 
 Loyal to the End - Have a defendant from the beginning. If your defendant is arrested or murdered, you will randomly get another defendant. You are immune to the defendant.
 
 The Vault - Purchase a random skill for one fund.
 
 Local Legend - You are known too well in the community. If you are murdered, you can occupy a random non-Fed operative, as they will be hosting your funeral.
+
+Finding Fame Elsewhere - If you fail to hack 3 consecutive nodes, turn into a Network Shutdowner permanently.

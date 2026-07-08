@@ -1,8 +1,6 @@
 ### **Actives:**
 
-Hack Target (Low) - Select a white node and attempt to hack it. Leaves a log.
-
-Impersonate (1 charge) - Permanently rename your operative to whatever name you want.
+Hack Target (Low) - Select a white node and hack it, dealing 2 HP. Leaves a log.
 
 Speech Analysis - Start with a random operative. Select a target operative and compare their speech, checking if they can win together. Visit them.
 

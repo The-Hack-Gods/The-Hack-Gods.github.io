@@ -1,10 +1,8 @@
 ### **Actives:**
 
-Hack Target (Very Low) - Select a white node and attempt to hack it. Leaves logs.
+Hack Target (Very Low) - Select a white node and hack it, dealing 1 HP. Leaves a log.
 
 Download Intel - Select a green node and attempt to download from it. If there is intel, and you download and remove it first, you will get intel (see tips for list of intel). Leaves a log.
-
-Dumpster Dive - Increases your hacking ability by 1 stage next hack.
 
 ### **Passives:**
 

@@ -1,6 +1,6 @@
 ### **Actives:**
 
-Hack Target (Low) - Select a white node and attempt to hack it. Leave a log.
+Hack Target (Low) - Select a white node and hack it, dealing 2 HP. Leaves a log.
 
 Impersonate (1 charge) - Permanently rename your operative to whatever name you want.
 

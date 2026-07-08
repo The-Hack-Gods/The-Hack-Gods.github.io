@@ -14,13 +14,13 @@ The Vault
 
 =======================================================================
 
-Hack Target (Low, 1 charge) - Select a white node and attempt to hack it. Leaves a log.
+Hack Target (Very Low, 1 charges) - Select a white node and hack it, dealing 1 HP. Leaves a log.
 
-Follow (1 charge) - Select a target operative and follow them, visiting them and checking if they left their hideout and met anyone. If they were occupied, you'd only know that they could not leave their hideout.
+Follow (1 charges) - Select a target operative and follow them, visiting them and checking if they left their hideout and met anyone. If they were occupied, you'd only know that they could not leave their hideout.
 
-Misdirection (1 charge) - Occupy anyone that visits you directly, blocking any attempts to visit, occupy, and kill directly. Does not save you from Raids, Stings, and other indirect methods of killing this operative.
+Misdirection (1 charges) - Occupy anyone that visits you directly, blocking any attempts to visit, occupy, and kill directly. Does not save you from Raids, Stings, and other indirect methods of killing this operative.
 
-Interrogate (1 night cooldown) - Select a target operative and find what the operative did last night. Visit and occupy them.
+Interrogate (1 charges) - Select a target operative and find out what they claim to be. Visit them.
 
 ### **Passives:**
 

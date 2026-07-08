@@ -1,8 +1,6 @@
 ### **Actives:**
 
-Create Hideout (2 charges) - Grants you one charge of Move Hideout.
-
-Script Kiddie Attack - Select a node, green or white. If the node is white, it has a very low chance to hack the node. Leaves a log.
+Script Kiddie Attack - Select a node, green or white. If the node is white, attempt to hack it, dealing 1 HP. Leaves a log.
 
 Denial of Service (2 charges) - Select a green or white node and block all connections to the node this day. Do not leave a log.
 

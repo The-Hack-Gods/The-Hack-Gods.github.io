@@ -10,8 +10,8 @@ Rerouted Denial of Service (2 charges) - Select a green or white node and block 
 
 Follow (2 charges) - Select a target operative and follow them, visiting them and checking if they left their hideout and met anyone. If they were occupied, you'd only know that they could not leave their hideout.
 
-Throw Under the Bus (2 charges) - Select a target operative. All skills used on you will be used on the target operative.
-
 ### **Passives:**
 
 Fed Scum - Your true faction is Fed.
+
+Liar, Liar - You use a fake claim and lie about what you do.

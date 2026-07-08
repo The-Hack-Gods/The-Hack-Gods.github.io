@@ -2,11 +2,7 @@
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
-Rallying Cry (2 charges) - All agents will be unable to be occupied.
-
 Arrest - Select a target operative and arrest them. Visit them.
-
-Sting (1 charge) - Select a target operative and arrest them, along with anyone that visits them. Do not visit them.
 
 Blowout Arrest (2 charges) - Select a target operative. Bypass all defensive skills, including Throw under the Bus and Misdirection. Can only be stopped if occupied. Visit, occupy, and arrest them.
 

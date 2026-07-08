@@ -2,11 +2,11 @@
 
 Insider Knowledge (2 charges) - Tells you the IP of a node with downloadable intel on it.
 
-Desperate Measures (1 charge) - Turn into an Improvised Hacker.
+Plant and Retrieve Keylogger - Select a white node, finding out if a non-hacking ability was used on this node yesterday.
 
 Follow (2 charges) - Select a target operative and follow them, visiting them and checking if they left their hideout and met anyone. If they were occupied, you'd only know that they could not leave their hideout.
 
-Plant and Retrieve Keylogger (1 night cooldown) - Select a white node, finding out if a non-hacking ability was used on this node yesterday.
+Desperate Measures (1 charge) - Turn into an Improvised Hacker.
 
 ### **Passives:**
 
