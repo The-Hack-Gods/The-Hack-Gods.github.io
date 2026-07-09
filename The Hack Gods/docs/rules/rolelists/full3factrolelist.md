@@ -131,7 +131,7 @@
         - [<span class="fed">Helicopter Operator](../../../rolelist/fed/FedInvest/HelicopterOperator)
         - [<span class="fed">Narcotics Officer](../../../rolelist/fed/FedInvest/NarcoticsOfficer)
     - <span class="fed">Fed Offensive:
-        - [<span class="fed">Agent Leader](../../../rolelist/fed/FedOffensive/FedLeader)
+        - [<span class="fed">Agent Leader](../../../rolelist/fed/FedOffensive/AgentLeader)
         - [<span class="fed">Cipher Lord](../../../rolelist/fed/FedOffensive/CipherLord)
         - [<span class="fed">Expert Whitehat](../../../rolelist/fed/FedOffensive/ExpertWhitehat)
         - [<span class="fed">Drone Operator](../../../rolelist/fed/FedOffensive/DroneOperator)
