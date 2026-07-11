@@ -8,3 +8,5 @@
 <br>
 - For every action that can leak information, your operatives will slowly be leaked per hostile action. If too many hostile actions are done, an operative will be killed. This operative can be chosen. If all operatives die before your objective is finished, you lose.
 <br>
+Actives and passives that deceive or compromise your position will be labelled as (Deception Very Low -> High) - 1 to 5, and (Compromised Very Low -> High) - 1 to 5, with Wanted Level as 5 HP.
+<br>

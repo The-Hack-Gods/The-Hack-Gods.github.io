@@ -6,7 +6,7 @@ Hack Target (Very Low) - Select a white node and hack it, dealing 1 HP. Leaves a
 
 Script Kiddie Attack - Select a node, green or white. If the node is white, attempt to hack it, dealing 1 HP. Leaves a log.
 
-0-day Exploit (1 charges) - Select a white node and instantly hack it. Leaves a log.
+0-day Exploit (1 charge) - Select a white node and instantly hack it. Leaves a log.
 
 Dumpster Dive - Select a white node and hack it, dealing 1 HP. Does not leave a log.
 
@@ -14,7 +14,7 @@ Study - Increases your hacking stage by one the following day.
 
 Hit the Books (2 charges) - Increases your hacking stage by one, permanently.
 
-Pair Programming (1 charges) - Select a target operative, their hacking chance permanently increases by one stage. Visit them.
+Pair Programming (1 charge) - Select a target operative, their hacking chance permanently increases by one stage. Visit them.
 
 Advisor - Select a target operative, their hacking chance temporarily increases by one stage. Visit them.
 
@@ -32,9 +32,9 @@ Spearphisher Execution - Select a white node, finds out if there is intel on thi
 
 Download Intel - Select a green node and attempt to download from it. If there is intel, and you download and remove it first, you will get intel (see tips for list of intel). Leaves a log.
 
-Upload Intel (1 charges) - Select a green node and upload intel that is downloadable by others. Whoever downloading will get intel (see tips for list of intel). Leaves a log.
+Upload Intel (1 charge) - Select a green node and upload intel that is downloadable by others. Whoever downloading will get intel (see tips for list of intel). Leaves a log.
 
-Upload Fake Intel (1 charges) - Select a white or green node and upload intel that is downloadable by others. Leaves lying intel. Leaves a log.
+Upload Fake Intel (1 charge) - Select a white or green node and upload intel that is downloadable by others. Leaves lying intel. Leaves a log.
 
 Cryptocurrency Trading - Trade currency for some intel. Instead of downloading, you can try to get intel through buying and selling crypto on the market. Download Intel without leaving a connection log.
 
@@ -48,7 +48,7 @@ Denial of Service (2 charges) - Select a green or white node and block all conne
 
 Rerouted Denial of Service (2 charges) - Select a green or white node and block all connections to the node this day. Select a target operative to make this show up as the operative who used the denial of service with Wireshark. Do not leave a log.
 
-Rollback (1 charges) - Select a green node, return the node to a white node, un-hacking the node. Connections to nodes ahead fail. Leaves a set of random connection logs, one of which is a random Fed.
+Rollback (1 charge) - Select a green node, return the node to a white node, un-hacking the node. Connections to nodes ahead fail. Leaves a set of random connection logs, one of which is a random Fed.
 
 ### **Hacking Investigative:**
 
@@ -158,7 +158,7 @@ Experienced Hiding (3 charges) - Move your hideout, protecting yourself unless y
 
 Cover Your Tracks (2 charges) - Move your hideout, protecting yourself unless you are occupied. Arrest attempts will show a result similar to a target that is immune to arrest, like No Dirt On Me.
 
-Misdirection (1 charges) - Occupy anyone that visits you directly, blocking any attempts to visit, occupy, and kill directly. Does not save you from Raids, Stings, and other indirect methods of killing this operative.
+Misdirection (1 charge) - Occupy anyone that visits you directly, blocking any attempts to visit, occupy, and kill directly. Does not save you from Raids, Stings, and other indirect methods of killing this operative.
 
 Throw Under the Bus (2 charges) - Select a target operative. All skills used on you will be used on the target operative.
 
@@ -188,15 +188,15 @@ Encrypt Killswitch (2 charges) - Select a target operative. Upon death or arrest
 
 ### **Other:**
 
-Impersonate (1 charges) - Permanently rename your operative to whatever name you want.
+Impersonate (1 charge) - Permanently rename your operative to whatever name you want.
 
 Bait Law Enforcement - Select a target operative, inform the Feds that the target is a Hacker. Can be yourself.
 
-Desperate Measures (1 charges) - Turn into an Improvised Hacker.
+Desperate Measures (1 charge) - Turn into an Improvised Hacker.
 
 All in (1 charge) - Turn into a Field Agent. Can only be done if there are no Fed on the Field roles.
 
-Give Root Access (1 charges) - Give root access to an operative. If they are a Hacker, they will gain immunity to occupation, kills, arrests, and anything that blocks hacking.
+Give Root Access (1 charge) - Give root access to an operative. If they are a Hacker, they will gain immunity to occupation, kills, arrests, and anything that blocks hacking.
 
 Hack Root Access - Select a green node. If there is a rooted operative, you can hack into root access and gain ROOT access for 2 nights. Leaves a log.
 
