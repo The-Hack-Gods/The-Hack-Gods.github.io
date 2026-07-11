@@ -1,4 +1,4 @@
-Win Condition: You are given 3 roles to find. Find all 3 roles and match them to the operative.
+Win Condition: You are given 3 roles to find. Find all 3 roles and match them to an operative. If they change role, you will be notified and must guess that role instead. If they are killed or arrested, the role will change to a role in the game currently.
 
 ### **Actives:**
 
