@@ -100,7 +100,7 @@ Mock Interview (1 night cooldown) - Check whether an operative has their hack ch
 
 Review TCP Packets (2 charges) - Select a target operative and check if they used a hack today.
 
-Looking for an Old Friend - Select a target operative, if they are a special subclass, you will know. Goes through cover or frames. Visit them.
+Looking for an Old Friend - Select a target operative, if they are a special subclass or leading Fed, you will know. Goes through cover or frames. Visit them.
 
 Informant (2 charges) - Select a target operative. Reveal their faction and subclass to you.
 
