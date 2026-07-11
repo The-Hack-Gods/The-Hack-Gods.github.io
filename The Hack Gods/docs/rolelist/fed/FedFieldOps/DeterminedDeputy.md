@@ -1,12 +1,12 @@
 ### **Actives:**
 
-Unskilled Attack - Select a node, green or white. Leaves a log.
+Unskilled Attack (-1 Wanted Level) - Select a node, green or white. Leaves a log.
 
-Arrest - Select a target operative and arrest them. Visit them.
+Arrest (+1 Wanted Level) - Select a target operative and arrest them. Visit them.
 
-Blowout Arrest (2 charges) - Select a target operative. Bypass all defensive skills, including Throw under the Bus and Misdirection. Can only be stopped if occupied. Visit, occupy, and arrest them.
+Blowout Arrest (2 charges, +1 Wanted Level) - Select a target operative. Bypass all defensive skills, including Throw under the Bus and Misdirection. Can only be stopped if occupied. Visit, occupy, and arrest them.
 
-Bouncer (2 charges) - Select a target operative. You will visit and occupy them like a Midnight Meet, and anyone who visits them will be occupied, like a Misdirection.
+Bouncer (2 charges, -1 Wanted Level) - Select a target operative. You will visit and occupy them like a Midnight Meet, and anyone who visits them will be occupied, like a Misdirection.
 
 ### **Passives:**
 

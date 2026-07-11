@@ -1,14 +1,14 @@
 ### **Actives:**
 
-Unskilled Attack - Select a node, green or white. Leaves a log.
+Unskilled Attack (-1 Wanted Level) - Select a node, green or white. Leaves a log.
 
 Bait Law Enforcement - Select a target operative, inform the Feds that the target is a Hacker. Can be yourself.
 
-Fake Escort - Escort a target operative, but leave as soon as trouble comes, letting the original target die or get arrested. Visit and occupy them.
+Fake Escort (-1 Wanted Level) - Escort a target operative, but leave as soon as trouble comes, letting the original target die or get arrested. Visit and occupy them.
 
-Citizen's Arrest (2 charges) - Select a target operative and arrest them. Visit them.
+Citizen's Arrest (2 charges, +1 Wanted Level) - Select a target operative and arrest them. Visit them.
 
-Frame (2 charges) - Select a target operative. Change their role to be a random role, which they will then have all intel abilities follow that frame. Removes No Dirt On Me and can be used on Feds. Visit them.
+Frame (2 charges, -1 Wanted Level) - Select a target operative. Change their role to be a random role, which they will then have all intel abilities follow that frame. Removes No Dirt On Me and can be used on Feds. Visit them.
 
 ### **Passives:**
 

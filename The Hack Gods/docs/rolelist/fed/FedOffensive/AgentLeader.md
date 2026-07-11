@@ -1,8 +1,8 @@
 ### **Actives:**
 
-Harden Node (Moderate) - Select a white node, heal the node by 3 HP. Leaves a log.
+Harden Node (Moderate, +1 Wanted Level) - Select a white node, heal the node by 3 HP. Leaves a log.
 
-Rollback (1 charge) - Select a green node, return the node to a white node, un-hacking the node. Connections to nodes ahead fail. Leaves a set of random connection logs, one of which is you.
+Rollback (1 charge, +2 Wanted Level) - Select a green node, return the node to a white node, un-hacking the node. Connections to nodes ahead fail. Leaves a set of random connection logs, one of which is you.
 
 Informant (2 charges) - Select a target operative. Reveal their faction and subclass to you. Do not visit them.
 

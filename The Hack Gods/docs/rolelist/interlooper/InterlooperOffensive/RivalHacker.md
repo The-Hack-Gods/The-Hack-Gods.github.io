@@ -1,10 +1,10 @@
 ### **Actives:**
 
-Harden Node (High) - Select a white node, heal the node by 4 HP. Leaves a log.
+Harden Node (High, +1 Wanted Level) - Select a white node, heal the node by 4 HP. Leaves a log.
 
-Jam Network (2 charges) - Select a target operative and disable all day actions related to the topology done by them.
+Jam Network (2 charges, +1 Wanted Level) - Select a target operative and disable all day actions related to the topology done by them.
 
-Wipe (1 charge) - Select a white node. Remove all connection logs and intel to the node.
+Wipe (1 charge, -1 Wanted Level) - Select a white node. Remove all connection logs and intel to the node.
 
 Wiretap - Select a target operative. Check the operative's outgoing and ingoing communications to check what their current night action is. Visit them.
 
