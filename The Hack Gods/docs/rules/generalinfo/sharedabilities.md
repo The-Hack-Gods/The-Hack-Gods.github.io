@@ -78,19 +78,21 @@ Follow (2 charges) - Select a target operative and follow them, visiting them an
 
 Install CCTV Surveillance (2 charges) - Selects a target operative and places a camera on their hideout. The camera is destroyed upon moving hideout or getting escorted. Visit the target.
 
-Interrogate (2 charges) - Select a target operative and find out what they claim to be. Visit them.
+Interrogate (3 charges) - Select a target operative and find out what they did last night. Visit and occupy them.
 
 Speech Analysis - Start with a random operative. Select a target operative and compare their speech, checking if they can win together. Visit them.
 
 LSTM Speech Recognition - Select a target operative and check if any talking happened in that operative's hideout. Learn whether they were occupied. Visit them.
 
-Wiretap - Select a target operative. Check the operative's outgoing and ingoing communications to check if they were framed. Visit them.
+Wiretap - Select a target operative. Check the operative's outgoing and ingoing communications to check what their current night action is. Visit them.
 
 Onboarding Process - Select a target operative. If the operative's name is renamed, learn which operative changed their name.
 
 Background Search - Check a target operative's background. You'll be given a random skill that they have.
 
-Get Scoop (1 night cooldown) - Select a target operative. Visit and occupy them, talking about the hack. Learn if the operative is an interlooper.
+### **Unique Investigative:**
+
+Get Scoop (1 night cooldown) - Select a target operative. Visit and occupy them, revealing your identity. Learn if the operative is an interlooper.
 
 Expose Fed (1 charge) - Select a target operative. If they are a Fed, reveal the Fed globally. Visit and occupy them.
 
@@ -104,13 +106,15 @@ Informant (2 charges) - Select a target operative. Reveal their faction and subc
 
 Deductive Reasoning - Select a target operative. You will learn their faction, and their subclass. Visit them.
 
-### **Field Operations:**
+Daily Standup - Select an operative, learn what they did last night.
+
+### **Defensive Field Ops:**
 
 Escort - Escort a target operative, protecting the operative from arrests and murders. Arrest attempts will arrest this operative instead, and anyone attempting to murder the protected operative will be killed. Visit and occupy them.
 
 Emergency Extraction (3 charges) - Select an operative to escort, does not occupy them and makes them immune to everything unless otherwise stated.
 
-Act as Prosecution - Select a target operative. If they are targeted by an arrest, occupy them.
+Act as Prosecution - Select a target operative. If they are targeted by an arrest, occupy them and do not reveal your identity.
 
 Act as Defense - Select a target operative. If they are arrested tonight, delay their arrest by 1 night.
 
@@ -118,11 +122,15 @@ Grant Immunity (1 charge) - Select a target operative. They are immune to arrest
 
 Bail Out (1 charge) - Select an arrested target operative. Get them out of being arrested, ressurecting them.
 
-Objection! (1 charge) - Select a target operative. Remove No Dirt on Me from them.
+Objection! (3 charges) - Select a target operative. Disable No Dirt on Me and Rent Free! for tonight.
 
-Midnight Meet (1 night cooldown) - Select a target operative. Visit and occupy them, talking about the hack. 
+Midnight Meet (1 night cooldown) - Select a target operative. Visit and occupy them, revealing your identity.
 
-Setup (2 charges) - Select two operatives. The first operative will visit and occupy the second operative, occupying both operatives. You may be the first target. Visits the first operative.
+Setup (2 charges) - Select two operatives. The first operative will visit and occupy the second operative, occupying and revealing both operatives. You may be the first target. Visits the first operative.
+
+Bouncer (2 charges) - Select a target operative. You will visit and occupy them like a Midnight Meet, and anyone who visits them will be occupied, like a Misdirection.
+
+### **Offensive Field Ops:**
 
 Disorganized Murder - Select an operative and murder them. Visit the target.
 
@@ -144,11 +152,19 @@ Frame (2 charges) - Select a target operative. Change their role to be a random 
 
 Blowout Arrest (2 charges) - Select a target operative. Bypass all defensive skills, including Throw under the Bus and Misdirection. Can only be stopped if occupied. Visit, occupy, and arrest them.
 
-### **Agent Stuff:**
+### **Survival:**
+
+Experienced Hiding (3 charges) - Move your hideout, protecting yourself unless you are occupied.
+
+Cover Your Tracks (2 charges) - Move your hideout, protecting yourself unless you are occupied. Arrest attempts will show a result similar to a target that is immune to arrest, like No Dirt On Me.
+
+Misdirection (1 charges) - Occupy anyone that visits you directly, blocking any attempts to visit, occupy, and kill directly. Does not save you from Raids, Stings, and other indirect methods of killing this operative.
+
+Throw Under the Bus (2 charges) - Select a target operative. All skills used on you will be used on the target operative.
+
+### **Unique Stuff:**
 
 Rallying Cry (2 charges) - All agents will be unable to be occupied.
-
-Bouncer (2 charges) - Select a target operative. You will visit and occupy them like a Midnight Meet, and anyone who visits them will be occupied, like a Misdirection.
 
 Commissar's Orders (2 charges) - If a Fed is killed tonight, delay their death till the next night.
 
@@ -169,16 +185,6 @@ Encrypt Intel - Select a green node and attempt to erase intel from it. If there
 Caesar Cipher (1 charge) - Select a layer, removing all intel on this layer. Do not leave a log.
 
 Encrypt Killswitch (2 charges) - Select a target operative. Upon death or arrest, the target's role will be encrypted and unable to be read. Gives you their role. Visit them.
-
-### **Survival:**
-
-Experienced Hiding (3 charges) - Move your hideout, protecting yourself unless you are occupied.
-
-Cover Your Tracks (2 charges) - Move your hideout, protecting yourself unless you are occupied. Arrest attempts will show a result similar to a target that is immune to arrest, like No Dirt On Me.
-
-Misdirection (1 charges) - Occupy anyone that visits you directly, blocking any attempts to visit, occupy, and kill directly. Does not save you from Raids, Stings, and other indirect methods of killing this operative.
-
-Throw Under the Bus (2 charges) - Select a target operative. All skills used on you will be used on the target operative.
 
 ### **Other:**
 
@@ -208,7 +214,7 @@ Old Friends (3 charges) - Select a target operative. If they are a Hacker member
 
 Contact W.P.P. (2 charges) - If any operative visits you tonight, they will be arrested. Dodge any attempts to arrest you.
 
-### **Passives:**
+### **Repeated Passives:**
 
 Liar, Liar - You use a fake claim and lie about what you do.
 
@@ -232,19 +238,19 @@ Target Knowledge - You can see which node is the final target.
 
 True Sight - All investigative abilities go through frames.
 
+### **Unique Passives:**
+
 People Person - You know how to navigate the sausage fest of a Hacking group. If you are occupied, continue to do your action.
 
 Unstable Mind - Any successful arrest grants an extra charge of the arresting ability to the arrester.
-
-Old Guard - If asked the right question, they will receive a Very High hacking chance result.
 
 Unsecured Device - If you are arrested, the Feds get some intel, similar to Download Intel, getting intel (see tips for list of intel).
 
 Hidden Connections - If you are murdered, the player that killed you will be arrested.
 
-On the Run - If you are murdered, a random Hacker will be arrested.
-
 Runaway Operative (1 charge) - After 3 nights, if no Feds were killed, automatically turn into a Fed Whitehat.
+
+Old Guard - If asked the right question, they will receive a Very High hacking chance result.
 
 Blackmailed Informant - Any time a Fed uses Deductive Reasoning or Informant, you will get information that the Feds get.
 

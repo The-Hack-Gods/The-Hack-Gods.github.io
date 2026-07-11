@@ -2,7 +2,7 @@
 
 Harden Node (Moderate) - Select a white node, heal the node by 3 HP. Leaves a log.
 
-Midnight Meet (1 night cooldown) - Select a target operative. Visit and occupy them, talking about the hack. 
+Midnight Meet (1 night cooldown) - Select a target operative. Visit and occupy them, revealing your identity.
 
 Experienced Hiding (3 charges) - Move your hideout, protecting yourself unless you are occupied.
 

@@ -6,7 +6,7 @@ Jam Network (2 charges) - Select a target operative and disable all day actions 
 
 Wipe (1 charge) - Select a white node. Remove all connection logs and intel to the node.
 
-Wiretap - Select a target operative. Check the operative's outgoing and ingoing communications to check if they were framed. Visit them.
+Wiretap - Select a target operative. Check the operative's outgoing and ingoing communications to check what their current night action is. Visit them.
 
 Experienced Hiding (3 charges) - Move your hideout, protecting yourself unless you are occupied.
 

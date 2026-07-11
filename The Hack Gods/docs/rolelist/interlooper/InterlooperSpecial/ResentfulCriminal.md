@@ -6,7 +6,7 @@ Impersonate (1 charge) - Permanently rename your operative to whatever name you 
 
 Looking for an Old Friend - Select a target operative, if they are a special subclass, you will know. Goes through cover or frames. Visit them.
 
-Interrogate (2 charges) - Select a target operative and find out what they claim to be. Visit them.
+Interrogate (3 charges) - Select a target operative and find out what they did last night. Visit and occupy them.
 
 Disorganized Murder - Select an operative and attempt to murder them. Visit the target.
 

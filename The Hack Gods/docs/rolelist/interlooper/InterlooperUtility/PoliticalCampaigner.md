@@ -20,7 +20,7 @@ Follow (1 charges) - Select a target operative and follow them, visiting them an
 
 Misdirection (1 charges) - Occupy anyone that visits you directly, blocking any attempts to visit, occupy, and kill directly. Does not save you from Raids, Stings, and other indirect methods of killing this operative.
 
-Interrogate (1 charges) - Select a target operative and find out what they claim to be. Visit them.
+Interrogate (1 charges) - Select a target operative and find out what they did last night. Visit and occupy them.
 
 ### **Passives:**
 

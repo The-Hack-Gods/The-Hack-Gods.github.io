@@ -6,7 +6,7 @@ Rollback (1 charge) - Select a green node, return the node to a white node, un-h
 
 Informant (2 charges) - Select a target operative. Reveal their faction and subclass to you. Do not visit them.
 
-Midnight Meet (1 night cooldown) - Select a target operative. Visit and occupy them, talking about the hack. 
+Midnight Meet (1 night cooldown) - Select a target operative. Visit and occupy them, revealing your identity.
 
 Plea Deal (2 charges) - Select a target operative. If they are a Hacker, give them a plea deal, converting them into a Fed Mole.
 

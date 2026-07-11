@@ -2,11 +2,11 @@
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
-Act as Prosecution - Select a target operative. If they are targeted by an arrest, occupy them.
+Act as Prosecution - Select a target operative. If they are targeted by an arrest, occupy them and do not reveal your identity.
 
-Objection! (1 charge) - Select a target operative. Remove No Dirt on Me from them.
+Objection! (3 charges) - Select a target operative. Disable No Dirt on Me and Rent Free for tonight.
 
-Setup (2 charges) - Select two operatives. The first operative will visit and occupy the second operative, occupying both operatives. You may be the first target. Visits the first operative.
+Setup (2 charges) - Select two operatives. The first operative will visit and occupy the second operative, occupying and revealing both operatives. You may be the first target. Visits the first operative.
 
 Plea Deal (2 charges) - Select a target operative. If they are a Hacker, give them a plea deal, converting them into a Fed Mole.
 
