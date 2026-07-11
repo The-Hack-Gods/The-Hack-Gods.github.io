@@ -4,7 +4,7 @@ Harden Node (Very Low, +1 Wanted Level) - Select a white node, heal the node by 
 
 Rerouted Denial of Service (2 charges) - Select a green or white node and block all connections to the node this day. Select a target operative to make this show up as the operative who used the denial of service with Wireshark. Do not leave a log.
 
-Move Hideout (1 charge) - Move your hideout, protecting yourself unless you are occupied.
+Experienced Hiding (3 charges) - Move your hideout, protecting yourself unless you are occupied.
 
 Disorganized Murder (+1 Wanted Level) - Select an operative and murder them. Visit the target.
 

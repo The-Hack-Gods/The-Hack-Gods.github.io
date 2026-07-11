@@ -4,7 +4,7 @@ Script Kiddie Attack - Select a node, green or white. If the node is white, atte
 
 Denial of Service (2 charges) - Select a green or white node and block all connections to the node this day. Do not leave a log. Using this ability on a white node will gain +2 Wanted Level.
 
-Move Hideout (1 charge) - Move your hideout, protecting yourself unless you are occupied.
+Experienced Hiding (3 charges) - Move your hideout, protecting yourself unless you are occupied.
 
 Wake Up Call (1 charge) - Become the Panicked Blabbermouth.
 
