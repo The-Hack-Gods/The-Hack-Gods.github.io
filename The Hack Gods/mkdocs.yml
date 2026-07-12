@@ -26,29 +26,33 @@ nav:
       - Rules: rules/generalinfo/rules.md
       - Shared Abilities: rules/generalinfo/sharedabilities.md
     - Game Modes:
-      - Hacker: rules/gamemodes/hacker.md
+      - Roguelike: rules/gamemodes/roguelike.md
+      - Instant Action: rules/gamemodes/instantaction.md
+      - Handcrafted Levels: rules/gamemodes/handcrafted.md
+    - Win Conditions:
+      - Hacker: rules/wincons/hacker.md
       - Hacker Leaders:
-        - Operation Leader: rules/gamemodes/hacker/OperationLeader.md
-        - Former Agent Leader: rules/gamemodes/hacker/FormerAgentLeader.md
-        - Hack God: rules/gamemodes/hacker/HackGod.md
-        - Infamous Cybercriminal: rules/gamemodes/hacker/InfamousCybercriminal.md
-        - Majority Shareholder: rules/gamemodes/hacker/MajorityShareholder.md
-      - Interlooper: rules/gamemodes/interlooper.md
+        - Operation Leader: rules/wincons/hacker/OperationLeader.md
+        - Former Agent Leader: rules/wincons/hacker/FormerAgentLeader.md
+        - Hack God: rules/wincons/hacker/HackGod.md
+        - Infamous Cybercriminal: rules/wincons/hacker/InfamousCybercriminal.md
+        - Majority Shareholder: rules/wincons/hacker/MajorityShareholder.md
+      - Interlooper: rules/wincons/interlooper.md
       - Interlooper Win Conditions:
-        - Journalist: rules/gamemodes/interlooper/Journalist.md
-        - Investigator: rules/gamemodes/interlooper/Investigator.md
-        - Assassin: rules/gamemodes/interlooper/Assassin.md
-        - Serial Killer: rules/gamemodes/interlooper/SerialKiller.md
-      - Fed: rules/gamemodes/fed.md
+        - Journalist: rules/wincons/interlooper/Journalist.md
+        - Investigator: rules/wincons/interlooper/Investigator.md
+        - Assassin: rules/wincons/interlooper/Assassin.md
+        - Serial Killer: rules/wincons/interlooper/SerialKiller.md
+      - Fed: rules/wincons/fed.md
       - Fed Leaders:
-        - Blackmailed Leader: rules/gamemodes/fed/BlackmailedLeader.md
-        - Founder of Agent: rules/gamemodes/fed/FounderOfAgent.md
-      - W3C: rules/gamemodes/w3c.md
+        - Blackmailed Leader: rules/wincons/fed/BlackmailedLeader.md
+        - Founder of Agent: rules/wincons/fed/FounderOfAgent.md
+      - W3C: rules/wincons/w3c.md
       - W3C Leaders:
-        - W3C Leader: rules/gamemodes/fed/W3CLeader.md
-      - Paragon: rules/gamemodes/paragon.md
+        - W3C Leader: rules/wincons/fed/W3CLeader.md
+      - Paragon: rules/wincons/paragon.md
       - Paragon Leaders:
-        - Paragon Leader: rules/gamemodes/fed/ParagonLeader.md
+        - Paragon Leader: rules/wincons/fed/ParagonLeader.md
     - Role Lists:
       - Simplified Role List: rules/rolelists/simplifiedrolelist.md
       - Core Role List: rules/rolelists/corerolelist.md
