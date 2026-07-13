@@ -25,30 +25,30 @@ There is no converting possible in Simplified Role List.
         - [<span class="hacker">Double Agent](../../../rolelist/hacker/HackerChaos/DoubleAgent)
         - [<span class="hacker">Hacking Advocate](../../../rolelist/hacker/HackerChaos/HackingAdvocate)
         - [<span class="hacker">Technical Recruiter](../../../rolelist/hacker/HackerChaos/TechnicalRecruiter)
-- Interlooper:
-    - Interlooper:
-        - [Interlooper](../../../rolelist/interlooper/interlooper)
-    - Interlooper Special:
-        - [Sociopath](../../../rolelist/interlooper/InterlooperSpecial/Sociopath)
-        - [Resentful Criminal](../../../rolelist/interlooper/InterlooperSpecial/ResentfulCriminal)
-    - Interlooper Field Operations:
-        - [Bounty Hunter](../../../rolelist/interlooper/InterlooperFieldOps/BountyHunter)
-    - Interlooper Investigative:
-        - [Journalist](../../../rolelist/interlooper/InterlooperInvest/Journalist)
-        - [Amateur Investigator](../../../rolelist/interlooper/InterlooperInvest/AmateurInvestigator)
-    - Interlooper Offensive:
-        - [Script Kiddie](../../../rolelist/interlooper/InterlooperOffensive/ScriptKiddie)
-        - [Panicked Blabbermouth](../../../rolelist/interlooper/InterlooperOffensive/PanickedBlabbermouth)
-        - [Rival Hacker](../../../rolelist/interlooper/InterlooperOffensive/RivalHacker)
-        - [Hacknet Hacker](../../../rolelist/interlooper/InterlooperOffensive/HacknetHacker)
-    - Interlooper Utility:
-        - [Political Campaigner](../../../rolelist/interlooper/InterlooperUtility/PoliticalCampaigner)
-    - Interlooper Chaos:
-        - [Corrupt Detective](../../../rolelist/interlooper/InterlooperChaos/CorruptDetective)
-        - [Corrupt Lawyer](../../../rolelist/interlooper/InterlooperChaos/CorruptLawyer)
-    - <span class="nk">Interlooper Killing:
-        - [<span class="nk">Bombardier](../../../rolelist/interlooper/InterlooperKilling/Bombadier)
-        - [<span class="nk">Rogue Assassin](../../../rolelist/interlooper/InterlooperKilling/RogueAssassin)
+- interloper:
+    - interloper:
+        - [interloper](../../../rolelist/interloper/interloper)
+    - interloper Special:
+        - [Sociopath](../../../rolelist/interloper/interloperSpecial/Sociopath)
+        - [Resentful Criminal](../../../rolelist/interloper/interloperSpecial/ResentfulCriminal)
+    - interloper Field Operations:
+        - [Bounty Hunter](../../../rolelist/interloper/interloperFieldOps/BountyHunter)
+    - interloper Investigative:
+        - [Journalist](../../../rolelist/interloper/interloperInvest/Journalist)
+        - [Amateur Investigator](../../../rolelist/interloper/interloperInvest/AmateurInvestigator)
+    - interloper Offensive:
+        - [Script Kiddie](../../../rolelist/interloper/interloperOffensive/ScriptKiddie)
+        - [Panicked Blabbermouth](../../../rolelist/interloper/interloperOffensive/PanickedBlabbermouth)
+        - [Rival Hacker](../../../rolelist/interloper/interloperOffensive/RivalHacker)
+        - [Hacknet Hacker](../../../rolelist/interloper/interloperOffensive/HacknetHacker)
+    - interloper Utility:
+        - [Political Campaigner](../../../rolelist/interloper/interloperUtility/PoliticalCampaigner)
+    - interloper Chaos:
+        - [Corrupt Detective](../../../rolelist/interloper/interloperChaos/CorruptDetective)
+        - [Corrupt Lawyer](../../../rolelist/interloper/interloperChaos/CorruptLawyer)
+    - <span class="nk">interloper Killing:
+        - [<span class="nk">Bombardier](../../../rolelist/interloper/interloperKilling/Bombadier)
+        - [<span class="nk">Rogue Assassin](../../../rolelist/interloper/interloperKilling/RogueAssassin)
 - <span class="fed">Fed:
     - [<span class="fed">Fed](../../../rolelist/fed/fed)
     - <span class="fed">Fed Special:

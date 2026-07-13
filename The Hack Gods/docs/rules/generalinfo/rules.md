@@ -6,9 +6,9 @@
 <br>
 - Feds want to arrest/kill all Hackers or prevent the target node from being hacked. They can wait out the time limit and are the minor faction.
 <br>
-- Interloopers have a specific win condition. In Hacker or Fed mode, they won't have an objective and simply exist in the operation.
+- interlopers have a specific win condition. In Hacker or Fed mode, they won't have an objective and simply exist in the operation.
 <br>
-- As a Hack God you must make sure the Hackers win. As a Fed Leader, you must make sure the Feds win. As an Interlooper, you must complete your objective.
+- As a Hack God you must make sure the Hackers win. As a Fed Leader, you must make sure the Feds win. As an interloper, you must complete your objective.
 <br>
 - The roles, operatives, and node topology are randomly generated. Each scenario is randomly generated, with some set of parameters that can limit the generation (such as rolelist, operative count, and node topology generated.)
 <br>

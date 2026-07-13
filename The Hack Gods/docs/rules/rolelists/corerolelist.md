@@ -37,42 +37,42 @@
         - [<span class="hacker">Technical Recruiter](../../../rolelist/hacker/HackerChaos/TechnicalRecruiter)
         - [<span class="hacker">Silenced Investigator](../../../rolelist/hacker/HackerChaos/SilencedInvestigator)
         - [<span class="hacker">Radio Operator](../../../rolelist/hacker/HackerChaos/RadioOperator)
-- Interlooper:
-    - Interlooper:
-        - [Interlooper](../../../rolelist/interlooper/interlooper)
-    - Interlooper Special:
-        - [Sociopath](../../../rolelist/interlooper/InterlooperSpecial/Sociopath)
-        - [Resentful Criminal](../../../rolelist/interlooper/InterlooperSpecial/ResentfulCriminal)
-        - [The Employer](../../../rolelist/interlooper/InterlooperSpecial/TheEmployer)
-    - Interlooper Field Operations:
-        - [Loose Cannon](../../../rolelist/interlooper/InterlooperFieldOps/LooseCannon)
-        - [Bounty Hunter](../../../rolelist/interlooper/InterlooperFieldOps/BountyHunter)
-        - [Criminal Freelancer](../../../rolelist/interlooper/InterlooperFieldOps/CriminalFreelancer)
-        - [Former Bodyguard](../../../rolelist/interlooper/InterlooperFieldOps/FormerBodyguard)
-    - Interlooper Investigative:
-        - [Journalist](../../../rolelist/interlooper/InterlooperInvest/Journalist)
-        - [Shamed Journalist](../../../rolelist/interlooper/InterlooperInvest/ShamedJournalist)
-        - [Amateur Investigator](../../../rolelist/interlooper/InterlooperInvest/AmateurInvestigator)
-        - [Private Investigator](../../../rolelist/interlooper/InterlooperInvest/PrivateInvestigator)
-    - Interlooper Offensive:
-        - [Script Kiddie](../../../rolelist/interlooper/InterlooperOffensive/ScriptKiddie)
-        - [Panicked Blabbermouth](../../../rolelist/interlooper/InterlooperOffensive/PanickedBlabbermouth)
-        - [Rival Hacker](../../../rolelist/interlooper/InterlooperOffensive/RivalHacker)
-        - [Hacknet Hacker](../../../rolelist/interlooper/InterlooperOffensive/HacknetHacker)
-        - [Connection Specialist](../../../rolelist/interlooper/InterlooperOffensive/ConnectionSpecialist)
-    - Interlooper Utility:
-        - [W.P.P. Member](../../../rolelist/interlooper/InterlooperUtility/WPPMember)
-        - [Political Campaigner](../../../rolelist/interlooper/InterlooperUtility/PoliticalCampaigner)
-        - [Retired Hacker](../../../rolelist/interlooper/InterlooperUtility/RetiredHacker)
-    - Interlooper Chaos:
-        - [Corrupt Detective](../../../rolelist/interlooper/InterlooperChaos/CorruptDetective)
-        - [Corrupt Lawyer](../../../rolelist/interlooper/InterlooperChaos/CorruptLawyer)
-        - [Reminiscing Amnesiac](../../../rolelist/interlooper/InterlooperChaos/ReminiscingAmnesiac)
-    - <span class="nk">Interlooper Killing:
-        - [<span class="nk">Rogue Mastermind](../../../rolelist/interlooper/InterlooperKilling/RogueMastermind)
-        - [<span class="nk">Psychopath](../../../rolelist/interlooper/InterlooperKilling/Psychopath)
-        - [<span class="nk">Bombardier](../../../rolelist/interlooper/InterlooperKilling/Bombadier)
-        - [<span class="nk">Rogue Assassin](../../../rolelist/interlooper/InterlooperKilling/RogueAssassin)
+- interloper:
+    - interloper:
+        - [interloper](../../../rolelist/interloper/interloper)
+    - interloper Special:
+        - [Sociopath](../../../rolelist/interloper/interloperSpecial/Sociopath)
+        - [Resentful Criminal](../../../rolelist/interloper/interloperSpecial/ResentfulCriminal)
+        - [The Employer](../../../rolelist/interloper/interloperSpecial/TheEmployer)
+    - interloper Field Operations:
+        - [Loose Cannon](../../../rolelist/interloper/interloperFieldOps/LooseCannon)
+        - [Bounty Hunter](../../../rolelist/interloper/interloperFieldOps/BountyHunter)
+        - [Criminal Freelancer](../../../rolelist/interloper/interloperFieldOps/CriminalFreelancer)
+        - [Former Bodyguard](../../../rolelist/interloper/interloperFieldOps/FormerBodyguard)
+    - interloper Investigative:
+        - [Journalist](../../../rolelist/interloper/interloperInvest/Journalist)
+        - [Shamed Journalist](../../../rolelist/interloper/interloperInvest/ShamedJournalist)
+        - [Amateur Investigator](../../../rolelist/interloper/interloperInvest/AmateurInvestigator)
+        - [Private Investigator](../../../rolelist/interloper/interloperInvest/PrivateInvestigator)
+    - interloper Offensive:
+        - [Script Kiddie](../../../rolelist/interloper/interloperOffensive/ScriptKiddie)
+        - [Panicked Blabbermouth](../../../rolelist/interloper/interloperOffensive/PanickedBlabbermouth)
+        - [Rival Hacker](../../../rolelist/interloper/interloperOffensive/RivalHacker)
+        - [Hacknet Hacker](../../../rolelist/interloper/interloperOffensive/HacknetHacker)
+        - [Connection Specialist](../../../rolelist/interloper/interloperOffensive/ConnectionSpecialist)
+    - interloper Utility:
+        - [W.P.P. Member](../../../rolelist/interloper/interloperUtility/WPPMember)
+        - [Political Campaigner](../../../rolelist/interloper/interloperUtility/PoliticalCampaigner)
+        - [Retired Hacker](../../../rolelist/interloper/interloperUtility/RetiredHacker)
+    - interloper Chaos:
+        - [Corrupt Detective](../../../rolelist/interloper/interloperChaos/CorruptDetective)
+        - [Corrupt Lawyer](../../../rolelist/interloper/interloperChaos/CorruptLawyer)
+        - [Reminiscing Amnesiac](../../../rolelist/interloper/interloperChaos/ReminiscingAmnesiac)
+    - <span class="nk">interloper Killing:
+        - [<span class="nk">Rogue Mastermind](../../../rolelist/interloper/interloperKilling/RogueMastermind)
+        - [<span class="nk">Psychopath](../../../rolelist/interloper/interloperKilling/Psychopath)
+        - [<span class="nk">Bombardier](../../../rolelist/interloper/interloperKilling/Bombadier)
+        - [<span class="nk">Rogue Assassin](../../../rolelist/interloper/interloperKilling/RogueAssassin)
 - <span class="fed">Fed:
     - [<span class="fed">Fed](../../../rolelist/fed/fed)
     - <span class="fed">Fed Special:

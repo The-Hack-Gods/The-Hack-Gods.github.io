@@ -92,7 +92,7 @@ Background Search - Check a target operative's background. You'll be given a ran
 
 ### **Unique Investigative:**
 
-Get Scoop (1 night cooldown) - Select a target operative. Visit and occupy them, revealing your identity. Learn if the operative is an interlooper.
+Get Scoop (1 night cooldown) - Select a target operative. Visit and occupy them, revealing your identity. Learn if the operative is an interloper.
 
 Expose Fed (1 charge) - Select a target operative. If they are a Fed, reveal the Fed globally. Visit and occupy them.
 
@@ -224,7 +224,7 @@ Liar, Liar - You use a fake claim and lie about what you do.
 
 Rent Free - Avoid the first arrest attempt and murder attempt on you.
 
-Not Hacker - Your true faction is Interlooper.
+Not Hacker - Your true faction is interloper.
 
 Fed Scum - Your true faction is Fed.
 
