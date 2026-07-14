@@ -2,7 +2,7 @@
 
 Hack Target (Low, -1 Wanted Level) - Select a white node and hack it, dealing 2 HP. Leaves a log.
 
-Hack Root Access - Select a green node. If there is a rooted operative, you can hack into root access and gain ROOT access for 2 nights. Leaves a log.
+Hack Root Access - Select a green node. If there is a rooted operative, you can hack into root access and gain Root access for 2 nights. Leaves a log.
 
 Follow (2 charges) - Select a target operative and follow them, visiting them and checking if they left their hideout and met anyone. If they were occupied, you'd only know that they could not leave their hideout.
 

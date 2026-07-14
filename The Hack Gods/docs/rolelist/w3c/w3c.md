@@ -1,9 +1,10 @@
-![w3c.png](w3c.png){ width="350" }
+The Really Bad Guys
 
-The Really Really Bad Guys
+W3C are a dangerous group of cultist hackers that want to eliminate the hired Hackers at all costs, along with any other opposite faction.
 
-“We are here to get rid of NETSEC scum. Let’s get rid of these guys, and let’s get rid of agents or we’ll have problems later.”
+W3C always have these passives:
+Liar, Liar - You use a fake claim and lie about what you do.
 
-Win condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
+Altar of Heresy - If W3C have only 50% of your operatives left, gain these powers.
 
-Main difference from Agent is that Agent has more direct ways of killing (singular killer/FA usually), whereas W3C needs to kill sporadically using specific niche ways to kill. W3C also doesn’t have topology access, but still maintains a connected chat. W3C gains more power the less operatives they have, or gains power with more kills.
+Blood for the Blood God - If 50% of all operatives died this Opsec, gain these powers.

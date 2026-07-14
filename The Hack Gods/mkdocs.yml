@@ -39,7 +39,6 @@ nav:
         - Majority Shareholder: rules/wincons/hacker/MajorityShareholder.md
       - Interloper: rules/wincons/interloper.md
       - Interloper Win Conditions:
-        - Journalist: rules/wincons/interloper/Journalist.md
         - Investigator: rules/wincons/interloper/Investigator.md
         - Assassin: rules/wincons/interloper/Assassin.md
         - Serial Killer: rules/wincons/interloper/SerialKiller.md

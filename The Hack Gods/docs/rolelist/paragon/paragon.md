@@ -1,9 +1,8 @@
-![paragon.png](paragon.png){ width="350" }
+The Family Guys
 
-The GREAT Guys
+Paragon is the security company that was hired to deliberately prevent the target from being hacked.
 
-“We’re here to establish a presence and assert dominance on the dark web as the biggest hacking team.”
+An interesting feature is that with the Paragon chosen as a leader, the game continues even if all Paragon operatives are dead.
 
-Win Condition: Make all factions have only 50% of their operatives, including Netsec, W3C, and agents. 
-
-Paragon is sorta a neutral faction that needs to kill off half of every faction. Can win with any faction and will lose if all other factions besides one lose before they win. This faction should spawn with SOME kill power, not necessarily a ton, but enough to be able to force a 50% on all other factions. Paragon will be notified if a faction reaches under 50% of their total operatives.
+Paragon always has this passive:
+Liar, Liar - You use a fake claim and lie about what you do.

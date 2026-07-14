@@ -24,6 +24,10 @@ Exploit Vulnerability (2 charges) - Select a white node and deal 1 damage more f
 
 Ask for Assistance (2 charges, +1 Wanted Level) - Select a target operative and disable all day actions related to the topology. Steal their hack chance if it is higher than yours. Works like Jam Network. Visit them.
 
+Gift Computer (2 charges) - Select a target operative. Permanently grants target operative High hack chance, even if it lowers their hack chance. Visit them.
+
+Gift Broken Computer (2 charges) - Select a target operative. Permanently grants target operative Very Low hack chance, even if it lowers their hack chance. Visit them.
+
 ### **Hacking Intel:**
 
 Insider Knowledge (2 charges) - Tells you the IP of a node with downloadable intel on it.
@@ -106,6 +110,8 @@ Informant (2 charges) - Select a target operative. Reveal their faction and subc
 
 Deductive Reasoning - Select a target operative. You will learn their faction, and their subclass. Visit them.
 
+Investigate - Find out the role of a particular operative. Pierces lies.
+
 Daily Standup - Select an operative, learn what they did last night.
 
 ### **Defensive Field Ops:**
@@ -115,6 +121,8 @@ Escort - Escort a target operative, protecting the operative from arrests and mu
 Fake Escort - Escort a target operative, but leave as soon as trouble comes, letting the original target die or get arrested. Visit and occupy them.
 
 Emergency Extraction (3 charges) - Select an operative to escort, does not occupy them and makes them immune to everything unless otherwise stated.
+
+Fake Emergency Extraction (3 charges) - Select an operative to fake escort, does not occupy them and doesn't actually do anything except leaving escort feedback.
 
 Act as Defense - Select a target operative. If they are arrested tonight, delay their arrest by 1 night.
 
@@ -128,15 +136,23 @@ Setup (2 charges) - Select two operatives. The first operative will visit and oc
 
 Bouncer (2 charges) - Select a target operative. You will visit and occupy them like a Midnight Meet, and anyone who visits them will be occupied, like a Misdirection.
 
+On My Payroll (1 charge) - Any arrests today can be postponed till the next night.
+
+Override Assassin (1 charge) - Any murders today can be postponed till the next night.
+
 ### **Offensive Field Ops:**
 
 Disorganized Murder (+1 Wanted Level) - Select an operative and murder them. Visit the target.
 
 Murder (1 charge, +1 Wanted Level) - Select an operative and murder them. Occupies and visits the target.
 
+Murder with Goons (3 charges, +1 Wanted Level) - Select an operative and murder them. Cannot be occupied. Occupies the target.
+
 Citizen's Arrest (2 charges, +1 Wanted Level) - Select a target operative and arrest them. Visit them.
 
 Snitch to Cops (2 night cooldown, +1 Wanted Level) - Select a target operative. Attempt to arrest the operative with local cops. Do not visit them.
+
+Assassinate (+1 Wanted Level) - Select an operative, select a role, and murder them. Pierces and ignores all defensive actions. Visit them.
 
 Arrest (+1 Wanted Level) - Select a target operative and arrest them. Visit them.
 
@@ -202,11 +218,29 @@ All in (1 charge) - Turn into a Field Agent. Can only be done if there are no Fe
 
 Give Root Access (1 charge) - Give root access to an operative. If they are a Hacker, they will gain immunity to occupation, kills, arrests, and anything that blocks hacking.
 
-Hack Root Access - Select a green node. If there is a rooted operative, you can hack into root access and gain ROOT access for 2 nights. Leaves a log.
+Hack Root Access - Select a green node. If there is a rooted operative, you can hack into root access and gain Root access for 2 nights. Leaves a log.
+
+Take Root Access - Select a target operative. If the target operative has the Root Access, give a chosen operative Root access permanently.
+
+Decipher - Select a role to match to any particular operatives. Notified if correct and counts towards objective. Can be done in tandem with Investigate. Can select multiple operatives.
+
+Extract - Select an operative, extract them, removing them from the operation. Can only extract your given operatives.
 
 Prepare Sprint (1 charge) - The next day you can do two different actions.
 
 Deep Learn (2 charges) - The next action will go through any kind of frame.
+
+Lay Low (-1 Wanted Level) - Lower your wanted level.
+
+### **Probably needs rework:**
+
+Algorithmic Connections - Select a white or green node. If alter logs or rollback is used, double the amount of random connection logs. Do not leave a log.
+
+Plant Agent Documentation (3 charges) - Select a target operative. If the operative is doxxed this round, they will be seen as an agent. If the operative is specialization reviewed, they will be seen as special. If the operative is asked the right question, they will be seen as unable to hack. If the operative is speech analyzed, they will be seen as unable to win with anyone. Visit them.
+
+Paragon Goons (1 charge) - Select a target operative to escort, does not occupy them and makes them immune to everything unless otherwise stated. This ability is toggleable, once you have selected a target operative, you must Redirect Goons to leave the operative before sending them out again. Grants a charge of Redirect Goons.
+
+Redirect Goons (0 charges) - Stops the Paragon Goons from escorting tonight. Grants a charge of Paragon Goons.
 
 Receive Bribe - Add one fund to your total funds. This skill will provide class intel to Feds.
 
@@ -218,11 +252,17 @@ Old Friends (3 charges) - Select a target operative. If they are a Hacker member
 
 Contact W.P.P. (2 charges) - If any operative visits you tonight, they will be arrested. Dodge any attempts to arrest you.
 
+Majority Owner - Force someone to vote for someone of your choice.
+
+Shark Tank (2 charges) - Host a shark tank with many businessmen, gaining shares off of great deals investing in great companies, granting you +2 votes the next phase.
+
 ### **Repeated Passives:**
 
 Liar, Liar - You use a fake claim and lie about what you do.
 
 Rent Free - Avoid the first arrest attempt and murder attempt on you.
+
+Raid Boss - Avoid the first two arrest or murder attempts on you.
 
 Not Hacker - Your true faction is Interloper.
 
@@ -243,6 +283,10 @@ Target Knowledge - You can see which node is the final target.
 True Sight - All investigative abilities go through frames.
 
 ### **Unique Passives:**
+
+Ghost in the System - You don't leave connection logs upon interacting with the topology.
+
+Worship Me - Upon arrest or murder, every operative gets a hacking chance increase by one stage.
 
 People Person - You know how to navigate the sausage fest of a Hacking group. If you are occupied, continue to do your action.
 

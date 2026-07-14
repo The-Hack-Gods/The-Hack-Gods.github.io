@@ -1,6 +1,6 @@
-- Feds want to arrest/kill all Hackers or prevent the target node from being hacked. They can wait out the time limit and are the minor faction.
+- Feds want to arrest/kill all Hackers or prevent the target node from being hacked. They can wait out the time limit and are the minor faction. This faction is the main hostile faction, they have the most varied game patterns. They can work with Paragon.
 <br>
-- Feds get access to a set of operatives. The Fed Leader can control those operatives.
+- Feds get access to a set of operatives. These operatives must contain at least one Fed on the Field and Leading Fed. The Fed Leader can control those operatives.
 <br>
 - Feds know node health and node topology.
 <br>
