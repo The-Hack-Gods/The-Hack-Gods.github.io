@@ -37,7 +37,7 @@ nav:
         - Hack God: rules/wincons/hacker/HackGod.md
         - Infamous Cybercriminal: rules/wincons/hacker/InfamousCybercriminal.md
         - Majority Shareholder: rules/wincons/hacker/MajorityShareholder.md
-      - Interloper: rules/wincons/Interloper.md
+      - Interloper: rules/wincons/interloper.md
       - Interloper Win Conditions:
         - Journalist: rules/wincons/interloper/Journalist.md
         - Investigator: rules/wincons/interloper/Investigator.md
@@ -121,7 +121,7 @@ nav:
           - NFT Scammer: rolelist/hacker/HackerChaos/NFTScammer.md
           - Vibe Coder: rolelist/hacker/HackerChaos/VibeCoder.md
       - Interloper:
-        - Interloper: rolelist/interloper/Interloper.md
+        - Interloper: rolelist/interloper/interloper.md
         - Interloper Special:
           - Gambling Leader: rolelist/interloper/InterloperSpecial/GamblingLeader.md
           - Cheeseburger Technician: rolelist/interloper/InterloperSpecial/CheeseburgerTechnician.md
