@@ -37,7 +37,7 @@ nav:
         - Hack God: rules/wincons/hacker/HackGod.md
         - Infamous Cybercriminal: rules/wincons/hacker/InfamousCybercriminal.md
         - Majority Shareholder: rules/wincons/hacker/MajorityShareholder.md
-      - Interloper: rules/wincons/interloper.md
+      - Interloper: rules/wincons/Interloper.md
       - Interloper Win Conditions:
         - Journalist: rules/wincons/interloper/Journalist.md
         - Investigator: rules/wincons/interloper/Investigator.md
@@ -120,59 +120,59 @@ nav:
           - Social Media Manager: rolelist/hacker/HackerChaos/SocialMediaManager.md
           - NFT Scammer: rolelist/hacker/HackerChaos/NFTScammer.md
           - Vibe Coder: rolelist/hacker/HackerChaos/VibeCoder.md
-      - interloper:
-        - interloper: rolelist/interloper/interloper.md
-        - interloper Special:
-          - Gambling Leader: rolelist/interloper/interloperSpecial/GamblingLeader.md
-          - Cheeseburger Technician: rolelist/interloper/interloperSpecial/CheeseburgerTechnician.md
-          - The Employer: rolelist/interloper/interloperSpecial/TheEmployer.md
-          - Sociopath: rolelist/interloper/interloperSpecial/Sociopath.md
-          - Resentful Criminal: rolelist/interloper/interloperSpecial/ResentfulCriminal.md
-        - interloper Field Operations:
-          - Loose Cannon: rolelist/interloper/interloperFieldOps/LooseCannon.md
-          - Bounty Hunter: rolelist/interloper/interloperFieldOps/BountyHunter.md
-          - Criminal Freelancer: rolelist/interloper/interloperFieldOps/CriminalFreelancer.md
-          - Insane Officer: rolelist/interloper/interloperFieldOps/InsaneOfficer.md
-          - Former Bodyguard: rolelist/interloper/interloperFieldOps/FormerBodyguard.md
-          - Contracted Headhunter: rolelist/interloper/interloperFieldOps/ContractedHeadhunter.md
-        - interloper Investigative:
-          - Journalist: rolelist/interloper/interloperInvest/Journalist.md
-          - Double Crosser: rolelist/interloper/interloperInvest/DoubleCrosser.md
-          - Shamed Journalist: rolelist/interloper/interloperInvest/ShamedJournalist.md
-          - Amateur Investigator: rolelist/interloper/interloperInvest/AmateurInvestigator.md
-          - Private Investigator: rolelist/interloper/interloperInvest/PrivateInvestigator.md
-          - Vengeful Assassin: rolelist/interloper/interloperInvest/VengefulAssassin.md
-        - interloper Offensive:
-          - Script Kiddie: rolelist/interloper/interloperOffensive/ScriptKiddie.md
-          - Panicked Blabbermouth: rolelist/interloper/interloperOffensive/PanickedBlabbermouth.md
-          - Rival Hacker: rolelist/interloper/interloperOffensive/RivalHacker.md
-          - Hacknet Hacker: rolelist/interloper/interloperOffensive/HacknetHacker.md
-          - Connection Specialist: rolelist/interloper/interloperOffensive/ConnectionSpecialist.md
-          - Discord Manager: rolelist/interloper/interloperOffensive/DiscordManager.md
-          - Network Shutdowner: rolelist/interloper/interloperOffensive/NetworkShutdowner.md
-        - interloper Utility:
-          - W.P.P. Member: rolelist/interloper/interloperUtility/WPPMember.md
-          - Political Campaigner: rolelist/interloper/interloperUtility/PoliticalCampaigner.md
-          - Abandoned Agent: rolelist/interloper/interloperUtility/AbandonedAgent.md
-          - Retired Hacker: rolelist/interloper/interloperUtility/RetiredHacker.md
-          - Insane Drug Dealer: rolelist/interloper/interloperUtility/InsaneDrugDealer.md
-          - Disconnected Paragon Operative: rolelist/interloper/interloperUtility/DisconnectedParagonOperative.md
-        - interloper Chaos:
-          - Corrupt Detective: rolelist/interloper/interloperChaos/CorruptDetective.md
-          - Corrupt Lawyer: rolelist/interloper/interloperChaos/CorruptLawyer.md
-          - Waxmart Manager: rolelist/interloper/interloperChaos/WaxmartManager.md
-          - Reminiscing Amnesiac: rolelist/interloper/interloperChaos/ReminiscingAmnesiac.md
-          - King of Trolls: rolelist/interloper/interloperChaos/KingOfTrolls.md
-          - Wildcard: rolelist/interloper/interloperChaos/Wildcard.md
-          - Drunken Agent: rolelist/interloper/interloperChaos/DrunkenAgent.md
-        - interloper Killing:
-          - Rogue Mastermind: rolelist/interloper/interloperKilling/RogueMastermind.md
-          - Psychopath: rolelist/interloper/interloperKilling/Psychopath.md
-          - Bombardier: rolelist/interloper/interloperKilling/Bombadier.md
-          - Rogue Assassin: rolelist/interloper/interloperKilling/RogueAssassin.md
-          - F/A-18 Super Hornet Pilot: rolelist/interloper/interloperKilling/FA18SuperHornetPilot.md
-          - Underground Ring Fighter: rolelist/interloper/interloperKilling/UndergroundRingFighter.md
-          - Italian Mafia: rolelist/interloper/interloperKilling/ItalianMafia.md
+      - Interloper:
+        - Interloper: rolelist/interloper/Interloper.md
+        - Interloper Special:
+          - Gambling Leader: rolelist/interloper/InterloperSpecial/GamblingLeader.md
+          - Cheeseburger Technician: rolelist/interloper/InterloperSpecial/CheeseburgerTechnician.md
+          - The Employer: rolelist/interloper/InterloperSpecial/TheEmployer.md
+          - Sociopath: rolelist/interloper/InterloperSpecial/Sociopath.md
+          - Resentful Criminal: rolelist/interloper/InterloperSpecial/ResentfulCriminal.md
+        - Interloper Field Operations:
+          - Loose Cannon: rolelist/interloper/InterloperFieldOps/LooseCannon.md
+          - Bounty Hunter: rolelist/interloper/InterloperFieldOps/BountyHunter.md
+          - Criminal Freelancer: rolelist/interloper/InterloperFieldOps/CriminalFreelancer.md
+          - Insane Officer: rolelist/interloper/InterloperFieldOps/InsaneOfficer.md
+          - Former Bodyguard: rolelist/interloper/InterloperFieldOps/FormerBodyguard.md
+          - Contracted Headhunter: rolelist/interloper/InterloperFieldOps/ContractedHeadhunter.md
+        - Interloper Investigative:
+          - Journalist: rolelist/interloper/InterloperInvest/Journalist.md
+          - Double Crosser: rolelist/interloper/InterloperInvest/DoubleCrosser.md
+          - Shamed Journalist: rolelist/interloper/InterloperInvest/ShamedJournalist.md
+          - Amateur Investigator: rolelist/interloper/InterloperInvest/AmateurInvestigator.md
+          - Private Investigator: rolelist/interloper/InterloperInvest/PrivateInvestigator.md
+          - Vengeful Assassin: rolelist/interloper/InterloperInvest/VengefulAssassin.md
+        - Interloper Offensive:
+          - Script Kiddie: rolelist/interloper/InterloperOffensive/ScriptKiddie.md
+          - Panicked Blabbermouth: rolelist/interloper/InterloperOffensive/PanickedBlabbermouth.md
+          - Rival Hacker: rolelist/interloper/InterloperOffensive/RivalHacker.md
+          - Hacknet Hacker: rolelist/interloper/InterloperOffensive/HacknetHacker.md
+          - Connection Specialist: rolelist/interloper/InterloperOffensive/ConnectionSpecialist.md
+          - Discord Manager: rolelist/interloper/InterloperOffensive/DiscordManager.md
+          - Network Shutdowner: rolelist/interloper/InterloperOffensive/NetworkShutdowner.md
+        - Interloper Utility:
+          - W.P.P. Member: rolelist/interloper/InterloperUtility/WPPMember.md
+          - Political Campaigner: rolelist/interloper/InterloperUtility/PoliticalCampaigner.md
+          - Abandoned Agent: rolelist/interloper/InterloperUtility/AbandonedAgent.md
+          - Retired Hacker: rolelist/interloper/InterloperUtility/RetiredHacker.md
+          - Insane Drug Dealer: rolelist/interloper/InterloperUtility/InsaneDrugDealer.md
+          - Disconnected Paragon Operative: rolelist/interloper/InterloperUtility/DisconnectedParagonOperative.md
+        - Interloper Chaos:
+          - Corrupt Detective: rolelist/interloper/InterloperChaos/CorruptDetective.md
+          - Corrupt Lawyer: rolelist/interloper/InterloperChaos/CorruptLawyer.md
+          - Waxmart Manager: rolelist/interloper/InterloperChaos/WaxmartManager.md
+          - Reminiscing Amnesiac: rolelist/interloper/InterloperChaos/ReminiscingAmnesiac.md
+          - King of Trolls: rolelist/interloper/InterloperChaos/KingOfTrolls.md
+          - Wildcard: rolelist/interloper/InterloperChaos/Wildcard.md
+          - Drunken Agent: rolelist/interloper/InterloperChaos/DrunkenAgent.md
+        - Interloper Killing:
+          - Rogue Mastermind: rolelist/interloper/InterloperKilling/RogueMastermind.md
+          - Psychopath: rolelist/interloper/InterloperKilling/Psychopath.md
+          - Bombardier: rolelist/interloper/InterloperKilling/Bombadier.md
+          - Rogue Assassin: rolelist/interloper/InterloperKilling/RogueAssassin.md
+          - F/A-18 Super Hornet Pilot: rolelist/interloper/InterloperKilling/FA18SuperHornetPilot.md
+          - Underground Ring Fighter: rolelist/interloper/InterloperKilling/UndergroundRingFighter.md
+          - Italian Mafia: rolelist/interloper/InterloperKilling/ItalianMafia.md
       - Fed:
         - Fed: rolelist/fed/fed.md
         - Fed Special:
