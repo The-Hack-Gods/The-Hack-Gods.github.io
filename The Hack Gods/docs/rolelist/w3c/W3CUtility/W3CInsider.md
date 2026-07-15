@@ -1,17 +1,8 @@
-![w3cinsider.png](Images/w3cinsider.png)
-
-### **W3C Utility**
-
-“You’ve tricked the client into letting you inside, but how much of that will you use for W3C, W3C Insider.”
-
-Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
-
 ### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
 Insider Knowledge (D1 -> D3 cooldown, 2 charges) - Tells you the IP of a node with downloadable intel on it.
-
 
 Replace Laptop (N1 -> N3 cooldown, 2 charges) - Replace a selected laptop with a server by connecting a company server to future nodes and disconnecting the laptop.
 

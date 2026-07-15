@@ -1,13 +1,3 @@
-![persuadednewsreporter.png](Images/persuadednewsreporter.png){ width="350" }
-
-### **Core Agent Social**
-
-This role is supposed to be unique, depending on the ruleset.
-
-“Truth is nothing but subjective, it’s not about what happens, it’s about what appears to happen, Persuaded News Reporter.”
-
-Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
-
 ### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
@@ -21,7 +11,6 @@ Rollback (1 charge) - Select a green node, return the node to a white node, un-h
 Derail News (1 charge) - For the next night, any operatives arrested and murdered will have their roles hidden and logs wiped, including through voting.
 
 All in (1 charge) - Turn into a Field Agent. Can only be done if there are no Agent on the Field roles.
-
 
 Get Scoop (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. Do not go through frames or cover. Find if the target is not neutral.
 

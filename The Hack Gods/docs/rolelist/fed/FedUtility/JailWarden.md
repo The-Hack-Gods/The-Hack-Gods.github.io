@@ -1,13 +1,3 @@
-![jailwarden.png](Images/jailwarden.png){ width="350" }
-
-### **Core Agent Utility**
-
-This role is supposed to be unique, depending on the ruleset; one Agent on the Field must spawn.
-
-“You might be a slimy prison guard who wants to execute every prisoner to sate your sadism, but you were hired by agents anyway, Jail Warden.”
-
-Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
-
 ### **Actives:**
 
 Create Hideout (D1 -> D4 cooldown, 2 charges) - Grants you one charge of Move Hideout.
@@ -17,7 +7,6 @@ Unskilled Attack - Select a node, green or white. Leaves a log.
 Plant Fake Info - Decreases hacking chances on a random node.
 
 Temporary Jail Time - Select a target operative and jail them for the night. They will receive a similar outcome as Bouncer, like if you visit and occupy them without revealing yourself, and anyone who visits them will be occupied, like a Misdirection. Gain a charge of Arrest on Warrant.
-
 
 Move Hideout (1 charge) - Move your hideout, protecting yourself unless you are occupied.
 

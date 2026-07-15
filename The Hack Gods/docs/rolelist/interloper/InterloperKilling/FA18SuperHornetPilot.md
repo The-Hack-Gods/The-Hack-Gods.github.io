@@ -1,13 +1,3 @@
-![fa18superhornetpilot.png](Images/fa18superhornetpilot.png){ width="350" }
-
-### **Neutral Killing**
-
-This role is supposed to be unique, depending on the ruleset.
-
-“Time to take the skies and light the fires, F/A-18 Super Hornet Pilot.”
-
-Win Condition: Eliminate the majority of all hostile units (Netsec, Agents, and W3C).
-
 ### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
@@ -15,7 +5,6 @@ Unskilled Attack - Select a node, green or white. Leaves a log.
 Rearm Missiles (2 charges) - Gain a charge of Double Strafe.
 
 Electronic Countermeasures (2 charges) - Next phase will not announce any movement globally except that you have used Electronic Countermeasures.
-
 
 Strafe - Select a target operative and murder them and anyone who visits them. Visit them and go through all defensive abilities. It is globally announced that a Jet Fighter is seen going to the operative’s hideout.
 

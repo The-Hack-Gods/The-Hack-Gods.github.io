@@ -1,17 +1,8 @@
-![w3clabtechnician.png](Images/w3clabtechnician.png){ width="350" }
-
-### **W3C Utility**
-
-“Drug usage is always fine to W3C if it leads to results, W3C Lab Technician.”
-
-Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
-
 ### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
 Prepare Drugs - Gives a charge of a drug of choice to use at night.
-
 
 Sell Meth (1 charge) - Select a target operative. Sell them Methamphetamine and make them immune to occupation for this turn. Visit them.
 

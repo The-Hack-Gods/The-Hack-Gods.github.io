@@ -1,13 +1,3 @@
-![droneoperator.png](Images/droneoperator.png){ width="350" }
-
-### **Core Agent Field Operations**
-
-This role is supposed to be unique, depending on the ruleset; one Agent on the Field must spawn.
-
-“Let’s show Netsec what cutting edge is like, Drone Operator.”
-
-Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
-
 ### **Actives:**
 
 Hack Target (Moderate) - Select a white node and attempt to hack it. Leaves a log.
@@ -19,7 +9,6 @@ Sabotage Internet of Things - Select a target operative and lower their hack cha
 Charge Batteries - Remove the cooldown on Drone Reconnaissance or Drone Mark for the next night.
 
 Fabricate Evidence (0 charges) - Have an agent lawyer fabricate evidence after killing to set another operative to be arrested at night. This protects you tonight.
-
 
 Drone Reconnaissance (N1 -> N3 cooldown) - Select a target operative. Learn the exact ability they use tonight. Goes through cover or frames. If they did nothing, say they did nothing. Visit the operative.
 

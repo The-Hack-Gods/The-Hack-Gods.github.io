@@ -1,13 +1,3 @@
-![animaltamer.png](Images/animaltamer.png){ width="250" }
-
-### **Core Agent Utility**
-
-This role is supposed to be unique, depending on the ruleset.
-
-“Animals love you, now spread the love to Netsec, Animal Tamer.”
-
-Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
-
 ### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
@@ -19,7 +9,6 @@ Elephant Training (D1 -> D3 cooldown, 3 charges) - Loudly blow your elephant's n
 Rat Jam (3 charges) - Select a target operative. Send rats to their house, annoying them and lowering their hack chance by one stage temporarily.
 
 All in (1 charge) - Turn into a Field Agent. Can only be done if there are no Agent on the Field roles.
-
 
 Dolphin Attack (2 charges) - Select a target operative, and attack them with dolphins. They will have to heal from their wounds tomorrow, preventing them from using actions tomorrow night. Visit them.
 

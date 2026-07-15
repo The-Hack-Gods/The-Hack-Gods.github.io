@@ -1,13 +1,3 @@
-![waxmartmanager.png](Images/waxmartmanager.png){ width="350" }
-
-### **Neutral Social**
-
-This role is supposed to be unique, depending on the ruleset.
-
-“You were surprised when an old friend threatened you to help them or die, as they wanted your Waxmart connections to steal electronic equipment, help your friend, Waxmart Manager.”
-
-Win Condition: You are assigned a Netsec, mole, or faction non-leader operative to win with, make sure they win.
-
 ### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
@@ -17,7 +7,6 @@ Denial of Service (2 charges) - Select a green or white node and block all conne
 Computer Hotwiring (2 charges) - Make all hack chances increased by one stage today.
 
 Rummage Customer Info - Instead of downloading, you can try rummaging customer info. Goes through cover or frames. Download Intel without leaving a connection log. Guaranteed to be accurate.
-
 
 DM Sliding (1 charge) - Check your “friend”, target operative’s exact role through social media. Goes through cover or frames. Do not visit them.
 

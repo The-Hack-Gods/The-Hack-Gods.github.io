@@ -1,13 +1,3 @@
-![undergroundringfighter.png](Images/undergroundringfighter.png){ width="350" }
-
-### **Neutral Killing**
-
-This role is supposed to be unique, depending on the ruleset.
-
-“You were once in a fighting ring, but now that the ring has dissipated, you are here trying to start a new ring, Underground Ring Fighter.”
-
-Win Condition: Eliminate the majority of all hostile units (Netsec, Agents, and W3C).
-
 ### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
@@ -15,7 +5,6 @@ Unskilled Attack - Select a node, green or white. Leaves a log.
 Bait Law Enforcement - Select a target operative, inform agents that the target is one working for Netsec. Can be yourself. (Leaves the same message as Bounty Hunter’s Spill the Beans).
 
 Broadcast Message (1 charge) - You can write one message to talk to all players in a specialized channel (global Opsec info). This message can appear when you want it tonight.
-
 
 Follow (2 charges) - Select a target operative and follow them, visiting them and checking if they left their hideout and met anyone. If they were occupied, you’d only know that they could not leave their hideout.
 

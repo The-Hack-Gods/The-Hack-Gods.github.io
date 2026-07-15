@@ -1,13 +1,3 @@
-![policecardriver.png](Images/policecardriver.png){ width="350" }
-
-### **Core Agent Field Operations**
-
-This role is supposed to be unique, depending on the ruleset; one Agent on the Field must spawn.
-
-“Agents need a driver, and you are the fastest in the west, Police Car Driver.”
-
-Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
-
 ### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
@@ -17,7 +7,6 @@ Plan Patrol Route (1 charge) - Select two operatives, all operatives who visit e
 Add to Patrol Route (0 charges) - Select a target operative to add to the Patrol Route, making all operatives who visit this additional operative also be attempted to be arrested. Gain a charge of Add to Patrol Route.
 
 Repair Vehicle (1 charge) - Regain the Hit the Nitrous passive.
-
 
 Arrest - Select a target operative and arrest them. Visit them.
 

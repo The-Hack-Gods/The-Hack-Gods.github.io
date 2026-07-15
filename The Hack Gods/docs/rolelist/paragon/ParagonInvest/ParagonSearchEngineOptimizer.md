@@ -1,11 +1,3 @@
-![paragonsearchengineoptimizer.png](Images/paragonsearchengineoptimizer.png){ width="350" }
-
-### **Paragon Offensive**
-
-“You know how to spread the word of Paragon to make the team’s presence known, Paragon Search Engine Optimizer.”
-
-Win Condition: Make all factions have only 50% of their operatives, including Netsec, W3C, and agents. 
-
 ### **Actives:**
 
 Hack Target (Low) - Select a white node and attempt to hack it. Leaves a log.
@@ -15,7 +7,6 @@ Download Intel - Select a green node and attempt to download from it. If there i
 Optimize Clickbait (N1 -> N4 cooldown, 2 charges) - Select a Paragon operative. Give that operative some motivation by getting more site views, granting them a charge of a day action tomorrow.
 
 Overload Website (2 charges) - Select a green node, increasing hacking chances of getting this node permanently. Strongest hacking chance buff. Do not leave a log.
-
 
 Disorganized Murder - Select an operative and attempt to murder them. Visit the target.
 

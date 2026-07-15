@@ -1,17 +1,8 @@
-![reminiscingamnesiac.png](Images/reminiscingamnesiac.png)
-
-### **Neutral Social**
-
-“You forgot who you were, but maybe grave digging and checking old operative hideouts will remind you, Reminiscing Amnesiac.”
-
-Win Condition: Steal a dead or arrested operative’s identity and complete their win condition.
-
 ### **Actives:**
 
 Create Hideout (D1 -> D4 cooldown, 2 charges) - Grants you one charge of Move Hideout.
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
-
 
 Grave Digger - Select a target dead or arrested operative and check their hideouts. You will know their true role. You can then select whether or not you want to become this role.
 

@@ -1,11 +1,3 @@
-![vengefulassassin.png](Images/vengefulassassin.png){ width="350" }
-
-### **Neutral Investigative**
-
-“You were a mainstay assassin until certain Netsec members betrayed you, so it’s time for some vengeance, Vengeful Assassin.”
-
-Win Condition: You are given 2 target operatives. Guess, vote, or get the 2 target operatives killed or arrested. Can be any faction.
-
 ### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
@@ -17,7 +9,6 @@ Rerouted Denial of Service (2 charges) - Select a green or white node and block 
 Bait Law Enforcement - Select a target operative, inform agents that the target is one working for Netsec. Can be yourself. (Leaves the same message as Bounty Hunter’s Spill the Beans).
 
 Vengeance (3 charges) - Select a target operative and guess their role. If you guess right, shoot the target operative tonight. Removes all frames and covers. You will know if you guessed right or wrong.
-
 
 Deductive Reasoning (N1 -> N3 cooldown) - Select a target operative. You will learn their faction, and their subclass. Do not go through frames or cover. Visit them.
 

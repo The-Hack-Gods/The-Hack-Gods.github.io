@@ -1,11 +1,3 @@
-![paragonprodigy.png](Images/paragonprodigy.png){ width="250" }
-
-### **Paragon Offensive**
-
-“You are a student aspiring to become the greatest hacker at Paragon, Paragon Prodigy.”
-
-Win Condition: Make all factions have only 50% of their operatives, including Netsec, W3C, and agents. 
-
 ### **Actives:**
 
 Hack Target (Moderate) - Select a white node and attempt to hack it. Leaves a log.
@@ -13,7 +5,6 @@ Hack Target (Moderate) - Select a white node and attempt to hack it. Leaves a lo
 Exploit Vulnerability (2 charges) - Select a white node and attempt to hack it with a low hack chance and increasing hacking chances of getting this node.
 
 Hit the Books (D1 -> D3 cooldown, 2 charges) - Increases your hacking stage by one, permanently.
-
 
 Move Hideout (1 charge) - Move your hideout, protecting yourself unless you are occupied.
 

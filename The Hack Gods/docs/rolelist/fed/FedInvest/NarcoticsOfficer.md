@@ -1,13 +1,3 @@
-![narcoticsofficer.png](Images/narcoticsofficer.png){ width="350" }
-
-### **Core Agent Investigative**
-
-This role is supposed to be unique, depending on the ruleset; one Agent on the Field must spawn.
-
-“You know how to find any drug or contraband, Narcotics Officer.”
-
-Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
-
 ### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
@@ -17,7 +7,6 @@ Get Dirt - Select a target operative. You will get one of two class types that t
 Connect the Dots (2 charges) - Select a target operative. Reveal, unframe, and unencrypt their logs. Tell you their role immediately.
 
 Contraband Check (1 charge) - For the next night, any operatives arrested and murdered will have their roles revealed, unframed, and logs unencrypted, including through voting.
-
 
 Drug Bust - Select a target operative and arrest them. Reveals their true role, unframing them, and unencrypting their logs. Visit them.
 

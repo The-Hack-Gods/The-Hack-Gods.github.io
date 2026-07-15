@@ -1,13 +1,3 @@
-![elusiveframer.png](Images/elusiveframer.png){ width="250" }
-
-### **Core Agent Social**
-
-This role is supposed to be unique, depending on the ruleset; one Agent on the Field must spawn.
-
-“Your framing skills are second to none, Elusive Framer.”
-
-Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
-
 ### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
@@ -19,7 +9,6 @@ Impersonate (1 charge) - Permanently rename your operative to whatever name you 
 Troll Operative (2 charges) - Permanently rename another operative to whatever name you want. If you name it the same as another operative, targeting that operative will randomly target either operative of the same name.
 
 Objection! - Force someone to vote for someone of your choice.
-
 
 Objection! - Force someone to vote for someone of your choice.
 

@@ -1,17 +1,8 @@
-![enforcer.png](Images/w3cenforcer.png)
-
-### **W3C Field Operations**
-
-“You were assigned to protect your allies, and you know who they are, W3C Enforcer.”
-
-Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
-
 ### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
 Alter Logs (D1 -> D3 cooldown) - Select a white or green node and either leave a singular fake connection log of one operative, or leave a few random connection logs.
-
 
 Fake Escort - Escort a target operative, but leave as soon as trouble comes, letting the original target die or get arrested. Visit and occupy them. Must select a different target the next night.
 

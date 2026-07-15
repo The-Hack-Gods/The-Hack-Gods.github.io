@@ -1,11 +1,3 @@
-![abandonedagent.png](Images/abandonedagent.png){ width="350" }
-
-### **Neutral Utility**
-
-“You are an agent recruit, but for some reason the agent recruiting process didn’t go as planned, connect back to agents again, Abandoned Agent.”
-
-Win Condition: Ensure agents win.
-
 ### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
@@ -15,7 +7,6 @@ Wireshark (D1 -> D4 cooldown) - Tells you the name of any operative that did a D
 Upload Fake Intel (1 charge) - Select a white or green node and upload intel that is downloadable by others. You can write what intel you want to leave. Leaves a log.
 
 Bait Law Enforcement - Select a target operative, inform agents that the target is one working for Netsec. Can be yourself. (Leaves the same message as Bounty Hunter’s Spill the Beans).
-
 
 For the Cause (N1 -> N4 cooldown, 2 charges) - Find out if the target operative is a mole. Do not go through frames or cover. Visit them.
 

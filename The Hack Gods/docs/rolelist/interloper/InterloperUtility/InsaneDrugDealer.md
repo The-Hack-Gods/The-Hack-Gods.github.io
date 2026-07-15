@@ -1,13 +1,3 @@
-![drugdealer.png](Images/drugdealer.png){ width="200" }
-
-### **Neutral Utility**
-
-This role is supposed to be unique, depending on the ruleset.
-
-“Chemistry teacher by day, ruthless kingpin by night, this Opsec is the perfect chance for a huge score, Insane Drug Dealer.”
-
-Win Condition: End the game with 2 shipments and overdose 1 operative of your choice.
-
 ### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
@@ -15,7 +5,6 @@ Unskilled Attack - Select a node, green or white. Leaves a log.
 Prepare Drugs - Gives two charges of drugs of choice to use at night, including Shipments.
 
 Enforce Alibi - Act like a chemistry teacher tonight, pretending to have done nothing to action checking investigative abilities.
-
 
 Sell Meth (0 charges) - Select a target operative. Sell them Methamphetamine and make them immune to occupation for this turn. Visit them.
 

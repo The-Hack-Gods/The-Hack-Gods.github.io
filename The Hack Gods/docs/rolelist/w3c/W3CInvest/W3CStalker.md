@@ -1,11 +1,3 @@
-![w3cstalker.png](Images/w3cstalker.png){ width="150" }
-
-### **W3C Investigative**
-
-“W3C is relying on you to figure out the opposition, W3C Stalker.”
-
-Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
-
 ### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
@@ -21,7 +13,6 @@ Blood for the Blood God (Killed 2 operatives)
 =======================================================================
 
 Review TCP Packets (N1 -> N4 cooldown, 2 charges) - Select a target operative and check if they used a hack today.
-
 
 Doxx and Stalk (N1 -> N4 cooldown, 2 charges) - Select a target operative. Do not go through frames or cover. Learn this operative’s faction alignment and visit them.
 

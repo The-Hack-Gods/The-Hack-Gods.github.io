@@ -1,11 +1,3 @@
-![w3cblackhat.png](Images/w3cblackhat.png)
-
-### **W3C Offensive**
-
-“You were the one that got into the client in the first place, but now it is your duty to defend it, W3C Blackhat.”
-
-Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
-
 ### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
@@ -31,7 +23,6 @@ Blood for the Blood God (Killed 2 operatives)
 =======================================================================
 
 Caesar Cipher (1 charge) - Select a layer, removing all intel on this layer. Do not leave a log.
-
 
 Midnight Meet (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. 
 

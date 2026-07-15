@@ -1,11 +1,3 @@
-![networkshutdowner.png](Images/networkshutdowner.png){ width="350" }
-
-### **Neutral Offensive**
-
-“If you can't be famous one way, no one is allowed to be famous, even through breaking into the company, Network Shutdowner.”
-
-Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
-
 ### **Actives:**
 
 Hack Target (High) - Select a white node and attempt to hack it. Leaves a log.
@@ -15,7 +7,6 @@ Rollback (1 charge) - Select a green node, return the node to a white node, un-h
 Network Shutdown (2 charges) - Prevents any topology affecting skills the next day. If Netsec hacks a node, the shutdown is stopped, giving back a charge of Network Shutdown.
 
 Mass DDOS (1 charge) - Block all connections to all nodes this day. Globally announce Denial of service on only nodes that are attempted to be interacted with. Do not leave a log on any.
-
 
 Smash Hardware (N1 -> N3 cooldown) - Select an operative and disable all day actions related to the topology. Occupies and visits them. (Same as Midnight Meet).
 

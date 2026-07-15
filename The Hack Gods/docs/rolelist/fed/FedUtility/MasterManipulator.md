@@ -1,13 +1,3 @@
-![mastermanipulator.png](Images/mastermanipulator.png){ width="350" }
-
-### **Core Agent Utility**
-
-This role is supposed to be unique, depending on the ruleset.
-
-“You know how to deceive, trick, and cheat past your rivals, Master Manipulator.”
-
-Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
-
 ### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
@@ -19,7 +9,6 @@ Warped Connection (D1 -> D3 cooldown) - Select a target operative, and select a 
 Weaken Connection (2 charges) - Select a target operative, lower their hack chance one stage down permanently.
 
 All in (1 charge) - Turn into a Field Agent. Can only be done if there are no Agent on the Field roles.
-
 
 Setup (2 charges) - Select two operatives. The first operative will visit and occupy the second operative, occupying both operatives. You may be the first target. Visits the first operative.
 

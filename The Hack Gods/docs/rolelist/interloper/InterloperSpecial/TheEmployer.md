@@ -1,13 +1,3 @@
-![theemployer.png](Images/theemployer.png){ width="350" }
-
-### **Neutral Special**
-
-This role is supposed to be unique, depending on the ruleset.
-
-“This Opsec is too important to be left in the hands of an incompetent leader, Employer.”
-
-Win Condition: Hack the target node, or ransom the OL’s computer and give it to someone who isn't an agent.
-
 ### **Actives:**
 
 Hack Target (High) - Select a white node and attempt to hack it. Leaves a log.
@@ -19,7 +9,6 @@ Jam Network (2 charges) - Select a target operative and disable all day actions 
 Broadcast Message (1 charge) - You can write one message to talk to all players in a specialized channel (global Opsec info). This message can appear when you want it tonight.
 
 Give Root Access (0 charges) - Select an operative to give root to. Upon your death, they can choose to become an Operation Leader of their own faction or stay as their current role with broadcast.
-
 
 Midnight Meet (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. 
 

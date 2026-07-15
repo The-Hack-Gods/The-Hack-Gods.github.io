@@ -1,13 +1,3 @@
-![operator.png](Images/operator.png)
-
-### **Mole Agent Offensive**
-
-This role is ONLY through a Criminal Psychologist, not a role that exists without the Criminal Psychologist.
-
-“A famous Criminal Psychologist convinced you to help them, Operator.”
-
-Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
-
 ### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
@@ -19,7 +9,6 @@ Rollback (1 charge) - Select a green node, return the node to a white node, un-h
 Harden Node (D1 -> D3 cooldown, 2 charges) - Select a white node, decreasing hacking chances of getting this node. Strongest hacking chance nerf. Leaves a log.
 
 Exploit Vulnerability (2 charges) - Select a white node and attempt to hack it with a low hack chance and increasing hacking chances of getting this node.
-
 
 Sting (1 charge) - Select a target operative and arrest them, along with anyone that visits them. Do not visit them.
 

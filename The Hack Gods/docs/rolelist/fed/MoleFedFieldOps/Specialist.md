@@ -1,19 +1,8 @@
-![specialist.png](Images/specialist.png)
-
-### **Mole Agent Field Operations**
-
-This role is ONLY through a Criminal Psychologist, not a role that exists without the Criminal Psychologist.
-
-“A famous Criminal Psychologist convinced you to help them, Specialist.”
-
-Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
-
 ### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
 Denial of Service (2 charges) - Select a green or white node and block all connections to the node this day. Do not leave a log.
-
 
 Bodyblock (3 charges) - Select a target operative. Occupy anyone that visits the target, but does not occupy the target operative themselves. Visit them.
 

@@ -1,11 +1,3 @@
-![w3cassassin.png](Images/w3cassassin.png){ width="350" }
-
-### **W3C Social**
-
-“A hired assassin is always useful for W3C’s sadistic needs, W3C Assassin.”
-
-Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
-
 ### **Actives:**
 
 Hack Target (Low) - Select a white node and attempt to hack it. Leaves a log.
@@ -21,7 +13,6 @@ Altar of Heresy (50% W3C operatives left or obtained Root Access)
 =======================================================================
 
 Prepare Murder has 2 more charges now.
-
 
 Sacrificial Shot - Select a target operative and guess their role. If you guess right, shoot the target operative. Removes all frames and covers.
 

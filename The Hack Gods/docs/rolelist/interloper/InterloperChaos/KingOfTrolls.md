@@ -1,13 +1,3 @@
-![kingoftrolls.png](Images/kingoftrolls.png){ width="350" }
-
-### **Neutral Social**
-
-This role is supposed to be unique, depending on the ruleset.
-
-“We do a little trolling, King of Trolls.”
-
-Win Condition: Get yourself voted out.
-
 ### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
@@ -21,7 +11,6 @@ Alter Logs (D1 -> D3 cooldown) - Select a white or green node and either leave a
 Impersonate (1 charge) - Permanently rename your operative to whatever name you want. If you name it the same as another operative, targeting that operative will randomly target either operative of the same name.
 
 Troll Operative (2 charges) - Permanently rename another operative to whatever name you want. If you name it the same as another operative, targeting that operative will randomly target either operative of the same name.
-
 
 Experienced Hiding (3 charges) - Move your hideout, protecting yourself unless you are occupied.
 

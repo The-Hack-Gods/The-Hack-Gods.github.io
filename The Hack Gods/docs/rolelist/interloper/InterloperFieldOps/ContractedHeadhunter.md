@@ -1,11 +1,3 @@
-![contractedheadhunter.png](Images/contractedheadhunter.png){ width="350" }
-
-### **Neutral Field Operations**
-
-“Time to make some heads roll, Contracted Headhunter.”
-
-Win Condition: You are given 2 target subclass and faction pairs. Both of the two requested subclass and faction pairs must die. Can be any subclass and faction.
-
 ### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
@@ -13,7 +5,6 @@ Unskilled Attack - Select a node, green or white. Leaves a log.
 Get Dirt - Select a target operative. You will get one of two class types that they can be. Do not go through frames or cover.
 
 Bait Law Enforcement - Select a target operative, inform agents that the target is one working for Netsec. Can be yourself. (Leaves the same message as Bounty Hunter’s Spill the Beans).
-
 
 Interrogate (3 charges) - Select a target operative and occupy them. The host will ask them for their logs, giving you what they send.
 

@@ -1,13 +1,3 @@
-![robocop.png](Images/robocop.png){ width="350" }
-
-### **Core Agent Offensive**
-
-This role is supposed to be unique, depending on the ruleset; one Agent on the Field must spawn.
-
-“Agents created you to stop Netsec, Robocop.”
-
-Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
-
 ### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
@@ -39,7 +29,6 @@ Defend
 Harden Node (D1 -> D3 cooldown, 2 charges) - Select a white node, decreasing hacking chances of getting this node. Strongest hacking chance nerf. Leaves a log.
 
 Data Void (1 charge) - Select a white node. If the node is hacked this day, you will take root on that node first. Does not deplete on failure of taking the node.
-
 
 Switch Mode - Choose a mode to switch into, Enforce, Undercover, and Defend.
 

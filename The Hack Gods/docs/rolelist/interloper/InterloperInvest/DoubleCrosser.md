@@ -1,11 +1,3 @@
-![doublecrosser.png](Images/doublecrosser.png)
-
-### **Neutral Investigative**
-
-“You’ve worked with Netsec for a long time, but you question if the cause is worth it, maybe it is time to take the easy way out, Double Crosser.”
-
-Win Condition: Guess a target operative’s role through Turn Yourself In and get both of you arrested.
-
 ### **Actives:**
 
 Hack Target (Very Low) - Select a white node and attempt to hack it. Leaves a log.
@@ -15,7 +7,6 @@ Download Intel - Select a green node and attempt to download from it. If there i
 Review TCP Packets (N1 -> N4 cooldown, 2 charges) - Select a target operative and check if they used a hack today.
 
 Hack Private Channel (1 charge) - You can write one message to talk to all players in ASC or W3C channels, speaking directly to only Agent and/or W3C players, which appears next night.
-
 
 Obtain Evidence (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. Gain some intel, similar to Download Intel, getting intel (see tips for list of intel). Do not go through frames or cover. 
 

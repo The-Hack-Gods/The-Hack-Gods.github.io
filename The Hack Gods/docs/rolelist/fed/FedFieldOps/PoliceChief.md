@@ -1,17 +1,6 @@
-![policechief.png](Images/policechief.png){ width="350" }
-
-### **Core Agent Field Operations**
-
-This role is supposed to be unique, depending on the ruleset; one Agent on the Field must spawn.
-
-“Lead this team to victory, Police Chief.”
-
-Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
-
 ### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
-
 
 Execute Raid - All operatives who have been raided will be arrested. Do not visit them.
 

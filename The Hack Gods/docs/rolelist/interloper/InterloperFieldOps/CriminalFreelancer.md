@@ -1,11 +1,3 @@
-![criminalfreelancer.png](Images/criminalfreelancer.png){ width="350" }
-
-### **Neutral Field Operations**
-
-“It’s time to make bank, Criminal Freelancer.”
-
-Win Condition: Receive 5 payments.
-
 ### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
@@ -13,7 +5,6 @@ Unskilled Attack - Select a node, green or white. Leaves a log.
 Overload Node (1 charge) - Select a white node. All connections and DDOS to this node will fail. If successful, gain 1 payment. Leaves a log.
 
 Blackmail (3 charges) - Select a target operative. They cannot vote for two phases. If successful, gain 1 payment.
-
 
 Sell Illicit Arms (N1 -> N3 cooldown) - Select a target operative. If they do not have access to the skill Disorganized Murder, give them 1 charge of Disorganized Murder the following night. This charge of Disorganized Murder is removed if it is not used the night it is given. Gain 1 payment if successful, or if the target operative is Netsec, gain 2 payments and become “Criminal”. Visit them.
 

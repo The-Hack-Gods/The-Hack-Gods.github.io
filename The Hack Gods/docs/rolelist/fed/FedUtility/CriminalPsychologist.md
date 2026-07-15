@@ -1,19 +1,8 @@
-![criminalpsychologist.png](Images/criminalpsychologist.png){ width="350" }
-
-### **Core Agent Utility**
-
-This role is supposed to be unique, depending on the ruleset; one Agent on the Field must spawn.
-
-“You know exactly how to get them, Criminal Psychologist.”
-
-Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
-
 ### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
 Background Search (D1 -> D3 cooldown) - Check a target operative’s background. You’ll be given a (non-unique) random skill that they have, either day or night. Do not go through frames or cover.
-
 
 Insanity (N1 -> N4 cooldown) - Select two target operatives. The first operative will go insane and attempt to disorganized murder the second operative. Visit and occupy them.
 

@@ -1,13 +1,3 @@
-![initiator.png](Images/initiator.png)
-
-### **Mole Agent Investigative**
-
-This role is ONLY through a Criminal Psychologist, not a role that exists without the Criminal Psychologist.
-
-“A famous Criminal Psychologist convinced you to help them, Initiator.”
-
-Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
-
 ### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
@@ -19,7 +9,6 @@ Alter Logs (D1 -> D3 cooldown) - Select a white or green node and either leave a
 Upload Fake Intel (1 charge) - Select a white or green node and upload intel that is downloadable by others. You can write what intel you want to leave. Leaves a log.
 
 Wireshark (D1 -> D4 cooldown) - Tells you the name of any operative that did a Denial of Service.
-
 
 Snitch to Cops (N1 -> N4 cooldown) - Select a target operative. Attempt to arrest the operative with local cops. Do not visit them.
 

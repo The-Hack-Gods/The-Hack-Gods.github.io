@@ -1,11 +1,3 @@
-![w3cgraphtheorist.png](Images/w3cgraphtheorist.png){ width="350" }
-
-### **W3C Offensive**
-
-“Graph Theory is a specialty and study that many want, including W3C, W3C Graph Theorist.”
-
-Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
-
 ### **Actives:**
 
 Hack Target (Very High) - Select a white node and attempt to hack it. Leaves a log.
@@ -13,7 +5,6 @@ Hack Target (Very High) - Select a white node and attempt to hack it. Leaves a l
 Node prediction (2 charges) - Select a white node. You always predict correctly, so you get information about whether the next node is a laptop or a server, and if it has intel.
 
 Random Graph Models (D1 -> D4 cooldown) - Reveal the next layer in the topology to yourself, and if the layer has intel upon hacking to it.
-
 
 Move Hideout (1 charge) - Move your hideout, protecting yourself unless you are occupied.
 

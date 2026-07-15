@@ -1,11 +1,3 @@
-![wildcard.png](Images/wildcard.png){ width="250" }
-
-### **Neutral Social**
-
-“You are a joker, you only play by your own rules, Wildcard.”
-
-Win Condition: Set your win condition by asking if it is ok with the host. Complete this win condition.
-
 ### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
@@ -27,7 +19,6 @@ Denial of Service (2 charges) - Select a green or white node and block all conne
 Background Search (D1 -> D3 cooldown) - Check a target operative’s background. You’ll be given a (non-unique) random skill that they have, either day or night. Do not go through frames or cover.
 
 Troll Operative (2 charges) - Permanently rename another operative to whatever name you want. If you name it the same as another operative, targeting that operative will randomly target either operative of the same name.
-
 
 Midnight Meet (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. 
 

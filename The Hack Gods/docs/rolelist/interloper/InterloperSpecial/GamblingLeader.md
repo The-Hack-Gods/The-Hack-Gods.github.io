@@ -1,13 +1,3 @@
-![gamblingleader.png](Images/gamblingleader.png){ width="350" }
-
-### **Neutral Special**
-
-This role is unique, at most one Operation Leader should spawn.
-
-“Lady luck has never failed you, Gambling Leader.”
-
-Win Condition: Survive. Changes upon using Feeling Lucky to win with Netsec, Agent, Paragon, or W3C.
-
 ### **Actives:**
 
 Feeling Lucky (2 charges) - Randomize your win condition to a faction to win with.
@@ -21,7 +11,6 @@ Google RNG - Select a green node and randomly upload intel that is downloadable 
 Give Root Access (1 charge) - Select an operative to give root to. Upon your death, they can choose to become an Operation Leader of their own faction or stay as their current role with broadcast.
 
 Give Assassin Access (1 charge) - Select an operative to give assassin access to. They can choose a target operative to kill the next night temporarily.
-
 
 Feeling Lucky (2 charges) - Randomize your win condition to a faction to win with.
 

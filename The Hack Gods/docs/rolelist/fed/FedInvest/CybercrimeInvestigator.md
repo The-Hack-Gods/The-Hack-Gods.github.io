@@ -1,13 +1,3 @@
-![cybercrimeinvestigator.png](Images/cybercrimeinvestigator.png){ width="250" }
-
-### **Core Agent Investigative**
-
-This role is supposed to be unique, depending on the ruleset; one Agent on the Field must spawn.
-
-“It’s time to take this case a step further, Cybercrime Investigator.”
-
-Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
-
 ### **Actives:**
 
 Hack Target (Moderate) - Select a white node and attempt to hack it. Leaves a log.
@@ -19,7 +9,6 @@ Impersonate (1 charge) - Permanently rename your operative to whatever name you 
 Background Search (D1 -> D3 cooldown) - Check a target operative’s background. You’ll be given a (non-unique) random skill that they have, either day or night.
 
 Plan B (1 charge) - If there is no Agent Leader, turn into an Agent Leader.
-
 
 Investigate Bottom - Arrest the operative below you in the list of operatives and give you the subclass of the operative below the operative. Goes through cover or frames. If this fails, skip the operative below you and arrest the next operative. Visit them.
 

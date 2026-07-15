@@ -1,15 +1,3 @@
-![italianmafia.png](Images/italianmafia.png){ width="350" }
-
-### **Neutral Killing**
-
-This role is supposed to be unique, depending on the ruleset.
-
-“Astra playing Untrusted is beeg problem, Astra is beeg ritard and make beeg mistake, buy pistal, is beeg problem when beeg ritard get field agent and get beeg sting, Italian Mafia.”
-
-(Love you Knu, all of this is satire).
-
-Win Condition: Eliminate the majority of all hostile units (Netsec, Agents, and W3C).
-
 ### **Actives:**
 
 Beeg Problem (D1 -> D3 cooldown) - Select a white node and attempt to hack it. However, it is a beeg problem and you can’t hack it. Does absolutely nothing but leaves a log.
@@ -17,7 +5,6 @@ Beeg Problem (D1 -> D3 cooldown) - Select a white node and attempt to hack it. H
 Plumb Node (D1 -> D3 cooldown) - Select a green node and attempt to plumb it. Does absolutely nothing but leaves a log.
 
 Uninstall Untrusted (D1 -> D3 cooldown) - Select a target operative and disable all day actions related to the topology done by them.
-
 
 Italian Greeting - Select a target operative and visit them. Does not gain any intel.
 

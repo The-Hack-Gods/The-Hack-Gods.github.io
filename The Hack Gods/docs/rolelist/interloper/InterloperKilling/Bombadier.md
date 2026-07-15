@@ -1,13 +1,3 @@
-![bombardier.png](Images/bombardier.png){ width="250" }
-
-### **Neutral Killing**
-
-This role is supposed to be unique, depending on the ruleset.
-
-“Light the fuse and drop the artillery, Bombardier.”
-
-Win Condition: Eliminate the majority of all hostile units (Netsec, Agents, and W3C).
-
 ### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
@@ -15,7 +5,6 @@ Unskilled Attack - Select a node, green or white. Leaves a log.
 Jam Network (2 charges) - Select a target operative and disable all day actions related to the topology done by them.
 
 Plant Fake Info - Decreases hacking chances on a random node.
-
 
 Signal Flare (3 charges) - If you are attempted to be arrested tonight, whoever attempted to arrest you will be announced to you. Marks the target. Will avoid the arrest as an additional charge to Raid Boss.
 

@@ -1,13 +1,3 @@
-![shamedjournalist.png](Images/shamedjournalist.png){ width="350" }
-
-### **Neutral Investigative**
-
-This role is supposed to be unique, depending on the ruleset.
-
-“Crime Journalism means to cause crime to write journalism, Shamed Journalist.”
-
-Win Condition: Write 3 articles.
-
 ### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
@@ -17,7 +7,6 @@ Get Dirt - Select a target operative. You will get one of two class types that t
 Stakeout for Scoops - Select a target operative. If they are arrested tonight, gain 2 scoops.
 
 Destroy Intel - Select a green node, if you find intel that is of intel (see tips for list of intel), destroy it, give yourself the intel, and gain 1 scoop.
-
 
 Murder Journalist (1 charge) - Select a target operative. If the target is a journalist, paragon journalist, sympathetic reporter, or persuaded news reporter, visit, occupy, and murder them, gain 1 scoop, and remove Unrespected, becoming unarrestable. Otherwise, do nothing.
 

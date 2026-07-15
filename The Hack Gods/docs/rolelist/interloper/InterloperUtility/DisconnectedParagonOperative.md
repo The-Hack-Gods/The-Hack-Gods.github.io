@@ -1,13 +1,3 @@
-![disconnectedparagonoperative.png](Images/disconnectedparagonoperative.png){ width="350" }
-
-### **Neutral Utility**
-
-Cannot be spawned with Paragon themselves.
-
-“An enigma of mystery, you are here for unknown reasons, Disconnected Paragon Operative.”
-
-Win Condition: Ensure Paragon wins.
-
 ### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
@@ -17,7 +7,6 @@ Hack Target (Low) - Select a white node and attempt to hack it. Leaves a log.
 Rerouted Denial of Service (2 charges) - Select a green or white node and block all connections to the node this day. Select a target operative to make this show up as the operative who used the denial of service with Wireshark. Do not leave a log.
 
 Hack Private Channel (1 charge) - You can write one message to talk to all players in ASC or W3C channels, speaking directly to only Agent and/or W3C players, which appears next night.
-
 
 Paragon Secret Codeword - Select a target operative, if a target is Paragon, let you know their role. Goes through cover or frames. Visit them.
 
