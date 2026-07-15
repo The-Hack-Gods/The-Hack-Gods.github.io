@@ -6,7 +6,7 @@
 
 Win Condition: Set your win condition by asking if it is ok with the host. Complete this win condition.
 
-### **Day:**
+### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
@@ -28,7 +28,6 @@ Background Search (D1 -> D3 cooldown) - Check a target operative’s background.
 
 Troll Operative (2 charges) - Permanently rename another operative to whatever name you want. If you name it the same as another operative, targeting that operative will randomly target either operative of the same name.
 
-### **Night:**
 
 Midnight Meet (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. 
 

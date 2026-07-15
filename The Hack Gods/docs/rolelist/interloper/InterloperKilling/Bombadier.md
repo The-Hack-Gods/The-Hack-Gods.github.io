@@ -8,7 +8,7 @@ This role is supposed to be unique, depending on the ruleset.
 
 Win Condition: Eliminate the majority of all hostile units (Netsec, Agents, and W3C).
 
-### **Day:**
+### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
@@ -16,7 +16,6 @@ Jam Network (2 charges) - Select a target operative and disable all day actions 
 
 Plant Fake Info - Decreases hacking chances on a random node.
 
-### **Night:**
 
 Signal Flare (3 charges) - If you are attempted to be arrested tonight, whoever attempted to arrest you will be announced to you. Marks the target. Will avoid the arrest as an additional charge to Raid Boss.
 

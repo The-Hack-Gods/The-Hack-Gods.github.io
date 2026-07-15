@@ -6,7 +6,7 @@
 
 Win Condition: Make all factions have only 50% of their operatives, including Netsec, W3C, and agents. 
 
-### **Day:**
+### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
@@ -16,7 +16,6 @@ Rollback (1 charge) - Select a green node, return the node to a white node, un-h
 
 Broadcast Message (1 charge) - You can write one message to talk to all players in a specialized channel (global Opsec info). This message can appear when you want it tonight.
 
-### **Night:**
 
 Get Scoop (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. Do not go through frames or cover. Find if the target is not neutral.
 

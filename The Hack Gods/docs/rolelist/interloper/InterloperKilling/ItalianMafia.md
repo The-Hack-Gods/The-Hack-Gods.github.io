@@ -10,7 +10,7 @@ This role is supposed to be unique, depending on the ruleset.
 
 Win Condition: Eliminate the majority of all hostile units (Netsec, Agents, and W3C).
 
-### **Day:**
+### **Actives:**
 
 Beeg Problem (D1 -> D3 cooldown) - Select a white node and attempt to hack it. However, it is a beeg problem and you can’t hack it. Does absolutely nothing but leaves a log.
 
@@ -18,7 +18,6 @@ Plumb Node (D1 -> D3 cooldown) - Select a green node and attempt to plumb it. Do
 
 Uninstall Untrusted (D1 -> D3 cooldown) - Select a target operative and disable all day actions related to the topology done by them.
 
-### **Night:**
 
 Italian Greeting - Select a target operative and visit them. Does not gain any intel.
 

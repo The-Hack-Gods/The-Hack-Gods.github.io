@@ -6,7 +6,7 @@
 
 Win Condition: You are given 2 target operatives. Guess, vote, or get the 2 target operatives killed or arrested. Can be any faction.
 
-### **Day:**
+### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
@@ -18,7 +18,6 @@ Bait Law Enforcement - Select a target operative, inform agents that the target 
 
 Vengeance (3 charges) - Select a target operative and guess their role. If you guess right, shoot the target operative tonight. Removes all frames and covers. You will know if you guessed right or wrong.
 
-### **Night:**
 
 Deductive Reasoning (N1 -> N3 cooldown) - Select a target operative. You will learn their faction, and their subclass. Do not go through frames or cover. Visit them.
 

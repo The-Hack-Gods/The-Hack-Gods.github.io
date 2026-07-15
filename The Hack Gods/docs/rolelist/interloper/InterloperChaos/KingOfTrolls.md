@@ -8,7 +8,7 @@ This role is supposed to be unique, depending on the ruleset.
 
 Win Condition: Get yourself voted out.
 
-### **Day:**
+### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
@@ -22,7 +22,6 @@ Impersonate (1 charge) - Permanently rename your operative to whatever name you 
 
 Troll Operative (2 charges) - Permanently rename another operative to whatever name you want. If you name it the same as another operative, targeting that operative will randomly target either operative of the same name.
 
-### **Night:**
 
 Experienced Hiding (3 charges) - Move your hideout, protecting yourself unless you are occupied.
 

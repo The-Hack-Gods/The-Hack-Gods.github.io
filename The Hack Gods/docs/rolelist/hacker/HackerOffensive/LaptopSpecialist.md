@@ -1,18 +1,8 @@
-![laptopspecialist.png](Images/laptopspecialist.png){ width="250" }
-
-### **Netsec Offensive**
-
-“You’ve broken into hundreds of personal computers, Laptop Specialist.”
-
-Win Condition: Eliminate ALL hostile units.
-
-### **Day:**
+### **Actives:**
 
 Hack Target (Low) - Select a white node and attempt to hack it. Leaves a log. If it is a laptop, the chance of a hack is high.
 
 Hack ROOT Access - Select a green node. If there is no rooted operative or OL, you can hack into root access by trying to hack a node with the OL’s connection and become an Operation Leader. Leaves a log.
-
-### **Night:**
 
 Research Servers (2 charges) - Increases your hacking stage by one against servers the following day.
 

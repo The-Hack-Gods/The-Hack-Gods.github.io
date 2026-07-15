@@ -8,7 +8,7 @@ This role is supposed to be unique, depending on the ruleset; one Agent on the F
 
 Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
-### **Day:**
+### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
@@ -18,7 +18,6 @@ Connect the Dots (2 charges) - Select a target operative. Reveal, unframe, and u
 
 Contraband Check (1 charge) - For the next night, any operatives arrested and murdered will have their roles revealed, unframed, and logs unencrypted, including through voting.
 
-### **Night:**
 
 Drug Bust - Select a target operative and arrest them. Reveals their true role, unframing them, and unencrypting their logs. Visit them.
 

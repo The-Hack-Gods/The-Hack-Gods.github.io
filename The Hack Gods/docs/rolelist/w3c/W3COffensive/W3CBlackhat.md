@@ -6,7 +6,7 @@
 
 Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
-### **Day:**
+### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
@@ -32,7 +32,6 @@ Blood for the Blood God (Killed 2 operatives)
 
 Caesar Cipher (1 charge) - Select a layer, removing all intel on this layer. Do not leave a log.
 
-### **Night:**
 
 Midnight Meet (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. 
 

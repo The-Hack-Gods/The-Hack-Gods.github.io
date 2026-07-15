@@ -6,13 +6,12 @@
 
 Win Condition: Make all factions have only 50% of their operatives, including Netsec, W3C, and agents. 
 
-### **Day:**
+### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
 Bait Law Enforcement - Select a target operative, inform agents that the target is one working for Netsec. Can be yourself. (Leaves the same message as Bounty Hunter’s Spill the Beans).
 
-### **Night:**
 
 Send Entertainment (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, entertaining them. (Same as Midnight Meet).
 

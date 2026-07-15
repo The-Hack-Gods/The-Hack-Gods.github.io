@@ -8,7 +8,7 @@ This role is supposed to be unique, depending on the ruleset.
 
 Win Condition: You are assigned a Netsec, mole, or faction non-leader operative to win with, make sure they win.
 
-### **Day:**
+### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
@@ -18,7 +18,6 @@ Computer Hotwiring (2 charges) - Make all hack chances increased by one stage to
 
 Rummage Customer Info - Instead of downloading, you can try rummaging customer info. Goes through cover or frames. Download Intel without leaving a connection log. Guaranteed to be accurate.
 
-### **Night:**
 
 DM Sliding (1 charge) - Check your “friend”, target operative’s exact role through social media. Goes through cover or frames. Do not visit them.
 

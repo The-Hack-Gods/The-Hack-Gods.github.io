@@ -8,7 +8,7 @@ This role is supposed to be unique, depending on the ruleset.
 
 Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
-### **Day:**
+### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
@@ -20,7 +20,6 @@ Rat Jam (3 charges) - Select a target operative. Send rats to their house, annoy
 
 All in (1 charge) - Turn into a Field Agent. Can only be done if there are no Agent on the Field roles.
 
-### **Night:**
 
 Dolphin Attack (2 charges) - Select a target operative, and attack them with dolphins. They will have to heal from their wounds tomorrow, preventing them from using actions tomorrow night. Visit them.
 

@@ -6,7 +6,7 @@
 
 Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
-### **Day:**
+### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
@@ -22,7 +22,6 @@ Blood for the Blood God (Killed 2 operatives)
 
 Background Search (D1 -> D3 cooldown) - Check a target operative’s background. You’ll be given a (non-unique) random skill that they have, either day or night. Do not go through frames or cover.
 
-### **Night:**
 
 Sell Illicit Arms (N1 -> N3 cooldown) - Select a target operative. If they do not have access to the skill Disorganized Murder, give them 1 charge of Disorganized Murder the following night. This charge of Disorganized Murder is removed if it is not used the night it is given. Visit them.
 

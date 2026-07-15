@@ -6,7 +6,7 @@
 
 Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
-### **Day:**
+### **Actives:**
 
 Hack Target (Low) - Select a white node and attempt to hack it. Leaves a log.
 
@@ -16,7 +16,6 @@ Alter Logs (D1 -> D3 cooldown) - Select a white or green node and either leave a
 
 Upload Fake Intel (1 charge) - Select a white or green node and upload intel that is downloadable by others. You can write what intel you want to leave. Leaves a log.
 
-### **Night:**
 
 Setup (2 charges) - Select two operatives. The first operative will visit and occupy the second operative, occupying both operatives. You may be the first target. Visits the first operative.
 

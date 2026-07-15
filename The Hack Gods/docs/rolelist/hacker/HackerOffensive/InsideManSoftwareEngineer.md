@@ -1,12 +1,4 @@
-![insidemansoftwareengineer.png](Images/insidemansoftwareengineer.png){ width="150" }
-
-### **Netsec Offensive**
-
-“You don’t have high clearance at the target company, but any little bit helps. Cash out and get out, Inside Man (Software Engineer).”
-
-Win Condition: Eliminate ALL hostile units.
-
-### **Day:**
+### **Actives:**
 
 Hack Target (Very Low) - Select a white node and attempt to hack it. Leaves a log.
 
@@ -15,8 +7,6 @@ Download Intel - Select a green node and attempt to download from it. If there i
 Insider Knowledge (D1 -> D3 cooldown, 2 charges) - Tells you the IP of a node with downloadable intel on it.
 
 Plant Keylogger (1 charge) - Grants you one charge of Retrieve Keylogger.
-
-### **Night:**
 
 Retrieve Keylogger (0 charges) - Select a white node, making it easier to hack and finding out if a non-hacking ability was used on this node yesterday. Grants you one charge of Plant Keylogger.
 

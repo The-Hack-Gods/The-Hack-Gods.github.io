@@ -1,20 +1,10 @@
-![sympatheticreporter.png](Images/sympatheticreporter.png){ width="250" }
-
-### **Netsec Utility**
-
-“Netsec needs a loud voice to help give advice and lead the hack, Sympathetic Reporter.”
-
-Win Condition: Eliminate ALL hostile units.
-
-### **Day:**
+### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
 Broadcast Message (1 charge) - You can write one message to talk to all players in a specialized channel (global Opsec info). This message can appear when you want it tonight.
 
 Desperate Measures (1 charge) - Turn into an Improvised Hacker.
-
-### **Night:**
 
 Get Scoop (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. Do not go through frames or cover. Find if the target is not neutral.
 

@@ -8,7 +8,7 @@ This role is supposed to be unique, depending on the ruleset.
 
 Win Condition: Become a mole for the agents, and win with agents.
 
-### **Day:**
+### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
@@ -18,7 +18,6 @@ Hack Private Channel (1 charge) - You can write one message to talk to all playe
 
 Steal Secured Channel Connection - Select a green node. If there is a dead mole, you can hack into ASC by trying to hack a node with a dead mole’s connection and become the mole. Leaves a log.
 
-### **Night:**
 
 Murder (1 charge) - Select an operative and murder them. Occupies and visits the target. If the target operative is a mole, kill them and become the mole.
 

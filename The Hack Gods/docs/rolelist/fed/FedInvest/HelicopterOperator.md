@@ -8,7 +8,7 @@ This role is supposed to be unique, depending on the ruleset.
 
 Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
-### **Day:**
+### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
@@ -18,7 +18,6 @@ Deep Learn (2 charges) - The next action will go through any kind of cover, fram
 
 To the Wheel (1 charge) - Turn into a Police Car Driver. Can only be done if there are no Agent on the Field roles.
 
-### **Night:**
 
 Perform Spotlight Surveillance (N1 -> N3 cooldown) - Selects a target operative and puts a spotlight on their hideout. See who visits the target operative tonight. Visit the target.
 

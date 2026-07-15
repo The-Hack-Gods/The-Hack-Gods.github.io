@@ -1,18 +1,8 @@
-![steadfaststudent.png](Images/steadfaststudent.png){ width="250" }
-
-### **Netsec Offensive**
-
-“Netsec taught you everything you know, you can’t let them fail, Steadfast Student.”
-
-Win Condition: Eliminate ALL hostile units.
-
-### **Day:**
+### **Actives:**
 
 Hack Target (Moderate) - Select a white node and attempt to hack it. Leaves a log. If Determined, the hack chance is high, and if Weathering the Storm, the hack chance is very high.
 
 Download Intel - Select a green node and attempt to download from it. If there is intel, and you download and remove it first, you will get intel (see tips for list of intel). Do not go through frames or cover. Leaves a log.
-
-### **Night:**
 
 Midnight Meet (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. 
 

@@ -6,7 +6,7 @@
 
 Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
-### **Day:**
+### **Actives:**
 
 Hack Target (High) - Select a white node and attempt to hack it. Leaves a log.
 
@@ -16,7 +16,6 @@ Network Shutdown (2 charges) - Prevents any topology affecting skills the next d
 
 Mass DDOS (1 charge) - Block all connections to all nodes this day. Globally announce Denial of service on only nodes that are attempted to be interacted with. Do not leave a log on any.
 
-### **Night:**
 
 Smash Hardware (N1 -> N3 cooldown) - Select an operative and disable all day actions related to the topology. Occupies and visits them. (Same as Midnight Meet).
 

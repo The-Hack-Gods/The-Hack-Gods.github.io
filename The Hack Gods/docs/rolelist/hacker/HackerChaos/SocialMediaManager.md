@@ -1,12 +1,4 @@
-![socialmediamanager.png](Images/socialmediamanager.png){ width="350" }
-
-### **Netsec Social**
-
-“Netsec needs your advertising and social media skills, Social Media Manager.”
-
-Win Condition: Eliminate ALL hostile units.
-
-### **Day:**
+### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
@@ -17,8 +9,6 @@ Post Photoshoot (0 charges) - Post your Photoshoot, convincing agents to give yo
 Post Videotape Advertising (0 charges) - Make all white nodes easier to hack today. Weak hacking buff. Give back 1 charge of Videotape Advertising.
 
 Desperate Measures (1 charge) - Turn into an Improvised Hacker.
-
-### **Night:**
 
 Photoshoot (1 charge) - Shoot a photoshoot of yourself, granting 1 charge of Post Photoshoot.
 

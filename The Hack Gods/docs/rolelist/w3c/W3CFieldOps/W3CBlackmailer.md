@@ -6,7 +6,7 @@
 
 Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
-### **Day:**
+### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
@@ -20,7 +20,6 @@ Blood for the Blood God (Killed 2 operatives)
 
 Blackmail has infinite charges now.
 
-### **Night:**
 
 Smash Hardware (N1 -> N3 cooldown) - Select an operative and disable all day actions related to the topology. Occupies and visits them. (Same as Midnight Meet).
 

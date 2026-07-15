@@ -8,7 +8,7 @@ Cannot be spawned with Paragon themselves.
 
 Win Condition: Ensure Paragon wins.
 
-### **Day:**
+### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
@@ -18,7 +18,6 @@ Rerouted Denial of Service (2 charges) - Select a green or white node and block 
 
 Hack Private Channel (1 charge) - You can write one message to talk to all players in ASC or W3C channels, speaking directly to only Agent and/or W3C players, which appears next night.
 
-### **Night:**
 
 Paragon Secret Codeword - Select a target operative, if a target is Paragon, let you know their role. Goes through cover or frames. Visit them.
 

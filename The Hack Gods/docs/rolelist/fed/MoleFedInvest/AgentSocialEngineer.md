@@ -6,7 +6,7 @@
 
 Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
-### **Day:**
+### **Actives:**
 
 Hack Target (Low) - Select a white node and attempt to hack it. Leaves a log.
 
@@ -16,7 +16,6 @@ Impersonate (1 charge) - Permanently rename your operative to whatever name you 
 
 Troll Operative (2 charges) - Permanently rename another operative to whatever name you want. If you name it the same as another operative, targeting that operative will randomly target either operative of the same name.
 
-### **Night:**
 
 Throw Under the Bus (2 charges) - Select a target operative. All skills used on you will be used on the target operative.
 

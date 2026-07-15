@@ -6,7 +6,7 @@
 
 Win Condition: Create an anime Vtuber waifu, survive and don’t get arrested.
 
-### **Day:**
+### **Actives:**
 
 Create Waifu - Try to upload your dream waifu into a virtual AI Vtuber. Low success chance. If this succeeds, you just need to survive.
 
@@ -14,7 +14,6 @@ Punjabi Scripts - Select a white node and attempt to hack it with low hack chanc
 
 Reroute Efforts (3 charges) - Reroute the target operative's connections to work on your waifu AI. Increases the success chance of Create Waifu. Cuts off the connection of the operative like Jam Network and prevents day actions on the topology. Cannot be used on the same target more than once.
 
-### **Night:**
 
 Experienced Hiding (3 charges) - Move your hideout, protecting yourself unless you are occupied.
 

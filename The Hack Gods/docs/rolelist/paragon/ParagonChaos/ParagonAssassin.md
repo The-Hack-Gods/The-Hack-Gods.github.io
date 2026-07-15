@@ -6,7 +6,7 @@
 
 Win Condition: Make all factions have only 50% of their operatives, including Netsec, W3C, and agents. 
 
-### **Day:**
+### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
@@ -16,7 +16,6 @@ Redirect Assassin (1 charge) - Select a target operative. For the rest of the ga
 
 Proving Shot - Select a target operative and guess their role. If you guess right, shoot the target operative tonight. Removes all frames and covers. You will know if you guessed right or wrong.
 
-### **Night:**
 
 Proving Shot - Select a target operative and guess their role. If you guess right, shoot the target operative tonight. Removes all frames and covers. You will know if you guessed right or wrong.
 

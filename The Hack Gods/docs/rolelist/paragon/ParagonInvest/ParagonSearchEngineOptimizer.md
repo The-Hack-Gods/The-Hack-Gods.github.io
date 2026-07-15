@@ -6,7 +6,7 @@
 
 Win Condition: Make all factions have only 50% of their operatives, including Netsec, W3C, and agents. 
 
-### **Day:**
+### **Actives:**
 
 Hack Target (Low) - Select a white node and attempt to hack it. Leaves a log.
 
@@ -16,7 +16,6 @@ Optimize Clickbait (N1 -> N4 cooldown, 2 charges) - Select a Paragon operative. 
 
 Overload Website (2 charges) - Select a green node, increasing hacking chances of getting this node permanently. Strongest hacking chance buff. Do not leave a log.
 
-### **Night:**
 
 Disorganized Murder - Select an operative and attempt to murder them. Visit the target.
 

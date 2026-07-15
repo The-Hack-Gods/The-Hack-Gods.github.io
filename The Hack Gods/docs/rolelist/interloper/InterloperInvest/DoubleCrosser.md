@@ -6,7 +6,7 @@
 
 Win Condition: Guess a target operative’s role through Turn Yourself In and get both of you arrested.
 
-### **Day:**
+### **Actives:**
 
 Hack Target (Very Low) - Select a white node and attempt to hack it. Leaves a log.
 
@@ -16,7 +16,6 @@ Review TCP Packets (N1 -> N4 cooldown, 2 charges) - Select a target operative an
 
 Hack Private Channel (1 charge) - You can write one message to talk to all players in ASC or W3C channels, speaking directly to only Agent and/or W3C players, which appears next night.
 
-### **Night:**
 
 Obtain Evidence (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. Gain some intel, similar to Download Intel, getting intel (see tips for list of intel). Do not go through frames or cover. 
 

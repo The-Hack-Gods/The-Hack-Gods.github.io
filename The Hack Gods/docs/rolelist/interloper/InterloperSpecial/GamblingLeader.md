@@ -8,7 +8,7 @@ This role is unique, at most one Operation Leader should spawn.
 
 Win Condition: Survive. Changes upon using Feeling Lucky to win with Netsec, Agent, Paragon, or W3C.
 
-### **Day:**
+### **Actives:**
 
 Feeling Lucky (2 charges) - Randomize your win condition to a faction to win with.
 
@@ -22,7 +22,6 @@ Give Root Access (1 charge) - Select an operative to give root to. Upon your dea
 
 Give Assassin Access (1 charge) - Select an operative to give assassin access to. They can choose a target operative to kill the next night temporarily.
 
-### **Night:**
 
 Feeling Lucky (2 charges) - Randomize your win condition to a faction to win with.
 

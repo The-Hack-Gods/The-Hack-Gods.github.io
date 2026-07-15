@@ -6,7 +6,7 @@
 
 Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
-### **Day:**
+### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
@@ -14,7 +14,6 @@ Review TCP Packets (N1 -> N4 cooldown, 2 charges) - Select a target operative an
 
 Sabotage Internet of Things - Select a target operative and lower their hack chance this phase.
 
-### **Night:**
 
 Smash Hardware (N1 -> N3 cooldown) - Select an operative and disable all day actions related to the topology. Occupies and visits them. (Same as Midnight Meet).
 

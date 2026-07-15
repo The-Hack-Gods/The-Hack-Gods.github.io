@@ -8,7 +8,7 @@ This role is supposed to be unique, depending on the ruleset; one Agent on the F
 
 Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
-### **Day:**
+### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
@@ -40,7 +40,6 @@ Harden Node (D1 -> D3 cooldown, 2 charges) - Select a white node, decreasing hac
 
 Data Void (1 charge) - Select a white node. If the node is hacked this day, you will take root on that node first. Does not deplete on failure of taking the node.
 
-### **Night:**
 
 Switch Mode - Choose a mode to switch into, Enforce, Undercover, and Defend.
 

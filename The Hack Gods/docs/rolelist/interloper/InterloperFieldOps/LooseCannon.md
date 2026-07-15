@@ -6,13 +6,12 @@
 
 Win Condition: Win on the three of your objectives.
 
-### **Day:**
+### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
 Bait Law Enforcement - Select a target operative, inform agents that the target is one working for Netsec. Can be yourself. (Leaves the same message as Bounty Hunter’s Spill the Beans).
 
-### **Night:**
 
 Fake Escort - Escort a target operative, but leave as soon as trouble comes, letting the original target die or get arrested. Visit and occupy them. Must select a different target the next night.
 

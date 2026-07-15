@@ -1,18 +1,8 @@
-![armsdealer.png](Images/armsdealer.png){ width="250" }
-
-### **Netsec Field Operations**
-
-“Netsec is paying you a hefty sum for your guns and assets, Arms Dealer.”
-
-Win Condition: Eliminate ALL hostile units.
-
-### **Day:**
+### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
 Desperate Measures (1 charge) - Turn into an Improvised Hacker.
-
-### **Night:**
 
 Emergency Extraction (N1 -> N3 cooldown, 3 charges) - Select an operative to escort, does not occupy them and makes them immune to everything unless otherwise stated. Do not visit them.
 

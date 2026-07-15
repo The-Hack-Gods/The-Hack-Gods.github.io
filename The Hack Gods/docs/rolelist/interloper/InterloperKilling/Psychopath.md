@@ -8,7 +8,7 @@ This role is supposed to be unique, depending on the ruleset.
 
 Win Condition: Eliminate the majority of all hostile units (Netsec, Agents, and W3C).
 
-### **Day:**
+### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
@@ -18,7 +18,6 @@ Impersonate (1 charge) - Permanently rename your operative to whatever name you 
 
 Hold Opsec Hostage (2 charges) - You can write one message to talk to all players in a specialized channel (global Opsec info). This message can appear when you want it tonight.
 
-### **Night:**
 
 Hold Hostage - Select a target operative and hold their family hostage, visiting and occupying them. The operative will be forced to murder someone of your choice or die. The operative sent to murder the other operative cannot be occupied, and the selected operative will visit the target and murder them. Cannot repeatedly use this on the same operative.
 

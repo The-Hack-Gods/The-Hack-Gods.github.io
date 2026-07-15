@@ -6,7 +6,7 @@
 
 Win Condition: Make all factions have only 50% of their operatives, including Netsec, W3C, and agents. 
 
-### **Day:**
+### **Actives:**
 
 Hack Target (Low) - Select a white node and attempt to hack it. Leaves a log.
 
@@ -14,7 +14,6 @@ Firewall Layer (D1 -> D3 cooldown, 2 charges) - Select a layer, decreasing hacki
 
 Overload Node (1 charge) - Select a white node. All connections and DDOS to this node will fail. Leaves a log.
 
-### **Night:**
 
 Clean Up Crew (N1 -> N4 cooldown) - Remove the operative’s role and logs on their death or arrest. Gives you their role. Do not go through frames or cover. Visit them.
 

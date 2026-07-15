@@ -8,7 +8,7 @@ This role is supposed to be unique, depending on the ruleset.
 
 Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
-### **Day:**
+### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
@@ -22,7 +22,6 @@ Derail News (1 charge) - For the next night, any operatives arrested and murdere
 
 All in (1 charge) - Turn into a Field Agent. Can only be done if there are no Agent on the Field roles.
 
-### **Night:**
 
 Get Scoop (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. Do not go through frames or cover. Find if the target is not neutral.
 

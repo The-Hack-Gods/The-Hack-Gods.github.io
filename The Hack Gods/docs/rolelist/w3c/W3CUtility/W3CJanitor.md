@@ -6,7 +6,7 @@
 
 Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
-### **Day:**
+### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
@@ -22,7 +22,6 @@ Altar of Heresy (50% W3C operatives left or obtained Root Access)
 
 Emergency Repairs has 2 more charges now.
 
-### **Night:**
 
 Clean Up Crew (N1 -> N4 cooldown) - Remove the operative’s role and logs on their death or arrest. Gives you their role. Do not go through frames or cover. Visit them.
 

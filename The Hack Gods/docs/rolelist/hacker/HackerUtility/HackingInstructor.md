@@ -1,4 +1,4 @@
-### **Day:**
+### **Actives:**
 
 Desperate 0-day (1 charge) - Select a white node and instantly hack it. Leaves a log.
 

@@ -6,13 +6,12 @@
 
 Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
-### **Day:**
+### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
 Alter Logs (D1 -> D3 cooldown) - Select a white or green node and either leave a singular fake connection log of one operative, or leave a few random connection logs.
 
-### **Night:**
 
 Fake Escort - Escort a target operative, but leave as soon as trouble comes, letting the original target die or get arrested. Visit and occupy them. Must select a different target the next night.
 

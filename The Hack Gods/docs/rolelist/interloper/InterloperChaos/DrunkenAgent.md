@@ -6,7 +6,7 @@
 
 Win Condition: Win 2 duels against anyone, doesn't have to kill them.
 
-### **Day:**
+### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
@@ -18,7 +18,6 @@ Bait Law Enforcement - Select a target operative, inform agents that the target 
 
 Blackmail (3 charges) - Select a target operative. They cannot vote for two phases.
 
-### **Night:**
 
 Duel - Select a target operative. The next day, you and your opponent choose between laptop, server, and PC. Laptop beats PC, PC beats server, and server beats laptop. If you win, the target is occupied and murdered the night after.
 

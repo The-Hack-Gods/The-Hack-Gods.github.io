@@ -6,7 +6,7 @@
 
 Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
-### **Day:**
+### **Actives:**
 
 Hack Target (Very High) - Select a white node and attempt to hack it. Leaves a log.
 
@@ -14,7 +14,6 @@ Node prediction (2 charges) - Select a white node. You always predict correctly,
 
 Random Graph Models (D1 -> D4 cooldown) - Reveal the next layer in the topology to yourself, and if the layer has intel upon hacking to it.
 
-### **Night:**
 
 Move Hideout (1 charge) - Move your hideout, protecting yourself unless you are occupied.
 

@@ -1,18 +1,8 @@
-![rookieassassin.png](Images/rookieassassin.png){ width="350" }
-
-### **Netsec Social**
-
-“You are supposed to be on the Operation Leader’s payroll, but you needed to train up as one of the operatives first, Rookie Assassin.”
-
-Win Condition: Eliminate ALL hostile units.
-
-### **Day:**
+### **Actives:**
 
 Hack Target (Low) - Select a white node and attempt to hack it. Leaves a log.
 
 Proving Shot - Select a target operative and guess their role. If you guess right, shoot the target operative tonight. Removes all frames and covers. You will know if you guessed right or wrong.
-
-### **Night:**
 
 Proving Shot - Select a target operative and guess their role. If you guess right, shoot the target operative. Removes all frames and covers.
 

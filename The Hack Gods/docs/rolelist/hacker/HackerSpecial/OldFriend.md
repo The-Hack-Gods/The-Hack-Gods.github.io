@@ -1,14 +1,4 @@
-![oldfriend.png](Images/oldfriend.png){ width="250" }
-
-### **Netsec Special**
-
-This role is supposed to be unique, depending on the ruleset.
-
-“Once upon a time, the Operation Leader bailed you out and saved your life, now it’s your chance to repay the favor, Old Friend.”
-
-Win Condition: Eliminate ALL hostile units.
-
-### **Day:**
+### **Actives:**
 
 Hack Target (Moderate) - Select a white node and attempt to hack it. Leaves logs.
 
@@ -17,8 +7,6 @@ Download Intel - Select a green node and attempt to download from it. If there i
 Ransom Computer (3 charges) - Select a target operative. If the target operative has the ability to root, steal the ability to root, remove the current root, and grant 1 charge of Give Root Access.
 
 Give Root Access (0 charges) - Select an operative to give root to. Upon your death, they can choose to become an Operation Leader of their own faction or stay as their current role with broadcast.
-
-### **Night:**
 
 Looking for an Old Friend (N1 -> N3 cooldown) - Select a target operative, if they are the Operation Leader or have root access, you will know. Goes through cover or frames. Visit them.
 

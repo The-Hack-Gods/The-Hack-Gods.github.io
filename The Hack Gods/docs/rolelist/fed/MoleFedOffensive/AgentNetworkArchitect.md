@@ -6,13 +6,12 @@
 
 Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
-### **Day:**
+### **Actives:**
 
 Hack Target (Moderate) - Select a white node and attempt to hack it. Leaves a log.
 
 Harden Node (D1 -> D3 cooldown, 2 charges) - Select a white node, decreasing hacking chances of getting this node. Strongest hacking chance nerf. Leaves a log.
 
-### **Night:**
 
 Move Hideout (1 charge) - Move your hideout, protecting yourself unless you are occupied.
 

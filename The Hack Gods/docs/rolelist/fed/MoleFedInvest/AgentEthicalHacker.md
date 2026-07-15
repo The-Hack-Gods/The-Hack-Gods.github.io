@@ -6,7 +6,7 @@
 
 Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
-### **Day:**
+### **Actives:**
 
 Hack Target (Moderate) - Select a white node and attempt to hack it. Leaves a log.
 
@@ -14,7 +14,6 @@ Harden Node (D1 -> D3 cooldown, 2 charges) - Select a white node, decreasing hac
 
 Algorithmic Connections - Select a white or green node. If alter logs or rollback is used, double the amount of random connection logs. Do not leave a log.
 
-### **Night:**
 
 Plant Agent Documentation (3 charges) - Select a target operative. If the operative is doxxed this round, they will be seen as an agent. If the operative is specialization reviewed, they will be seen as special. If the operative is asked the right question, they will be seen as unable to hack. If the operative is speech analyzed, they will be seen as unable to win with anyone. Visit them.
 

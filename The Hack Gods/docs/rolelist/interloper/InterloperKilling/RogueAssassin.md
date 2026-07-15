@@ -8,7 +8,7 @@ This role is supposed to be unique, depending on the ruleset.
 
 Win Condition: Eliminate the majority of all hostile units (Netsec, Agents, and W3C).
 
-### **Day:**
+### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
@@ -20,7 +20,6 @@ Redirect Vote (2 charges) - If you would rather kill someone else, use a charge 
 
 My Aim is True - Select any number of target operatives and guess all their roles. If you guess right, shoot the target operative tonight. Removes all frames and covers. Cannot guess more than two of the same role in a single phase. You will know if you guessed right or wrong.
 
-### **Night:**
 
 Day Off (N1 -> N3 cooldown) - If you think that the operative getting voted is not someone that should die, don’t kill them. Unfortunately, you gotta get paid, so you have to kill once in a while. If The Assassin has been triggered, this ability is disabled.
 

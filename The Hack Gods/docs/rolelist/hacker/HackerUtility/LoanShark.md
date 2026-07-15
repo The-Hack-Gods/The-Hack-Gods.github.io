@@ -1,12 +1,4 @@
-![loanshark.png](Images/loanshark.png){ width="350" }
-
-### **Netsec Utility**
-
-“You are pretty crafty at getting money out of people, Loan Shark.”
-
-Win Condition: Eliminate ALL hostile units.
-
-### **Day:**
+### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
@@ -25,8 +17,6 @@ Hack Target (Moderate, 1 charge) - Select a white node and attempt to hack it. L
 Download Intel (1 charge) - Select a green node and attempt to download from it. If there is intel, and you download and remove it first, you will get intel (see tips for list of intel). Do not go through frames or cover. Leaves a log.
 
 Probe Node (1 charge) - Select a white node, increasing hacking chances of getting this node. Strongest hacking chance buff. Leaves a log.
-
-### **Night:**
 
 Sell Loan (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, gaining a charge of Buy Hacking Tools or Buy Field Operations. (Same as Midnight Meet).
 

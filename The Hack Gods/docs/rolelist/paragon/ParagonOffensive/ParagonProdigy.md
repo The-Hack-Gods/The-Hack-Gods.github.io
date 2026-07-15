@@ -6,7 +6,7 @@
 
 Win Condition: Make all factions have only 50% of their operatives, including Netsec, W3C, and agents. 
 
-### **Day:**
+### **Actives:**
 
 Hack Target (Moderate) - Select a white node and attempt to hack it. Leaves a log.
 
@@ -14,7 +14,6 @@ Exploit Vulnerability (2 charges) - Select a white node and attempt to hack it w
 
 Hit the Books (D1 -> D3 cooldown, 2 charges) - Increases your hacking stage by one, permanently.
 
-### **Night:**
 
 Move Hideout (1 charge) - Move your hideout, protecting yourself unless you are occupied.
 

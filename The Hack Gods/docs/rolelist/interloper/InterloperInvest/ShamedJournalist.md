@@ -8,7 +8,7 @@ This role is supposed to be unique, depending on the ruleset.
 
 Win Condition: Write 3 articles.
 
-### **Day:**
+### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
@@ -18,7 +18,6 @@ Stakeout for Scoops - Select a target operative. If they are arrested tonight, g
 
 Destroy Intel - Select a green node, if you find intel that is of intel (see tips for list of intel), destroy it, give yourself the intel, and gain 1 scoop.
 
-### **Night:**
 
 Murder Journalist (1 charge) - Select a target operative. If the target is a journalist, paragon journalist, sympathetic reporter, or persuaded news reporter, visit, occupy, and murder them, gain 1 scoop, and remove Unrespected, becoming unarrestable. Otherwise, do nothing.
 

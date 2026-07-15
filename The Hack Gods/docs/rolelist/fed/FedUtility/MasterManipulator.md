@@ -8,7 +8,7 @@ This role is supposed to be unique, depending on the ruleset.
 
 Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
-### **Day:**
+### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
@@ -20,7 +20,6 @@ Weaken Connection (2 charges) - Select a target operative, lower their hack chan
 
 All in (1 charge) - Turn into a Field Agent. Can only be done if there are no Agent on the Field roles.
 
-### **Night:**
 
 Setup (2 charges) - Select two operatives. The first operative will visit and occupy the second operative, occupying both operatives. You may be the first target. Visits the first operative.
 

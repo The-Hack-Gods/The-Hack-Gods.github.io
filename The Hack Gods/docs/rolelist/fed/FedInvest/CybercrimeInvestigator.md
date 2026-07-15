@@ -8,7 +8,7 @@ This role is supposed to be unique, depending on the ruleset; one Agent on the F
 
 Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
-### **Day:**
+### **Actives:**
 
 Hack Target (Moderate) - Select a white node and attempt to hack it. Leaves a log.
 
@@ -20,7 +20,6 @@ Background Search (D1 -> D3 cooldown) - Check a target operative’s background.
 
 Plan B (1 charge) - If there is no Agent Leader, turn into an Agent Leader.
 
-### **Night:**
 
 Investigate Bottom - Arrest the operative below you in the list of operatives and give you the subclass of the operative below the operative. Goes through cover or frames. If this fails, skip the operative below you and arrest the next operative. Visit them.
 

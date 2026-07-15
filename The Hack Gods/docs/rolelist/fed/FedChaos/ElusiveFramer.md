@@ -8,7 +8,7 @@ This role is supposed to be unique, depending on the ruleset; one Agent on the F
 
 Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
-### **Day:**
+### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
@@ -20,7 +20,6 @@ Troll Operative (2 charges) - Permanently rename another operative to whatever n
 
 Objection! - Force someone to vote for someone of your choice.
 
-### **Night:**
 
 Objection! - Force someone to vote for someone of your choice.
 

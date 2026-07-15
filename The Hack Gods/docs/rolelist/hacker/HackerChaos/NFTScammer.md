@@ -1,12 +1,4 @@
-![nftscammer.png](Images/nftscammer.png){ width="350"}
-
-### **Netsec Social**
-
-“Time to scam some people out of their money and pull some rugs, NFT Scammer.”
-
-Win Condition: Eliminate ALL hostile units.
-
-### **Day:**
+### **Actives:**
 
 Hack Target (Low) - Select a white node and attempt to hack it. Leaves a log.
 
@@ -15,8 +7,6 @@ Generative AI (D1 -> D3 cooldown, 3 charges) - Select a white or green node and 
 Generate Avatar (2 charges) - Permanently rename another operative to whatever name you want. If you name it the same as another operative, targeting that operative will randomly target either operative of the same name. Can be used on yourself.
 
 Pull the Rug (1 charge) - Select a white or green node and upload intel that is downloadable by others. You can write what intel you want to leave. Leaves a log.
-
-### **Night:**
 
 NFT Scam (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about an NFT. If you want to, you can use a charge of frame here. (Same as Midnight Meet).
 

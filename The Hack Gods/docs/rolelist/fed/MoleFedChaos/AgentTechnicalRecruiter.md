@@ -6,7 +6,7 @@
 
 Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
-### **Day:**
+### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
@@ -16,7 +16,6 @@ Troll Operative (2 charges) - Permanently rename another operative to whatever n
 
 Onboarding Process - Force someone to vote for someone of your choice.
 
-### **Night:**
 
 Final Gambit (1 charge) - Frame yourself as any role in the game, after using this ability, you can choose to leave as dead or arrested at any future phase.
 

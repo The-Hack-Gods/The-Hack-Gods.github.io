@@ -8,7 +8,7 @@ This role is ONLY through a Criminal Psychologist, not a role that exists withou
 
 Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
-### **Day:**
+### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
@@ -20,7 +20,6 @@ Upload Fake Intel (1 charge) - Select a white or green node and upload intel tha
 
 Wireshark (D1 -> D4 cooldown) - Tells you the name of any operative that did a Denial of Service.
 
-### **Night:**
 
 Snitch to Cops (N1 -> N4 cooldown) - Select a target operative. Attempt to arrest the operative with local cops. Do not visit them.
 

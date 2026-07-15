@@ -6,7 +6,7 @@
 
 Win Condition: Make all factions have only 50% of their operatives, including Netsec, W3C, and agents. 
 
-### **Day:**
+### **Actives:**
 
 Hack Target (Moderate) - Select a white node and attempt to hack it. Leaves a log.
 
@@ -14,7 +14,6 @@ Chinese Remainder Theorem (1 charge) - You know how this company would encrypt t
 
 Cryptocurrency Trading - Trade currency for some intel. Instead of downloading, you can try to get intel through buying and selling crypto on the market. Do not go through frames or cover. Download Intel without leaving a connection log. Sometimes returns fake intel.
 
-### **Night:**
 
 Throw Under the Bus (2 charges) - Select a target operative. All skills used on you will be used on the target operative.
 

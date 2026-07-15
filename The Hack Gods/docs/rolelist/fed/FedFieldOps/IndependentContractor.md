@@ -8,7 +8,7 @@ This role is supposed to be unique, depending on the ruleset; one Agent on the F
 
 Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
-### **Day:**
+### **Actives:**
 
 Hack Target (Low) - Select a white node and attempt to hack it. Leaves a log.
 
@@ -18,7 +18,6 @@ Harden Node (D1 -> D3 cooldown, 2 charges) - Select a white node, decreasing hac
 
 Reverse Protocols - Select a white node. All abilities that increase the security of the node will decrease the security of the node, and all abilities that decrease the security of the node increase the security of the node. Leaves a log.
 
-### **Night:**
 
 Snitch to Cops (N1 -> N4 cooldown) - Select a target operative. Attempt to arrest the operative with local cops. Do not visit them.
 

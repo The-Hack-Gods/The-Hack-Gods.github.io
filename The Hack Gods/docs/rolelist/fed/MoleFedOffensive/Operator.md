@@ -8,7 +8,7 @@ This role is ONLY through a Criminal Psychologist, not a role that exists withou
 
 Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
-### **Day:**
+### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
@@ -20,7 +20,6 @@ Harden Node (D1 -> D3 cooldown, 2 charges) - Select a white node, decreasing hac
 
 Exploit Vulnerability (2 charges) - Select a white node and attempt to hack it with a low hack chance and increasing hacking chances of getting this node.
 
-### **Night:**
 
 Sting (1 charge) - Select a target operative and arrest them, along with anyone that visits them. Do not visit them.
 

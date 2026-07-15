@@ -1,20 +1,10 @@
-![drugdealer.png](Images/drugdealer.png){ width="200" }
-
-### **Netsec Utility**
-
-“Desperate times call for desperate adderall abuse, Drug Dealer.”
-
-Win Condition: Eliminate ALL hostile units.
-
-### **Day:**
+### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
 Prepare Drugs - Gives a charge of a drug of choice to use at night.
 
 Desperate Measures (1 charge) - Turn into an Improvised Hacker.
-
-### **Night:**
 
 Sell Meth (0 charges) - Select a target operative. Sell them Methamphetamine and make them immune to occupation for this turn. Visit them.
 

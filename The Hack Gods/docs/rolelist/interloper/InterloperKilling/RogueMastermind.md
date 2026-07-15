@@ -8,7 +8,7 @@ This role is supposed to be unique, depending on the ruleset.
 
 Win Condition: Eliminate the majority of all hostile units (Netsec, Agents, and W3C).
 
-### **Day:**
+### **Actives:**
 
 Hack Target (Very High) - Select a white node and attempt to hack it. Leaves a log.
 
@@ -20,7 +20,6 @@ Hack Private Channel (2 charges) - You can write one message to talk to all play
 
 Activate Project Havoc (D1 -> D3 cooldown, 2 charges) - Kill all infected operatives at night.
 
-### **Night:**
 
 Infect Operative - Select a target operative. Visit and occupy them, talking about the hack and infecting their hardware. (Works like Midnight Meet).
 

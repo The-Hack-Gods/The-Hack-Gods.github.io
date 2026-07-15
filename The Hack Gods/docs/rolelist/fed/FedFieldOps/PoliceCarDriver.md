@@ -8,7 +8,7 @@ This role is supposed to be unique, depending on the ruleset; one Agent on the F
 
 Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
-### **Day:**
+### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
@@ -18,7 +18,6 @@ Add to Patrol Route (0 charges) - Select a target operative to add to the Patrol
 
 Repair Vehicle (1 charge) - Regain the Hit the Nitrous passive.
 
-### **Night:**
 
 Arrest - Select a target operative and arrest them. Visit them.
 

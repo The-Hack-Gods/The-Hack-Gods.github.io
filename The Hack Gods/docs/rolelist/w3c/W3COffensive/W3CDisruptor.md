@@ -6,7 +6,7 @@
 
 Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
-### **Day:**
+### **Actives:**
 
 Hack Target (Moderate) - Select a white node and attempt to hack it. Leaves a log.
 
@@ -22,7 +22,6 @@ Blood for the Blood God (Killed 2 operatives)
 
 Jam Network (2 charges) - Select a target operative and disable all day actions related to the topology done by them.
 
-### **Night:**
 
 Cover Your Tracks (2 charges) - Move your hideout, protecting yourself unless you are occupied. Arrest attempts will show a result similar to a target that is immune to arrest, like No Dirt On Me.
 

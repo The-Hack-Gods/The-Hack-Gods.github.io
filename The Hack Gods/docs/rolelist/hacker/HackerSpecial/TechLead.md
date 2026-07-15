@@ -1,14 +1,4 @@
-![techlead.png](Images/techlead.png){ width="350" }
-
-### **Netsec Special**
-
-This role is supposed to be unique, depending on the ruleset.
-
-“You are one of the best operatives, hackers, and leaders Netsec has ever seen, but you decided not to lead this Operation, Tech Lead.”
-
-Win Condition: Eliminate ALL hostile units.
-
-### **Day:**
+### **Actives:**
 
 Hack Target (Very High) - Select a white node and attempt to hack it. Leaves a log.
 
@@ -19,8 +9,6 @@ Rollback (1 charge) - Select a green node, return the node to a white node, un-h
 0-Day Exploit (1 charge) - Select a white node and instantly hack it. Leaves a log.
 
 Give Root Access (0 charges) - Select an operative to give root to. Upon your death, they can choose to become an Operation Leader of their own faction or stay as their current role with broadcast.
-
-### **Night:**
 
 Midnight Meet (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. 
 

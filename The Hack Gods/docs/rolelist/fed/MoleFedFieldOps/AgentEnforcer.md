@@ -6,13 +6,12 @@
 
 Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
-### **Day:**
+### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
 Redirection (1 charge) - Select two target operatives, all skills used on the first operative at night will be used on the second operative, works similar to Throw Under the Bus.
 
-### **Night:**
 
 Bouncer (N1 -> N3 cooldown, 2 charges) - Select a target operative. You will visit and occupy them like a Midnight Meet, and anyone who visits them will be occupied, like a Misdirection.
 

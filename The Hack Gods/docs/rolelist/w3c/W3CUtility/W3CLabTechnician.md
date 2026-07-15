@@ -6,13 +6,12 @@
 
 Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
-### **Day:**
+### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
 Prepare Drugs - Gives a charge of a drug of choice to use at night.
 
-### **Night:**
 
 Sell Meth (1 charge) - Select a target operative. Sell them Methamphetamine and make them immune to occupation for this turn. Visit them.
 

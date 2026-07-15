@@ -8,7 +8,7 @@ This role is supposed to be unique, depending on the ruleset; one Agent on the F
 
 Win Condition: Eliminate ALL hostile units, or at least 1 hostile unit per day/night phase.
 
-### **Day:**
+### **Actives:**
 
 Hack Target (Moderate) - Select a white node and attempt to hack it. Leaves a log.
 
@@ -20,7 +20,6 @@ Charge Batteries - Remove the cooldown on Drone Reconnaissance or Drone Mark for
 
 Fabricate Evidence (0 charges) - Have an agent lawyer fabricate evidence after killing to set another operative to be arrested at night. This protects you tonight.
 
-### **Night:**
 
 Drone Reconnaissance (N1 -> N3 cooldown) - Select a target operative. Learn the exact ability they use tonight. Goes through cover or frames. If they did nothing, say they did nothing. Visit the operative.
 

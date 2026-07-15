@@ -6,7 +6,7 @@
 
 Win Condition: Protect 3 Netsec targets, or protect a target from arrest or murder. (This can include blocking an arrest or murder attempt with Bouncer). Or win as an enforcer.
 
-### **Day:**
+### **Actives:**
 
 Unskilled Attack - Select a node, green or white. Leaves a log.
 
@@ -14,7 +14,6 @@ Bait Law Enforcement - Select a target operative, inform agents that the target 
 
 Join the Force (1 charge) - Become an enforcer.
 
-### **Night:**
 
 Escort - Escort a target operative, protecting the operative from arrests and murders. Arrest attempts will arrest this operative instead, and anyone attempting to murder the protected operative will be killed. Visit and occupy them. Must select a different target the next night.
 
