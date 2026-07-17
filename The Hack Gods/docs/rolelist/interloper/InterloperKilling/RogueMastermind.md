@@ -1,13 +1,3 @@
-![roguemastermind.png](Images/roguemastermind.png){ width="200" }
-
-### **Neutral Killing**
-
-This role is supposed to be unique, depending on the ruleset.
-
-“Project Havoc is waiting for your careful execution, Rogue Mastermind.”
-
-Win Condition: Eliminate the majority of all hostile units (Netsec, Agents, and W3C).
-
 ### **Actives:**
 
 Hack Target (Very High) - Select a white node and attempt to hack it. Leaves a log.
@@ -19,7 +9,6 @@ Worm Attack - Select a target operative that has been infected. You can see the 
 Hack Private Channel (2 charges) - You can write one message to talk to all players in ASC or W3C channels, speaking directly to only Agent and/or W3C players, which appears next night.
 
 Activate Project Havoc (D1 -> D3 cooldown, 2 charges) - Kill all infected operatives at night.
-
 
 Infect Operative - Select a target operative. Visit and occupy them, talking about the hack and infecting their hardware. (Works like Midnight Meet).
 

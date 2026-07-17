@@ -8,7 +8,7 @@ Fake Escort (-1 Wanted Level) - Escort a target operative, but leave as soon as 
 
 Citizen's Arrest (2 charges, +1 Wanted Level) - Select a target operative and arrest them. Visit them.
 
-Frame (2 charges, -1 Wanted Level) - Select a target operative. Change their role to be a random role, which they will then have all intel abilities follow that frame. Removes No Dirt On Me and can be used on Feds. Visit them.
+Frame (2 charges, -1 Wanted Level) - Select a target operative. Change their role to be a specific role, which they will then have all intel abilities follow that frame. Visit them.
 
 ### **Passives:**
 
