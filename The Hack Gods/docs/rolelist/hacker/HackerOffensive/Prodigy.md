@@ -4,7 +4,7 @@ Hack Target (Moderate) - Select a white node and hack it, dealing 3 HP. Leaves a
 
 Study - Increases your hacking stage by one the following day.
 
-Hit the Books (2 charges) - Increases your hacking stage by one, permanently.
+Midnight Meet (1 night cooldown) - Select a target operative. Visit and occupy them, revealing your identity.
 
 ### **Passives:**
 

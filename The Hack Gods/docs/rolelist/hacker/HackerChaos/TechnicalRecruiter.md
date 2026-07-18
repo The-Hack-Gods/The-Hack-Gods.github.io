@@ -2,7 +2,7 @@
 
 Background Search - Check a target operative's background. You'll be given a random skill that they have.
 
-Wiretap - Select a target operative. Check the operative's outgoing and ingoing communications to check what their current night action is. Visit them.
+Hiring Check (2 charges) - Check how an operative was hired and learn their role.
 
 Onboarding Process - Select a target operative. If the operative's name is renamed, learn which operative changed their name.
 

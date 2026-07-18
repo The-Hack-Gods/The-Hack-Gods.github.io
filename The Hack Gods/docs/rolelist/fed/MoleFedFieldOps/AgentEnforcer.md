@@ -1,14 +1,12 @@
 ### **Actives:**
 
-Unskilled Attack - Select a node, green or white. Leaves a log.
+Unskilled Attack (-1 Wanted Level) - Select a node, green or white. Leaves a log.
 
-Redirection (1 charge) - Select two target operatives, all skills used on the first operative at night will be used on the second operative, works similar to Throw Under the Bus.
+Redirection (2 charges) - Select two target operatives, all skills used on the first operative will be used on the second operative, works similar to Throw Under the Bus.
 
-Bouncer (N1 -> N3 cooldown, 2 charges) - Select a target operative. You will visit and occupy them like a Midnight Meet, and anyone who visits them will be occupied, like a Misdirection.
+Fake Escort (-1 Wanted Level) - Escort a target operative, but leave as soon as trouble comes, letting the original target die or get arrested. Visit and occupy them.
 
-Fake Escort - Escort a target operative, but leave as soon as trouble comes, letting the original target die or get arrested. Visit and occupy them. Must select a different target the next night.
-
-Disorganized Murder - Select an operative and attempt to murder them. Visit the target.
+Disorganized Murder (+1 Wanted Level) - Select an operative and murder them. Visit the target.
 
 ### **Passives:**
 

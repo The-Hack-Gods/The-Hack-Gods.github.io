@@ -1,14 +1,12 @@
 ### **Actives:**
 
-Hack Target (Moderate) - Select a white node and attempt to hack it. Leaves a log.
+Harden Node (Moderate, +1 Wanted Level) - Select a white node, heal the node by 3 HP. Leaves a log.
 
-Harden Node (D1 -> D3 cooldown, 2 charges) - Select a white node, decreasing hacking chances of getting this node. Strongest hacking chance nerf. Leaves a log.
+Weaken Connection (2 charges) - Select a target operative, lower their hack chance one stage down permanently.
 
-Move Hideout (1 charge) - Move your hideout, protecting yourself unless you are occupied.
+Add Route - Select two nodes and add a route between them.
 
-Add Route (N1 -> N3 cooldown, 2 charges) - Select two nodes and add a route between them.
-
-Remove Route (N1 -> N3 cooldown, 2 charges) - Select an edge and remove the route, if it doesn’t isolate the node it connects to.
+Remove Route - Select an edge and remove the route, if it doesn't isolate the node it connects to.
 
 ### **Passives:**
 

@@ -4,7 +4,7 @@ Unskilled Attack (-1 Wanted Level) - Select a node, green or white. Leaves a log
 
 Upload Fake Intel (1 charge, -1 Wanted Level) - Select a white or green node and upload intel that is downloadable by others. Leaves lying intel. Leaves a log.
 
-Jam Network (2 charges, +1 Wanted Level) - Select a target operative and disable all day actions related to the topology done by them.
+Jam Network (2 charges, +1 Wanted Level) - Select a target operative and disable actions related to the topology done by them.
 
 Rerouted Denial of Service (2 charges) - Select a green or white node and block all connections to the node this day. Select a target operative to make this show up as the operative who used the denial of service with Wireshark. Do not leave a log.
 

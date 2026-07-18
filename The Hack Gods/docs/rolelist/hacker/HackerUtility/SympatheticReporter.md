@@ -8,7 +8,7 @@ Desperate Measures (1 charge) - Turn into an Improvised Hacker.
 
 Get Scoop (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. Do not go through frames or cover. Find if the target is not neutral.
 
-Preach Netsec Superiority (N1 -> N3 cooldown) - Select a target operative, tonight they are immune to occupation. Visit them.
+Preach Hacker Superiority (1 night cooldown) - Select a target operative, tonight they are immune to occupation. Visit them.
 
 Exonerate Operation Leader (1 charge) - Select a target operative. If they are the Operation Leader, reveal the Operation Leader globally and make you and them immune to arrests and murder for tonight. Visit and occupy them.
 

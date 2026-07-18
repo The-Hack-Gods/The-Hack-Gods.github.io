@@ -1,22 +1,14 @@
 ### **Actives:**
 
-Unskilled Attack - Select a node, green or white. Leaves a log.
+Harden Node (High, +1 Wanted Level) - Select a white node, heal the node by 4 HP. Leaves a log.
 
-Hack Target (High) - Select a white node and attempt to hack it. Leaves a log.
+Add Route - Select two nodes and add a route between them.
 
-Rollback (1 charge) - Select a green node, return the node to a white node, un-hacking the node. Connections to nodes ahead fail. Leaves a set of random connection logs, one of which is you.
+Remove Route - Select an edge and remove the route, if it doesn't isolate the node it connects to.
 
-Harden Node (D1 -> D3 cooldown, 2 charges) - Select a white node, decreasing hacking chances of getting this node. Strongest hacking chance nerf. Leaves a log.
+Wipe (1 charge, -1 Wanted Level) - Select a white node. Remove all connection logs and intel to the node.
 
-Exploit Vulnerability (2 charges) - Select a white node and attempt to hack it with a low hack chance and increasing hacking chances of getting this node.
-
-Sting (1 charge) - Select a target operative and arrest them, along with anyone that visits them. Do not visit them.
-
-Wipe (1 charge) - Select a white node. Remove all connection logs and intel to the node.
-
-Add Route (N1 -> N3 cooldown, 2 charges) - Select two nodes and add a route between them.
-
-Remove Route (N1 -> N3 cooldown, 2 charges) - Select an edge and remove the route, if it doesn’t isolate the node it connects to.
+Sting (1 charge, +1 Wanted Level) - Select a target operative and arrest them, along with anyone that visits them. Do not visit them.
 
 ### **Passives:**
 

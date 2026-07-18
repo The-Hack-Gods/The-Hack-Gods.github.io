@@ -1,14 +1,12 @@
 ### **Actives:**
 
-Hack Target (Low) - Select a white node and attempt to hack it. Leaves a log.
+Harden Node (Low, +1 Wanted Level) - Select a white node, heal the node by 2 HP. Leaves a log.
 
-Harden Node (D1 -> D3 cooldown, 2 charges) - Select a white node, decreasing hacking chances of getting this node. Strongest hacking chance nerf. Leaves a log.
+Check Maintenance Logs - Select a green or white node. Check if there were any difficulty decreasing or increasing actions done on this node, telling you separately if the node security had been increased or decreased.
 
-Clean Up Crew (N1 -> N4 cooldown) - Remove the operative’s role and logs on their death or arrest. Gives you their role. Do not go through frames or cover. Visit them.
+Encrypt Killswitch (2 charges, -1 Wanted Level) - Select a target operative. Upon death or arrest, the target's role will be encrypted and unable to be read. Gives you their role. Visit them.
 
-Replace Laptop (N1 -> N3 cooldown, 2 charges) - Replace a selected laptop with a server by connecting a company server to future nodes and disconnecting the laptop.
-
-Replace Server (N1 -> N3 cooldown, 2 charges) - Replace a selected server with a laptop by connecting a company laptop to future nodes and disconnecting the server.
+Replace Laptop (2 charges) - Replace a selected laptop with a server by connecting a company server to future nodes and disconnecting the laptop.
 
 ### **Passives:**
 

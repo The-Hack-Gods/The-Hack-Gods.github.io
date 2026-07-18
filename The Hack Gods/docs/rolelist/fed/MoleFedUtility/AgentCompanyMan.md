@@ -1,14 +1,12 @@
 ### **Actives:**
 
-Unskilled Attack - Select a node, green or white. Leaves a log.
+Unskilled Attack (-1 Wanted Level) - Select a node, green or white. Leaves a log.
 
-Plant Fake Info - Decreases hacking chances on a random node.
+Plant Fake Info (-1 Wanted Level) - Disables any use of Dumpster Dive.
 
-Destroy Keyloggers - Make all uses of planting and retrieving keyloggers fail. Does not reveal that you had destroyed the keyloggers.
+Plant and Retrieve Keylogger - Select a white node, finding out if a non-hacking ability was used on this node yesterday.
 
-Mock Interview (N1 -> N3 cooldown) - Check whether an operative has their hack chance increased or decreased in the last day and this night, letting you know specifically if it was increased or decreased. Visit them.
-
-Wiretap (N1 -> N3 cooldown) - Select a target operative. Check the operative’s outgoing and ingoing communications to check the operative's vote power and whether they are force voted and to who. Visit them.
+Wiretap - Select a target operative. Check the operative's outgoing and ingoing communications to check what their current night action is. Visit them.
 
 ### **Passives:**
 

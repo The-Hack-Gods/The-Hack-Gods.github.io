@@ -1,14 +1,12 @@
 ### **Actives:**
 
-Hack Target (Low) - Select a white node and attempt to hack it. Leaves a log.
+Hack Target (Low) - Select a white node and hack it, dealing 2 HP. Leaves a log.
 
-Bait Law Enforcement - Select a target operative, inform agents that the target is one working for Netsec. Can be yourself. (Leaves the same message as Bounty Hunter’s Spill the Beans).
+Review TCP Packets (2 charges) - Select a target operative and check if they used a hack today.
 
-Internet of Things Breach - Select a target operative and increase their hack chance this phase.
+Internet of Things Breach - Select a target operative and increase their hack chance by one stage this phase.
 
-Smash Hardware (N1 -> N3 cooldown) - Select an operative and disable all day actions related to the topology. Occupies and visits them. (Same as Midnight Meet).
-
-Tamper Wiring (2 charges) - Select an operative and disable all night actions related to the topology. Visit them.
+Smash Hardware (1 night cooldown) - Select an operative and disable topology actions the next night like a Jam Network. Occupies and visits them.
 
 ### **Passives:**
 

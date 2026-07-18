@@ -1,6 +1,6 @@
 ### **Actives:**
 
-Install CCTV Surveillance (2 charges) - Selects a target operative and places a camera on their hideout. The camera is destroyed upon moving hideout or getting escorted. Visit the target.
+Install CCTV Surveillance (2 charges) - Selects a target operative and places a camera on their hideout. Visit the target.
 
 Bait Law Enforcement - Select a target operative, inform the Feds that the target is one working for the Hackers. Can be yourself. (Leaves the same message as Bounty Hunter's Spill the Beans).
 
