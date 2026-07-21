@@ -1,6 +1,6 @@
 ### **Actives:**
 
-Unskilled Attack - Select a node, green or white. Leaves a log.
+Unskilled Attack - Select a node, white or green. Leaves a log.
 
 Alter Logs (D1 -> D3 cooldown) - Select a white or green node and either leave a singular fake connection log of one operative, or leave a few random connection logs.
 

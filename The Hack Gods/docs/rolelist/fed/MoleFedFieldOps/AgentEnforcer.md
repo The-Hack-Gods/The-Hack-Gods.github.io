@@ -1,6 +1,6 @@
 ### **Actives:**
 
-Unskilled Attack (-1 Wanted Level) - Select a node, green or white. Leaves a log.
+Unskilled Attack (-1 Wanted Level) - Select a node, white or green. Leaves a log.
 
 Redirection (2 charges) - Select two target operatives, all skills used on the first operative will be used on the second operative, works similar to Throw Under the Bus.
 

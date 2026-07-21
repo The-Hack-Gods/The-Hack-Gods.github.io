@@ -1,6 +1,6 @@
 ### **Actives:**
 
-Unskilled Attack - Select a node, green or white. Leaves a log.
+Unskilled Attack - Select a node, white or green. Leaves a log.
 
 Plan Patrol Route (1 charge) - Select two operatives, all operatives who visit either operative will be attempted to be arrested. Gain a charge of Add to Patrol Route and Patrol Route.
 

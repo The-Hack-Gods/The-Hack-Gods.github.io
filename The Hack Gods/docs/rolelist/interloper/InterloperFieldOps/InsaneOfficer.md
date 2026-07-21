@@ -1,6 +1,6 @@
 ### **Actives:**
 
-Unskilled Attack - Select a node, green or white. Leaves a log.
+Unskilled Attack - Select a node, white or green. Leaves a log.
 
 Wireshark (D1 -> D4 cooldown) - Tells you the name of any operative that did a Denial of Service.
 

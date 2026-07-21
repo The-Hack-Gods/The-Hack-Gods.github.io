@@ -1,6 +1,6 @@
 ### **Actives:**
 
-Unskilled Attack - Select a node, green or white. Leaves a log.
+Unskilled Attack - Select a node, white or green. Leaves a log.
 
 Execute Raid - All operatives who have been raided will be arrested. Do not visit them.
 

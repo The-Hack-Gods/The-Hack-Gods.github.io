@@ -1,14 +1,10 @@
 ### **Actives:**
 
-Unskilled Attack - Select a node, green or white. Leaves a log.
+For the Cause (3 charges) - Find out if the target operative is a mole. Visit them.
 
-Download Intel - Select a green node and attempt to download from it. If there is intel, and you download and remove it first, you will get intel (see tips for list of intel). Do not go through frames or cover. Leaves a log.
+Motivation (1 night cooldown) - Select a target operative, tonight they are immune to occupation. Visit them.
 
-For the Cause (N1 -> N4 cooldown, 2 charges) - Find out if the target operative is a mole. Do not go through frames or cover. Visit them.
-
-Preach Hacker Superiority (1 night cooldown) - Select a target operative, tonight they are immune to occupation. Visit them.
-
-Disorganized Murder - Select an operative and attempt to murder them. Visit the target.
+Desperate Measures (1 charge) - Turn into an Improvised Hacker.
 
 ### **Passives:**
 

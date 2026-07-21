@@ -1,6 +1,6 @@
 ### **Actives:**
 
-Unskilled Attack (-1 Wanted Level) - Select a node, green or white. Leaves a log.
+Unskilled Attack (-1 Wanted Level) - Select a node, white or green. Leaves a log.
 
 Bait Law Enforcement - Select a target operative, inform the Feds that the target is a Hacker. Can be yourself.
 

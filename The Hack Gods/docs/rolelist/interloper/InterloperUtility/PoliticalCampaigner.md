@@ -1,10 +1,10 @@
 ### **Actives:**
 
-Unskilled Attack (-1 Wanted Level) - Select a node, green or white. Leaves a log.
+Unskilled Attack (-1 Wanted Level) - Select a node, white or green. Leaves a log.
 
 Receive Bribe - Add one fund to your total funds. This skill will provide class intel to Feds.
 
-Jam Network (2 charges, +1 Wanted Level) - Select a target operative and disable all day actions related to the topology done by them.
+Jam Network (2 charges, +1 Wanted Level) - Select a target operative and disable all night actions related to the topology done by them.
 
 Smear Campaign (1 charge, -1 Wanted Level) - Select a target operative and smear their campaign, revealing they are Fed to the operation. This is a lie, gain one fund.
 

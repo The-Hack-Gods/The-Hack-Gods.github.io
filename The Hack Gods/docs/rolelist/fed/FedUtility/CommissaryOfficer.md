@@ -1,6 +1,6 @@
 ### **Actives:**
 
-Unskilled Attack (-1 Wanted Level) - Select a node, green or white. Leaves a log.
+Unskilled Attack (-1 Wanted Level) - Select a node, white or green. Leaves a log.
 
 Commissar's Orders (2 charges) - If a Fed is killed tonight, delay their death till the next night.
 

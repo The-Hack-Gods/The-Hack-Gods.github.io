@@ -1,6 +1,6 @@
 ### **Actives:**
 
-Unskilled Attack (-1 Wanted Level) - Select a node, green or white. Leaves a log.
+Unskilled Attack (-1 Wanted Level) - Select a node, white or green. Leaves a log.
 
 Alter Logs (1 night cooldown, -1 Wanted Level) - Select a white or green node and leave a singular fake connection log of one operative.
 

@@ -4,7 +4,7 @@ Hack Target (Moderate) - Select a white node and attempt to hack it. Leaves a lo
 
 Hack ROOT Access - Select a green node. If there is no rooted operative or OL, you can hack into root access by trying to hack a node with the OL’s connection and become a W3C Operation Leader. Leaves a log.
 
-Harden Node (D1 -> D3 cooldown, 2 charges) - Select a white node, decreasing hacking chances of getting this node. Strongest hacking chance nerf. Leaves a log.
+Harden Node (D1 -> D3 cooldown, 2 charges) - Select a white node, decreasing hacking ability of getting this node. Strongest hacking ability nerf. Leaves a log.
 
 <br>
 
@@ -12,7 +12,7 @@ Blood for the Blood God (Killed 2 operatives)
 
 =======================================================================
 
-Jam Network (2 charges) - Select a target operative and disable all day actions related to the topology done by them.
+Jam Network (2 charges) - Select a target operative and disable all night actions related to the topology done by them.
 
 Cover Your Tracks (2 charges) - Move your hideout, protecting yourself unless you are occupied. Arrest attempts will show a result similar to a target that is immune to arrest, like No Dirt On Me.
 

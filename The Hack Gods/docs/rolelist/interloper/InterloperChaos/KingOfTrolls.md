@@ -1,10 +1,10 @@
 ### **Actives:**
 
-Unskilled Attack - Select a node, green or white. Leaves a log.
+Unskilled Attack - Select a node, white or green. Leaves a log.
 
 Hack Target (Moderate) - Select a white node and attempt to hack it. Leaves a log.
 
-Denial of Service (2 charges) - Select a green or white node and block all connections to the node this day. Do not leave a log.
+Denial of Service (2 charges) - Select a white or green node and block all connections to the node this night. Do not leave a log.
 
 Alter Logs (D1 -> D3 cooldown) - Select a white or green node and either leave a singular fake connection log of one operative, or leave a few random connection logs.
 

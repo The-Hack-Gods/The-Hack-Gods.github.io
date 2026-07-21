@@ -1,10 +1,10 @@
 ### **Actives:**
 
-Unskilled Attack - Select a node, green or white. Leaves a log.
+Unskilled Attack - Select a node, white or green. Leaves a log.
 
 Destroy Intel - Select a green node, if you find intel that is of intel (see tips for list of intel), destroy it, give yourself the intel.
 
-Plant Fake Info - Decreases hacking chances on a random node.
+Plant Fake Info - Decreases hacking ability on a random node.
 
 Decipher Role - Select any number of target operatives and guess their role. If you guess right, attempt to arrest them by goons tonight. Removes all frames and covers. Cannot guess more than two of the same role in a single phase. You will know if you guessed right or wrong.
 

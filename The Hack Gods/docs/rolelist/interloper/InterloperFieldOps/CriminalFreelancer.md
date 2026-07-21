@@ -1,6 +1,6 @@
 ### **Actives:**
 
-Unskilled Attack - Select a node, green or white. Leaves a log.
+Unskilled Attack - Select a node, white or green. Leaves a log.
 
 Overload Node (1 charge) - Select a white node. All connections and DDOS to this node will fail. If successful, gain 1 payment. Leaves a log.
 

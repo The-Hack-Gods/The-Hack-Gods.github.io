@@ -6,7 +6,7 @@ Node prediction (2 charges) - Select a white node. You always predict correctly,
 
 Random Graph Models (2 charges) - Reveal the next layer in the topology to yourself.
 
-Advisor - Select a target operative, their hacking chance temporarily increases by one stage. Visit them.
+Advisor - Select a target operative, their hacking ability temporarily increases by one stage. Visit them.
 
 ### **Passives:**
 

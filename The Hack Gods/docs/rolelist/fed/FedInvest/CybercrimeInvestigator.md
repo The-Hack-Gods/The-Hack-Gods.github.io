@@ -6,7 +6,7 @@ Download Intel - Select a green node and attempt to download from it. If there i
 
 Impersonate (1 charge) - Permanently rename your operative to whatever name you want. If you name it the same as another operative, targeting that operative will randomly target either operative of the same name.
 
-Background Search (D1 -> D3 cooldown) - Check a target operative’s background. You’ll be given a (non-unique) random skill that they have, either day or night.
+Background Search (D1 -> D3 cooldown) - Check a target operative’s background. You’ll be given a (non-unique) random skill that they have, either night or night.
 
 Plan B (1 charge) - If there is no Agent Leader, turn into an Agent Leader.
 

@@ -2,7 +2,7 @@
 
 Feeling Lucky (2 charges) - Randomize your win condition to a faction to win with.
 
-Hack Target (Random) - Select a white node and attempt to hack it. Randomly rolls a hacking chance every time the ability is used. If you are asked the right question, the operative who did that will get the hack chance you had today. Leaves a log.
+Hack Target (Random) - Select a white node and attempt to hack it. Randomly rolls a hacking ability every time the ability is used. If you are asked the right question, the operative who did that will get the hack ability you had today. Leaves a log.
 
 Roll the Dice - Select a white node and randomly instantly hack it or use a denial of service on it, stopping all connections to the node. Do not leave a log.
 
@@ -26,4 +26,4 @@ Covert Broadcast - You should be given access to talk to all players in a specia
 
 Operation Leader - You are one of the leading roles and may spawn every operation.
 
-Lady Luck - The two charges of Feeling Lucky persist between both day and night (max 2 total in the game).
+Lady Luck - The two charges of Feeling Lucky persist between both night and night (max 2 total in the game).

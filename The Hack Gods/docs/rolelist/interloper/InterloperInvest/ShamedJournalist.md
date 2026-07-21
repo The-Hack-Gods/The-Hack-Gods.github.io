@@ -1,6 +1,6 @@
 ### **Actives:**
 
-Unskilled Attack - Select a node, green or white. Leaves a log.
+Unskilled Attack - Select a node, white or green. Leaves a log.
 
 Get Dirt - Select a target operative. You will get one of two class types that they can be and gain 1 scoop. Do not go through frames or cover.
 

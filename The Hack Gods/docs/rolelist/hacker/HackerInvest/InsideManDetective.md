@@ -1,14 +1,10 @@
 ### **Actives:**
 
-Unskilled Attack - Select a node, green or white. Leaves a log.
+Review TCP Packets (2 charges) - Select a target operative and check if they used a hack today.
 
-Review TCP Packets (N1 -> N4 cooldown, 2 charges) - Select a target operative and check if they used a hack today.
+Insider Knowledge (2 charges) - Tells you the IP of a node with downloadable intel on it.
 
-Insider Knowledge (D1 -> D3 cooldown, 2 charges) - Tells you the IP of a node with downloadable intel on it.
-
-Throw Under the Bus (2 charges) - Select a target operative. All skills used on you will be used on the target operative.
-
-Investigation (N1 -> N3 cooldown) - Select a target operative. Learn between three subclasses. One is the real subclass, which pierces any cover and frame. Visit them.
+Investigation - Select a target operative. Learn between three subclasses. One is the real subclass, piercing lies. Visit them.
 
 ### **Passives:**
 

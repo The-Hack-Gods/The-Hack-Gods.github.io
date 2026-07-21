@@ -1,6 +1,6 @@
 ### **Actives:**
 
-Unskilled Attack (-1 Wanted Level) - Select a node, green or white. Leaves a log.
+Unskilled Attack (-1 Wanted Level) - Select a node, white or green. Leaves a log.
 
 Hiring Check (2 charges) - Check how an operative was hired and learn their role.
 

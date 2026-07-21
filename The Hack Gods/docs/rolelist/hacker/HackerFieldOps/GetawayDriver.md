@@ -1,17 +1,13 @@
 ### **Actives:**
 
-Unskilled Attack - Select a node, green or white. Leaves a log.
-
-Repair Vehicle (1 charge) - Regain the Hit the Nitrous passive.
-
-Desperate Measures (1 charge) - Turn into an Improvised Hacker.
-
-Switch Gears (N1 -> N3 cooldown) - Select two operatives, all abilities that were used on the first player will be used on the second player, and vice versa. Visits the first operative.
+Redirection (2 charges) - Select two target operatives, all skills used on the first operative will be used on the second operative, works similar to Throw Under the Bus.
 
 Setup (2 charges) - Select two operatives. The first operative will visit and occupy the second operative, occupying both operatives. You may be the first target. Visits the first operative.
 
 Ramming Speed (1 charge) - Select an operative and murder them. Occupies and visits the target. Also kills yourself if successfully kills target.
 
+Desperate Measures (1 charge) - Turn into an Improvised Hacker.
+
 ### **Passives:**
 
-Hit the Nitrous - The first time you are arrested or murder attempted, hit the nitrous, dodging the arrest or murder.
+None.

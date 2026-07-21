@@ -4,11 +4,11 @@ Hack Target (High) - Select a white node and attempt to hack it. Leaves a log.
 
 Rollback (1 charge) - Select a green node, return the node to a white node, un-hacking the node. Connections to nodes ahead fail. Leaves a set of random connection logs, one of which is you.
 
-Network Shutdown (2 charges) - Prevents any topology affecting skills the next day. If Netsec hacks a node, the shutdown is stopped, giving back a charge of Network Shutdown.
+Network Shutdown (2 charges) - Prevents any topology affecting skills the next night. If Netsec hacks a node, the shutdown is stopped, giving back a charge of Network Shutdown.
 
-Mass DDOS (1 charge) - Block all connections to all nodes this day. Globally announce Denial of service on only nodes that are attempted to be interacted with. Do not leave a log on any.
+Mass DDOS (1 charge) - Block all connections to all nodes this night. Globally announce Denial of service on only nodes that are attempted to be interacted with. Do not leave a log on any.
 
-Smash Hardware (N1 -> N3 cooldown) - Select an operative and disable all day actions related to the topology. Occupies and visits them. (Same as Midnight Meet).
+Smash Hardware (N1 -> N3 cooldown) - Select an operative and disable all night actions related to the topology. Occupies and visits them. (Same as Midnight Meet).
 
 Tamper Wiring (2 charges) - Select an operative and disable all night actions related to the topology. Visit them.
 

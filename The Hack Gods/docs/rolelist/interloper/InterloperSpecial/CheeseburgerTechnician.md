@@ -1,8 +1,8 @@
 ### **Actives:**
 
-Unskilled Attack - Select a node, green or white. Leaves a log.
+Unskilled Attack - Select a node, white or green. Leaves a log.
 
-Smoke Break (1 charge) - Select four operatives. Make them all smoke with you, occupying them this day.
+Smoke Break (1 charge) - Select four operatives. Make them all smoke with you, occupying them this night.
 
 Prep Time - Choose two core ingredients between chicken, beef patty, steak, veggie patty, and pork chop. Grants 2 charges of Cook Burger.
 
@@ -10,7 +10,7 @@ Cook Burger (0 charges) - Cook a burger using a chosen ingredient that has been 
 
 Give Root Access (1 charge) - Select an operative to give root to. Upon your death, they can choose to become an Operation Leader of their own faction or stay as their current role with broadcast.
 
-Serve Burger (0 charges) - Select a target operative. Feed them a burger. Chicken Patty grants immunity to occupation this turn. Beef Patty occupies them. Steak gives them an extra action in the day. Veggie Patty gives them stomach issues, occupying them in the day. Pork Chop makes them dodge arrests or murder attempts for this turn (that are not guaranteed murders). Visit them.
+Serve Burger (0 charges) - Select a target operative. Feed them a burger. Chicken Patty grants immunity to occupation this turn. Beef Patty occupies them. Steak gives them an extra action in the night. Veggie Patty gives them stomach issues, occupying them in the night. Pork Chop makes them dodge arrests or murder attempts for this turn (that are not guaranteed murders). Visit them.
 
 Food Channel (1 charge) - Select four operatives. Make them all hungry, occupying them tonight.
 

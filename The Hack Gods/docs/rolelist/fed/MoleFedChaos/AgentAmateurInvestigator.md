@@ -1,6 +1,6 @@
 ### **Actives:**
 
-Unskilled Attack (-1 Wanted Level) - Select a node, green or white. Leaves a log.
+Unskilled Attack (-1 Wanted Level) - Select a node, white or green. Leaves a log.
 
 Upload Fake Intel (1 charge, -1 Wanted Level) - Select a white or green node and upload intel that is downloadable by others. Leaves lying intel. Leaves a log.
 

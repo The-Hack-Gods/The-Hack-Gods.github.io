@@ -1,6 +1,6 @@
 ### **Actives:**
 
-Unskilled Attack - Select a node, green or white. Leaves a log.
+Unskilled Attack - Select a node, white or green. Leaves a log.
 
 Impersonate (1 charge) - Permanently rename your operative to whatever name you want. If you name it the same as another operative, targeting that operative will randomly target either operative of the same name.
 
@@ -10,7 +10,7 @@ Bait Law Enforcement - Select a target operative, inform agents that the target 
 
 Blackmail (3 charges) - Select a target operative. They cannot vote for two phases.
 
-Duel - Select a target operative. The next day, you and your opponent choose between laptop, server, and PC. Laptop beats PC, PC beats server, and server beats laptop. If you win, the target is occupied and murdered the night after.
+Duel - Select a target operative. The next night, you and your opponent choose between laptop, server, and PC. Laptop beats PC, PC beats server, and server beats laptop. If you win, the target is occupied and murdered the night after.
 
 Paid Frame (N1 -> N3 cooldown) - Select a target operative. Change their role to be anything you want, which they will then have all intel abilities follow that frame. Removes No Dirt On Me and can be used on Agents, making them follow murderability and arrestability of the role framed. Visit them.
 

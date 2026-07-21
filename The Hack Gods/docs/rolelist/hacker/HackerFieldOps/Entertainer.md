@@ -1,14 +1,10 @@
 ### **Actives:**
 
-Unskilled Attack - Select a node, green or white. Leaves a log.
+Midnight Meet (1 night cooldown) - Select a target operative. Visit and occupy them, revealing your identity.
+
+Entertain (2 charges) - Occupy all operatives that have been given entertainment previously with Midnight Meet.
 
 Desperate Measures (1 charge) - Turn into an Improvised Hacker.
-
-Send Entertainment (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, entertaining them. (Same as Midnight Meet).
-
-Extra Presents (2 charges) - Occupy all operatives that have been given entertainment previously with Send Entertainment.
-
-Throw Under the Bus (2 charges) - Select a target operative. All skills used on you will be used on the target operative.
 
 ### **Passives:**
 

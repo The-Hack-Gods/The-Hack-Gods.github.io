@@ -1,6 +1,6 @@
 ### **Actives:**
 
-Unskilled Attack - Select a node, green or white. Leaves a log.
+Unskilled Attack - Select a node, white or green. Leaves a log.
 
 Bait Law Enforcement - Select a target operative, inform agents that the target is one working for Netsec. Can be yourself. (Leaves the same message as Bounty Hunter’s Spill the Beans).
 
@@ -8,7 +8,7 @@ Broadcast Message (1 charge) - You can write one message to talk to all players 
 
 Follow (2 charges) - Select a target operative and follow them, visiting them and checking if they left their hideout and met anyone. If they were occupied, you’d only know that they could not leave their hideout.
 
-Smash Hardware (N1 -> N3 cooldown) - Select an operative and disable all day actions related to the topology. Occupies and visits them. (Same as Midnight Meet).
+Smash Hardware (N1 -> N3 cooldown) - Select an operative and disable all night actions related to the topology. Occupies and visits them. (Same as Midnight Meet).
 
 Interrogate (3 charges) - Select a target operative and occupy them. The host will ask them for their logs, giving you what they send.
 

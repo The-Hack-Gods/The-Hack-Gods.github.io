@@ -1,20 +1,12 @@
 ### **Actives:**
 
-Hack Target (Low) - Select a white node and attempt to hack it. Leaves a log.
+Hack Target (Low) - Select a white node and hack it, dealing 2 HP. Leaves a log.
 
-Hit the Books (D1 -> D3 cooldown, 2 charges) - Increases your hacking stage by one, permanently.
+Seek Deepseek (2 charges) - Ask an LLM to tell you a couple facts about the opsec. Download Intel twice without leaving a connection log.
 
-Log Analysis - Select a green node and clear any fake logs from Alter Logs or Rollback.
+Study - Increases your hacking ability by one the following night.
 
-Generative AI (D1 -> D3 cooldown, 3 charges) - Select a white or green node and either leave a singular fake connection log of one operative, or leave a few random connection logs.
-
-Seek Deepseek - Ask an LLM to tell you a fact about the opsec. Do not go through frames or cover. Download Intel without leaving a connection log. Sometimes returns fake intel.
-
-Parameter Fine Tuning (N1 -> N4 cooldown) - The next use of Seek Deepseek will return correct intel.
-
-Retrieval-Augmented Generation (N1 -> N3 cooldown) - The next use of Seek Deepseek will return two pieces of intel.
-
-Study (N1 -> N3 cooldown) - Increases your hacking stage by one the following day.
+Hit the Books (2 charges) - Increases your hacking ability by one, permanently.
 
 ### **Passives:**
 

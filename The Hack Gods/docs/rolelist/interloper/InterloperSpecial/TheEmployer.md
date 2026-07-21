@@ -4,7 +4,7 @@ Hack Target (High) - Select a white node and attempt to hack it. Leaves a log.
 
 Ransom Computer (3 charges) - Select a target operative. If the target operative has the ability to root, steal the ability to root, remove the current root, and grant 1 charge of Give Root Access.
 
-Jam Network (2 charges) - Select a target operative and disable all day actions related to the topology done by them.
+Jam Network (2 charges) - Select a target operative and disable all night actions related to the topology done by them.
 
 Broadcast Message (1 charge) - You can write one message to talk to all players in a specialized channel (global Opsec info). This message can appear when you want it tonight.
 

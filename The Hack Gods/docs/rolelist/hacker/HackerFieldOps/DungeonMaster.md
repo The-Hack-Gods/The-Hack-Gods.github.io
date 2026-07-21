@@ -1,14 +1,10 @@
 ### **Actives:**
 
-Unskilled Attack - Select a node, green or white. Leaves a log.
+Temporary Holding Cell (1 charge) - Select a target operative and jail them for the night. They will receive a similar outcome as Bouncer, like if you visit and occupy them without revealing yourself, and anyone who visits them will be occupied, like a Misdirection. Gain a charge of Jail Cell Arrest.
 
-Temporary Dungeon Time - Select a target operative and put them in the dungeon for the night. They will receive a similar outcome as Bouncer, like if you visit and occupy them without revealing yourself, and anyone who visits them will be occupied, like a Misdirection. Gain a charge of Dungeon Arrest only if you have had not arrested more than 1 person. (Maximum 2 arrest attempts per game).
+Jail Cell Arrest (0 charges) - Arrest the target in the dungeon, as you have determined them guilty. If you do not do this within the turn you gain this charge, the operative will be released the next night. Cannot arrest unarrestable targets, since they will either escape or are legally unarrestable.
 
 Desperate Measures (1 charge) - Turn into an Improvised Hacker.
-
-Dungeon Arrest (0 charges) - Arrest the target in the dungeon, as you have determined them guilty. If you do not do this, the operative will be released tomorrow. Cannot arrest unarrestable targets, since they will either escape or are legally unarrestable.
-
-Dumpster Dive - Increases hacking chances on a random node.
 
 ### **Passives:**
 

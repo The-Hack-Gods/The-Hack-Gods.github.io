@@ -1,6 +1,6 @@
 ### **Actives:**
 
-Unskilled Attack (-1 Wanted Level) - Select a node, green or white. Leaves a log.
+Unskilled Attack (-1 Wanted Level) - Select a node, white or green. Leaves a log.
 
 Rollback (1 charge, +2 Wanted Level) - Select a green node, return the node to a white node, un-hacking the node. Connections to nodes ahead fail. Leaves a set of random connection logs, one of which is a random Fed.
 

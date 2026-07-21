@@ -1,12 +1,12 @@
 ### **Actives:**
 
-Unskilled Attack - Select a node, green or white. Leaves a log.
+Unskilled Attack - Select a node, white or green. Leaves a log.
 
 Hack Target (High) - Select a white node and attempt to hack it. Leaves a log.
 
 Warped Connection (D1 -> D3 cooldown) - Select a target operative, and select a green and white node, with a preference level dictating which comes first. The target operative uses their chosen ability on that node instead of their chosen one.
 
-Weaken Connection (2 charges) - Select a target operative, lower their hack chance one stage down permanently.
+Weaken Connection (2 charges) - Select a target operative, lower their hack ability one stage down permanently.
 
 All in (1 charge) - Turn into a Field Agent. Can only be done if there are no Agent on the Field roles.
 
@@ -18,4 +18,4 @@ Death Doubt (2 charges) - Select a target operative. Change their role to be any
 
 ### **Passives:**
 
-Cover Checks Out - You can pick a Netsec class to frame yourself as until Day 2. Cannot be arrested unless you are framed.
+Cover Checks Out - You can pick a Netsec class to frame yourself as until night 2. Cannot be arrested unless you are framed.

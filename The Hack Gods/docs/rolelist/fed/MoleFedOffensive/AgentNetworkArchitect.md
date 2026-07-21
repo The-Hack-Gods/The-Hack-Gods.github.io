@@ -2,7 +2,7 @@
 
 Harden Node (Moderate, +1 Wanted Level) - Select a white node, heal the node by 3 HP. Leaves a log.
 
-Weaken Connection (2 charges) - Select a target operative, lower their hack chance one stage down permanently.
+Weaken Connection (2 charges) - Select a target operative, lower their hack ability one stage down permanently.
 
 Add Route - Select two nodes and add a route between them.
 

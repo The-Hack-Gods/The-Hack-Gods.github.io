@@ -1,21 +1,13 @@
 ### **Actives:**
 
-Unskilled Attack - Select a node, green or white. Leaves a log.
+Shitpost on Social Media - Select an operative. Give that operative some motivation by getting more site views, granting them a charge of a night action tomorrow.
 
-Shitpost on Social Media - Shitpost on social media, increasing hacking chances on a random node, because someone leaked information. Similar to Dumpster Dive.
+Photoshoot (2 charges) - Post your Photoshoot, convincing Feds to give you insider information. Lets you know if any operative was informed as a Hacker in this operation.
 
-Post Photoshoot (0 charges) - Post your Photoshoot, convincing agents to give you insider information. Tells you the IP of a node with downloadable intel on it. Give back 1 charge of Photoshoot.
-
-Post Videotape Advertising (0 charges) - Make all white nodes easier to hack today. Weak hacking buff. Give back 1 charge of Videotape Advertising.
+Dumpster Dive - Select a white node and hack it, dealing 1 HP. Does not leave a log.
 
 Desperate Measures (1 charge) - Turn into an Improvised Hacker.
 
-Photoshoot (1 charge) - Shoot a photoshoot of yourself, granting 1 charge of Post Photoshoot.
-
-Videotape Advertising (1 charge) - Videotape an advertisement for Netsec, granting 1 charge of Post Videotape Advertising.
-
-Arrest Recording (N1 -> N4 cooldown, 2 charges) - Select a target operative. If they are arrested tonight, you will record the footage, displaying it to the public (not global). Whoever arrested the operative will be notified and occupied the next night. Visit them.
-
 ### **Passives:**
 
-Social Media Handler - You can change your operative name every other day starting on day 2.
+Social Media Handler - You can change your operative name at the start.

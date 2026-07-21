@@ -2,7 +2,7 @@
 
 Hack Target (Low) - Select a white node and attempt to hack it. Leaves a log.
 
-Denial of Service (2 charges) - Select a green or white node and block all connections to the node this day. Do not leave a log.
+Denial of Service (2 charges) - Select a white or green node and block all connections to the node this night. Do not leave a log.
 
 Contact Law Enforcement (3 charges) - Select a target operative. If they are a Fed, learn their role, they will learn yours. Visit them.
 

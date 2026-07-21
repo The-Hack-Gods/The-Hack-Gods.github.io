@@ -2,7 +2,7 @@
 
 Hack Target (Very High) - Select a white node and attempt to hack it. Leaves a log.
 
-Application Layer Attack (2 charges) - Select a green or white node and block all connections to the node this day. Up to 2 random operatives who targeted this node today will be infected.
+Application Layer Attack (2 charges) - Select a white or green node and block all connections to the node this night. Up to 2 random operatives who targeted this node today will be infected.
 
 Worm Attack - Select a target operative that has been infected. You can see the operative’s action space and choose what that operative does today. Cannot repeatedly use this on the same operative.
 
@@ -20,6 +20,6 @@ Activate Project Havoc (N1 -> N3 cooldown, 2 charges) - Kill all infected operat
 
 Hardcoded Routing Procedures - You will gain access to the exact role of all infected operatives.
 
-Mastermind’s Cover - You can select any role to cover yourself, which lasts until Day 2.
+Mastermind’s Cover - You can select any role to cover yourself, which lasts until night 2.
 
 Raid Boss - Avoid the first two arrest or murder attempts on you.

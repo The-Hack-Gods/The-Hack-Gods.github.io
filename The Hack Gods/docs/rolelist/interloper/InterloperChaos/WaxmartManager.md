@@ -1,10 +1,10 @@
 ### **Actives:**
 
-Unskilled Attack - Select a node, green or white. Leaves a log.
+Unskilled Attack - Select a node, white or green. Leaves a log.
 
-Denial of Service (2 charges) - Select a green or white node and block all connections to the node this day. Do not leave a log.
+Denial of Service (2 charges) - Select a white or green node and block all connections to the node this night. Do not leave a log.
 
-Computer Hotwiring (2 charges) - Make all hack chances increased by one stage today.
+Computer Hotwiring (2 charges) - Make all hack ability increased by one stage today.
 
 Rummage Customer Info - Instead of downloading, you can try rummaging customer info. Goes through cover or frames. Download Intel without leaving a connection log. Guaranteed to be accurate.
 

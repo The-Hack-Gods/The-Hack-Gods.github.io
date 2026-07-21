@@ -1,15 +1,13 @@
 ### **Actives:**
 
-Vibe Code - Select a white node and randomly use a low chance hack or jam your own network, preventing you from hacking. Leaves a log if using a hack.
+Vibe Code - Select a white node and randomly use a low ability hack or jam your own network, preventing you from hacking. Leaves a log if using a hack.
 
-Seek Deepseek - Ask an LLM to tell you a fact about the opsec. Do not go through frames or cover. Download Intel without leaving a connection log. Sometimes returns fake intel.
+Seek Deepseek (2 charges) - Ask an LLM to tell you a couple facts about the opsec. Download Intel twice without leaving a connection log.
 
-AI Seminar (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about LLMs. If you want to, you can use a charge of doxx and ask chatgpt at the same time. (Same as Midnight Meet).
+Doxx and Ask Chatgpt (2 charges) - Select a target operative. Learn a faction that the operative is not aligned with and visit them.
 
-Doxx and Ask Chatgpt (N1 -> N4 cooldown, 2 charges) - Select a target operative. Do not go through frames or cover. Learn a faction that the operative is not aligned with and visit them.
-
-Advice from LLM (N1 -> N4 cooldown) - Select a target operative, lower their hack chance by one stage for the next day, but make them gain hack chance by one stage of their original hack chance the day after. Visit them.
+Desperate Measures (1 charge) - Turn into an Improvised Hacker.
 
 ### **Passives:**
 
-Just Ask Copilot - If asked the right question, they will learn that you can’t hack.
+Just Ask Copilot - If asked the right question, they will learn that you can't hack.

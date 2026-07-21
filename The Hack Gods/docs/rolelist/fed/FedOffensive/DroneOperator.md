@@ -2,9 +2,9 @@
 
 Hack Target (Moderate) - Select a white node and attempt to hack it. Leaves a log.
 
-Internet of Things Breach - Select a target operative and increase their hack chance this phase.
+Internet of Things Breach - Select a target operative and increase their hack ability this phase.
 
-Sabotage Internet of Things - Select a target operative and lower their hack chance this phase.
+Sabotage Internet of Things - Select a target operative and lower their hack ability this phase.
 
 Charge Batteries - Remove the cooldown on Drone Reconnaissance or Drone Mark for the next night.
 

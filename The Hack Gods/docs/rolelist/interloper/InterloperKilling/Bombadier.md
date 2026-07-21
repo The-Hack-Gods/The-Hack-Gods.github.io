@@ -1,10 +1,10 @@
 ### **Actives:**
 
-Unskilled Attack - Select a node, green or white. Leaves a log.
+Unskilled Attack - Select a node, white or green. Leaves a log.
 
-Jam Network (2 charges) - Select a target operative and disable all day actions related to the topology done by them.
+Jam Network (2 charges) - Select a target operative and disable all night actions related to the topology done by them.
 
-Plant Fake Info - Decreases hacking chances on a random node.
+Plant Fake Info - Decreases hacking ability on a random node.
 
 Signal Flare (3 charges) - If you are attempted to be arrested tonight, whoever attempted to arrest you will be announced to you. Marks the target. Will avoid the arrest as an additional charge to Raid Boss.
 

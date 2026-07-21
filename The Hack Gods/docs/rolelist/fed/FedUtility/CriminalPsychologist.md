@@ -1,8 +1,8 @@
 ### **Actives:**
 
-Unskilled Attack - Select a node, green or white. Leaves a log.
+Unskilled Attack - Select a node, white or green. Leaves a log.
 
-Background Search (D1 -> D3 cooldown) - Check a target operative’s background. You’ll be given a (non-unique) random skill that they have, either day or night. Do not go through frames or cover.
+Background Search (D1 -> D3 cooldown) - Check a target operative’s background. You’ll be given a (non-unique) random skill that they have, either night or night. Do not go through frames or cover.
 
 Insanity (N1 -> N4 cooldown) - Select two target operatives. The first operative will go insane and attempt to disorganized murder the second operative. Visit and occupy them.
 

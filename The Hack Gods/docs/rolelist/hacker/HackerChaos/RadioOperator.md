@@ -1,6 +1,6 @@
 ### **Actives:**
 
-Jam Network (2 charges, +1 Wanted Level) - Select a target operative and disable actions related to the topology done by them.
+Jam Network (2 charges) - Select a target operative and disable actions related to the topology done by them.
 
 Wiretap - Select a target operative. Check the operative's outgoing and ingoing communications to check what their current night action is. Visit them.
 

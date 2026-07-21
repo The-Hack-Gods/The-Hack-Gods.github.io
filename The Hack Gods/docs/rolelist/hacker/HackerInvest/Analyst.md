@@ -6,7 +6,7 @@ Download Intel - Select a green node and attempt to download from it. If there i
 
 Log Analysis - Select a green node and clear any fake logs from Alter Logs or Rollback. Leaves a log.
 
-Ask the Right Question (2 charges) - Select a target operative, find their current hacking or hardening chance. Visit them.
+Ask the Right Question (2 charges) - Select a target operative, find their current hacking or hardening ability. Visit them.
 
 ### **Passives:**
 

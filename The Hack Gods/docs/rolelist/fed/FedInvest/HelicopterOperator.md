@@ -1,6 +1,6 @@
 ### **Actives:**
 
-Unskilled Attack - Select a node, green or white. Leaves a log.
+Unskilled Attack - Select a node, white or green. Leaves a log.
 
 Scan Hideout (D1 -> D3 cooldown) - Select a target operative and learn the operative’s subclass. Goes through cover or frames.
 

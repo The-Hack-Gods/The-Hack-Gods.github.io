@@ -1,8 +1,8 @@
 ### **Actives:**
 
-Unskilled Attack - Select a node, green or white. Leaves a log.
+Unskilled Attack - Select a node, white or green. Leaves a log.
 
-Hiring Check (D1 -> D3 cooldown) - Check how an operative was hired. You’ll be given a random skill that they have, either day or night. Do not go through frames or cover.
+Hiring Check (D1 -> D3 cooldown) - Check how an operative was hired. You’ll be given a random skill that they have, either night or night. Do not go through frames or cover.
 
 Paragon Inspiration (N1 -> N3 cooldown, 2 charges) - Select a Paragon operative and choose a skill they have to give them a skill charge. Visit them.
 

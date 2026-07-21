@@ -1,12 +1,12 @@
 ### **Actives:**
 
-Unskilled Attack - Select a node, green or white. Leaves a log.
+Unskilled Attack - Select a node, white or green. Leaves a log.
 
 Prepare Drugs - Gives a charge of a drug of choice to use at night.
 
 Sell Meth (1 charge) - Select a target operative. Sell them Methamphetamine and make them immune to occupation for this turn. Visit them.
 
-Sell Adderall (1 charge) - Select a target operative. Sell them Adderall, and give them one extra action in the day. Visit them.
+Sell Adderall (1 charge) - Select a target operative. Sell them Adderall, and give them one extra action in the night. Visit them.
 
 Sell Cocaine (1 charge) - Select a target operative. Sell them Cocaine, and make them dodge arrests or murder attempts for this turn (that are not guaranteed murders). Visit them.
 

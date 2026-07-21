@@ -1,6 +1,6 @@
 ### **Actives:**
 
-Unskilled Attack - Select a node, green or white. Leaves a log.
+Unskilled Attack - Select a node, white or green. Leaves a log.
 
 Dog Treats (3 charges) - Your dog will be well fed at night, capable of being immune to occupation.
 

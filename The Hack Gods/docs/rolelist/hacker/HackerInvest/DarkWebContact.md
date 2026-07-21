@@ -1,14 +1,12 @@
 ### **Actives:**
 
-Hack Target (Moderate) - Select a white node and attempt to hack it. Leaves a log.
+Hack Target (Moderate) - Select a white node and hack it, dealing 3 HP. Leaves a log.
 
-Wireshark (D1 -> D4 cooldown) - Tells you the name of any operative that did a Denial of Service.
+Wireshark (2 charges) - Tells you the name of any operative that did a Denial of Service.
 
-Dark Web Connections (2 charges) - Select a white node. If the node isn’t hacked, the node’s connection logs are revealed to you anyway.
+Dark Web Connections (2 charges) - Select a white node. If the node isn't hacked, the node's connection logs are revealed to you anyway.
 
-Doxx and Stalk (N1 -> N4 cooldown, 2 charges) - Select a target operative. Do not go through frames or cover. Learn this operative’s faction alignment and visit them.
-
-Cover Your Tracks (2 charges) - Move your hideout, protecting yourself unless you are occupied. Arrest attempts will show a result similar to a target that is immune to arrest, like No Dirt On Me.
+Experienced Hiding (3 charges) - Move your hideout, protecting yourself unless you are occupied.
 
 ### **Passives:**
 

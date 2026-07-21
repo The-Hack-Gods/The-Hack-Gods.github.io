@@ -1,10 +1,10 @@
 ### **Actives:**
 
-Unskilled Attack - Select a node, green or white. Leaves a log.
+Unskilled Attack - Select a node, white or green. Leaves a log.
 
 Hack Target (Low) - Select a white node and attempt to hack it. Leaves a log.
 
-Rerouted Denial of Service (2 charges) - Select a green or white node and block all connections to the node this day. Select a target operative to make this show up as the operative who used the denial of service with Wireshark. Do not leave a log.
+Rerouted Denial of Service (2 charges) - Select a white or green node and block all connections to the node this night. Select a target operative to make this show up as the operative who used the denial of service with Wireshark. Do not leave a log.
 
 Hack Private Channel (1 charge) - You can write one message to talk to all players in ASC or W3C channels, speaking directly to only Agent and/or W3C players, which appears next night.
 
@@ -14,7 +14,7 @@ Experienced Hiding (3 charges) - Move your hideout, protecting yourself unless y
 
 Plant Fed Documentation (3 charges, -1 Wanted Level) - Select a target operative. If the operative is doxxed this round, they will be seen as a Fed. If the operative is specialization reviewed, they will be seen as special. If the operative is asked the right question, they will be seen as unable to hack. If the operative is speech analyzed, they will be seen as unable to win with anyone. Visit them.
 
-Mock Interview (N1 -> N3 cooldown) - Check whether an operative has their hack chance increased or decreased in the last day and this night, letting you know specifically if it was increased or decreased. Visit them.
+Mock Interview (N1 -> N3 cooldown) - Check whether an operative has their hack ability increased or decreased in the last night and this night, letting you know specifically if it was increased or decreased. Visit them.
 
 ### **Passives:**
 

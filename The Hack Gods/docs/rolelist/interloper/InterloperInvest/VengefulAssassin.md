@@ -1,10 +1,10 @@
 ### **Actives:**
 
-Unskilled Attack - Select a node, green or white. Leaves a log.
+Unskilled Attack - Select a node, white or green. Leaves a log.
 
 Hack Target (Low) - Select a white node and attempt to hack it. Leaves a log.
 
-Rerouted Denial of Service (2 charges) - Select a green or white node and block all connections to the node this day. Select a target operative to make this show up as the operative who used the denial of service with Wireshark. Do not leave a log.
+Rerouted Denial of Service (2 charges) - Select a white or green node and block all connections to the node this night. Select a target operative to make this show up as the operative who used the denial of service with Wireshark. Do not leave a log.
 
 Bait Law Enforcement - Select a target operative, inform agents that the target is one working for Netsec. Can be yourself. (Leaves the same message as Bounty Hunter’s Spill the Beans).
 

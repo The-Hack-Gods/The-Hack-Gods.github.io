@@ -6,7 +6,7 @@ Encrypt Intel (-1 Wanted Level) - Select a green node and attempt to erase intel
 
 Setup (2 charges) - Select two operatives. The first operative will visit and occupy the second operative, occupying and revealing both operatives. You may be the first target. Visits the first operative.
 
-Ask the Right Question (2 charges) - Select a target operative, find their current hacking or hardening chance. Visit them.
+Ask the Right Question (2 charges) - Select a target operative, find their current hacking or hardening ability. Visit them.
 
 ### **Passives:**
 

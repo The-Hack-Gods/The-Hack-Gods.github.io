@@ -1,8 +1,8 @@
 ### **Actives:**
 
-Unskilled Attack - Select a node, green or white. Leaves a log.
+Unskilled Attack - Select a node, white or green. Leaves a log.
 
-Fake Denial of Service (2 charges) - Select a green or white node and fake blocking all connections to the node this day. Do not leave a log.
+Fake Denial of Service (2 charges) - Select a white or green node and fake blocking all connections to the node this night. Do not leave a log.
 
 Rollback (1 charge) - Select a green node, return the node to a white node, un-hacking the node. Connections to nodes ahead fail. Leaves a set of random connection logs, one of which is you.
 

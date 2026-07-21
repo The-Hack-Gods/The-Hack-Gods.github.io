@@ -1,17 +1,11 @@
 ### **Actives:**
 
-Unskilled Attack - Select a node, green or white. Leaves a log.
+Get Scoop (1 night cooldown) - Select a target operative. Visit and occupy them, revealing your identity. Learn if the operative is an Interloper.
 
-Broadcast Message (1 charge) - You can write one message to talk to all players in a specialized channel (global Opsec info). This message can appear when you want it tonight.
+Arrest Recording (2 charges) - Select a target operative. If they are arrested tonight, you will record the footage, displaying it to the public (not global). Whoever arrested the operative will be notified and occupied the next night. Visit them.
 
 Desperate Measures (1 charge) - Turn into an Improvised Hacker.
 
-Get Scoop (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. Do not go through frames or cover. Find if the target is not neutral.
-
-Preach Hacker Superiority (1 night cooldown) - Select a target operative, tonight they are immune to occupation. Visit them.
-
-Exonerate Operation Leader (1 charge) - Select a target operative. If they are the Operation Leader, reveal the Operation Leader globally and make you and them immune to arrests and murder for tonight. Visit and occupy them.
-
 ### **Passives:**
 
-Not Netsec - Your true faction is Neutral.
+Not Hacker - Your true faction is Interloper.

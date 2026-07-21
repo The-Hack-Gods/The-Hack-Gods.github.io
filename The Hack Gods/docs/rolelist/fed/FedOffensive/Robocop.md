@@ -1,6 +1,6 @@
 ### **Actives:**
 
-Unskilled Attack - Select a node, green or white. Leaves a log.
+Unskilled Attack - Select a node, white or green. Leaves a log.
 
 Switch Mode - Choose a mode to switch into, Enforce, Undercover, and Defend.
 
@@ -26,9 +26,9 @@ Defend
 
 =======================================================================
 
-Harden Node (D1 -> D3 cooldown, 2 charges) - Select a white node, decreasing hacking chances of getting this node. Strongest hacking chance nerf. Leaves a log.
+Harden Node (D1 -> D3 cooldown, 2 charges) - Select a white node, decreasing hacking ability of getting this node. Strongest hacking ability nerf. Leaves a log.
 
-Data Void (1 charge) - Select a white node. If the node is hacked this day, you will take root on that node first. Does not deplete on failure of taking the node.
+Data Void (1 charge) - Select a white node. If the node is hacked this night, you will take root on that node first. Does not deplete on failure of taking the node.
 
 Switch Mode - Choose a mode to switch into, Enforce, Undercover, and Defend.
 
@@ -58,13 +58,13 @@ Defend
 
 =======================================================================
 
-Signal Jammer (2 charges) - Select a target operative and disable all day actions related to the topology done by them. Won’t reveal that their connection was severed.
+Signal Jammer (2 charges) - Select a target operative and disable all night actions related to the topology done by them. Won’t reveal that their connection was severed.
 
 ### **Passives:**
 
 Agent on the Field - You are a Field Agent role.
 
-Metal Skin - Decreases the chances of dying to murder.
+Metal Skin - Decreases the ability of dying to murder.
 
 Mode Starter - Choose a mode to start with.
 

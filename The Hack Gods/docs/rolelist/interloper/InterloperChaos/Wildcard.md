@@ -1,6 +1,6 @@
 ### **Actives:**
 
-Unskilled Attack - Select a node, green or white. Leaves a log.
+Unskilled Attack - Select a node, white or green. Leaves a log.
 
 Hack Target (Moderate) - Select a white node and attempt to hack it. Leaves a log.
 
@@ -14,9 +14,9 @@ Choose Your Own Adventure (Pick 1)
 
 =======================================================================
 
-Denial of Service (2 charges) - Select a green or white node and block all connections to the node this day. Do not leave a log.
+Denial of Service (2 charges) - Select a white or green node and block all connections to the node this night. Do not leave a log.
 
-Background Search (D1 -> D3 cooldown) - Check a target operative’s background. You’ll be given a (non-unique) random skill that they have, either day or night. Do not go through frames or cover.
+Background Search (D1 -> D3 cooldown) - Check a target operative’s background. You’ll be given a (non-unique) random skill that they have, either night or night. Do not go through frames or cover.
 
 Troll Operative (2 charges) - Permanently rename another operative to whatever name you want. If you name it the same as another operative, targeting that operative will randomly target either operative of the same name.
 
@@ -44,4 +44,4 @@ Throw Under the Bus (2 charges) - Select a target operative. All skills used on 
 
 Rent Free - Avoid the first arrest attempt and murder attempt on you.
 
-Choose Your Own Adventure - Pick an extra day ability and an extra night ability of your choice between the three options for both.
+Choose Your Own Adventure - Pick an extra night ability and an extra night ability of your choice between the three options for both.
