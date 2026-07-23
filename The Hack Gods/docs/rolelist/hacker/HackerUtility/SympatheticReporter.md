@@ -8,4 +8,4 @@ Desperate Measures (1 charge) - Turn into an Improvised Hacker.
 
 ### **Passives:**
 
-Not Hacker - Your true faction is Interloper.
+Neutral - Your true faction is Interloper.

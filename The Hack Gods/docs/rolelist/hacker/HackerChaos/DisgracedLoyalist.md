@@ -10,4 +10,4 @@ Ultimate Sacrifice - Tonight, you can sacrifice yourself for anyone who gets arr
 
 ### **Passives:**
 
-Not Hacker - Your true faction is Interloper.
+Neutral - Your true faction is Interloper.

@@ -1,23 +1,17 @@
 ### **Actives:**
 
-Unskilled Attack - Select a node, white or green. Leaves a log.
+Unskilled Attack (-1 Wanted Level) - Select a node, white or green. Leaves a log.
 
-Scan Hideout (D1 -> D3 cooldown) - Select a target operative and learn the operative’s subclass. Goes through cover or frames.
+Deep Learn (2 charges) - The next action will go through any kind of frame.
 
-Deep Learn (2 charges) - The next action will go through any kind of cover, frame, or passives.
+Get Dirt - Select a target operative. Learn between three subclasses. One is the real subclass, piercing lies. Visit them.
 
-To the Wheel (1 charge) - Turn into a Police Car Driver. Can only be done if there are no Agent on the Field roles.
+Investigate Hideout (1 night cooldown) - Select a target operative. You will learn who they visited, and their subclass. Visit them.
 
-Perform Spotlight Surveillance (N1 -> N3 cooldown) - Selects a target operative and puts a spotlight on their hideout. See who visits the target operative tonight. Visit the target.
+Camouflage Net (2 charges) - Select an agent operative. They will not be seen visiting anywhere tonight. Visit them.
 
-Investigate Hideout (N1 -> N3 cooldown) - Select a target operative. You will learn who they visited, and their subclass. Do not go through frames or cover. Visit them.
-
-Aerial Reconnaissance (N1 -> N3 cooldown) - Select a target operative. Learn the exact ability they use tonight. Goes through cover or frames. If they did nothing, say they did nothing. Visit the operative.
-
-Helicopter Lineman (N1 -> N4 cooldown, 2 charges) - Select a target operative. They will use your helicopter line tonight while they use their ability, shown as not leaving their hideout. The operative will know if they use the line. Visit the operative.
-
-Misdirection (1 charge) - Occupy anyone that visits you directly, blocking any attempts to visit, occupy, and kill directly. Does not save you from Raids, Stings, and other indirect methods of killing this operative.
+All in (1 charge) - Turn into a Police Car Driver. Can only be done if there are no Fed on the Field roles.
 
 ### **Passives:**
 
-To the Skies - You are immune to occupation at night.
+To the Skies - You are immune to occupation.

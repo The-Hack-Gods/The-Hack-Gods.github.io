@@ -1,19 +1,19 @@
 ### **Actives:**
 
-Unskilled Attack - Select a node, white or green. Leaves a log.
+Unskilled Attack (-1 Wanted Level) - Select a node, white or green. Leaves a log.
 
-Background Search (D1 -> D3 cooldown) - Check a target operative’s background. You’ll be given a (non-unique) random skill that they have, either night or night. Do not go through frames or cover.
+Background Search - Check a target operative's background. You'll be given a random skill that they have.
 
-Insanity (N1 -> N4 cooldown) - Select two target operatives. The first operative will go insane and attempt to disorganized murder the second operative. Visit and occupy them.
-
-Spook - Select a target operative and visit them. Does not gain any intel.
+Insanity (1 night cooldown) - Select two target operatives. The first operative will go insane and attempt to disorganized murder the second operative. Visit and occupy them.
 
 Throw Under the Bus (2 charges) - Select a target operative. All skills used on you will be used on the target operative.
 
-Misdirection (1 charge) - Occupy anyone that visits you directly, blocking any attempts to visit, occupy, and kill directly. Does not save you from Raids, Stings, and other indirect methods of killing this operative.
+Plea Deal (2 charges) - Select a target operative. If they are a Hacker, give them a plea deal, converting them into a Fed Mole.
+
+All in (1 charge) - Turn into a Jail Warden. Can only be done if there are no Fed on the Field roles.
 
 ### **Passives:**
 
-Agent on the Field - You are a Field Agent role.
+Leading Fed - You are a converting Fed.
 
 Turncoats - You are allowed to have Initiators, Specialists, and Operators.

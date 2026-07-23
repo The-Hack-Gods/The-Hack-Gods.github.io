@@ -1,21 +1,15 @@
 ### **Actives:**
 
-Unskilled Attack - Select a node, white or green. Leaves a log.
+Unskilled Attack (-1 Wanted Level) - Select a node, white or green. Leaves a log.
 
-Dog Treats (3 charges) - Your dog will be well fed at night, capable of being immune to occupation.
+Sniff-out - Select a target operative. If the operative is a drug dealer or has the potential to murder or disorganized murder in any way, let you know. Visit them.
 
-All in (1 charge) - Turn into a Field Agent. Can only be done if there are no Agent on the Field roles.
+Guard Dog (3 charges) - Select an agent operative. If they are arresting someone, make them immune to occupation. Do not visit them.
 
-Sniff-out (N1 -> N3 cooldown) - Select a target operative. If the operative is a drug dealer or has the potential to murder or disorganized murder in any way, let you know. Goes through cover or frames. Visit them.
+Trained Escort - Escort a Fed operative, protecting the operative from arrests and murders. Anyone attempting to murder or arrest the protected operative will be killed. Do not visit or occupy.
 
-Trained Assist (N1 -> N4 cooldown) - Select an agent operative. If they are arresting someone, make them immune to occupation. Visit them.
-
-Trained Escort - Select an agent operative and escort them, protecting the operative from arrests and murders. Arrest attempts will be dodged, and anyone attempting to murder the protected operative will be killed. Visit your fellow agent, but do not occupy.
-
-Guard Dog (N1 -> N3 cooldown) - Occupy anyone that visits you directly, blocking any attempts to visit, occupy, and kill directly. Does not save you from Raids, Stings, and other indirect methods of killing this operative.
+All in (1 charge) - Turn into a Field Agent. Can only be done if there are no Fed on the Field roles.
 
 ### **Passives:**
 
-Good Boy - You are protected by the first arrest or murder attempt.
-
-Protective Boy - Guard Dog can be used along with any other ability at night.
+Good Boy - You know who visits you at night.

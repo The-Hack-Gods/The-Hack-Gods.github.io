@@ -1,19 +1,15 @@
 ### **Actives:**
 
-Unskilled Attack - Select a node, white or green. Leaves a log.
+Unskilled Attack (-1 Wanted Level) - Select a node, white or green. Leaves a log.
 
-Destroy Intel - Select a green node, if you find intel that is of intel (see tips for list of intel), destroy it, give yourself the intel.
+Plant Fake Info (-1 Wanted Level) - Disables any use of Dumpster Dive.
 
-Plant Fake Info - Decreases hacking ability on a random node.
+Deductive Reasoning - Select a target operative. You will learn their faction, and their subclass. Visit them.
 
-Decipher Role - Select any number of target operatives and guess their role. If you guess right, attempt to arrest them by goons tonight. Removes all frames and covers. Cannot guess more than two of the same role in a single phase. You will know if you guessed right or wrong.
+Midnight Meet (1 night cooldown) - Select a target operative. Visit and occupy them, revealing your identity.
 
-Deductive Reasoning (N1 -> N3 cooldown) - Select a target operative. You will learn their faction, and their subclass. Do not go through frames or cover. Visit them.
-
-Midnight Meet (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. 
-
-Decipher Role - Select any number of target operatives and guess all their roles. If you guess right, attempt to arrest them by goons. Removes all frames and covers. Cannot guess more than two of the same role in a single phase.
+Decipher Arrest (+1 Wanted Level) - Select an operative, select a role, and arrest them. If you guess right, Pierces and ignores all defensive actions. Visit them.
 
 ### **Passives:**
 
-Agent on the Field - You are a Field Agent role.
+Fed on the Field - You are an arresting Fed.

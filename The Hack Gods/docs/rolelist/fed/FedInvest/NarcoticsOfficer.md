@@ -1,23 +1,17 @@
 ### **Actives:**
 
-Unskilled Attack - Select a node, white or green. Leaves a log.
+Unskilled Attack (-1 Wanted Level) - Select a node, white or green. Leaves a log.
 
-Get Dirt - Select a target operative. You will get one of two class types that they can be. Do not go through frames or cover.
+Contraband Check (1 charge) - For the next night, any operatives arrested and murdered will have their roles revealed, unframed, and logs unencrypted.
 
-Connect the Dots (2 charges) - Select a target operative. Reveal, unframe, and unencrypt their logs. Tell you their role immediately.
-
-Contraband Check (1 charge) - For the next night, any operatives arrested and murdered will have their roles revealed, unframed, and logs unencrypted, including through voting.
-
-Drug Bust - Select a target operative and arrest them. Reveals their true role, unframing them, and unencrypting their logs. Visit them.
-
-Sting (1 charge) - Select a target operative and arrest them, along with anyone that visits them. Do not visit them.
-
-Sniff-out (N1 -> N3 cooldown) - Select a target operative. If the operative is a drug dealer or has the potential to murder or disorganized murder in any way, let you know. Goes through cover or frames. Visit them.
+Sniff-out - Select a target operative. If the operative is a drug dealer or has the potential to murder or disorganized murder in any way, let you know. Visit them.
 
 Plant Drug (2 charges) - Select a target operative. Plant a drug on the operative and remove No Dirt on Me. Visit them.
 
-Not a Narc (2 charges) - Select a target operative. Give them No Dirt on Me, making them immune to arrests. Visit them.
+Plea Deal (2 charges) - Select a target operative. If they are a Hacker, give them a plea deal, converting them into a Fed Mole.
+
+All in (1 charge) - Turn into an Independent Contractor. Can only be done if there are no Fed on the Field roles.
 
 ### **Passives:**
 
-Agent on the Field - You are a Field Agent role.
+Leading Fed - You are a converting Fed.

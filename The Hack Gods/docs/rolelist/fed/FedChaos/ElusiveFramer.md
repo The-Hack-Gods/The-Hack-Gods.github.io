@@ -1,27 +1,17 @@
 ### **Actives:**
 
-Unskilled Attack - Select a node, white or green. Leaves a log.
+Unskilled Attack (-1 Wanted Level) - Select a node, white or green. Leaves a log.
 
-Alter Logs (D1 -> D3 cooldown) - Select a white or green node and either leave a singular fake connection log of one operative, or leave a few random connection logs.
-
-Impersonate (1 charge) - Permanently rename your operative to whatever name you want. If you name it the same as another operative, targeting that operative will randomly target either operative of the same name.
+Impersonate (1 charge, -1 Wanted Level) - Permanently rename your operative to whatever name you want. If you name it the same as another operative, targeting that operative will randomly target either operative of the same name.
 
 Troll Operative (2 charges) - Permanently rename another operative to whatever name you want. If you name it the same as another operative, targeting that operative will randomly target either operative of the same name.
 
-Objection! - Force someone to vote for someone of your choice.
+Frame (2 charges, -1 Wanted Level) - Select a target operative. Change their role to be a specific role, which they will then have all intel abilities follow that frame. Visit them.
 
-Objection! - Force someone to vote for someone of your choice.
+Plea Deal (2 charges) - Select a target operative. If they are a Hacker, give them a plea deal, converting them into a Fed Mole.
 
-Paid Assassin - Anyone who is voted during this phase will die at the end of the phase. Can be blocked using defensive abilities.
-
-Elusive Frame (N1 -> N3 cooldown) - Select a target operative. Change their role to be anything you want, which they will then have all intel abilities follow that frame. Removes No Dirt On Me and can be used on Agents, making them follow murderability and arrestability of the role framed. Visit them.
-
-Spook - Select a target operative and visit them. Does not gain any intel.
+All in (1 charge) - Turn into a Field Agent. Can only be done if there are no Fed on the Field roles.
 
 ### **Passives:**
 
-Agent on the Field - You are a Field Agent role.
-
-Wasn’t Me Netsec - The first time you are voted, select someone else to be voted this round.
-
-Call Assassin - Paid Assassin can be used alongside any other action at night.
+Leading Fed - You are a converting Fed.

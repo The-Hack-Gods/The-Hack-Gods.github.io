@@ -180,11 +180,9 @@ Dark Web Connections (2 charges) - Select a white node. If the node isn't hacked
 
 Sniff-out - Select a target operative. If the operative is a drug dealer or has the potential to murder or disorganized murder in any way, let you know. Visit them.
 
-Investigate Hideout (1 night cooldown) - Select a target operative. You will learn who they visited, and their subclass. Do not go through frames or cover. Visit them.
+Investigate Hideout (1 night cooldown) - Select a target operative. You will learn who they visited, and their subclass. Visit them.
 
-Investigation - Select a target operative. Learn between three subclasses. One is the real subclass, piercing lies. Visit them.
-
-Get Dirt - Select a target operative. You will get one of two class types that they can be. Do not go through frames or cover.
+Get Dirt - Select a target operative. Learn between three subclasses. One is the real subclass, piercing lies. Visit them.
 
 Obtain Evidence (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. Gain some intel, similar to Download Intel, getting intel (see tips for list of intel). Do not go through frames or cover. 
 
@@ -195,6 +193,8 @@ Doxx and Ask Chatgpt (2 charges) - Select a target operative. Learn a faction th
 Image Recognition (2 charges) - Select an operative. Predict what they did last night, gives two potential actions.
 
 Image Classification (2 charges) - Select an operative. Predict what they will do this night, gives two potential actions.
+
+Drone Reconnaissance - Select a target operative. Learn the exact ability they use tonight. If they did nothing, say they did nothing. Visit the operative.
 
 ### **Defensive Field Ops:**
 
@@ -254,13 +254,17 @@ Assassinate (+1 Wanted Level) - Select an operative, select a role, and murder t
 
 Ramming Speed (1 charge) - Select an operative and murder them. Occupies and visits the target. Also kills yourself if successfully kills target.
 
+Overdose Immediately (2 charges) - Select a target operative. Sell them intense drugs, immediately overdosing and killing them. Visit them.
+
+Insanity (1 night cooldown) - Select two target operatives. The first operative will go insane and attempt to disorganized murder the second operative. Visit and occupy them.
+
 Sell Illicit Arms (+1 Wanted Level) - Select a target operative. If they do not have access to the skill Disorganized Murder, give them 1 charge of Disorganized Murder the following night. This charge of Disorganized Murder is removed if it is not used the night it is given. Visit them.
 
 Citizen's Arrest (2 charges, +1 Wanted Level) - Select a target operative and arrest them. Visit them.
 
 Snitch to Cops (2 night cooldown, +1 Wanted Level) - Select a target operative. Attempt to arrest the operative with local cops. Do not visit them.
 
-Track Connection Assist (2 charges) - Select a green node. Attempt to arrest the target operative that hacked the node with local cops. Do not visit them.
+Track Connection (2 charges, +1 Wanted Level) - Select a green node. Attempt to arrest the target operative that hacked the node with local cops. Visit them.
 
 Arrest (+1 Wanted Level) - Select a target operative and arrest them. Visit them.
 
@@ -268,11 +272,31 @@ Blowout Arrest (2 charges, +1 Wanted Level) - Select a target operative. Bypass 
 
 Sting (1 charge, +1 Wanted Level) - Select a target operative and arrest them, along with anyone that visits them. Do not visit them.
 
-Planned Raid - Select a target operative and escort them. Choose whether tomorrow they will be arrested, or that you want to hold the arrests until you execute a raid, or until the operative moves hideout. Visit and occupy them. Must select a different target the next night.
+SWAT them (1 charge, +1 Wanted Level) - Select an operative to raid, does not occupy them. Every operative that visits them tonight will be arrested, the operative selected will not be arrested. Do not visit them.
+
+Planned Raid - Select a target operative and escort them, planting a beacon. They will be targeted for a raid. Visit and occupy them.
+
+Hidden Officers - Select a target operative and watch them, planting a beacon. They will be targeted for a raid. Visit them.
 
 Execute Raid (+2 Wanted Level) - Arrest all raided operatives that are still in the same hideout. This skill cannot be occupied.
 
-Investigate Bottom - Arrest the operative below you in the list of operatives and give you the subclass of the operative below the operative. Goes through cover or frames. If this fails, skip the operative below you and arrest the next operative. Visit them.
+Decipher Arrest (+1 Wanted Level) - Select an operative, select a role, and arrest them. If you guess right, Pierces and ignores all defensive actions. Visit them.
+
+Defensive Arresting (2 charges, +1 Wanted Level) - Select a target operative. If they attempt to visit or occupy you, you will arrest them.
+
+Investigate Bottom (+1 Wanted Level) - Arrest the operative below you in the list of operatives and give you the subclass of the operative below the operative. If this fails, skip the operative below you and arrest the next operative. Visit them.
+
+Temporary Holding Cell - Select a target operative and jail them for the night. They will receive a similar outcome as Bouncer, like if you visit and occupy them without revealing yourself, and anyone who visits them will be occupied, like a Misdirection. Gain a charge of Jail Cell Arrest.
+
+Jail Cell Arrest (0 charges, +1 Wanted Level) - Arrest the target in the dungeon, as you have determined them guilty. If you do not do this within the turn you gain this charge, the operative will be released the next night. Cannot arrest unarrestable targets, since they will either escape or are legally unarrestable.
+
+Add to Patrol Route - Start with a random operative. Select a target operative and add them to the Patrol Route. Visit them.
+
+Patrol Route (+1 Wanted Level) - Attempt to arrest all operatives who visit any operative in the Patrol Route. Does not arrest the target operatives themselves. Gain a charge of Patrol Route. Do not visit anyone.
+
+Drone Mark (+1 Wanted Level) - Select a target operative and leave a follow notification. Tomorrow they will be arrested by local cops. Visit them.
+
+Drone Bomb (1 charge, +2 Wanted Level) - Select two target operatives. Send your two drones out and bomb their hideouts, killing both of them. Do not visit them.
 
 Plea Deal (2 charges) - Select a target operative. If they are a Hacker, give them a plea deal, converting them into a Fed Mole.
 
@@ -290,6 +314,10 @@ Final Gambit (1 charge, -1 Wanted Level) - Frame yourself as any role in the gam
 
 Cover Support (3 charges, -1 Wanted Level) - Select a target operative and pick a subclass. For tonight and the following night, they will have cover as Hacker and appear as that subclass to any subclass checking skills. Visit them.
 
+Derail News (1 charge) - The next night, any operatives arrested and murdered will have their roles hidden.
+
+Ambush (2 charges) - Select a target operative. Visit them, if they are arrested or killed tonight, their role will be hidden.
+
 ### **Survival:**
 
 Experienced Hiding (3 charges) - Move your hideout, protecting yourself unless you are occupied.
@@ -306,9 +334,7 @@ Call Backup (1 night cooldown) - Escort yourself. If you are targeted by an arre
 
 Commissar's Orders (2 charges) - If a Fed is killed tonight, delay their death till the next night.
 
-Blowout (1 night cooldown, 2 charges) - Select a target operative. Bypass all defensive skills, including Throw under the Bus and Misdirection. Can only be stopped if occupied. Visit and occupy them.
-
-Shakedown (1 night cooldown, 2 charges) - Select a target operative and learn the target's subclass and if they attempted to visit other operatives. Visit and occupy them.
+Camouflage Net (2 charges) - Select an agent operative. They will not be seen visiting anywhere tonight. Visit them.
 
 Overload Node (1 charge) - Select a white node. All connections and DDOS to this node will fail. Leaves a log.
 
@@ -317,8 +343,6 @@ Improve Bandwidth - Select a white or green node and block any Denial of Service
 Firewall Layer (2 charges, +2 Wanted Level) - Select a layer, healing 5 HP on this layer. Do not leave a log.
 
 Encrypt Killswitch (2 charges, -1 Wanted Level) - Select a target operative. Upon death or arrest, the target's role will be encrypted and unable to be read. Gives you their role. Visit them.
-
-Caesar Cipher (1 charge) - Select a layer, removing all intel on this layer. Do not leave a log.
 
 Arrest Recording (2 charges) - Select a target operative. If they are arrested tonight, you will record the footage, displaying it to the public (not global). Whoever arrested the operative will be notified and occupied the next night. Visit them.
 
@@ -330,29 +354,23 @@ Sell Adderall (2 charges) - Select a target operative. Sell them Adderall, and g
 
 Sell Cocaine (2 charges) - Select a target operative. Sell them Cocaine, and make them dodge arrests or murder attempts for this turn (that are not guaranteed murders). Visit them.
 
-Overdose Immediately (2 charges) - Select a target operative. Sell them intense drugs, immediately overdosing and killing them. Visit them.
-
-Contraband Check (1 charge) - For the next night, any operatives arrested and murdered will have their roles revealed, unframed, and logs unencrypted, including through voting.
-
-Snitch to SWAT (1 charge) - Select an operative to raid, does not occupy them. Every operative that visits them today will be arrested, the operative selected will not be arrested. Do not visit them.
-
-Snitch to FBI (1 charge) - Select an operative to raid, does not occupy them. They and every operative that visits them tomorrow will be arrested. Do not visit them.
-
-Hidden Officers - Select a target operative and watch them, planting a beacon. They will be targeted for a raid. Visit them.
-
-Camouflage Net (N1 -> N3 cooldown) - Select an agent operative. They will not be seen visiting anywhere tonight. Visit them.
-
-Defensive Arresting (N1 -> N4 cooldown) - Select a target operative. If they attempt to visit you, you will arrest them and wipe their logs.
-
-Insanity (N1 -> N4 cooldown) - Select two target operatives. The first operative will go insane and attempt to disorganized murder the second operative. Visit and occupy them.
-
-Temporary Holding Cell - Select a target operative and jail them for the night. They will receive a similar outcome as Bouncer, like if you visit and occupy them without revealing yourself, and anyone who visits them will be occupied, like a Misdirection. Gain a charge of Jail Cell Arrest.
-
-Jail Cell Arrest (0 charges) - Arrest the target in the dungeon, as you have determined them guilty. If you do not do this within the turn you gain this charge, the operative will be released the next night. Cannot arrest unarrestable targets, since they will either escape or are legally unarrestable.
+Contraband Check (1 charge) - For the next night, any operatives arrested and murdered will have their roles revealed, unframed, and logs unencrypted.
 
 Shitpost on Social Media - Select an operative. Give that operative some motivation by getting more site views, granting them a charge of a night action tomorrow.
 
 Photoshoot (2 charges) - Post your Photoshoot, convincing Feds to give you insider information. Lets you know if any operative was informed as a Hacker in this operation.
+
+Guard Dog (3 charges) - Select an agent operative. If they are arresting someone, make them immune to occupation. Do not visit them.
+
+Trained Escort - Escort a Fed operative, protecting the operative from arrests and murders. Anyone attempting to murder or arrest the protected operative will be killed. Do not visit or occupy.
+
+Rat Jam (3 charges) - Select a target operative. Send rats to their house, annoying them and lowering their hack ability by one stage temporarily. Do not visit them.
+
+Ace Rhino (1 night cooldown) - Select a target operative, ramming their hideout. Destroy their hardware, preventing them from doing night actions for the next night. Visit and occupy them.
+
+Penguin's Sock (1 night cooldown) - Select an agent operative. Make them immune to occupation. Visit them. (Triggers Animal Lover).
+
+Bombardino Crocodilo (2 charges) - Select an agent operative and escort them, protecting the operative from arrests and murders. Anyone attempting to murder or arrest the protected operative will be killed. Visit your fellow agent, but do not occupy. (Triggers Animal Lover).
 
 ### **Other:**
 
@@ -404,7 +422,7 @@ Rent Free - Avoid the first arrest attempt and murder attempt on you.
 
 Raid Boss - Avoid the first two arrest or murder attempts on you.
 
-Not Hacker - Your true faction is Interloper.
+Neutral - Your true faction is Interloper.
 
 Fed Scum - Your true faction is Fed.
 
@@ -492,6 +510,18 @@ Strong Connection - You are immune to abilities affecting your ability to intera
 
 Greedy - You passively gain one fund every new night. Funds are used as charges of actives.
 
+In The Business - You will learn if any Journalists have spawned, including Sympathetic Reporter, Journalist, Shamed Journalist, and Paragon Journalist.
+
+Good Boy - You know who visits you at night.
+
+Partner in crime-solving - If you are occupied while trying to use Patrol Route, anyone who visits operatives in the Patrol Route will continue to be arrested.
+
+To the Skies - You are immune to occupation.
+
+Turncoats - You are allowed to have Initiators, Specialists, and Operators.
+
+Animal Lover - Operatives love you, they will stop to pet your animals even at the expense of the hack. Visiting your fellow Fed operatives that are supported by an ability at night will occupy the operatives that visit the supported Fed operative.
+
 ### **Probably needs rework (actives):**
 
 Contact Law Enforcement (3 charges) - Select a target operative. If they are a Fed, learn their role, they will learn yours. Visit them.
@@ -500,87 +530,7 @@ Old Friends (3 charges) - Select a target operative. If they are a Hacker member
 
 Contact W.P.P. (2 charges) - If any operative visits you tonight, they will be arrested. Dodge any attempts to arrest you.
 
-Torture (N1 -> N4 cooldown) - Select a target operative and occupy them. Torture the operative enough in which they cannot do anything the next night or night, as they will be in severe pain. Visit and occupy them.
-
 Redirect Assassin (1 charge) - Select a target operative. For the rest of the game, if the target operative was voted off, you will die in their place.
-
-Paid Assassin - Anyone who is voted during this phase will die at the end of the phase. Can be blocked using defensive abilities.
-
-Derail News (1 charge) - For the next night, any operatives arrested and murdered will have their roles hidden and logs wiped, including through voting.
-
-Ambush (N1 -> N4 cooldown) - Select a target operative. Visit them, if they are arrested or killed during the remainder of the game, their role will be hidden.
-
-Perform Fake Headline (N1 -> N4 cooldown, 2 charges) - Select a target operative. Visit and occupy them, performing a fake headline on them. If they are arrested or murdered tonight, they will be framed as the role you select.
-
-Dog Treats (3 charges) - Your dog will be well fed at night, capable of being immune to occupation.
-
-Trained Assist (N1 -> N4 cooldown) - Select an agent operative. If they are arresting someone, make them immune to occupation. Visit them.
-
-Trained Escort - Select an agent operative and escort them, protecting the operative from arrests and murders. Arrest attempts will be dodged, and anyone attempting to murder the protected operative will be killed. Visit your fellow agent, but do not occupy.
-
-Guard Dog (N1 -> N3 cooldown) - Occupy anyone that visits you directly, blocking any attempts to visit, occupy, and kill directly. Does not save you from Raids, Stings, and other indirect methods of killing this operative.
-
-Plan Patrol Route (1 charge) - Select two operatives, all operatives who visit either operative will be attempted to be arrested. Gain a charge of Add to Patrol Route and Patrol Route.
-
-Add to Patrol Route (0 charges) - Select a target operative to add to the Patrol Route, making all operatives who visit this additional operative also be attempted to be arrested. Gain a charge of Add to Patrol Route.
-
-Patrol Route (0 charges) - Attempt to arrest all operatives who visit any operative in the Patrol Route. Does not arrest the target operatives themselves. Gain a charge of Patrol Route. Do not visit anyone.
-
-Scan Hideout (D1 -> D3 cooldown) - Select a target operative and learn the operative’s subclass. Goes through cover or frames.
-
-To the Wheel (1 charge) - Turn into a Police Car Driver. Can only be done if there are no Agent on the Field roles.
-
-Perform Spotlight Surveillance (N1 -> N3 cooldown) - Selects a target operative and puts a spotlight on their hideout. See who visits the target operative tonight. Visit the target.
-
-Aerial Reconnaissance (N1 -> N3 cooldown) - Select a target operative. Learn the exact ability they use tonight. Goes through cover or frames. If they did nothing, say they did nothing. Visit the operative.
-
-Helicopter Lineman (N1 -> N4 cooldown, 2 charges) - Select a target operative. They will use your helicopter line tonight while they use their ability, shown as not leaving their hideout. The operative will know if they use the line. Visit the operative.
-
-Connect the Dots (2 charges) - Select a target operative. Reveal, unframe, and unencrypt their logs. Tell you their role immediately.
-
-Drug Bust - Select a target operative and arrest them. Reveals their true role, unframing them, and unencrypting their logs. Visit them.
-
-Not a Narc (2 charges) - Select a target operative. Give them No Dirt on Me, making them immune to arrests. Visit them.
-
-Charge Batteries - Remove the cooldown on Drone Reconnaissance or Drone Mark for the next night.
-
-Fabricate Evidence (0 charges) - Have an agent lawyer fabricate evidence after killing to set another operative to be arrested at night. This protects you tonight.
-
-Drone Reconnaissance (N1 -> N3 cooldown) - Select a target operative. Learn the exact ability they use tonight. Goes through cover or frames. If they did nothing, say they did nothing. Visit the operative.
-
-Drone Mark (N1 -> N3 cooldown) - Select a target operative and leave a follow notification. Tomorrow they will be arrested by local cops. Visit them.
-
-Drone Bomb (1 charge) - Select two target operatives. Send your two drones out and bomb their hideouts, killing both of them. Do not visit them.
-
-Data Void (1 charge) - Select a white node. If the node is hacked this night, you will take root on that node first. Does not deplete on failure of taking the node.
-
-Holographic Deception (N1 -> N4 cooldown) - Select a target operative. All investigative abilities done on you this round will follow the operative’s class, and all investigative abilities done on that operative will follow your class.
-
-Signal Jammer (2 charges) - Select a target operative and disable all night actions related to the topology done by them. Won’t reveal that their connection was severed.
-
-Switch Mode - Choose a mode to switch into, Enforce, Undercover, and Defend.
-
-Monkey Hack - Have your pet monkey hack randomly. Your monkey will randomly hack a white node with scripts from the internet. (Random hack ability)
-
-Elephant Training (D1 -> D3 cooldown, 3 charges) - Loudly blow your elephant's nose, distracting both operatives above and below you that are not agents, preventing them from doing actions today.
-
-Rat Jam (3 charges) - Select a target operative. Send rats to their house, annoying them and lowering their hack ability by one stage temporarily.
-
-Dolphin Attack (2 charges) - Select a target operative, and attack them with dolphins. They will have to heal from their wounds tomorrow, preventing them from using actions tomorrow night. Visit them.
-
-Ace Rhino (N1 -> N3 cooldown) - Select a target operative, ramming their hideout and occupying them. Destroy their hardware, preventing them from doing night actions for the next night. Visit and occupy them.
-
-Penguin's Sock (N1 -> N3 cooldown) - Select an agent operative. Make them immune to occupation. Visit them. (Triggers Animal Lover).
-
-Bombardino Crocodilo (2 charges) - Select an agent operative and escort them, protecting the operative from arrests and murders. Anyone attempting to murder or arrest the protected operative will be killed. Visit your fellow agent, but do not occupy. (Triggers Animal Lover).
-
-Beary Good - Send your bear to destroy all dumpsters in the Opsec, making the dumpster dive not work for two nights.
-
-Warped Connection (D1 -> D3 cooldown) - Select a target operative, and select a green and white node, with a preference level dictating which comes first. The target operative uses their chosen ability on that node instead of their chosen one.
-
-Bamboozle - Select two operatives. Visiting the first operative gives feedback text stating that the first operative used Throw Under the Bus on the second operative, but the first operative never used that ability and the first operative’s field operations or investigative results will show up if done. Visits the first operative.
-
-Death Doubt (2 charges) - Select a target operative. Change their role to be anything you want, which they will then have all intel abilities follow that frame. Removes No Dirt On Me and can be used on Agents, making them follow murderability and arrestability of the role framed. Allows you to change their logs. Visit them.
 
 Steal Secured Channel Connection - Select a green node. If there is a dead mole, you can hack into ASC by trying to hack a node with a dead mole’s connection and become the mole. Leaves a log.
 
@@ -718,8 +668,6 @@ Elaborative Meet (N1 -> N3 cooldown) - Select a target operative. Visit and occu
 
 Graph Theory Lecture (1 charge) - Occupy all operatives that have been given knowledge of graphs previously with Elaborative Meet.
 
-Decipher Role - Select any number of target operatives and guess their role. If you guess right, attempt to arrest them by goons tonight. Removes all frames and covers. Cannot guess more than two of the same role in a single phase. You will know if you guessed right or wrong.
-
 Paragon Secret Codeword - Select a target operative, if a target is Paragon, let you know their role. Goes through cover or frames. Visit them.
 
 Altar of Heresy - If W3C have only 50% of your operatives left or obtained Root Access, gain these powers.
@@ -731,40 +679,6 @@ Last Ditch Attempt - If the W3C Leader is arrested, you will be arrested instead
 Perform Trap Surveillance - Passively see who visits the target operatives that the traps are attached to.
 
 ### **Probably Needs Rework (passives):**
-
-In The Business - You will learn if any Journalists have spawned, including Sympathetic Reporter, Journalist, Shamed Journalist, and Paragon Journalist.
-
-Fake News Script - All roles hidden, framed, and logs wiped will be revealed and recovered upon your arrest/death.
-
-Wasn’t Me Netsec - The first time you are voted, select someone else to be voted this round.
-
-Call Assassin - Paid Assassin can be used alongside any other action at night.
-
-Good Boy - You are protected by the first arrest or murder attempt.
-
-Protective Boy - Guard Dog can be used along with any other ability at night.
-
-Partner in crime-solving - If you are occupied while trying to use Patrol Route, anyone who visits operatives in the Patrol Route will continue to be arrested.
-
-Night Shift - Do two actions a night. Your first action will be followed/investigated.
-
-Calculated Disguise - If you do not take an action at night, your true faction is neutral.
-
-To the Skies - You are immune to occupation at night.
-
-Do the Crime, Do the Time - If you kill someone, you get arrested the next night. Gain 1 charge of Fabricate Evidence on killing someone. Can be dodged by escorting or protecting the operative.
-
-Metal Skin - Decreases the ability of dying to murder.
-
-Mode Starter - Choose a mode to start with.
-
-Flip of a Switch - Switch Mode can be done alongside any other action.
-
-Animal Lover - Operatives love you, they will stop to pet your animals even at the expense of the hack. Visiting your fellow agent operatives that are supported by an ability at night will occupy the operatives that visit the supported agent operative.
-
-Turncoats - You are allowed to have Initiators, Specialists, and Operators.
-
-Prison Guard - You can send someone to jail or arrest them and do an extra action per night or night.
 
 Working Overtime - Scoops will automatically convert to articles.
 

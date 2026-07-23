@@ -6,8 +6,8 @@ Upload Fake Intel (1 charge, -1 Wanted Level) - Select a white or green node and
 
 Review Specialization (2 charges) - Select a target operative. Learn their subclass. Visit them.
 
-Investigation - Select a target operative. Learn between three subclasses. One is the real subclass, piercing lies. Visit them.
+Get Dirt - Select a target operative. Learn between three subclasses. One is the real subclass, piercing lies. Visit them.
 
 ### **Passives:**
 
-Not Hacker - Your true faction is Interloper.
+Neutral - Your true faction is Interloper.

@@ -4,7 +4,7 @@ Review TCP Packets (2 charges) - Select a target operative and check if they use
 
 Insider Knowledge (2 charges) - Tells you the IP of a node with downloadable intel on it.
 
-Investigation - Select a target operative. Learn between three subclasses. One is the real subclass, piercing lies. Visit them.
+Get Dirt - Select a target operative. Learn between three subclasses. One is the real subclass, piercing lies. Visit them.
 
 ### **Passives:**
 

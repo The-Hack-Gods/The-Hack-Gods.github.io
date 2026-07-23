@@ -1,27 +1,17 @@
 ### **Actives:**
 
-Unskilled Attack - Select a node, white or green. Leaves a log.
+Unskilled Attack (-1 Wanted Level) - Select a node, white or green. Leaves a log.
 
-Impersonate (1 charge) - Permanently rename your operative to whatever name you want. If you name it the same as another operative, targeting that operative will randomly target either operative of the same name.
+Get Scoop (1 night cooldown) - Select a target operative. Visit and occupy them, revealing your identity. Learn if the operative is an Interloper.
 
-Upload Fake Intel (1 charge) - Select a white or green node and upload intel that is downloadable by others. You can write what intel you want to leave. Leaves a log.
+Derail News (1 charge) - The next night, any operatives arrested and murdered will have their roles hidden.
 
-Rollback (1 charge) - Select a green node, return the node to a white node, un-hacking the node. Connections to nodes ahead fail. Leaves a set of random connection logs, one of which is you.
+Ambush (2 charges) - Select a target operative. Visit them, if they are arrested or killed tonight, their role will be hidden.
 
-Derail News (1 charge) - For the next night, any operatives arrested and murdered will have their roles hidden and logs wiped, including through voting.
-
-All in (1 charge) - Turn into a Field Agent. Can only be done if there are no Agent on the Field roles.
-
-Get Scoop (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. Do not go through frames or cover. Find if the target is not neutral.
-
-Ambush (N1 -> N4 cooldown) - Select a target operative. Visit them, if they are arrested or killed during the remainder of the game, their role will be hidden.
-
-Perform Fake Headline (N1 -> N4 cooldown, 2 charges) - Select a target operative. Visit and occupy them, performing a fake headline on them. If they are arrested or murdered tonight, they will be framed as the role you select.
+All in (1 charge) - Turn into a Field Agent. Can only be done if there are no Fed on the Field roles.
 
 ### **Passives:**
 
-Not Agent - Your true faction is Neutral.
+Neutral - Your true faction is Interloper.
 
 In The Business - You will learn if any Journalists have spawned, including Sympathetic Reporter, Journalist, Shamed Journalist, and Paragon Journalist.
-
-Fake News Script - All roles hidden, framed, and logs wiped will be revealed and recovered upon your arrest/death.

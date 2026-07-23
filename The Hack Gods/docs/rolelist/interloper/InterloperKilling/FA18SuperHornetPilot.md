@@ -18,7 +18,7 @@ Misdirection (1 charge) - Occupy anyone that visits you directly, blocking any a
 
 ### **Passives:**
 
-To the Skies - You are immune to occupation at night.
+To the Skies - You are immune to occupation.
 
 Rare Sighting - Every night movement you make will be globally announced.
 

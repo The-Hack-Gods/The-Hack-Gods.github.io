@@ -1,27 +1,15 @@
 ### **Actives:**
 
-Hack Target (Moderate) - Select a white node and attempt to hack it. Leaves a log.
+Harden Node (Moderate, +1 Wanted Level) - Select a white node, heal the node by 3 HP. Leaves a log.
 
-Download Intel - Select a green node and attempt to download from it. If there is intel, and you download and remove it first, you will get intel (see tips for list of intel). Do not go through frames or cover. Leaves a log.
+Investigate Bottom (+1 Wanted Level) - Arrest the operative below you in the list of operatives and give you the subclass of the operative below the operative. If this fails, skip the operative below you and arrest the next operative. Visit them.
 
-Impersonate (1 charge) - Permanently rename your operative to whatever name you want. If you name it the same as another operative, targeting that operative will randomly target either operative of the same name.
+Mock Interview - Check whether an operative has their hack ability increased or decreased tonight, letting you know specifically if it was increased or decreased. Visit them.
 
-Background Search (D1 -> D3 cooldown) - Check a target operative’s background. You’ll be given a (non-unique) random skill that they have, either night or night.
+Deductive Reasoning - Select a target operative. You will learn their faction, and their subclass. Visit them.
 
-Plan B (1 charge) - If there is no Agent Leader, turn into an Agent Leader.
-
-Investigate Bottom - Arrest the operative below you in the list of operatives and give you the subclass of the operative below the operative. Goes through cover or frames. If this fails, skip the operative below you and arrest the next operative. Visit them.
-
-Investigate Hideout (N1 -> N3 cooldown) - Select a target operative. You will learn who they visited, and their subclass. Do not go through frames or cover. Visit them.
-
-Deductive Reasoning (N1 -> N3 cooldown) - Select a target operative. You will learn their faction, and their subclass. Do not go through frames or cover. Visit them.
-
-Throw Under the Bus (2 charges) - Select a target operative. All skills used on you will be used on the target operative.
-
-Misdirection (1 charge) - Occupy anyone that visits you directly, blocking any attempts to visit, occupy, and kill directly. Does not save you from Raids, Stings, and other indirect methods of killing this operative.
+All in (1 charge) - Turn into an Agent Leader. Can only be done if there are no Leading Fed roles.
 
 ### **Passives:**
 
-Agent on the Field - You are a Field Agent role.
-
-Calculated Disguise - If you do not take an action at night, your true faction is neutral.
+Fed on the Field - You are an arresting Fed.
