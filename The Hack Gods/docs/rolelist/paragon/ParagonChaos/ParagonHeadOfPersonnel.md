@@ -1,12 +1,10 @@
 ### **Actives:**
 
-Unskilled Attack - Select a node, white or green. Leaves a log.
+Unskilled Attack (-1 Wanted Level) - Select a node, white or green. Leaves a log.
 
-Hiring Check (D1 -> D3 cooldown) - Check how an operative was hired. You’ll be given a random skill that they have, either night or night. Do not go through frames or cover.
+Hiring Check (2 charges) - Check how an operative was hired and learn their role.
 
-Paragon Inspiration (N1 -> N3 cooldown, 2 charges) - Select a Paragon operative and choose a skill they have to give them a skill charge. Visit them.
-
-Wiretap (N1 -> N3 cooldown) - Select a target operative. Check the operative’s outgoing and ingoing communications to check the operative's vote power and whether they are force voted and to who. Visit them.
+Shitpost on Social Media - Select an operative. Give that operative some motivation by getting more site views, granting them a charge of a night action tomorrow.
 
 ### **Passives:**
 

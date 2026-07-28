@@ -4,7 +4,7 @@ Unskilled Attack (-1 Wanted Level) - Select a node, white or green. Leaves a log
 
 Commissar's Orders (2 charges) - If a Fed is killed tonight, delay their death till the next night.
 
-Rallying Cry (2 charges) - All Feds will be unable to be occupied.
+Rallying Cry (2 charges) - All operatives will be unable to be occupied.
 
 Plea Deal (2 charges) - Select a target operative. If they are a Hacker, give them a plea deal, converting them into a Fed Mole.
 

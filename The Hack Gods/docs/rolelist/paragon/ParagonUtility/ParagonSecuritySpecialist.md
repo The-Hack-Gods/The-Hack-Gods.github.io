@@ -1,16 +1,12 @@
 ### **Actives:**
 
-Hack Target (Low) - Select a white node and attempt to hack it. Leaves a log.
+Harden Node (Low, +1 Wanted Level) - Select a white node, heal the node by 2 HP. Leaves a log.
 
-Firewall Layer (D1 -> D3 cooldown, 2 charges) - Select a layer, decreasing hacking ability of getting any node on this layer. Do not leave a log.
+Firewall Layer (2 charges, +2 Wanted Level) - Select a layer, healing 5 HP on this layer. Do not leave a log.
 
-Overload Node (1 charge) - Select a white node. All connections and DDOS to this node will fail. Leaves a log.
+Check Maintenance Logs - Select a white or green node. Check if there were any difficulty decreasing or increasing actions done on this node, telling you separately if the node security had been increased or decreased. Leaves a log.
 
-Clean Up Crew (N1 -> N4 cooldown) - Remove the operative’s role and logs on their death or arrest. Gives you their role. Do not go through frames or cover. Visit them.
-
-Check Maintenance Logs - Select a white or green node. Check if there were any difficulty decreasing or increasing actions done on this node, telling you separately if the node security had been increased or decreased.
-
-Backup Access Logs (2 charges) - Select a white node. Prevent this node from being wiped using the Wipe skill.
+Encrypt Killswitch (2 charges, -1 Wanted Level) - Select a target operative. Upon death or arrest, the target's role will be encrypted and unable to be read. Gives you their role. Visit them.
 
 ### **Passives:**
 

@@ -230,7 +230,7 @@ Scapegoat - Select two operatives, all abilities that were used on the first pla
 
 Motivation (1 night cooldown) - Select a target operative, tonight they are immune to occupation. Visit them.
 
-Rallying Cry (2 charges) - All agents will be unable to be occupied.
+Rallying Cry (2 charges) - All operatives will be unable to be occupied.
 
 On My Payroll (1 charge) - Any arrests today can be postponed till the next night.
 
@@ -530,8 +530,6 @@ Old Friends (3 charges) - Select a target operative. If they are a Hacker member
 
 Contact W.P.P. (2 charges) - If any operative visits you tonight, they will be arrested. Dodge any attempts to arrest you.
 
-Redirect Assassin (1 charge) - Select a target operative. For the rest of the game, if the target operative was voted off, you will die in their place.
-
 Steal Secured Channel Connection - Select a green node. If there is a dead mole, you can hack into ASC by trying to hack a node with a dead mole’s connection and become the mole. Leaves a log.
 
 Duel - Select a target operative. The next night, you and your opponent choose between laptop, server, and PC. Laptop beats PC, PC beats server, and server beats laptop. If you win, the target is occupied and murdered the night after.
@@ -643,16 +641,6 @@ Fake Flares (2 charges) - Select a target operative and shoot fake flares at the
 Fly Over - Select a target operative and fly over them, visiting them and checking if they left their hideout and met anyone. If they were occupied, you’d only know that they could not leave their hideout. It is globally announced that a Jet Fighter is seen going to the operative’s hideout.
 
 ### **Paragon or W3C:**
-
-Paragon Goons (1 charge) - Select a target operative to escort, does not occupy them and makes them immune to everything unless otherwise stated. This ability is toggleable, once you have selected a target operative, you must Redirect Goons to leave the operative before sending them out again. Grants a charge of Redirect Goons.
-
-Redirect Goons (0 charges) - Stops the Paragon Goons from escorting tonight. Grants a charge of Paragon Goons.
-
-Paragon Inspiration (N1 -> N3 cooldown, 2 charges) - Select a Paragon operative and choose a skill they have to give them a skill charge. Visit them.
-
-Optimize Clickbait (N1 -> N4 cooldown, 2 charges) - Select a Paragon operative. Give that operative some motivation by getting more site views, granting them a charge of a night action tomorrow.
-
-Uplift Paragon - Select a Paragon operative. For tonight, they are immune to occupation. Visit them.
 
 Sacrificial Shot - Select a target operative and guess their role. If you guess right, shoot the target operative. Removes all frames and covers.
 
