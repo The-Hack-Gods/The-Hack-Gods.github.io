@@ -1,23 +1,13 @@
 ### **Actives:**
 
-Unskilled Attack - Select a node, white or green. Leaves a log.
+Hack Target (Low, -1 Wanted Level) - Select a white node and hack it, dealing 2 HP. Leaves a log.
 
-Hack Target (Low) - Select a white node and attempt to hack it. Leaves a log.
-
-Rerouted Denial of Service (2 charges) - Select a white or green node and block all connections to the node this night. Select a target operative to make this show up as the operative who used the denial of service with Wireshark. Do not leave a log.
-
-Bait Law Enforcement - Select a target operative, inform agents that the target is one working for Netsec. Can be yourself. (Leaves the same message as Bounty Hunter’s Spill the Beans).
-
-Vengeance (3 charges) - Select a target operative and guess their role. If you guess right, shoot the target operative tonight. Removes all frames and covers. You will know if you guessed right or wrong.
-
-Deductive Reasoning (N1 -> N3 cooldown) - Select a target operative. You will learn their faction, and their subclass. Do not go through frames or cover. Visit them.
+Get Dirt - Select a target operative. Learn between three subclasses. One is the real subclass, piercing lies. Visit them.
 
 Plant Fed Documentation (3 charges, -1 Wanted Level) - Select a target operative. If the operative is doxxed this round, they will be seen as a Fed. If the operative is specialization reviewed, they will be seen as special. If the operative is asked the right question, they will be seen as unable to hack. If the operative is speech analyzed, they will be seen as unable to win with anyone. Visit them.
 
-Misdirection (1 charge) - Occupy anyone that visits you directly, blocking any attempts to visit, occupy, and kill directly. Does not save you from Raids, Stings, and other indirect methods of killing this operative.
-
-Vengeance (3 charges) - Select a target operatives and guess their role. If you guess right, shoot the target operative. Removes all frames and covers.
+Ambush (2 charges, +1 Wanted Level) - Select a target operative. Attempt to murder anyone who visits them. Visit them.
 
 ### **Passives:**
 
-Hunter’s Mark - If you vote an operative that is your target, your vote counts as 2 votes.
+Liar, Liar - You use a fake claim and lie about what you do.

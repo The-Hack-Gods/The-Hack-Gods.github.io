@@ -1,23 +1,19 @@
 ### **Actives:**
 
-Unskilled Attack - Select a node, white or green. Leaves a log.
+Unskilled Attack (-1 Wanted Level) - Select a node, white or green. Leaves a log.
 
-Impersonate (1 charge) - Permanently rename your operative to whatever name you want. If you name it the same as another operative, targeting that operative will randomly target either operative of the same name.
+Bait Law Enforcement - Select a target operative, inform the Feds that the target is a Hacker. Can be yourself.
 
-Troll Operative (2 charges) - Permanently rename another operative to whatever name you want. If you name it the same as another operative, targeting that operative will randomly target either operative of the same name.
+Blackmail (2 charges) - Select a target operative. Give you their role. Visit and occupy them.
 
-Bait Law Enforcement - Select a target operative, inform agents that the target is one working for Netsec. Can be yourself. (Leaves the same message as Bounty Hunter’s Spill the Beans).
-
-Blackmail (3 charges) - Select a target operative. They cannot vote for two phases.
-
-Duel - Select a target operative. The next night, you and your opponent choose between laptop, server, and PC. Laptop beats PC, PC beats server, and server beats laptop. If you win, the target is occupied and murdered the night after.
-
-Paid Frame (N1 -> N3 cooldown) - Select a target operative. Change their role to be anything you want, which they will then have all intel abilities follow that frame. Removes No Dirt On Me and can be used on Agents, making them follow murderability and arrestability of the role framed. Visit them.
+Drunken Rage (+1 Wanted Level) - Select a target operative. If the operative is not a field operations or utility operative, kill them, piercing defensive abilities. Otherwise, die. Visit and occupy them.
 
 ### **Passives:**
 
-Agent Scum - Your true faction is Agent.
+Fed Scum - Your true faction is Fed.
 
-Unstable Mind - Whoever arrests you gets an extra STING charge. Doesn’t have to be an agent.
+Unstable Mind - Any successful arrest grants an extra charge of the arresting ability to the arrester.
 
 Rent Free - Avoid the first arrest attempt and murder attempt on you.
+
+Liar, Liar - You use a fake claim and lie about what you do.

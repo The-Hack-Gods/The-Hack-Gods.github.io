@@ -1,19 +1,17 @@
 ### **Actives:**
 
-Unskilled Attack - Select a node, white or green. Leaves a log.
+Unskilled Attack (-1 Wanted Level) - Select a node, white or green. Leaves a log.
 
-Get Dirt - Select a target operative. You will get one of two class types that they can be. Do not go through frames or cover.
+Investigate Hideout (1 night cooldown) - Select a target operative. You will learn who they visited, and their subclass. Visit them.
 
-Bait Law Enforcement - Select a target operative, inform agents that the target is one working for Netsec. Can be yourself. (Leaves the same message as Bounty Hunter’s Spill the Beans).
+Interrogate (3 charges) - Select a target operative and find out what they did last night. Visit and occupy them.
 
-Interrogate (3 charges) - Select a target operative and occupy them. The host will ask them for their logs, giving you what they send.
+Call Backup (1 night cooldown) - Escort yourself. If you are targeted by an arrest or murder, attack them right back, killing the arrester or murderer.
 
-Deductive Reasoning (N1 -> N3 cooldown) - Select a target operative. You will learn their faction, and their subclass. Do not go through frames or cover. Visit them.
-
-Call Backup (N1 -> N4 cooldown) - Escort yourself. If you are targeted by an arrest or murder, attack them right back, killing the arrester or murderer.
-
-Headhunt (3 charges) - Select an operative and murder them if they are a target. Occupies and visits the target. If they are not a target operative, do nothing.
+Murder (1 charge, +1 Wanted Level) - Select an operative and murder them. Occupies and visits the target.
 
 ### **Passives:**
 
 Rent Free - Avoid the first arrest attempt and murder attempt on you.
+
+Liar, Liar - You use a fake claim and lie about what you do.

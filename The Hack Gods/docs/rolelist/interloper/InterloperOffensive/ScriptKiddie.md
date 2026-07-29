@@ -1,6 +1,6 @@
 ### **Actives:**
 
-Script Kiddie Attack - Select a node, white or green. If the node is white, attempt to hack it, dealing 1 HP. Leaves a log.
+Script Kiddie Attack (-1 Wanted Level) - Select a node, white or green. If the node is white, attempt to hack it, dealing 1 HP. Leaves a log.
 
 Denial of Service (2 charges) - Select a white or green node and block all connections to the node this night. Do not leave a log. Using this ability on a white node will gain +2 Wanted Level.
 

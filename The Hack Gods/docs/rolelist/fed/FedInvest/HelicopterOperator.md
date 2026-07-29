@@ -8,7 +8,7 @@ Get Dirt - Select a target operative. Learn between three subclasses. One is the
 
 Investigate Hideout (1 night cooldown) - Select a target operative. You will learn who they visited, and their subclass. Visit them.
 
-Camouflage Net (2 charges) - Select an agent operative. They will not be seen visiting anywhere tonight. Visit them.
+Camouflage Net (2 charges) - Select a Fed operative. They will not be seen visiting anywhere tonight. Visit them.
 
 All in (1 charge) - Turn into a Police Car Driver. Can only be done if there are no Fed on the Field roles.
 

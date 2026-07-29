@@ -1,23 +1,17 @@
 ### **Actives:**
 
-Unskilled Attack - Select a node, white or green. Leaves a log.
+Harden Node (Low, +1 Wanted Level) - Select a white node, heal the node by 2 HP. Leaves a log.
 
-Hack Target (Moderate) - Select a white node and attempt to hack it. Leaves a log.
+Setup (2 charges) - Select two operatives. The first operative will visit and occupy the second operative, occupying and revealing both operatives. You may be the first target. Visits the first operative.
 
-Denial of Service (2 charges) - Select a white or green node and block all connections to the node this night. Do not leave a log.
+Redirection (2 charges) - Select two target operatives, all skills used on the first operative will be used on the second operative, works similar to Throw Under the Bus.
 
-Alter Logs (D1 -> D3 cooldown) - Select a white or green node and either leave a singular fake connection log of one operative, or leave a few random connection logs.
+Glimpse (2 charges) - Select a target operative, any operative targeting action will be done on themselves, but they will not know about it. Visit them.
 
-Impersonate (1 charge) - Permanently rename your operative to whatever name you want. If you name it the same as another operative, targeting that operative will randomly target either operative of the same name.
-
-Troll Operative (2 charges) - Permanently rename another operative to whatever name you want. If you name it the same as another operative, targeting that operative will randomly target either operative of the same name.
-
-Experienced Hiding (3 charges) - Move your hideout, protecting yourself unless you are occupied.
-
-Spook - Select a target operative and visit them. Does not gain any intel.
-
-Midnight Meet (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. 
+Throw Under the Bus (2 charges) - Select a target operative. All skills used on you will be used on the target operative.
 
 ### **Passives:**
 
-Hidden Connections - If you are murdered, the player that killed you will be arrested. If you are voted out, one selected operative that voted you will be arrested.
+Hidden Connections - If you are murdered, the player that killed you will be arrested.
+
+Liar, Liar - You use a fake claim and lie about what you do.

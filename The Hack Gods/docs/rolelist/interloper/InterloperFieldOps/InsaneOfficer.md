@@ -1,19 +1,17 @@
 ### **Actives:**
 
-Unskilled Attack - Select a node, white or green. Leaves a log.
+Unskilled Attack (-1 Wanted Level) - Select a node, white or green. Leaves a log.
 
-Wireshark (D1 -> D4 cooldown) - Tells you the name of any operative that did a Denial of Service.
+Doxx and Stalk (2 charges) - Select a target operative. Learn this operative's faction alignment and visit them.
 
-Hack Private Channel (1 charge) - You can write one message to talk to all players in ASC or W3C channels, speaking directly to only Agent and/or W3C players, which appears next night.
+Contact Law Enforcement (3 charges) - Select a target operative. If they are a Fed, learn their role, they will learn yours. Visit them.
 
-Steal Secured Channel Connection - Select a green node. If there is a dead mole, you can hack into ASC by trying to hack a node with a dead mole’s connection and become the mole. Leaves a log.
-
-Murder (1 charge) - Select an operative and murder them. Occupies and visits the target. If the target operative is a mole, kill them and become the mole.
-
-For the Cause (N1 -> N4 cooldown, 2 charges) - Find out if the target operative is a mole. Do not go through frames or cover. Visit them.
-
-Doxx and Stalk (N1 -> N4 cooldown, 2 charges) - Select a target operative. Do not go through frames or cover. Learn this operative’s faction alignment and visit them.
+Murder (1 charge, +1 Wanted Level) - Select an operative and murder them. Occupies and visits the target.
 
 ### **Passives:**
 
-Agent Scum - Your true faction is Agent.
+Fed Scum - Your true faction is Fed.
+
+Blackmailed Informant - Any time a Fed uses Deductive Reasoning or Informant, you will get information that the Feds get.
+
+Liar, Liar - You use a fake claim and lie about what you do.

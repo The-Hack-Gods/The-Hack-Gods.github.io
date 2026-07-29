@@ -4,17 +4,11 @@ Unskilled Attack (-1 Wanted Level) - Select a node, white or green. Leaves a log
 
 Receive Bribe - Add one fund to your total funds. This skill will provide class intel to Feds.
 
-Jam Network (2 charges, +1 Wanted Level) - Select a target operative and disable all night actions related to the topology done by them.
-
 Smear Campaign (1 charge, -1 Wanted Level) - Select a target operative and smear their campaign, revealing they are Fed to the operation. This is a lie, gain one fund.
-
-<br>
-
-The Vault
 
 =======================================================================
 
-Hack Target (Very Low, 1 charge) - Select a white node and hack it, dealing 1 HP. Leaves a log.
+Hack Target (Moderate, 1 charge) - Select a white node and hack it, dealing 3 HP. Leaves a log.
 
 Follow (1 charge) - Select a target operative and follow them, visiting them and checking if they left their hideout and met anyone. If they were occupied, you'd only know that they could not leave their hideout.
 
@@ -24,4 +18,4 @@ Interrogate (1 charge) - Select a target operative and find out what they did la
 
 ### **Passives:**
 
-The Vault - Purchase a random skill for one fund.
+Greedy - You passively gain one fund every new night. Funds are used as charges of actives.

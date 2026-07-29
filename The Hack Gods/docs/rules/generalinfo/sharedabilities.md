@@ -50,6 +50,10 @@ Emergency Repairs (1 charge) - Select a white or green node and block all connec
 
 Check Maintenance Logs - Select a white or green node. Check if there were any difficulty decreasing or increasing actions done on this node, telling you separately if the node security had been increased or decreased. Leaves a log.
 
+Roll the Dice - Select a white node and randomly instantly hack it or use a denial of service on it, stopping all connections to the node. If it is a denial of service, gain 2 Wanted Level. Do not leave a log.
+
+Google RNG - Select a green node and randomly upload intel that is downloadable by others, or use a rollback, returning the node to a white node, un-hacking the node, with connections to nodes ahead failing. If you uploaded intel, whoever downloading will get intel (see tips for list of intel). If it is a rollback, gain 2 Wanted Level. Do not leave a log.
+
 ### **Hacking Intel:**
 
 Insider Knowledge (2 charges) - Tells you the IP of a node with downloadable intel on it.
@@ -86,6 +90,8 @@ Fake Denial of Service (2 charges) - Select a white or green node and fake block
 
 Rerouted Denial of Service (2 charges) - Select a white or green node and block all connections to the node this night. Select a target operative to make this show up as the operative who used the denial of service with Wireshark. Do not leave a log.
 
+Network Shutdown (2 charges, +2 Wanted Level) - Prevents any topology affecting skills the next night. 
+
 Rollback (1 charge, +2 Wanted Level) - Select a green node, return the node to a white node, un-hacking the node. Connections to nodes ahead fail. Leaves a set of random connection logs, one of which is a random Fed.
 
 False Advice - Select a target operative and lower their hack ability by one stage. Visit them.
@@ -113,6 +119,8 @@ Alter Logs (1 night cooldown, -1 Wanted Level) - Select a white or green node an
 Algorithmic Connections (-1 Wanted Level) - Select a white or green node. If rollback is used, double the amount of random connection logs. Do not leave a log.
 
 Log Analysis - Select a green node and clear any fake logs from Alter Logs or Rollback. Leaves a log.
+
+Moderate Operation - Remove all fake logs from Alter Logs or Rollback in the entire topology.
 
 Review Connection Logs (2 charges) - Selects a target operative. Check if their connection was altered through Jam Network the previous night. Visit them.
 
@@ -170,7 +178,7 @@ Looking for an Old Friend - Select a target operative, if they are a special sub
 
 Informant (2 charges) - Select a target operative. Reveal their faction and subclass to you.
 
-Deductive Reasoning - Select a target operative. You will learn their faction, and their subclass. Visit them.
+Deductive Reasoning - Select a target operative. Treated like an Informant ability. You will learn their faction, and their subclass. Visit them.
 
 Investigate - Find out the role of a particular operative. Pierces lies.
 
@@ -184,9 +192,9 @@ Investigate Hideout (1 night cooldown) - Select a target operative. You will lea
 
 Get Dirt - Select a target operative. Learn between three subclasses. One is the real subclass, piercing lies. Visit them.
 
-Obtain Evidence (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. Gain some intel, similar to Download Intel, getting intel (see tips for list of intel). Do not go through frames or cover. 
+Obtain Evidence - Select a target operative. Visit and occupy them, talking about the hack. Gain some intel, similar to Download Intel, getting intel (see tips for list of intel).
 
-Turn Yourself In - Select a target operative and guess their role. If you guess right, they get arrested no matter what, no matter the alignment. You are also arrested too. Removes all frames and covers.
+Turn Yourself In - Select a target operative and guess their role. If you guess right, they get arrested no matter what, no matter the alignment. You are also arrested too.
 
 Doxx and Ask Chatgpt (2 charges) - Select a target operative. Learn a faction that the operative is not aligned with and visit them.
 
@@ -197,6 +205,8 @@ Image Classification (2 charges) - Select an operative. Predict what they will d
 Drone Reconnaissance - Select a target operative. Learn the exact ability they use tonight. If they did nothing, say they did nothing. Visit the operative.
 
 Blackmail (2 charges) - Select a target operative. Give you their role. Visit and occupy them.
+
+Contact Law Enforcement (3 charges) - Select a target operative. If they are a Fed, learn their role, they will learn yours. Visit them.
 
 ### **Defensive Field Ops:**
 
@@ -266,6 +276,8 @@ Sell Illicit Arms (+1 Wanted Level) - Select a target operative. If they do not 
 
 Ambush (2 charges, +1 Wanted Level) - Select a target operative. Attempt to murder anyone who visits them. Visit them.
 
+Murder Journalist (1 charge, +1 Wanted Level) - Select a target operative. If the target is a journalist, paragon journalist, sympathetic reporter, or persuaded news reporter, visit, occupy, and murder them. Otherwise, do nothing.
+
 Citizen's Arrest (2 charges, +1 Wanted Level) - Select a target operative and arrest them. Visit them.
 
 Snitch to Cops (2 night cooldown, +1 Wanted Level) - Select a target operative. Attempt to arrest the operative with local cops. Do not visit them.
@@ -322,7 +334,9 @@ Cover Support (3 charges, -1 Wanted Level) - Select a target operative and pick 
 
 Derail News (1 charge) - The next night, any operatives arrested and murdered will have their roles hidden.
 
-Ambush (2 charges) - Select a target operative. Visit them, if they are arrested or killed tonight, their role will be hidden.
+Cover Up (2 charges) - Select a target operative. Visit them, if they are arrested or killed tonight, their role will be hidden.
+
+Drunken Rage (+1 Wanted Level) - Select a target operative. If the operative is not a field operations or utility operative, kill them, piercing defensive abilities. Otherwise, die. Visit and occupy them.
 
 ### **Survival:**
 
@@ -340,7 +354,7 @@ Call Backup (1 night cooldown) - Escort yourself. If you are targeted by an arre
 
 Commissar's Orders (2 charges) - If a Fed is killed tonight, delay their death till the next night.
 
-Camouflage Net (2 charges) - Select an agent operative. They will not be seen visiting anywhere tonight. Visit them.
+Camouflage Net (2 charges) - Select a Fed operative. They will not be seen visiting anywhere tonight. Visit them.
 
 Overload Node (1 charge) - Select a white node. All connections and DDOS to this node will fail. Leaves a log.
 
@@ -359,6 +373,12 @@ Sell Meth (2 charges) - Select a target operative. Sell them Methamphetamine and
 Sell Adderall (2 charges) - Select a target operative. Sell them Adderall, and give them one extra action in the night. Visit them.
 
 Sell Cocaine (2 charges) - Select a target operative. Sell them Cocaine, and make them dodge arrests or murder attempts for this turn (that are not guaranteed murders). Visit them.
+
+Serve Beef Burger (2 charges) - Select a target operative. Feed them a burger. Beef Patty occupies the target operative. Visit and occupy them.
+
+Serve Chicken Burger (2 charges) - Select a target operative. Feed them a burger. Chicken Patty grants immunity to occupation this turn. Visit them.
+
+Serve Veggie Burger (2 charges) - Select a target operative. Feed them a burger. Veggie Patty makes them dodge arrests or murder attempts for this turn (that are not guaranteed murders). Visit them.
 
 Contraband Check (1 charge) - For the next night, any operatives arrested and murdered will have their roles revealed, unframed, and logs unencrypted.
 
@@ -410,7 +430,7 @@ Deep Learn (2 charges) - The next action will go through any kind of frame.
 
 Lay Low (-1 Wanted Level) - Lower your wanted level.
 
-Grave Digger - Select a target dead or arrested operative and check their hideouts. You will know their true role. You can then select whether or not you want to become this role.
+Grave Digger - Select a target dead or arrested operative. You will know their true role. You can then select whether or not you want to become this role.
 
 Receive Loan - Add one fund to your total funds.
 
@@ -478,8 +498,6 @@ Paragon Knowledge - If Paragon spawned, you'll know about it.
 
 Loyal to the End - Have a defendant from the beginning. If your defendant is arrested or murdered, you will randomly get another defendant. You are immune to the defendant.
 
-The Vault - Purchase a random skill for one fund.
-
 Local Legend - You are known too well in the community. If you are murdered, you can occupy a random non-Fed operative, as they will be hosting your funeral.
 
 Finding Fame Elsewhere - If you fail to hack 3 consecutive nodes, turn into a Network Shutdowner permanently.
@@ -489,8 +507,6 @@ From the Grape Vine - You know if Feds have a mole role or not in play.
 Laptop Expert - You have high hack ability (4 HP damage) on laptops, and low hack ability (2 HP damage) on servers. You will be known as someone with a low hack ability.
 
 Server Expert - You have high hack ability (4 HP damage) on servers, and low hack ability (2 HP damage) on laptops. You will be known as someone with a high hack ability.
-
-Bulletproof Vest - Avoid the first arrest or murder attempt on you. After being arrested or murder attempted, become immune to occupation.
 
 Counterkill - If any murdering or arresting skill was used on an ally, you will attempt to kill the murderer or arrester.
 
@@ -528,75 +544,13 @@ Turncoats - You are allowed to have Initiators, Specialists, and Operators.
 
 Animal Lover - Operatives love you, they will stop to pet your animals even at the expense of the hack. Visiting your fellow Fed operatives that are supported by an ability at night will occupy the operatives that visit the supported Fed operative.
 
+Waxmart Employee - Get cheap hardware for free, allowing you to give infinite hardware out.
+
 Altar of Heresy - If W3C have only 50% of your operatives left, gain these powers.
 
 Blood for the Blood God - If 50% of all operatives died this Opsec, gain these powers.
 
 ### **Probably needs rework (actives):**
-
-Contact Law Enforcement (3 charges) - Select a target operative. If they are a Fed, learn their role, they will learn yours. Visit them.
-
-Old Friends (3 charges) - Select a target operative. If they are a Hacker member, you and Feds will learn their role. Visit them.
-
-Contact W.P.P. (2 charges) - If any operative visits you tonight, they will be arrested. Dodge any attempts to arrest you.
-
-Steal Secured Channel Connection - Select a green node. If there is a dead mole, you can hack into ASC by trying to hack a node with a dead mole’s connection and become the mole. Leaves a log.
-
-Duel - Select a target operative. The next night, you and your opponent choose between laptop, server, and PC. Laptop beats PC, PC beats server, and server beats laptop. If you win, the target is occupied and murdered the night after.
-
-Stakeout for Scoops - Select a target operative. If they are arrested tonight, gain 2 scoops.
-
-Murder Journalist (1 charge) - Select a target operative. If the target is a journalist, paragon journalist, sympathetic reporter, or persuaded news reporter, visit, occupy, and murder them, gain 1 scoop, and remove Unrespected, becoming unarrestable. Otherwise, do nothing.
-
-Tip Off (0 charges) - Tip off agents information. Agents will receive all information gained from any ability that can give a charge of Tip Off.
-
-Computer Hotwiring (2 charges) - Make all hack ability increased by one stage today.
-
-Rummage Customer Info - Instead of downloading, you can try rummaging customer info. Goes through cover or frames. Download Intel without leaving a connection log. Guaranteed to be accurate.
-
-DM Sliding (1 charge) - Check your “friend”, target operative’s exact role through social media. Goes through cover or frames. Do not visit them.
-
-Fake 911 Call (1 charge) - Select a target operative. They will be attempted to be arrested. Visit them.
-
-Vengeance (3 charges) - Select a target operative and guess their role. If you guess right, shoot the target operative tonight. Removes all frames and covers. You will know if you guessed right or wrong.
-
-Create Waifu - Try to upload your dream waifu into a virtual AI Vtuber. Low success ability. If this succeeds, you just need to survive.
-
-Punjabi Scripts - Select a white node and attempt to hack it with low hack ability. Leaves a log. If successful, Create Waifu becomes more likely to succeed.
-
-Reroute Efforts (3 charges) - Reroute the target operative's connections to work on your waifu AI. Increases the success ability of Create Waifu. Cuts off the connection of the operative like Jam Network and prevents night actions on the topology. Cannot be used on the same target more than once.
-
-Get Inspiration - Search the internet for "Inspiration" for your waifu AI. Increases the success ability of Create Waifu succeeding.
-
-Midnight Moderation (N1 -> N4 cooldown, 2 charges) - Prevent the target from voting the following night and night. Their secrets increase the success ability of Create Waifu.
-
-Purge Hard Drive - No Dirt On Me turns on, but Create Waifu will have a much lower ability to succeed.
-
-Network Shutdown (2 charges) - Prevents any topology affecting skills the next night. If Netsec hacks a node, the shutdown is stopped, giving back a charge of Network Shutdown.
-
-Mass DDOS (1 charge) - Block all connections to all nodes this night. Globally announce Denial of service on only nodes that are attempted to be interacted with. Do not leave a log on any.
-
-Special Orders (1 charge) - Select an operative and murder them. Occupies but does NOT visit the target.
-
-Smoke Break (1 charge) - Select four operatives. Make them all smoke with you, occupying them this night.
-
-Prep Time - Choose two core ingredients between chicken, beef patty, steak, veggie patty, and pork chop. Grants 2 charges of Cook Burger.
-
-Cook Burger (0 charges) - Cook a burger using a chosen ingredient that has been done in Prep Time. Gives a charge of Serve Burger.
-
-Serve Burger (0 charges) - Select a target operative. Feed them a burger. Chicken Patty grants immunity to occupation this turn. Beef Patty occupies them. Steak gives them an extra action in the night. Veggie Patty gives them stomach issues, occupying them in the night. Pork Chop makes them dodge arrests or murder attempts for this turn (that are not guaranteed murders). Visit them.
-
-Food Channel (1 charge) - Select four operatives. Make them all hungry, occupying them tonight.
-
-Feeling Lucky (2 charges) - Randomize your win condition to a faction to win with.
-
-Roll the Dice - Select a white node and randomly instantly hack it or use a denial of service on it, stopping all connections to the node. Do not leave a log.
-
-Google RNG - Select a green node and randomly upload intel that is downloadable by others, or use a rollback, returning the node to a white node, un-hacking the node, with connections to nodes ahead failing. If you uploaded intel, whoever downloading will get intel (see tips for list of intel). Do not leave a log.
-
-Give Assassin Access (1 charge) - Select an operative to give assassin access to. They can choose a target operative to kill the next night temporarily.
-
-Up the Ante - (2 charges) - Select four operatives. Bring them all to a casino, protecting them from all murder and arrest attempts. Does not visit or occupy.
 
 False Alarm (N1 -> N3 cooldown) - Select a target operative. Occupy the operative without visiting them, as they will be alarmed by the ordnance you launch at their hideout. Marks their hideout. Gives the same text as Midnight Meet.
 
@@ -651,22 +605,6 @@ Fake Flares (2 charges) - Select a target operative and shoot fake flares at the
 Fly Over - Select a target operative and fly over them, visiting them and checking if they left their hideout and met anyone. If they were occupied, you’d only know that they could not leave their hideout. It is globally announced that a Jet Fighter is seen going to the operative’s hideout.
 
 ### **Probably Needs Rework (passives):**
-
-Working Overtime - Scoops will automatically convert to articles.
-
-Unrespected - If the passive is removed through Murder Journalist, you are unarrestable.
-
-Friend in Need - Know who your “friend”, target operative is and know their faction.
-
-Hunter’s Mark - If you vote an operative that is your target, your vote counts as 2 votes.
-
-The Big Fish - Whoever arrests you gets two STING charges. Doesn’t have to be an agent.
-
-Employer’s Camouflage - Pick your class that you are entirely framed as, which you will then have all intel abilities follow that frame. This does not remove No Dirt On Me.
-
-Bulk Selling - Do two actions per night.
-
-Lady Luck - The two charges of Feeling Lucky persist between both night and night (max 2 total in the game).
 
 Ground Operative - Specialization is always shown as field ops or utility, you pick.
 

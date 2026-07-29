@@ -4,7 +4,7 @@ Unskilled Attack (-1 Wanted Level) - Select a node, white or green. Leaves a log
 
 Plant Fake Info (-1 Wanted Level) - Disables any use of Dumpster Dive.
 
-Deductive Reasoning - Select a target operative. You will learn their faction, and their subclass. Visit them.
+Deductive Reasoning - Select a target operative. Treated like an Informant ability. You will learn their faction, and their subclass. Visit them.
 
 Midnight Meet (1 night cooldown) - Select a target operative. Visit and occupy them, revealing your identity.
 

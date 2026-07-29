@@ -1,23 +1,19 @@
 ### **Actives:**
 
-Unskilled Attack - Select a node, white or green. Leaves a log.
+Unskilled Attack (-1 Wanted Level) - Select a node, white or green. Leaves a log.
 
-Wireshark (D1 -> D4 cooldown) - Tells you the name of any operative that did a Denial of Service.
+For the Cause (3 charges) - Find out if the target operative is a mole. Visit them.
 
-Upload Fake Intel (1 charge) - Select a white or green node and upload intel that is downloadable by others. You can write what intel you want to leave. Leaves a log.
+Contact Law Enforcement (3 charges) - Select a target operative. If they are a Fed, learn their role, they will learn yours. Visit them.
 
-Bait Law Enforcement - Select a target operative, inform agents that the target is one working for Netsec. Can be yourself. (Leaves the same message as Bounty Hunter’s Spill the Beans).
-
-For the Cause (N1 -> N4 cooldown, 2 charges) - Find out if the target operative is a mole. Do not go through frames or cover. Visit them.
-
-Contact Law Enforcement (N1 -> N3 cooldown, 3 charges) - Select a target operative. If they are an agent, learn their role, they will learn yours. Goes through cover or frames. Visit them.
-
-Interrogate (3 charges) - Select a target operative and occupy them. The host will ask them for their logs, giving you what they send.
+Interrogate (3 charges) - Select a target operative and find out what they did last night. Visit and occupy them.
 
 ### **Passives:**
 
-Agent Scum - Your true faction is Agent.
+Fed Scum - Your true faction is Fed.
 
-Blackmailed Informant - Any time an Agent uses Deductive Reasoning or Informant, you will get information that agents get. Do not go through frames or cover.
+Blackmailed Informant - Any time a Fed uses Deductive Reasoning or Informant, you will get information that the Feds get.
 
-No Dirt On Me - You are unarrestable unless framed. You will know who attempted to arrest you.
+No Dirt On Me - You are unarrestable unless framed. You do not know who attempted to arrest you.
+
+Liar, Liar - You use a fake claim and lie about what you do.

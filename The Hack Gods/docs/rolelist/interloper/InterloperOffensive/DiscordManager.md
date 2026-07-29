@@ -1,21 +1,15 @@
 ### **Actives:**
 
-Create Waifu - Try to upload your dream waifu into a virtual AI Vtuber. Low success ability. If this succeeds, you just need to survive.
+Script Kiddie Attack (-1 Wanted Level) - Select a node, white or green. If the node is white, attempt to hack it, dealing 1 HP. Leaves a log.
 
-Punjabi Scripts - Select a white node and attempt to hack it with low hack ability. Leaves a log. If successful, Create Waifu becomes more likely to succeed.
+Vibe Code (-1 Wanted Level) - Select a white node and randomly use a low ability hack, dealing 2 HP damage, or jam your own network, preventing you from hacking. Leaves a log if using a hack.
 
-Reroute Efforts (3 charges) - Reroute the target operative's connections to work on your waifu AI. Increases the success ability of Create Waifu. Cuts off the connection of the operative like Jam Network and prevents night actions on the topology. Cannot be used on the same target more than once.
+Troll Operative (2 charges) - Permanently rename another operative to whatever name you want.
 
-Experienced Hiding (3 charges) - Move your hideout, protecting yourself unless you are occupied.
+Moderate Operation - Remove all fake logs from Alter Logs or Rollback in the entire topology.
 
-Get Inspiration - Search the internet for "Inspiration" for your waifu AI. Increases the success ability of Create Waifu succeeding.
-
-Midnight Moderation (N1 -> N4 cooldown, 2 charges) - Prevent the target from voting the following night and night. Their secrets increase the success ability of Create Waifu.
-
-Purge Hard Drive - No Dirt On Me turns on, but Create Waifu will have a much lower ability to succeed.
+Turn Yourself In - Select a target operative and guess their role. If you guess right, they get arrested no matter what, no matter the alignment. You are also arrested too.
 
 ### **Passives:**
 
-Man of Culture - Turned off by using the skill Purge Hard Drive. You have a stash of CP equal to a full terabyte. You are arrestable. agents gain class type intel on an operative of their choice upon your arrest.
-
-No Dirt On Me (Off) - You are unarrestable unless framed. You do not know who attempted to arrest you. Off until you use Purge Hard Drive.
+None.

@@ -6,7 +6,7 @@ Investigate Bottom (+1 Wanted Level) - Arrest the operative below you in the lis
 
 Mock Interview - Check whether an operative has their hack ability increased or decreased tonight, letting you know specifically if it was increased or decreased. Visit them.
 
-Deductive Reasoning - Select a target operative. You will learn their faction, and their subclass. Visit them.
+Deductive Reasoning - Select a target operative. Treated like an Informant ability. You will learn their faction, and their subclass. Visit them.
 
 All in (1 charge) - Turn into an Agent Leader. Can only be done if there are no Leading Fed roles.
 

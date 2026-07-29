@@ -1,23 +1,17 @@
 ### **Actives:**
 
-Unskilled Attack - Select a node, white or green. Leaves a log.
+Unskilled Attack (-1 Wanted Level) - Select a node, white or green. Leaves a log.
 
-Hack Target (Low) - Select a white node and attempt to hack it. Leaves a log.
-
-Rerouted Denial of Service (2 charges) - Select a white or green node and block all connections to the node this night. Select a target operative to make this show up as the operative who used the denial of service with Wireshark. Do not leave a log.
-
-Hack Private Channel (1 charge) - You can write one message to talk to all players in ASC or W3C channels, speaking directly to only Agent and/or W3C players, which appears next night.
-
-Paragon Secret Codeword - Select a target operative, if a target is Paragon, let you know their role. Goes through cover or frames. Visit them.
-
-Experienced Hiding (3 charges) - Move your hideout, protecting yourself unless you are occupied.
+Fake Denial of Service (2 charges, +1 Wanted Level) - Select a white or green node and fake blocking all connections to the node this night. Do not leave a log.
 
 Plant Fed Documentation (3 charges, -1 Wanted Level) - Select a target operative. If the operative is doxxed this round, they will be seen as a Fed. If the operative is specialization reviewed, they will be seen as special. If the operative is asked the right question, they will be seen as unable to hack. If the operative is speech analyzed, they will be seen as unable to win with anyone. Visit them.
 
-Mock Interview (N1 -> N3 cooldown) - Check whether an operative has their hack ability increased or decreased in the last night and this night, letting you know specifically if it was increased or decreased. Visit them.
+Mock Interview - Check whether an operative has their hack ability increased or decreased tonight, letting you know specifically if it was increased or decreased. Visit them.
+
+Experienced Hiding (3 charges) - Move your hideout, protecting yourself unless you are occupied.
 
 ### **Passives:**
 
-Paragon Special Squad - You are disconnected from the original Paragon operatives, as you are here to make sure to be an undercover operative.
-
 Paragon Ties - Your true faction is Paragon.
+
+Liar, Liar - You use a fake claim and lie about what you do.
