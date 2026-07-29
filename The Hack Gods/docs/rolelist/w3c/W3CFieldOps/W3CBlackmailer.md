@@ -1,33 +1,15 @@
 ### **Actives:**
 
-Unskilled Attack - Select a node, white or green. Leaves a log.
+Unskilled Attack (-1 Wanted Level) - Select a node, white or green. Leaves a log.
 
-Blackmail (3 charges) - Select a target operative. They cannot vote for two phases.
+Impersonate (1 charge, -1 Wanted Level) - Permanently rename your operative to whatever name you want.
 
-<br>
+Blackmail (2 charges) - Select a target operative. Give you their role. Visit and occupy them.
 
-Blood for the Blood God (Killed 2 operatives)
-
-=======================================================================
-
-Blackmail has infinite charges now.
-
-Smash Hardware (N1 -> N3 cooldown) - Select an operative and disable all night actions related to the topology. Occupies and visits them. (Same as Midnight Meet).
-
-Frame (N1 -> N3 cooldown, 2 charges) - Select a target operative. Change their role to be anything you want, which they will then have all intel abilities follow that frame. Removes No Dirt On Me and can be used on Agents, making them follow murderability and arrestability of the role framed. Visit them.
-
-Assault and Battery - Select an operative and attempt to murder them. Visit the target.
-
-<br>
-
-Altar of Heresy (50% W3C operatives left or obtained Root Access)
-
-=======================================================================
-
-Assault and Battery is guaranteed to kill now.
+Insanity (1 night cooldown) - Select two target operatives. The first operative will go insane and attempt to disorganized murder the second operative. Visit and occupy them.
 
 ### **Passives:**
 
-Altar of Heresy - If W3C have only 50% of your operatives left or obtained Root Access, gain these powers.
+Altar of Heresy - Blackmail has infinite charges.
 
-Blood for the Blood God - If 2 operatives died this Opsec, gain these powers.
+Blood for the Blood God - Insanity has no cooldown.

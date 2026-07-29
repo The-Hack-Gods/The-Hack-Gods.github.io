@@ -1,35 +1,15 @@
 ### **Actives:**
 
-Unskilled Attack - Select a node, white or green. Leaves a log.
+Harden Node (Very High, +1 Wanted Level) - Select a white node, heal the node by 5 HP. Leaves a log.
 
-Hack Target (Very High) - Select a white node and attempt to hack it. Leaves a log.
+Firewall Layer (2 charges, +2 Wanted Level) - Select a layer, healing 5 HP on this layer. Do not leave a log.
 
-Denial of Service (2 charges) - Select a white or green node and block all connections to the node this night. Do not leave a log.
+Denial of Service (2 charges) - Select a white or green node and block all connections to the node this night. Do not leave a log. Using this ability on a white node will gain +2 Wanted Level.
 
-Encrypt Intel - Select a green node and attempt to erase intel from it. If there is intel, and you remove it first, you will get intel (see tips for list of intel). Goes through cover or frames. Leaves a log.
-
-<br>
-
-Altar of Heresy (50% W3C operatives left or obtained Root Access)
-
-=======================================================================
-
-Firewall Layer (D1 -> D3 cooldown, 2 charges) - Select a layer, decreasing hacking ability of getting any node on this layer. Do not leave a log.
-
-<br>
-
-Blood for the Blood God (Killed 2 operatives)
-
-=======================================================================
-
-Caesar Cipher (1 charge) - Select a layer, removing all intel on this layer. Do not leave a log.
-
-Midnight Meet (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. 
-
-Prepare Sprint (1 charge) - The next night you can do two different night actions.
+Prepare Sprint (1 charge) - The next night you can do two different actions.
 
 ### **Passives:**
 
-Altar of Heresy - If W3C have only 50% of your operatives left or obtained Root Access, gain these powers.
+Altar of Heresy - Prepare Sprint has 1 more charge.
 
-Blood for the Blood God - If 2 operatives died this Opsec, gain these powers.
+Blood for the Blood God - Firewall Layer has 1 more charge.

@@ -196,6 +196,8 @@ Image Classification (2 charges) - Select an operative. Predict what they will d
 
 Drone Reconnaissance - Select a target operative. Learn the exact ability they use tonight. If they did nothing, say they did nothing. Visit the operative.
 
+Blackmail (2 charges) - Select a target operative. Give you their role. Visit and occupy them.
+
 ### **Defensive Field Ops:**
 
 Escort - Escort a target operative, protecting the operative from arrests and murders. Arrest attempts will arrest this operative instead, and anyone attempting to murder the protected operative will be killed. Visit and occupy them.
@@ -221,6 +223,8 @@ Entertain (2 charges) - Occupy all operatives that have been given entertainment
 Setup (2 charges) - Select two operatives. The first operative will visit and occupy the second operative, occupying and revealing both operatives. You may be the first target. Visits the first operative.
 
 Redirection (2 charges) - Select two target operatives, all skills used on the first operative will be used on the second operative, works similar to Throw Under the Bus.
+
+Glimpse (2 charges) - Select a target operative, any operative targeting action will be done on themselves, but they will not know about it. Visit them.
 
 Bouncer (3 charges) - Select a target operative. You will visit and occupy them like a Midnight Meet, and anyone who visits them will be occupied, like a Misdirection.
 
@@ -259,6 +263,8 @@ Overdose Immediately (2 charges) - Select a target operative. Sell them intense 
 Insanity (1 night cooldown) - Select two target operatives. The first operative will go insane and attempt to disorganized murder the second operative. Visit and occupy them.
 
 Sell Illicit Arms (+1 Wanted Level) - Select a target operative. If they do not have access to the skill Disorganized Murder, give them 1 charge of Disorganized Murder the following night. This charge of Disorganized Murder is removed if it is not used the night it is given. Visit them.
+
+Ambush (2 charges, +1 Wanted Level) - Select a target operative. Attempt to murder anyone who visits them. Visit them.
 
 Citizen's Arrest (2 charges, +1 Wanted Level) - Select a target operative and arrest them. Visit them.
 
@@ -522,6 +528,10 @@ Turncoats - You are allowed to have Initiators, Specialists, and Operators.
 
 Animal Lover - Operatives love you, they will stop to pet your animals even at the expense of the hack. Visiting your fellow Fed operatives that are supported by an ability at night will occupy the operatives that visit the supported Fed operative.
 
+Altar of Heresy - If W3C have only 50% of your operatives left, gain these powers.
+
+Blood for the Blood God - If 50% of all operatives died this Opsec, gain these powers.
+
 ### **Probably needs rework (actives):**
 
 Contact Law Enforcement (3 charges) - Select a target operative. If they are a Fed, learn their role, they will learn yours. Visit them.
@@ -639,32 +649,6 @@ Double Strafe (0 charges) - Select two target operatives and murder them and any
 Fake Flares (2 charges) - Select a target operative and shoot fake flares at them. It is globally announced that a Jet Fighter is seen going to the operative’s hideout.
 
 Fly Over - Select a target operative and fly over them, visiting them and checking if they left their hideout and met anyone. If they were occupied, you’d only know that they could not leave their hideout. It is globally announced that a Jet Fighter is seen going to the operative’s hideout.
-
-### **Paragon or W3C:**
-
-Sacrificial Shot - Select a target operative and guess their role. If you guess right, shoot the target operative. Removes all frames and covers.
-
-Blackmail (3 charges) - Select a target operative. They cannot vote for two phases.
-
-Ambush (2 charges) - Select a target operative. Attempt to murder anyone who visits them. Visit them.
-
-Install Sound Trap (D1 -> D3 cooldown, 2 charges) - Selects a target operative and places a trap on the operative. The trap is not destroyed upon moving hideout or getting escorted, staying on the target. Visit the target.
-
-Glimpse (N1 -> N3 cooldown) - Select a target operative, any operative targeting action will be done on themselves, but they will not know about it. Visit them.
-
-Elaborative Meet (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack and knowledge of graphs. 
-
-Graph Theory Lecture (1 charge) - Occupy all operatives that have been given knowledge of graphs previously with Elaborative Meet.
-
-Paragon Secret Codeword - Select a target operative, if a target is Paragon, let you know their role. Goes through cover or frames. Visit them.
-
-Altar of Heresy - If W3C have only 50% of your operatives left or obtained Root Access, gain these powers.
-
-Blood for the Blood God - If 2 operatives died this Opsec, gain these powers.
-
-Last Ditch Attempt - If the W3C Leader is arrested, you will be arrested instead of the W3C Leader.
-
-Perform Trap Surveillance - Passively see who visits the target operatives that the traps are attached to.
 
 ### **Probably Needs Rework (passives):**
 

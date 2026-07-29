@@ -1,35 +1,15 @@
 ### **Actives:**
 
-Hack Target (Very High) - Select a white node and attempt to hack it. Leaves a log.
+Harden Node (Very High, +1 Wanted Level) - Select a white node, heal the node by 5 HP. Leaves a log.
+
+Information Retrieval - Search the web and scrape the web for intel. Finds if there is intel on currently hacked nodes. Do not leave a log.
 
 Node prediction (2 charges) - Select a white node. You always predict correctly, so you get information about whether the next node is a laptop or a server, and if it has intel.
 
-Random Graph Models (D1 -> D4 cooldown) - Reveal the next layer in the topology to yourself, and if the layer has intel upon hacking to it.
-
-Move Hideout (1 charge) - Move your hideout, protecting yourself unless you are occupied.
-
-Elaborative Meet (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack and knowledge of graphs. 
-
-Graph Theory Lecture (1 charge) - Occupy all operatives that have been given knowledge of graphs previously with Elaborative Meet.
-
-<br>
-
-Altar of Heresy (50% W3C operatives left or obtained Root Access)
-
-=======================================================================
-
-Graph Theory Lecture has 2 more charges now.
+Random Graph Models (2 charges) - Reveal the next layer in the topology to yourself.
 
 ### **Passives:**
 
-Altar of Heresy - If W3C have only 50% of your operatives left or obtained Root Access, gain these powers.
+Altar of Heresy - Node Prediction has 2 more charges.
 
-Blood for the Blood God - If 2 operatives died this Opsec, gain these powers.
-
-<br>
-
-Blood for the Blood God (Killed 2 operatives)
-
-=======================================================================
-
-Node Prediction - You know which nodes can be downloaded for intel.
+Blood for the Blood God - Random Graph Models has 2 more charges.

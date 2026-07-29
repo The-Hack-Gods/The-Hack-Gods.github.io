@@ -8,4 +8,4 @@ Shitpost on Social Media - Select an operative. Give that operative some motivat
 
 ### **Passives:**
 
-None.
+People Person - You know how to navigate the sausage fest of a Hacking group. If you are occupied, continue to do your action.
