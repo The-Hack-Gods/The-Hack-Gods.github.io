@@ -48,10 +48,10 @@ nav:
         - Founder of Agent: rules/wincons/fed/FounderOfAgent.md
       - W3C: rules/wincons/w3c.md
       - W3C Leaders:
-        - W3C Leader: rules/wincons/fed/W3CLeader.md
+        - W3C Leader: rules/wincons/w3c/W3CLeader.md
       - Paragon: rules/wincons/paragon.md
       - Paragon Leaders:
-        - Paragon Leader: rules/wincons/fed/ParagonLeader.md
+        - Paragon Leader: rules/wincons/paragon/ParagonLeader.md
     - Role Lists:
       - Simplified Role List: rules/rolelists/simplifiedrolelist.md
       - Core Role List: rules/rolelists/corerolelist.md
