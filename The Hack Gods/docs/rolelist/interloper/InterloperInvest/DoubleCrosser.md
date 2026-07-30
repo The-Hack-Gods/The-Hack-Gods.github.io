@@ -6,7 +6,7 @@ Review TCP Packets (2 charges) - Select a target operative and check if they use
 
 Wiretap - Select a target operative. Check the operative's outgoing and ingoing communications to check what their current night action is. Visit them.
 
-Obtain Evidence - Select a target operative. Visit and occupy them, talking about the hack. Gain some intel, similar to Download Intel, getting intel (see tips for list of intel).
+Obtain Evidence - Select a target operative. Visit and occupy them, revealing your identity. Gain some intel, similar to Download Intel, getting intel (see tips for list of intel).
 
 Turn Yourself In - Select a target operative and guess their role. If you guess right, they get arrested no matter what, no matter the alignment. You are also arrested too.
 

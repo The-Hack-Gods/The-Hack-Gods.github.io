@@ -1,6 +1,6 @@
 ### **Actives:**
 
-Check Version Control - Select a green node and figure out the highest hacking percentage that touched this node. Leaves a log.
+Check Version Control - Select a green node and figure out the highest hacking stage that touched this node. Leaves a log.
 
 Manage Tickets - Select a target operative and check if they did anything to the topology today.
 
