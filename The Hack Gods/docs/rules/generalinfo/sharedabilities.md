@@ -120,8 +120,6 @@ Algorithmic Connections (-1 Wanted Level) - Select a white or green node. If rol
 
 Log Analysis - Select a green node and clear any fake logs from Alter Logs or Rollback. Leaves a log.
 
-Moderate Operation - Remove all fake logs from Alter Logs or Rollback in the entire topology.
-
 Review Connection Logs (2 charges) - Selects a target operative. Check if their connection was altered through Jam Network the previous night. Visit them.
 
 Wireshark (2 charges) - Tells you the name of any operative that did a Denial of Service.
@@ -208,6 +206,10 @@ Blackmail (2 charges) - Select a target operative. Give you their role. Visit an
 
 Contact Law Enforcement (3 charges) - Select a target operative. If they are a Fed, learn their role, they will learn yours. Visit them.
 
+Tip Off - Give Feds all intel gained from last night.
+
+Moderate Operation - Tonight, all investigative abilities will be blocked. Occupy anyone using an investigative ability.
+
 ### **Defensive Field Ops:**
 
 Escort - Escort a target operative, protecting the operative from arrests and murders. Arrest attempts will arrest this operative instead, and anyone attempting to murder the protected operative will be killed. Visit and occupy them.
@@ -275,6 +277,8 @@ Insanity (1 night cooldown) - Select two target operatives. The first operative 
 Sell Illicit Arms (+1 Wanted Level) - Select a target operative. If they do not have access to the skill Disorganized Murder, give them 1 charge of Disorganized Murder the following night. This charge of Disorganized Murder is removed if it is not used the night it is given. Visit them.
 
 Ambush (2 charges, +1 Wanted Level) - Select a target operative. Attempt to murder anyone who visits them. Visit them.
+
+Murder Assassin (1 charge, +1 Wanted Level) - Select a target operative. If the target has the ability to Assassinate, visit, occupy, and murder them. Otherwise, do nothing.
 
 Murder Journalist (1 charge, +1 Wanted Level) - Select a target operative. If the target is a journalist, paragon journalist, sympathetic reporter, or persuaded news reporter, visit, occupy, and murder them. Otherwise, do nothing.
 
@@ -476,8 +480,6 @@ True Sight - All investigative abilities go through frames.
 
 Ghost in the System - You don't leave connection logs upon interacting with the topology.
 
-Worship Me - Upon arrest or murder, every operative gets a hacking ability increase by one stage.
-
 People Person - You know how to navigate the sausage fest of a Hacking group. If you are occupied, continue to do your action.
 
 Unstable Mind - Any successful arrest grants an extra charge of the arresting ability to the arrester.
@@ -546,72 +548,40 @@ Animal Lover - Operatives love you, they will stop to pet your animals even at t
 
 Waxmart Employee - Get cheap hardware for free, allowing you to give infinite hardware out.
 
+Ground Operative - Specialization is always shown as field ops.
+
+Assassin's Creed - Assassinate can be used twice per night.
+
+Together Strong (2 charges) - If you die, kill a select operative, rename yourself to the other operative's name, and continue on.
+
+Hardcoded Routing Procedures - You will gain access to the exact role of all infected operatives.
+
+Rare Sighting - Every night movement you make will be globally announced.
+
 Altar of Heresy - If W3C have only 50% of your operatives left, gain these powers.
 
 Blood for the Blood God - If 50% of all operatives died this Opsec, gain these powers.
 
 ### **Probably needs rework (actives):**
 
-False Alarm (N1 -> N3 cooldown) - Select a target operative. Occupy the operative without visiting them, as they will be alarmed by the ordnance you launch at their hideout. Marks their hideout. Gives the same text as Midnight Meet.
-
 Mark Target - Select a target operative and mark their hideout. Visit the target.
 
 KABOOM! - Kill all operatives that have been marked.
 
-Hold Hostage - Select a target operative and hold their family hostage, visiting and occupying them. The operative will be forced to murder someone of your choice or die. The operative sent to murder the other operative cannot be occupied, and the selected operative will visit the target and murder them. Cannot repeatedly use this on the same operative.
+Psychopath's Murder (+1 Wanted Level) - Select a target operative and hold their family hostage, visiting and occupying them. The operative will be forced to murder someone of your choice or die. The operative sent to murder the other operative cannot be occupied, and the selected operative will visit the target and murder them.
 
-Psychopath’s Murder - Select an operative and murder them. Visit the target and remove their logs and role.
+To the Arena (1 night cooldown, +3 Wanted Level) - Select up to four operatives. Each of these operatives will be occupied and put in a battle to the death, with only one operative that can make it out. The order of winning the battle is as follows: Interlopers > Feds > W3C > Paragon > Hacker, and Special > Field Ops > Social > Investigative > Utility > Offensive. A tie will result in all dying. Each operative will be occupied and death is not dodgeable. Do not visit them.
 
-Day Off (N1 -> N3 cooldown) - If you think that the operative getting voted is not someone that should die, don’t kill them. Unfortunately, you gotta get paid, so you have to kill once in a while. If The Assassin has been triggered, this ability is disabled.
+Beeg Problem (+1 Wanted Level) - Select an operative. Kill and arrest them at the same time. Visit them.
 
-Redirect Vote (2 charges) - If you would rather kill someone else, use a charge to kill that other operative instead of the operative getting voted. The other operative must have at least 1 vote.
+Application Layer Attack - Select a white or green node. Up to 2 random operatives who targeted this node today will be infected.
 
-My Aim is True - Select any number of target operatives and guess all their roles. If you guess right, shoot the target operative tonight. Removes all frames and covers. Cannot guess more than two of the same role in a single phase.
+Infect Operative - Select a target operative. Visit and occupy them, talking about the hack and infecting their hardware.
 
-To the Arena (N1 -> N4 cooldown) - Select up to four operatives. Each of these operatives will be occupied and put in a battle to the death, with only one operative that can make it out. The order of winning the battle is as follows: Neutrals > Agents > W3C > Paragon > Netsec, and Special > Field Ops > Social > Investigative > Utility > Offensive. A tie will result in all dying. Each operative will be occupied and death is not dodgeable. Do not visit them.
-
-Beeg Problem (D1 -> D3 cooldown) - Select a white node and attempt to hack it. However, it is a beeg problem and you can’t hack it. Does absolutely nothing but leaves a log.
-
-Plumb Node (D1 -> D3 cooldown) - Select a green node and attempt to plumb it. Does absolutely nothing but leaves a log.
-
-Uninstall Untrusted (D1 -> D3 cooldown) - Select a target operative and disable all night actions related to the topology done by them.
-
-Italian Greeting - Select a target operative and visit them. Does not gain any intel.
-
-Mafia Meet (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. 
-
-They Eat Pineapple Pizza - Select a target operative. Attempt to kill the operative with local mafia. Visit them.
-
-Application Layer Attack (2 charges) - Select a white or green node and block all connections to the node this night. Up to 2 random operatives who targeted this node today will be infected.
-
-Worm Attack - Select a target operative that has been infected. You can see the operative’s action space and choose what that operative does today. Cannot repeatedly use this on the same operative. RENAME THIS
-
-Infect Operative - Select a target operative. Visit and occupy them, talking about the hack and infecting their hardware. (Works like Midnight Meet).
-
-Expunge Hacker - Select a green node and kill the operative that hacked the node.
-
-Activate Project Havoc (N1 -> N3 cooldown, 2 charges) - Kill all infected operatives at night.
-
-Rearm Missiles (2 charges) - Gain a charge of Double Strafe.
+Activate Project Havoc (+3 Wanted Level) - Kill all infected operatives at night.
 
 Electronic Countermeasures (2 charges) - Next phase will not announce any movement globally except that you have used Electronic Countermeasures.
 
-Strafe - Select a target operative and murder them and anyone who visits them. Visit them and go through all defensive abilities. It is globally announced that a Jet Fighter is seen going to the operative’s hideout.
+Fake Flares (2 charges) - Select a target operative and shoot fake flares at them. It is globally announced that a Jet Fighter is seen going to the operative's hideout, instead of where you went.
 
-Double Strafe (0 charges) - Select two target operatives and murder them and anyone who visits them. Visit them and go through all defensive abilities. It is globally announced that a Jet Fighter is seen going to one of the operatives’ hideouts.
-
-Fake Flares (2 charges) - Select a target operative and shoot fake flares at them. It is globally announced that a Jet Fighter is seen going to the operative’s hideout.
-
-Fly Over - Select a target operative and fly over them, visiting them and checking if they left their hideout and met anyone. If they were occupied, you’d only know that they could not leave their hideout. It is globally announced that a Jet Fighter is seen going to the operative’s hideout.
-
-### **Probably Needs Rework (passives):**
-
-Ground Operative - Specialization is always shown as field ops or utility, you pick.
-
-The Assassin - You were hired to be the one to remove threats that are voted out, but you won’t kill yourself. The Operation Leader will hire a new assassin to kill you the next time you are voted out though.
-
-Together Strong - You can die or get arrested, but your deaths and arrests are not public, and you simply change your operative name after the next night to a name of your choice (or not changed). You cannot die unless you get voted out.
-
-Hardcoded Routing Procedures - You will gain access to the exact role of all infected operatives.
-
-Rare Sighting - Every night movement you make will be globally announced.
+Strafe (+2 Wanted Level) - Select a target operative and murder them and anyone who visits them. Visit them and go through all defensive abilities. It is globally announced that a Jet Fighter is seen going to the operative's hideout.

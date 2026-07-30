@@ -12,4 +12,4 @@ Contact Law Enforcement (3 charges) - Select a target operative. If they are a F
 
 Hidden Connections - If you are murdered, the player that killed you will be arrested.
 
-Runaway Operative (1 charge) - After 3 nights, if no Feds were killed, automatically turn into a Fed Whitehat.
+Runaway Operative (1 charge) - After 3 nights, if no Feds were killed, automatically turn into a Blackhat.

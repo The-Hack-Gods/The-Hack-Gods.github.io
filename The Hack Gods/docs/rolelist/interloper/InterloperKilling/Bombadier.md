@@ -1,16 +1,10 @@
 ### **Actives:**
 
-Unskilled Attack - Select a node, white or green. Leaves a log.
+Unskilled Attack (-1 Wanted Level) - Select a node, white or green. Leaves a log.
 
-Jam Network (2 charges) - Select a target operative and disable all night actions related to the topology done by them.
+Plant Fake Info (-1 Wanted Level) - Disables any use of Dumpster Dive.
 
-Plant Fake Info - Decreases hacking ability on a random node.
-
-Signal Flare (3 charges) - If you are attempted to be arrested tonight, whoever attempted to arrest you will be announced to you. Marks the target. Will avoid the arrest as an additional charge to Raid Boss.
-
-False Alarm (N1 -> N3 cooldown) - Select a target operative. Occupy the operative without visiting them, as they will be alarmed by the ordnance you launch at their hideout. Marks their hideout. Gives the same text as Midnight Meet.
-
-Mark Target - Select a target operative and mark their hideout. Visit the target.
+Mark Target - Select a target operative and mark their hideout.
 
 KABOOM! - Kill all operatives that have been marked.
 
@@ -18,4 +12,6 @@ KABOOM! - Kill all operatives that have been marked.
 
 Raid Boss - Avoid the first two arrest or murder attempts on you.
 
-Ground Operative - Specialization is always shown as field ops or utility, you pick.
+Ground Operative - Specialization is always shown as field ops.
+
+Liar, Liar - You use a fake claim and lie about what you do.

@@ -11,3 +11,5 @@ Bouncer (3 charges) - Select a target operative. You will visit and occupy them 
 ### **Passives:**
 
 Rent Free - Avoid the first arrest attempt and murder attempt on you.
+
+Runaway Operative (1 charge) - After 3 nights, if no Feds were killed, automatically turn into an Enforcer.

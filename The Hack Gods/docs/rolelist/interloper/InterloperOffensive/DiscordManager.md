@@ -6,10 +6,8 @@ Vibe Code (-1 Wanted Level) - Select a white node and randomly use a low ability
 
 Troll Operative (2 charges) - Permanently rename another operative to whatever name you want.
 
-Moderate Operation - Remove all fake logs from Alter Logs or Rollback in the entire topology.
-
-Turn Yourself In - Select a target operative and guess their role. If you guess right, they get arrested no matter what, no matter the alignment. You are also arrested too.
+Moderate Operation - Tonight, all investigative abilities will be blocked. Occupy anyone using an investigative ability.
 
 ### **Passives:**
 
-None.
+Liar, Liar - You use a fake claim and lie about what you do.

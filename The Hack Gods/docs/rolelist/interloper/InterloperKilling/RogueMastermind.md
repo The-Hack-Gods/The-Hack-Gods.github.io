@@ -1,25 +1,19 @@
 ### **Actives:**
 
-Hack Target (Very High) - Select a white node and attempt to hack it. Leaves a log.
+Harden Node (Very High, +1 Wanted Level) - Select a white node, heal the node by 5 HP. Leaves a log.
 
-Application Layer Attack (2 charges) - Select a white or green node and block all connections to the node this night. Up to 2 random operatives who targeted this node today will be infected.
+Application Layer Attack - Select a white or green node. Up to 2 random operatives who targeted this node today will be infected.
 
-Worm Attack - Select a target operative that has been infected. You can see the operative’s action space and choose what that operative does today. Cannot repeatedly use this on the same operative.
+Infect Operative - Select a target operative. Visit and occupy them, talking about the hack and infecting their hardware.
 
-Hack Private Channel (2 charges) - You can write one message to talk to all players in ASC or W3C channels, speaking directly to only Agent and/or W3C players, which appears next night.
-
-Activate Project Havoc (D1 -> D3 cooldown, 2 charges) - Kill all infected operatives at night.
-
-Infect Operative - Select a target operative. Visit and occupy them, talking about the hack and infecting their hardware. (Works like Midnight Meet).
-
-Expunge Hacker - Select a green node and kill the operative that hacked the node.
-
-Activate Project Havoc (N1 -> N3 cooldown, 2 charges) - Kill all infected operatives at night.
+Activate Project Havoc (+3 Wanted Level) - Kill all infected operatives at night.
 
 ### **Passives:**
 
+Raid Boss - Avoid the first two arrest or murder attempts on you.
+
 Hardcoded Routing Procedures - You will gain access to the exact role of all infected operatives.
 
-Mastermind’s Cover - You can select any role to cover yourself, which lasts until night 2.
+Ghost in the System - You don't leave connection logs upon interacting with the topology.
 
-Raid Boss - Avoid the first two arrest or murder attempts on you.
+Liar, Liar - You use a fake claim and lie about what you do.

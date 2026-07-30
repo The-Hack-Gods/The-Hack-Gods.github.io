@@ -1,17 +1,15 @@
 ### **Actives:**
 
-Beeg Problem (D1 -> D3 cooldown) - Select a white node and attempt to hack it. However, it is a beeg problem and you can’t hack it. Does absolutely nothing but leaves a log.
+Unskilled Attack (-1 Wanted Level) - Select a node, white or green. Leaves a log.
 
-Plumb Node (D1 -> D3 cooldown) - Select a green node and attempt to plumb it. Does absolutely nothing but leaves a log.
+Looking for an Old Friend - Select a target operative, if they are a special subclass or leading Fed, you will know. Goes through lies. Visit them.
 
-Uninstall Untrusted (D1 -> D3 cooldown) - Select a target operative and disable all night actions related to the topology done by them.
+Sniff-out - Select a target operative. If the operative is a drug dealer or has the potential to murder or disorganized murder in any way, let you know. Visit them.
 
-Italian Greeting - Select a target operative and visit them. Does not gain any intel.
-
-Mafia Meet (N1 -> N3 cooldown) - Select a target operative. Visit and occupy them, talking about the hack. 
-
-They Eat Pineapple Pizza - Select a target operative. Attempt to kill the operative with local mafia. Visit them.
+Beeg Problem (+1 Wanted Level) - Select an operative. Kill and arrest them at the same time. Visit them.
 
 ### **Passives:**
 
-Together Strong - You can die or get arrested, but your deaths and arrests are not public, and you simply change your operative name after the next night to a name of your choice (or not changed). You cannot die unless you get voted out.
+Together Strong (2 charges) - If you die, kill a select operative, rename yourself to the other operative's name, and continue on.
+
+Liar, Liar - You use a fake claim and lie about what you do.
